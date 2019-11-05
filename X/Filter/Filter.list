@@ -1,6 +1,5 @@
 # > Other
 DOMAIN-SUFFIX,v2ex.com,DIRECT
-DOMAIN,asus.router.com,DIRECT
 
 # > PayPal
 USER-AGENT,PayPal*,DIRECT
