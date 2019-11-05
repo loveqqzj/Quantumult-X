@@ -1,15 +1,11 @@
-# > Speedtest by Ookla
-USER-AGENT,SpeedTest*,Speedtest
-DOMAIN-KEYWORD,speedtest,Speedtest
-DOMAIN,speedtest.macpaw.com,Speedtest
-DOMAIN-SUFFIX,speedtest.net,Speedtest
-DOMAIN-SUFFIX,netspeedtestmaster.com,Speedtest
+# > Other
+DOMAIN-SUFFIX,v2ex.com,DIRECT
 
 # > PayPal
-USER-AGENT,PayPal*,PayPal
-DOMAIN-KEYWORD,paypal,PayPal
-DOMAIN-SUFFIX,paypal.com,PayPal
-DOMAIN-SUFFIX,paypalobjects.com,PayPal
+USER-AGENT,PayPal*,DIRECT
+DOMAIN-KEYWORD,paypal,DIRECT
+DOMAIN-SUFFIX,paypal.com,DIRECT
+DOMAIN-SUFFIX,paypalobjects.com,DIRECT
 
 # > AdGuard
 DOMAIN-SUFFIX,adguard.com,AdGuard
