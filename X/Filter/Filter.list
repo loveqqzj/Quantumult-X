@@ -1,4 +1,7 @@
-# > Other
+# > AdGuard
+DOMAIN-SUFFIX,adguard.com,AdGuard
+
+# > V2ex
 DOMAIN-SUFFIX,v2ex.com,DIRECT
 
 # > PayPal
@@ -6,9 +9,6 @@ USER-AGENT,PayPal*,DIRECT
 DOMAIN-KEYWORD,paypal,DIRECT
 DOMAIN-SUFFIX,paypal.com,DIRECT
 DOMAIN-SUFFIX,paypalobjects.com,DIRECT
-
-# > AdGuard
-DOMAIN-SUFFIX,adguard.com,AdGuard
 
 # > 1Password
 DOMAIN-SUFFIX,1password.com,DIRECT
@@ -31,16 +31,10 @@ DOMAIN,officecdn-microsoft-com.akamaized.net,DIRECT
 
 # > OneDrive
 USER-AGENT,OneDrive*,DIRECT
-DOMAIN-SUFFIX,1drv.ms,DIRECT
-DOMAIN-SUFFIX,1drv.com,DIRECT
-DOMAIN,oneclient.sfx.ms,DIRECT
 DOMAIN,gate.hockeyapp.net,DIRECT
 DOMAIN-SUFFIX,onedrive.com,DIRECT
 USER-AGENT,OneDriveiOSApp*,DIRECT
-DOMAIN-SUFFIX,storage.msn.com,DIRECT
-DOMAIN-SUFFIX,storage.live.com,DIRECT
-DOMAIN-SUFFIX,livefilestore.com,DIRECT
-DOMAIN-SUFFIX,blob.core.windows.net,DIRECT
+DOMAIN-SUFFIX,onedrive.live.com,PROXY
 
 # > Outlook
 DOMAIN,smtp.office365.com,DIRECT
@@ -48,6 +42,10 @@ DOMAIN-SUFFIX,outlook.com,DIRECT
 DOMAIN,outlook.office365.com,DIRECT
 DOMAIN,imap-mail.outlook.com,DIRECT
 DOMAIN,smtp-mail.outlook.com,DIRECT
+
+# > Github
+DOMAIN-SUFFIX,github.com,PROXY
+DOMAIN-SUFFIX,raw.githubusercontent.com,PROXY
 
 # > Apple
 IP-CIDR,17.0.0.0/8,DIRECT
@@ -71,9 +69,8 @@ DOMAIN-SUFFIX,ipv6-test.com,DIRECT
 DOMAIN-SUFFIX,test-ipv6.com,DIRECT
 DOMAIN-SUFFIX,whatismyip.com,DIRECT
 
-# > Youtube
-USER-AGENT,com.google.ios.youtube*,Proxy
-USER-AGENT,YouTube*,Proxy
-DOMAIN-SUFFIX,googlevideo.com,Proxy
-DOMAIN-SUFFIX,youtube.com,Proxy
-DOMAIN,youtubei.googleapis.com,Proxy
+# > Google
+DOMAIN,dl.google.com,DIRECT
+DOMAIN,mtalk.google.com,DIRECT
+DOMAIN,translate.google.cn,PROXY
+DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
