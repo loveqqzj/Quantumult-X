@@ -1,6 +1,6 @@
 # > Speedtest by Ookla
-# DOMAIN-SUFFIX,speedtest.net,Speedtest
-DOMAIN-SUFFIX,netspeedtestmaster.com,Speedtest
-DOMAIN,speedtest.macpaw.com,Speedtest
 USER-AGENT,SpeedTest*,Speedtest
 DOMAIN-KEYWORD,speedtest,Speedtest
+DOMAIN,speedtest.macpaw.com,Speedtest
+DOMAIN-SUFFIX,speedtest.net,Speedtest
+DOMAIN-SUFFIX,netspeedtestmaster.com,Speedtest
