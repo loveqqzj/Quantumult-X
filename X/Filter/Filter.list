@@ -5,10 +5,10 @@ DOMAIN-SUFFIX,adguard.com,AdGuard
 DOMAIN-SUFFIX,v2ex.com,DIRECT
 
 # > PayPal
-USER-AGENT,PayPal*,DIRECT
-DOMAIN-KEYWORD,paypal,DIRECT
-DOMAIN-SUFFIX,paypal.com,DIRECT
-DOMAIN-SUFFIX,paypalobjects.com,DIRECT
+USER-AGENT,PayPal*,PayPal
+DOMAIN-KEYWORD,paypal,PayPal
+DOMAIN-SUFFIX,paypal.com,PayPal
+DOMAIN-SUFFIX,paypalobjects.com,PayPal
 
 # > 1Password
 DOMAIN-SUFFIX,1password.com,DIRECT
@@ -69,8 +69,11 @@ DOMAIN-SUFFIX,ipv6-test.com,DIRECT
 DOMAIN-SUFFIX,test-ipv6.com,DIRECT
 DOMAIN-SUFFIX,whatismyip.com,DIRECT
 
-# > Google
+# > Google直连站点
 DOMAIN,dl.google.com,DIRECT
 DOMAIN,mtalk.google.com,DIRECT
-DOMAIN,translate.google.cn,PROXY
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+
+# > Google
+DOMAIN-KEYWORD,google,PROXY
+DOMAIN,translate.google.cn,PROXY
