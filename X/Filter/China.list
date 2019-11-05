@@ -1,0 +1,52 @@
+# > 1Password
+DOMAIN-SUFFIX,1password.com.com,DIRECT
+DOMAIN-SUFFIX,1passwordusercontent.com.com,DIRECT
+
+# > Microsoft
+DOMAIN-SUFFIX,live.com,DIRECT
+DOMAIN-SUFFIX,live.net,DIRECT
+DOMAIN-SUFFIX,skype.com,DIRECT
+DOMAIN-SUFFIX,msecnd.net,DIRECT
+DOMAIN-SUFFIX,windows.com,DIRECT
+DOMAIN-SUFFIX,hotmail.com,DIRECT
+DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,office365.com,DIRECT
+DOMAIN-SUFFIX,s-microsoft.com,DIRECT
+DOMAIN-SUFFIX,visualstudio.com,DIRECT
+DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+DOMAIN,officecdn-microsoft-com.akamaized.net,DIRECT
+
+# > OneDrive
+USER-AGENT,OneDrive*,DIRECT
+DOMAIN-SUFFIX,onedrive.com,DIRECT
+USER-AGENT,OneDriveiOSApp*,DIRECT
+
+# > Outlook
+DOMAIN,smtp.office365.com,DIRECT
+DOMAIN-SUFFIX,outlook.com,DIRECT
+DOMAIN,outlook.office365.com,DIRECT
+DOMAIN,imap-mail.outlook.com,DIRECT
+DOMAIN,smtp-mail.outlook.com,DIRECT
+
+# > Apple
+IP-CIDR,17.0.0.0/8,DIRECT
+DOMAIN-SUFFIX,me.com,DIRECT
+DOMAIN-SUFFIX,apple.co,DIRECT
+DOMAIN-SUFFIX,apple.com,DIRECT
+DOMAIN-SUFFIX,icloud.com,DIRECT
+DOMAIN-SUFFIX,aaplimg.com,DIRECT
+DOMAIN-SUFFIX,appstore.com,DIRECT
+DOMAIN-SUFFIX,mzstatic.com,DIRECT
+DOMAIN-SUFFIX,cdn-apple.com,DIRECT
+DOMAIN-SUFFIX,crashlytics.com,DIRECT
+DOMAIN-SUFFIX,icloud-content.com,DIRECT
+DOMAIN,www-cdn.icloud.com.akadns.net,DIRECT
+
+# > IP Query
+DOMAIN-SUFFIX,ip.la,DIRECT
+DOMAIN-SUFFIX,ipip.net,DIRECT
+DOMAIN-SUFFIX,ip-cdn.com,DIRECT
+DOMAIN-SUFFIX,ipv6-test.com,DIRECT
+DOMAIN-SUFFIX,test-ipv6.com,DIRECT
+DOMAIN-SUFFIX,whatismyip.com,DIRECT
