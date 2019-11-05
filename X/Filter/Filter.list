@@ -31,10 +31,17 @@ DOMAIN-SUFFIX,microsoftonline.com,DIRECT
 DOMAIN,officecdn-microsoft-com.akamaized.net,DIRECT
 
 # > OneDrive
-DOMAIN,gate.hockeyapp.net,DIRECT
 USER-AGENT,OneDrive*,DIRECT
+DOMAIN-SUFFIX,1drv.ms,DIRECT
+DOMAIN-SUFFIX,1drv.com,DIRECT
+DOMAIN,oneclient.sfx.ms,DIRECT
+DOMAIN,gate.hockeyapp.net,DIRECT
 DOMAIN-SUFFIX,onedrive.com,DIRECT
 USER-AGENT,OneDriveiOSApp*,DIRECT
+DOMAIN-SUFFIX,storage.msn.com,DIRECT
+DOMAIN-SUFFIX,storage.live.com,DIRECT
+DOMAIN-SUFFIX,livefilestore.com,DIRECT
+DOMAIN-SUFFIX,blob.core.windows.net,DIRECT
 
 # > Outlook
 DOMAIN,smtp.office365.com,DIRECT
@@ -64,3 +71,10 @@ DOMAIN-SUFFIX,ip-cdn.com,DIRECT
 DOMAIN-SUFFIX,ipv6-test.com,DIRECT
 DOMAIN-SUFFIX,test-ipv6.com,DIRECT
 DOMAIN-SUFFIX,whatismyip.com,DIRECT
+
+# > Youtube
+USER-AGENT,com.google.ios.youtube*,Proxy
+USER-AGENT,YouTube*,Proxy
+DOMAIN-SUFFIX,googlevideo.com,Proxy
+DOMAIN-SUFFIX,youtube.com,Proxy
+DOMAIN,youtubei.googleapis.com,Proxy
