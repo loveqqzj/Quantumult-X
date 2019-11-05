@@ -26,11 +26,11 @@ DOMAIN-SUFFIX,msecnd.net,DIRECT
 DOMAIN-SUFFIX,windows.com,DIRECT
 DOMAIN-SUFFIX,hotmail.com,DIRECT
 DOMAIN-SUFFIX,microsoft.com,DIRECT
-DOMAIN-SUFFIX,microsoft.com,DIRECT
 DOMAIN-SUFFIX,office365.com,DIRECT
 DOMAIN-SUFFIX,s-microsoft.com,DIRECT
 DOMAIN-SUFFIX,visualstudio.com,DIRECT
 DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+DOMAIN-SUFFIX,microsoftonline.com,DIRECT
 DOMAIN,officecdn-microsoft-com.akamaized.net,DIRECT
 
 # > OneDrive
