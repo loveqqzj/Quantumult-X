@@ -15,8 +15,8 @@ DOMAIN-SUFFIX,paypalobjects.com,PayPal
 DOMAIN-SUFFIX,adguard.com,AdGuard
 
 # > 1Password
-DOMAIN-SUFFIX,1password.com.com,DIRECT
-DOMAIN-SUFFIX,1passwordusercontent.com.com,DIRECT
+DOMAIN-SUFFIX,1password.com,DIRECT
+DOMAIN-SUFFIX,1passwordusercontent.com,DIRECT
 
 # > Microsoft
 DOMAIN-SUFFIX,live.com,DIRECT
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,microsoftonline.com,DIRECT
 DOMAIN,officecdn-microsoft-com.akamaized.net,DIRECT
 
 # > OneDrive
+DOMAIN,gate.hockeyapp.net,DIRECT
 USER-AGENT,OneDrive*,DIRECT
 DOMAIN-SUFFIX,onedrive.com,DIRECT
 USER-AGENT,OneDriveiOSApp*,DIRECT
