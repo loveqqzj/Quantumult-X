@@ -7,6 +7,8 @@ DOMAIN-KEYWORD,paypal,PayPal
 DOMAIN-SUFFIX,paypal.com,PayPal
 DOMAIN-SUFFIX,paypalobjects.com,PayPal
 
+# > 苏州行
+USER-AGENT,SuzhouXing*,DIRECT
 # > V2ex
 DOMAIN-SUFFIX,v2ex.com,DIRECT
 
