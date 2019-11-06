@@ -10,10 +10,6 @@ DOMAIN-SUFFIX,paypalobjects.com,PayPal
 # > V2ex
 DOMAIN-SUFFIX,v2ex.com,DIRECT
 
-# > 苏州行
-DOMAIN-SUFFIX,szxing.icitymobile.mobi,DIRECT
-DOMAIN-SUFFIX,szxing.icitymobile.com,DIRECT
-
 # > 1Password
 DOMAIN-SUFFIX,1password.com,DIRECT
 DOMAIN-SUFFIX,1passwordusercontent.com,DIRECT
