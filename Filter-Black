@@ -1,0 +1,65 @@
+[SERVER]
+
+[SOURCE]
+Self-use, filter, https://raw.githubusercontent.com/loveqqzj/Quantumult/master/Filter-Black.conf, true
+
+[BACKUP-SERVER]
+
+[SUSPEND-SSID]
+
+[POLICY]
+
+[DNS]
+
+[REWRITE]
+
+[URL-REJECTION]
+
+[TCP]
+# > AdGuard
+DOMAIN-SUFFIX,adguard.com,AdGuard去广告APP
+
+# > PayPal
+USER-AGENT,PayPal*,美区PayPal
+DOMAIN-KEYWORD,paypal,美区PayPal
+DOMAIN-SUFFIX,paypal.com,美区PayPal
+DOMAIN-SUFFIX,paypalobjects.com,美区PayPal
+
+# > Github
+DOMAIN-SUFFIX,github.com,PROXY
+DOMAIN-SUFFIX,githubapp.com,PROXY
+DOMAIN-SUFFIX,raw.githubusercontent.com,PROXY
+
+# > Google
+DOMAIN-KEYWORD,google,PROXY
+
+# > Gmail
+DOMAIN,pop.gmail.com,PROXY
+DOMAIN,imap.gmail.com,PROXY
+DOMAIN,smtp.gmail.com,PROXY
+DOMAIN-SUFFIX,gmail.com,PROXY
+
+# Local Area Network
+DOMAIN-SUFFIX,local,DIRECT
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT
+
+# GeoIP China
+GEOIP,CN,DIRECT
+# DNSPod Public DNS+
+IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
+
+FINAL, DIRECT FINAL
+
+[GLOBAL]
+SELECTED,PROXY
+
+[HOST]
+
+[STATE]
+STATE,AUTO
+
+[MITM]
