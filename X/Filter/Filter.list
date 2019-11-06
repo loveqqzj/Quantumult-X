@@ -38,7 +38,7 @@ DOMAIN-SUFFIX,s-microsoft.com,DIRECT
 DOMAIN-SUFFIX,visualstudio.com,DIRECT
 DOMAIN-SUFFIX,windowsupdate.com,DIRECT
 DOMAIN-SUFFIX,microsoftonline.com,DIRECT
-DOMAIN-SUFFI,akamaized.net,DIRECT
+DOMAIN-SUFFIX,akamaized.net,DIRECT
 
 # > OneDrive
 USER-AGENT,OneDrive*,DIRECT
