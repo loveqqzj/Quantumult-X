@@ -28,15 +28,10 @@ DOMAIN-SUFFIX,paypalobjects.com,美区PayPal
 # > Github
 DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-SUFFIX,githubapp.com,PROXY
-DOMAIN-SUFFIX,raw.githubusercontent.com,PROXY
+DOMAIN-SUFFIX,githubusercontent.com,PROXY
 
 # > Google
-DOMAIN-KEYWORD,google,PROXY
-
-# > Gmail
-DOMAIN,pop.gmail.com,PROXY
-DOMAIN,imap.gmail.com,PROXY
-DOMAIN,smtp.gmail.com,PROXY
+DOMAIN-SUFFIX,google.com,PROXY
 DOMAIN-SUFFIX,gmail.com,PROXY
 
 # Local Area Network
