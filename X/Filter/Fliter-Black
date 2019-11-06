@@ -21,6 +21,24 @@ USER-AGENT,com.google.ios.youtube*,PROXY
 USER-AGENT,YouTube*,PROXY
 DOMAIN-SUFFIX,youtube.com,PROXY
 
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com,PROXY
+DOMAIN-SUFFIX,pornhub.com,PROXY
+DOMAIN-SUFFIX,pornhubpremium.com,PROXY
+
+# > Pixiv
+DOMAIN-SUFFIX,pixiv.net,PROXY
+
+# > Facebook & Twitter
+DOMAIN-SUFFIX,instagram.com,PROXY
+DOMAIN-KEYWORD,facebook,PROXY
+DOMAIN-KEYWORD,twitter,PROXY
+
+# > Jav
+DOMAIN-SUFFIX,javbus.com,PROXY
+DOMAIN-SUFFIX,avmask.com,PROXY
+DOMAIN-SUFFIX,javlibrary.com,PROXY
+
 # > Telegram
 DOMAIN-SUFFIX,t.me,PROXY
 DOMAIN-SUFFIX,tdesktop.com,PROXY
