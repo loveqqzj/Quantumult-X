@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,paypalobjects.com,PayPal
 
 # > 苏州行
 USER-AGENT,SuzhouXing*,DIRECT
+
 # > V2ex
 DOMAIN-SUFFIX,v2ex.com,DIRECT
 
@@ -87,11 +88,6 @@ DOMAIN-SUFFIX,raw.githubusercontent.com,PROXY
 
 # > Google
 DOMAIN-KEYWORD,google,PROXY
-
-# > Gmail
-DOMAIN,pop.gmail.com,PROXY
-DOMAIN,imap.gmail.com,PROXY
-DOMAIN,smtp.gmail.com,PROXY
 DOMAIN-SUFFIX,gmail.com,PROXY
 
 # > Cloudflare
@@ -114,5 +110,6 @@ IP-CIDR,131.0.72.0/22,DIRECT
 
 # GeoIP China
 GEOIP,CN,DIRECT
+
 # DNSPod Public DNS+
 IP-CIDR,119.28.28.28/32,DIRECT
