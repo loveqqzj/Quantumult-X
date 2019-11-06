@@ -7,9 +7,6 @@ DOMAIN-KEYWORD,paypal,PayPal
 DOMAIN-SUFFIX,paypal.com,PayPal
 DOMAIN-SUFFIX,paypalobjects.com,PayPal
 
-# DNSPod Public DNS+
-IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
-
 # > V2ex
 DOMAIN-SUFFIX,v2ex.com,DIRECT
 
