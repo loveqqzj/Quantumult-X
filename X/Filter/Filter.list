@@ -5,7 +5,6 @@ DOMAIN-SUFFIX,adguard.com,AdGuard
 USER-AGENT,PayPal*,PayPal
 DOMAIN-KEYWORD,paypal,PayPal
 DOMAIN-SUFFIX,paypal.com,PayPal
-DOMAIN-SUFFIX,paypalobjects.com,PayPal
 
 # > V2ex
 DOMAIN-SUFFIX,v2ex.com,DIRECT
@@ -46,11 +45,9 @@ DOMAIN-SUFFIX,onedrive.live.com,PROXY
 DOMAIN-SUFFIX,1drv.ms,DIRECT
 DOMAIN-SUFFIX,1drv.com,DIRECT
 DOMAIN-SUFFIX,onedrive.com,DIRECT
-DOMAIN-SUFFIX,storage.live.com,DIRECT
 DOMAIN-SUFFIX,livefilestore.com,DIRECT
 
 # > Outlook
-DOMAIN-SUFFIX,office365.com,DIRECT
 DOMAIN-SUFFIX,outlook.com,DIRECT
 
 # > Apple
