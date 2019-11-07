@@ -7,9 +7,6 @@ DOMAIN-KEYWORD,paypal,PayPal
 DOMAIN-SUFFIX,paypal.com,PayPal
 DOMAIN-SUFFIX,paypalobjects.com,PayPal
 
-# > 苏州行
-USER-AGENT,SuzhouXing*,DIRECT
-
 # > V2ex
 DOMAIN-SUFFIX,v2ex.com,DIRECT
 
@@ -53,11 +50,8 @@ DOMAIN-SUFFIX,storage.live.com,DIRECT
 DOMAIN-SUFFIX,livefilestore.com,DIRECT
 
 # > Outlook
-DOMAIN,smtp.office365.com,DIRECT
+DOMAIN-SUFFIX,office365.com,DIRECT
 DOMAIN-SUFFIX,outlook.com,DIRECT
-DOMAIN,outlook.office365.com,DIRECT
-DOMAIN,imap-mail.outlook.com,DIRECT
-DOMAIN,smtp-mail.outlook.com,DIRECT
 
 # > Apple
 IP-CIDR,17.0.0.0/8,DIRECT
