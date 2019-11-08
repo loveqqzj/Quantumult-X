@@ -87,6 +87,11 @@ DOMAIN-SUFFIX,ourdvs.com,DIRECT
 DOMAIN-SUFFIX,staticdn.net,DIRECT
 DOMAIN-SUFFIX,wangsu.com,DIRECT
 
+# > DiDi
+DOMAIN-SUFFIX,didiglobal.com,DIRECT
+DOMAIN-SUFFIX,comodoca.com,DIRECT
+DOMAIN-SUFFIX,sectigo.com,DIRECT
+
 # > IP Query
 DOMAIN-SUFFIX,ip.la,DIRECT
 DOMAIN-SUFFIX,ipip.net,DIRECT
@@ -207,6 +212,17 @@ IP-CIDR,162.158.0.0/15,DIRECT
 IP-CIDR,104.16.0.0/12,DIRECT
 IP-CIDR,172.64.0.0/13,DIRECT
 IP-CIDR,131.0.72.0/22,DIRECT
+
+# > Steam
+DOMAIN-SUFFIX,steampowered.com,DIRECT
+DOMAIN-SUFFIX,steam-chat.com,DIRECT
+DOMAIN-SUFFIX,steamgames.com,DIRECT
+DOMAIN-SUFFIX,steamusercontent.com,DIRECT
+DOMAIN-SUFFIX,steamcontent.com,DIRECT
+DOMAIN-SUFFIX,steamstatic.com,DIRECT
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
+DOMAIN-SUFFIX,steamstore-a.akamaihd.net,DIRECT
+DOMAIN-SUFFIX,steamstat.us,DIRECT
 
 # China
 GEOIP,CN,DIRECT
