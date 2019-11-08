@@ -5,50 +5,11 @@ DOMAIN-SUFFIX,adguard.com,AdGuard
 USER-AGENT,PayPal*,PayPal
 DOMAIN-KEYWORD,paypal,PayPal
 DOMAIN-SUFFIX,paypal.com,PayPal
-
-# > V2ex
-DOMAIN-SUFFIX,v2ex.com,DIRECT
+DOMAIN-SUFFIX,paypalobjects.com,PayPal
 
 # > 1Password
 DOMAIN-SUFFIX,1password.com,DIRECT
 DOMAIN-SUFFIX,1passwordusercontent.com,DIRECT
-
-# > Microsoft
-DOMAIN-SUFFIX,gfx.ms,DIRECT
-DOMAIN-SUFFIX,sfx.ms,DIRECT
-DOMAIN-SUFFIX,msn.com,DIRECT
-DOMAIN-SUFFIX,live.com,DIRECT
-DOMAIN-SUFFIX,live.net,DIRECT
-DOMAIN-SUFFIX,skype.com,DIRECT
-DOMAIN-SUFFIX,msecnd.net,DIRECT
-DOMAIN-SUFFIX,msocdn.com,DIRECT
-DOMAIN-SUFFIX,msauth.net,DIRECT
-DOMAIN-SUFFIX,microsoftstore.com,DIRECT
-DOMAIN-SUFFIX,windows.com,DIRECT
-DOMAIN-SUFFIX,windows.net,DIRECT
-DOMAIN-SUFFIX,hotmail.com,DIRECT
-DOMAIN-SUFFIX,microsoft.com,DIRECT
-DOMAIN-SUFFIX,office365.com,DIRECT
-DOMAIN-SUFFIX,office.com,DIRECT
-DOMAIN-SUFFIX,s-microsoft.com,DIRECT
-DOMAIN-SUFFIX,visualstudio.com,DIRECT
-DOMAIN-SUFFIX,windowsupdate.com,DIRECT
-DOMAIN-SUFFIX,microsoftonline.com,DIRECT
-DOMAIN-SUFFIX,akamaized.net,DIRECT
-
-# > OneDrive
-USER-AGENT,OneDrive*,DIRECT
-USER-AGENT,OneDriveiOSApp*,DIRECT
-DOMAIN-SUFFIX,hockeyapp.net,DIRECT
-DOMAIN-SUFFIX,onedrive.com,DIRECT
-DOMAIN-SUFFIX,onedrive.live.com,PROXY
-DOMAIN-SUFFIX,1drv.ms,DIRECT
-DOMAIN-SUFFIX,1drv.com,DIRECT
-DOMAIN-SUFFIX,onedrive.com,DIRECT
-DOMAIN-SUFFIX,livefilestore.com,DIRECT
-
-# > Outlook
-DOMAIN-SUFFIX,outlook.com,DIRECT
 
 # > Apple
 IP-CIDR,17.0.0.0/8,DIRECT
@@ -64,6 +25,49 @@ DOMAIN-SUFFIX,crashlytics.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
 DOMAIN,www-cdn.icloud.com.akadns.net,DIRECT
 
+# > Apple天气
+DOMAIN-SUFFIX,weather.com,DIRECT
+DOMAIN-SUFFIX,s.w-x.co,DIRECT
+DOMAIN-SUFFIX,cdn.polyfill.io,DIRECT
+
+# > Microsoft
+DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,msecnd.net,DIRECT
+DOMAIN-SUFFIX,office365.com,DIRECT
+DOMAIN-SUFFIX,outlook.com,DIRECT
+DOMAIN-SUFFIX,s-microsoft.com,DIRECT
+DOMAIN-SUFFIX,visualstudio.com,DIRECT
+DOMAIN-SUFFIX,windows.com,DIRECT
+DOMAIN-SUFFIX,windows.net,DIRECT
+DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+DOMAIN-SUFFIX,akamaized.net,DIRECT
+DOMAIN-SUFFIX,xboxlive.com,PROXY
+DOMAIN-SUFFIX,live.com,DIRECT
+DOMAIN-SUFFIX,live.net,DIRECT
+DOMAIN-SUFFIX,hotmail.com,DIRECT
+DOMAIN-SUFFIX,skype.com,DIRECT
+DOMAIN-SUFFIX,hockeyapp.net,DIRECT
+
+# >> OneDrive
+USER-AGENT,OneDrive*,DIRECT
+USER-AGENT,OneDriveiOSApp*,DIRECT
+DOMAIN-SUFFIX,hockeyapp.net,DIRECT
+DOMAIN-SUFFIX,digicert.com,DIRECT
+DOMAIN-SUFFIX,1drv.com,PROXY
+DOMAIN-SUFFIX,onedrive.com,DIRECT
+DOMAIN-SUFFIX,sfx.ms,DIRECT
+DOMAIN-SUFFIX,gfx.ms,DIRECT
+DOMAIN-SUFFIX,onedrive.live.com,PROXY
+
+# > CDN
+DOMAIN-SUFFIX,ccgslb.com,DIRECT
+DOMAIN-SUFFIX,ccgslb.net,DIRECT
+DOMAIN-SUFFIX,chinanetcenter.com,DIRECT
+DOMAIN-SUFFIX,meixincdn.com,DIRECT
+DOMAIN-SUFFIX,ourdvs.com,DIRECT
+DOMAIN-SUFFIX,staticdn.net,DIRECT
+DOMAIN-SUFFIX,wangsu.com,DIRECT
+
 # > IP Query
 DOMAIN-SUFFIX,ip.la,DIRECT
 DOMAIN-SUFFIX,ipip.net,DIRECT
@@ -72,14 +76,44 @@ DOMAIN-SUFFIX,ipv6-test.com,DIRECT
 DOMAIN-SUFFIX,test-ipv6.com,DIRECT
 DOMAIN-SUFFIX,whatismyip.com,DIRECT
 
+# > PT网站
+DOMAIN-SUFFIX,awesome-hd.me,DIRECT
+DOMAIN-SUFFIX,broadcasthe.net,DIRECT
+DOMAIN-SUFFIX,chdbits.co,DIRECT
+DOMAIN-SUFFIX,classix-unlimited.co.uk,DIRECT
+DOMAIN-SUFFIX,empornium.me,DIRECT
+DOMAIN-SUFFIX,gazellegames.net,DIRECT
+DOMAIN-SUFFIX,hdchina.org,DIRECT
+DOMAIN-SUFFIX,hdsky.me,DIRECT
+DOMAIN-SUFFIX,jpopsuki.eu,DIRECT
+DOMAIN-SUFFIX,keepfrds.com,DIRECT
+DOMAIN-SUFFIX,m-team.cc,DIRECT
+DOMAIN-SUFFIX,nanyangpt.com,DIRECT
+DOMAIN-SUFFIX,ncore.cc,DIRECT
+DOMAIN-SUFFIX,open.cd,DIRECT
+DOMAIN-SUFFIX,ourbits.club,DIRECT
+DOMAIN-SUFFIX,passthepopcorn.me,DIRECT
+DOMAIN-SUFFIX,privatehd.to,DIRECT
+DOMAIN-SUFFIX,redacted.ch,DIRECT
+DOMAIN-SUFFIX,springsunday.net,DIRECT
+DOMAIN-SUFFIX,tjupt.org,DIRECT
+DOMAIN-SUFFIX,totheglory.im,DIRECT
+
+# > Other
+DOMAIN-SUFFIX,cn,DIRECT
+DOMAIN-SUFFIX,amazon.com,DIRECT
+DOMAIN-SUFFIX,vmware.com,DIRECT
+DOMAIN-SUFFIX,amd.com,DIRECT
+DOMAIN-SUFFIX,nvidia.com,DIRECT
+DOMAIN-SUFFIX,java.com,DIRECT
+DOMAIN-SUFFIX,oracle.com,DIRECT
+DOMAIN-SUFFIX,linkedin.com,DIRECT
+DOMAIN-SUFFIX,teamviewer.com,DIRECT
+
 # > Github
 DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-SUFFIX,githubapp.com,PROXY
 DOMAIN-SUFFIX,raw.githubusercontent.com,PROXY
-
-# > Google
-DOMAIN-KEYWORD,google,PROXY
-DOMAIN-SUFFIX,gmail.com,PROXY
 
 # > Cloudflare
 DOMAIN-SUFFIX,cloudflare.com,DIRECT
