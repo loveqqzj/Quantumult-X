@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,mzstatic.com,DIRECT
 DOMAIN-SUFFIX,cdn-apple.com,DIRECT
 DOMAIN-SUFFIX,crashlytics.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
-DOMAIN,www-cdn.icloud.com.akadns.net,DIRECT
+DOMAIN-SUFFIX,akadns.net,DIRECT
 
 # > Apple Weather
 DOMAIN-SUFFIX,weather.com,DIRECT
