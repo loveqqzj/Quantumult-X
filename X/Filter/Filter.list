@@ -32,7 +32,9 @@ DOMAIN-SUFFIX,cdn.polyfill.io,DIRECT
 
 # > Microsoft
 DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,microsoftonline.com,DIRECT
 DOMAIN-SUFFIX,msecnd.net,DIRECT
+DOMAIN-SUFFIX,office.com,DIRECT
 DOMAIN-SUFFIX,office365.com,DIRECT
 DOMAIN-SUFFIX,outlook.com,DIRECT
 DOMAIN-SUFFIX,s-microsoft.com,DIRECT
