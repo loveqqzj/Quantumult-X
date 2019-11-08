@@ -25,40 +25,57 @@ DOMAIN-SUFFIX,crashlytics.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
 DOMAIN,www-cdn.icloud.com.akadns.net,DIRECT
 
-# > Apple天气
+# > Apple Weather
 DOMAIN-SUFFIX,weather.com,DIRECT
 DOMAIN-SUFFIX,s.w-x.co,DIRECT
 DOMAIN-SUFFIX,cdn.polyfill.io,DIRECT
 
+# > Office
+DOMAIN-SUFFIX,office.com,DIRECT
+DOMAIN-SUFFIX,office.net,DIRECT
+DOMAIN-SUFFIX,office365.com,DIRECT
+
+# > Outlook
+DOMAIN-SUFFIX,outlook.com,DIRECT
+DOMAIN-SUFFIX,hotmail.com,DIRECT
+
+# > Xbox
+DOMAIN-SUFFIX,xboxlive.com,DIRECT
+DOMAIN-SUFFIX,xbox.com,DIRECT
+
+# > MSN
+DOMAIN-SUFFIX,msn.com,DIRECT
+DOMAIN-SUFFIX,cdn.taboola.com,DIRECT
+
 # > Microsoft
+DOMAIN-SUFFIX,aspnetcdn.com,DIRECT
+DOMAIN-SUFFIX,onestore.ms,DIRECT
 DOMAIN-SUFFIX,microsoft.com,DIRECT
 DOMAIN-SUFFIX,microsoftonline.com,DIRECT
+DOMAIN-SUFFIX,microsoftestore.com,DIRECT
+DOMAIN-SUFFIX,microsoftedgeinsider.com,DIRECT
 DOMAIN-SUFFIX,msecnd.net,DIRECT
-DOMAIN-SUFFIX,office.com,DIRECT
-DOMAIN-SUFFIX,office365.com,DIRECT
-DOMAIN-SUFFIX,outlook.com,DIRECT
+DOMAIN-SUFFIX,msocdn.com,DIRECT
+DOMAIN-SUFFIX,msauth.com,DIRECT
 DOMAIN-SUFFIX,s-microsoft.com,DIRECT
 DOMAIN-SUFFIX,visualstudio.com,DIRECT
 DOMAIN-SUFFIX,windows.com,DIRECT
 DOMAIN-SUFFIX,windows.net,DIRECT
 DOMAIN-SUFFIX,windowsupdate.com,DIRECT
 DOMAIN-SUFFIX,akamaized.net,DIRECT
-DOMAIN-SUFFIX,xboxlive.com,PROXY
 DOMAIN-SUFFIX,live.com,DIRECT
 DOMAIN-SUFFIX,live.net,DIRECT
-DOMAIN-SUFFIX,hotmail.com,DIRECT
 DOMAIN-SUFFIX,skype.com,DIRECT
 DOMAIN-SUFFIX,hockeyapp.net,DIRECT
+DOMAIN-SUFFIX,sfx.ms,DIRECT
+DOMAIN-SUFFIX,gfx.ms,DIRECT
+DOMAIN-SUFFIX,digicert.com,DIRECT
 
 # >> OneDrive
 USER-AGENT,OneDrive*,DIRECT
 USER-AGENT,OneDriveiOSApp*,DIRECT
-DOMAIN-SUFFIX,hockeyapp.net,DIRECT
-DOMAIN-SUFFIX,digicert.com,DIRECT
 DOMAIN-SUFFIX,1drv.com,DIRECT
 DOMAIN-SUFFIX,onedrive.com,DIRECT
-DOMAIN-SUFFIX,sfx.ms,DIRECT
-DOMAIN-SUFFIX,gfx.ms,DIRECT
 DOMAIN-SUFFIX,onedrive.live.com,PROXY
 
 # > CDN
@@ -78,7 +95,7 @@ DOMAIN-SUFFIX,ipv6-test.com,DIRECT
 DOMAIN-SUFFIX,test-ipv6.com,DIRECT
 DOMAIN-SUFFIX,whatismyip.com,DIRECT
 
-# > PT网站
+# > PT
 DOMAIN-SUFFIX,awesome-hd.me,DIRECT
 DOMAIN-SUFFIX,broadcasthe.net,DIRECT
 DOMAIN-SUFFIX,chdbits.co,DIRECT
@@ -105,15 +122,27 @@ DOMAIN-SUFFIX,totheglory.im,DIRECT
 DOMAIN-SUFFIX,gstatic.com,DIRECT
 
 # > Other
-DOMAIN-SUFFIX,cn,DIRECT
+DOMAIN-SUFFIX,sitegur.com,DIRECT
+DOMAIN-SUFFIX,qwant.com,DIRECT
 DOMAIN-SUFFIX,vmware.com,DIRECT
 DOMAIN-SUFFIX,nvidia.com,DIRECT
-DOMAIN-SUFFIX,java.com,DIRECT
-DOMAIN-SUFFIX,oracle.com,DIRECT
 DOMAIN-SUFFIX,linkedin.com,DIRECT
 DOMAIN-SUFFIX,teamviewer.com,DIRECT
 DOMAIN-SUFFIX,mpyit.com,DIRECT
 DOMAIN-SUFFIX,digitalcertvalidation.com,DIRECT
+
+# > Adobe
+DOMAIN-SUFFIX,adobe.com,DIRECT
+DOMAIN-SUFFIX,adobelogin.com,DIRECT
+DOMAIN-SUFFIX,typekit.use,DIRECT
+DOMAIN-SUFFIX,evidon.com,DIRECT
+DOMAIN-SUFFIX,adobe.io,DIRECT
+
+# > Oracle
+DOMAIN-SUFFIX,java.com,DIRECT
+DOMAIN-SUFFIX,oracle.com,DIRECT
+DOMAIN-SUFFIX,oraclecloud.com,DIRECT
+DOMAIN-SUFFIX,oracleimg.com,DIRECT
 
 # > Amazon
 DOMAIN-KEYWORD,amazon.com,DIRECT
@@ -126,7 +155,15 @@ DOMAIN-SUFFIX,hotjar.com,DIRECT
 DOMAIN-SUFFIX,acquia.com,DIRECT
 DOMAIN-SUFFIX,addthis.com,DIRECT
 
-# > 西数
+# > ASUS
+DOMAIN-SUFFIX,asus.com,DIRECT
+DOMAIN-SUFFIX,cdn.jice.io,DIRECT
+
+# > GIGABYTE
+DOMAIN-SUFFIX,gigabyte.com,DIRECT
+DOMAIN-SUFFIX,fontawesome.com,DIRECT
+
+# > WD
 DOMAIN-SUFFIX,wd.com,DIRECT
 DOMAIN-SUFFIX,mycloud.com,DIRECT
 DOMAIN-SUFFIX,tiqcdn.com,DIRECT
@@ -135,14 +172,14 @@ DOMAIN-SUFFIX,trustarc.com,DIRECT
 DOMAIN-SUFFIX,sandisk.com,DIRECT
 DOMAIN-SUFFIX,omtrdc.net,DIRECT
 
-# > 希捷
+# > Seagate
 DOMAIN-SUFFIX,seagate.com,DIRECT
 
-# > 群晖
+# > Synology
 DOMAIN-SUFFIX,synology.com,DIRECT
 DOMAIN,cdn.livechatinc.com,DIRECT
 
-# > 三星
+# > Samsung
 DOMAIN-SUFFIX,demdex.net,DIRECT
 DOMAIN-SUFFIX,adobedtm.com,DIRECT
 
@@ -169,8 +206,9 @@ IP-CIDR,104.16.0.0/12,DIRECT
 IP-CIDR,172.64.0.0/13,DIRECT
 IP-CIDR,131.0.72.0/22,DIRECT
 
-# GeoIP China
+# China
 GEOIP,CN,DIRECT
+DOMAIN-SUFFIX,cn,DIRECT
 
 # DNSPod Public DNS+
 IP-CIDR,119.28.28.28/32,DIRECT
