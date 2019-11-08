@@ -1,3 +1,13 @@
+# > 12306
 HOST-SUFFIX,res.mall.10010.cn,REJECT
+
+# > Baidu
 HOST-SUFFIX,bdstatic.com,REJECT
+
+# > Apple
 HOST-SUFFIX,crashlytics.com,RRJECT
+
+# > Google
+HOST-SUFFIX,gstatic.com,REJECT
+
+HOST-SUFFIX,akamaized.net,REJECT
