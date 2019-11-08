@@ -193,7 +193,7 @@ DOMAIN-SUFFIX,adobedtm.com,DIRECT
 # > Github
 DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-SUFFIX,githubapp.com,PROXY
-DOMAIN-SUFFIX,raw.githubusercontent.com,PROXY
+DOMAIN-SUFFIX,githubusercontent.com,PROXY
 
 # > Cloudflare
 DOMAIN-SUFFIX,cloudflare.com,DIRECT
