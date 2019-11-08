@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,aaplimg.com,DIRECT
 DOMAIN-SUFFIX,appstore.com,DIRECT
 DOMAIN-SUFFIX,mzstatic.com,DIRECT
 DOMAIN-SUFFIX,cdn-apple.com,DIRECT
-DOMAIN-SUFFIX,crashlytics.com,DIRECT
+DOMAIN-SUFFIX,crashlytics.com,RRJECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
 DOMAIN-SUFFIX,akadns.net,DIRECT
 
