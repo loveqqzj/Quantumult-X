@@ -101,16 +101,50 @@ DOMAIN-SUFFIX,springsunday.net,DIRECT
 DOMAIN-SUFFIX,tjupt.org,DIRECT
 DOMAIN-SUFFIX,totheglory.im,DIRECT
 
+# > Google
+DOMAIN-SUFFIX,gstatic.com,DIRECT
+
 # > Other
 DOMAIN-SUFFIX,cn,DIRECT
-DOMAIN-SUFFIX,amazon.com,DIRECT
 DOMAIN-SUFFIX,vmware.com,DIRECT
-DOMAIN-SUFFIX,amd.com,DIRECT
 DOMAIN-SUFFIX,nvidia.com,DIRECT
 DOMAIN-SUFFIX,java.com,DIRECT
 DOMAIN-SUFFIX,oracle.com,DIRECT
 DOMAIN-SUFFIX,linkedin.com,DIRECT
 DOMAIN-SUFFIX,teamviewer.com,DIRECT
+DOMAIN-SUFFIX,mpyit.com,DIRECT
+DOMAIN-SUFFIX,digitalcertvalidation.com,DIRECT
+
+# > Amazon
+DOMAIN-KEYWORD,amazon.com,DIRECT
+DOMAIN-SUFFIX,amazonpay.com,DIRECT
+
+# > AMD
+DOMAIN-SUFFIX,amd.com,DIRECT
+DOMAIN-SUFFIX,letsencrypt.org,DIRECT
+DOMAIN-SUFFIX,hotjar.com,DIRECT
+DOMAIN-SUFFIX,acquia.com,DIRECT
+DOMAIN-SUFFIX,addthis.com,DIRECT
+
+# > 西数
+DOMAIN-SUFFIX,wd.com,DIRECT
+DOMAIN-SUFFIX,mycloud.com,DIRECT
+DOMAIN-SUFFIX,tiqcdn.com,DIRECT
+DOMAIN-SUFFIX,westerndigital.com,DIRECT
+DOMAIN-SUFFIX,trustarc.com,DIRECT
+DOMAIN-SUFFIX,sandisk.com,DIRECT
+DOMAIN-SUFFIX,omtrdc.net,DIRECT
+
+# > 希捷
+DOMAIN-SUFFIX,seagate.com,DIRECT
+
+# > 群晖
+DOMAIN-SUFFIX,synology.com,DIRECT
+DOMAIN,cdn.livechatinc.com,DIRECT
+
+# > 三星
+DOMAIN-SUFFIX,demdex.net,DIRECT
+DOMAIN-SUFFIX,adobedtm.com,DIRECT
 
 # > Github
 DOMAIN-SUFFIX,github.com,PROXY
