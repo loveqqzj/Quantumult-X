@@ -61,7 +61,6 @@ DOMAIN-SUFFIX,visualstudio.com,DIRECT
 DOMAIN-SUFFIX,windows.com,DIRECT
 DOMAIN-SUFFIX,windows.net,DIRECT
 DOMAIN-SUFFIX,windowsupdate.com,DIRECT
-DOMAIN-SUFFIX,akamaized.net,DIRECT
 DOMAIN-SUFFIX,live.com,DIRECT
 DOMAIN-SUFFIX,live.net,DIRECT
 DOMAIN-SUFFIX,skype.com,DIRECT
@@ -219,8 +218,6 @@ DOMAIN-SUFFIX,steamgames.com,DIRECT
 DOMAIN-SUFFIX,steamusercontent.com,DIRECT
 DOMAIN-SUFFIX,steamcontent.com,DIRECT
 DOMAIN-SUFFIX,steamstatic.com,DIRECT
-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
-DOMAIN-SUFFIX,steamstore-a.akamaihd.net,DIRECT
 DOMAIN-SUFFIX,steamstat.us,DIRECT
 
 # China
