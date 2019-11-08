@@ -160,7 +160,7 @@ DOMAIN-SUFFIX,asus.com,DIRECT
 DOMAIN-SUFFIX,cdn.jice.io,DIRECT
 
 # > GIGABYTE
-DOMAIN-SUFFIX,gigabyte.com,DIRECT
+DOMAIN-SUFFIX,gigabyte.*,DIRECT
 DOMAIN-SUFFIX,fontawesome.com,DIRECT
 
 # > WD
