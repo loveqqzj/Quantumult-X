@@ -1,201 +1,196 @@
 # > AdGuard
-DOMAIN-SUFFIX,adguard.com,AdGuard
+HOST-SUFFIX,adguard.com,AdGuard
 
 # > PayPal
 USER-AGENT,PayPal*,PayPal
-DOMAIN-KEYWORD,paypal,PayPal
-DOMAIN-SUFFIX,paypal.com,PayPal
-DOMAIN-SUFFIX,paypalobjects.com,PayPal
+HOST-KEYWORD,paypal,PayPal
+HOST-SUFFIX,paypal.com,PayPal
+HOST-SUFFIX,paypalobjects.com,PayPal
 
 # > 1Password
-DOMAIN-SUFFIX,1password.com,DIRECT
-DOMAIN-SUFFIX,1passwordusercontent.com,DIRECT
+HOST-SUFFIX,1password.com,DIRECT
+HOST-SUFFIX,1passwordusercontent.com,DIRECT
 
 # > Apple
 IP-CIDR,17.0.0.0/8,DIRECT
-DOMAIN-SUFFIX,me.com,DIRECT
-DOMAIN-SUFFIX,apple.co,DIRECT
-DOMAIN-SUFFIX,apple.com,DIRECT
-DOMAIN-SUFFIX,icloud.com,DIRECT
-DOMAIN-SUFFIX,aaplimg.com,DIRECT
-DOMAIN-SUFFIX,appstore.com,DIRECT
-DOMAIN-SUFFIX,mzstatic.com,DIRECT
-DOMAIN-SUFFIX,cdn-apple.com,DIRECT
-DOMAIN-SUFFIX,icloud-content.com,DIRECT
-DOMAIN-SUFFIX,akadns.net,DIRECT
+HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,apple.co,DIRECT
+HOST-SUFFIX,apple.com,DIRECT
+HOST-SUFFIX,icloud.com,DIRECT
+HOST-SUFFIX,aaplimg.com,DIRECT
+HOST-SUFFIX,appstore.com,DIRECT
+HOST-SUFFIX,mzstatic.com,DIRECT
+HOST-SUFFIX,cdn-apple.com,DIRECT
+HOST-SUFFIX,icloud-content.com,DIRECT
+HOST-SUFFIX,akadns.net,DIRECT
 
 # > Apple Weather
-DOMAIN-SUFFIX,weather.com,DIRECT
-DOMAIN-SUFFIX,s.w-x.co,DIRECT
-DOMAIN-SUFFIX,cdn.polyfill.io,DIRECT
+HOST-SUFFIX,weather.com,DIRECT
+HOST-SUFFIX,s.w-x.co,DIRECT
+HOST-SUFFIX,cdn.polyfill.io,DIRECT
 
 # > Office
-DOMAIN-SUFFIX,office.com,DIRECT
-DOMAIN-SUFFIX,office.net,DIRECT
-DOMAIN-SUFFIX,office365.com,DIRECT
+HOST-SUFFIX,office.com,DIRECT
+HOST-SUFFIX,office.net,DIRECT
+HOST-SUFFIX,office365.com,DIRECT
 
 # > Outlook
-DOMAIN-SUFFIX,outlook.com,DIRECT
-DOMAIN-SUFFIX,hotmail.com,DIRECT
+HOST-SUFFIX,outlook.com,DIRECT
+HOST-SUFFIX,hotmail.com,DIRECT
 
 # > Xbox
-DOMAIN-SUFFIX,xboxlive.com,DIRECT
-DOMAIN-SUFFIX,xbox.com,DIRECT
+HOST-SUFFIX,xboxlive.com,DIRECT
+HOST-SUFFIX,xbox.com,DIRECT
 
 # > MSN
-DOMAIN-SUFFIX,msn.com,DIRECT
-DOMAIN-SUFFIX,cdn.taboola.com,DIRECT
+HOST-SUFFIX,msn.com,DIRECT
+HOST-SUFFIX,cdn.taboola.com,DIRECT
 
 # > Microsoft
-DOMAIN-SUFFIX,aspnetcdn.com,DIRECT
-DOMAIN-SUFFIX,onestore.ms,DIRECT
-DOMAIN-SUFFIX,microsoft.com,DIRECT
-DOMAIN-SUFFIX,microsoftonline.com,DIRECT
-DOMAIN-SUFFIX,microsoftestore.com,DIRECT
-DOMAIN-SUFFIX,microsoftedgeinsider.com,DIRECT
-DOMAIN-SUFFIX,msecnd.net,DIRECT
-DOMAIN-SUFFIX,msocdn.com,DIRECT
-DOMAIN-SUFFIX,msauth.com,DIRECT
-DOMAIN-SUFFIX,s-microsoft.com,DIRECT
-DOMAIN-SUFFIX,visualstudio.com,DIRECT
-DOMAIN-SUFFIX,windows.com,DIRECT
-DOMAIN-SUFFIX,windows.net,DIRECT
-DOMAIN-SUFFIX,windowsupdate.com,DIRECT
-DOMAIN-SUFFIX,live.com,DIRECT
-DOMAIN-SUFFIX,live.net,DIRECT
-DOMAIN-SUFFIX,skype.com,DIRECT
-DOMAIN-SUFFIX,hockeyapp.net,DIRECT
-DOMAIN-SUFFIX,sfx.ms,DIRECT
-DOMAIN-SUFFIX,gfx.ms,DIRECT
-DOMAIN-SUFFIX,digicert.com,DIRECT
+HOST-SUFFIX,aspnetcdn.com,DIRECT
+HOST-SUFFIX,onestore.ms,DIRECT
+HOST-SUFFIX,microsoft.com,DIRECT
+HOST-SUFFIX,microsoftonline.com,DIRECT
+HOST-SUFFIX,microsoftestore.com,DIRECT
+HOST-SUFFIX,microsoftedgeinsider.com,DIRECT
+HOST-SUFFIX,msecnd.net,DIRECT
+HOST-SUFFIX,msocdn.com,DIRECT
+HOST-SUFFIX,msauth.com,DIRECT
+HOST-SUFFIX,s-microsoft.com,DIRECT
+HOST-SUFFIX,visualstudio.com,DIRECT
+HOST-SUFFIX,windows.com,DIRECT
+HOST-SUFFIX,windows.net,DIRECT
+HOST-SUFFIX,windowsupdate.com,DIRECT
+HOST-SUFFIX,live.com,DIRECT
+HOST-SUFFIX,live.net,DIRECT
+HOST-SUFFIX,skype.com,DIRECT
+HOST-SUFFIX,sfx.ms,DIRECT
+HOST-SUFFIX,gfx.ms,DIRECT
+HOST-SUFFIX,digicert.com,DIRECT
 
 # >> OneDrive
 USER-AGENT,OneDrive*,DIRECT
 USER-AGENT,OneDriveiOSApp*,DIRECT
-DOMAIN-SUFFIX,1drv.com,DIRECT
-DOMAIN-SUFFIX,onedrive.com,DIRECT
-DOMAIN-SUFFIX,onedrive.live.com,PROXY
+HOST-SUFFIX,1drv.com,DIRECT
+HOST-SUFFIX,onedrive.com,DIRECT
+HOST-SUFFIX,onedrive.live.com,PROXY
 
 # > CDN
-DOMAIN-SUFFIX,ccgslb.com,DIRECT
-DOMAIN-SUFFIX,ccgslb.net,DIRECT
-DOMAIN-SUFFIX,chinanetcenter.com,DIRECT
-DOMAIN-SUFFIX,meixincdn.com,DIRECT
-DOMAIN-SUFFIX,ourdvs.com,DIRECT
-DOMAIN-SUFFIX,staticdn.net,DIRECT
-DOMAIN-SUFFIX,wangsu.com,DIRECT
+HOST-SUFFIX,ccgslb.com,DIRECT
+HOST-SUFFIX,ccgslb.net,DIRECT
+HOST-SUFFIX,chinanetcenter.com,DIRECT
+HOST-SUFFIX,meixincdn.com,DIRECT
+HOST-SUFFIX,ourdvs.com,DIRECT
+HOST-SUFFIX,staticdn.net,DIRECT
+HOST-SUFFIX,wangsu.com,DIRECT
 
 # > DiDi
-DOMAIN-SUFFIX,didiglobal.com,DIRECT
-DOMAIN-SUFFIX,comodoca.com,DIRECT
-DOMAIN-SUFFIX,sectigo.com,DIRECT
+HOST-SUFFIX,didiglobal.com,DIRECT
+HOST-SUFFIX,comodoca.com,DIRECT
+HOST-SUFFIX,sectigo.com,DIRECT
 
 # > IP Query
-DOMAIN-SUFFIX,ip.la,DIRECT
-DOMAIN-SUFFIX,ipip.net,DIRECT
-DOMAIN-SUFFIX,ip-cdn.com,DIRECT
-DOMAIN-SUFFIX,ipv6-test.com,DIRECT
-DOMAIN-SUFFIX,test-ipv6.com,DIRECT
-DOMAIN-SUFFIX,whatismyip.com,DIRECT
+HOST-SUFFIX,ip.la,DIRECT
+HOST-SUFFIX,ipip.net,DIRECT
+HOST-SUFFIX,ip-cdn.com,DIRECT
+HOST-SUFFIX,ipv6-test.com,DIRECT
+HOST-SUFFIX,test-ipv6.com,DIRECT
+HOST-SUFFIX,whatismyip.com,DIRECT
 
 # > PT
-DOMAIN-SUFFIX,awesome-hd.me,DIRECT
-DOMAIN-SUFFIX,broadcasthe.net,DIRECT
-DOMAIN-SUFFIX,chdbits.co,DIRECT
-DOMAIN-SUFFIX,classix-unlimited.co.uk,DIRECT
-DOMAIN-SUFFIX,empornium.me,DIRECT
-DOMAIN-SUFFIX,gazellegames.net,DIRECT
-DOMAIN-SUFFIX,hdchina.org,DIRECT
-DOMAIN-SUFFIX,hdsky.me,DIRECT
-DOMAIN-SUFFIX,jpopsuki.eu,DIRECT
-DOMAIN-SUFFIX,keepfrds.com,DIRECT
-DOMAIN-SUFFIX,m-team.cc,DIRECT
-DOMAIN-SUFFIX,nanyangpt.com,DIRECT
-DOMAIN-SUFFIX,ncore.cc,DIRECT
-DOMAIN-SUFFIX,open.cd,DIRECT
-DOMAIN-SUFFIX,ourbits.club,DIRECT
-DOMAIN-SUFFIX,passthepopcorn.me,DIRECT
-DOMAIN-SUFFIX,privatehd.to,DIRECT
-DOMAIN-SUFFIX,redacted.ch,DIRECT
-DOMAIN-SUFFIX,springsunday.net,DIRECT
-DOMAIN-SUFFIX,tjupt.org,DIRECT
-DOMAIN-SUFFIX,totheglory.im,DIRECT
+HOST-SUFFIX,awesome-hd.me,DIRECT
+HOST-SUFFIX,broadcasthe.net,DIRECT
+HOST-SUFFIX,chdbits.co,DIRECT
+HOST-SUFFIX,classix-unlimited.co.uk,DIRECT
+HOST-SUFFIX,empornium.me,DIRECT
+HOST-SUFFIX,gazellegames.net,DIRECT
+HOST-SUFFIX,hdchina.org,DIRECT
+HOST-SUFFIX,hdsky.me,DIRECT
+HOST-SUFFIX,jpopsuki.eu,DIRECT
+HOST-SUFFIX,keepfrds.com,DIRECT
+HOST-SUFFIX,m-team.cc,DIRECT
+HOST-SUFFIX,nanyangpt.com,DIRECT
+HOST-SUFFIX,ncore.cc,DIRECT
+HOST-SUFFIX,open.cd,DIRECT
+HOST-SUFFIX,ourbits.club,DIRECT
+HOST-SUFFIX,passthepopcorn.me,DIRECT
+HOST-SUFFIX,privatehd.to,DIRECT
+HOST-SUFFIX,redacted.ch,DIRECT
+HOST-SUFFIX,springsunday.net,DIRECT
+HOST-SUFFIX,tjupt.org,DIRECT
+HOST-SUFFIX,totheglory.im,DIRECT
 
 # > Other
-DOMAIN-SUFFIX,geotrust.com,DIRECT
-DOMAIN-SUFFIX,hostloc.com,DIRECT
-DOMAIN-SUFFIX,sitegur.com,DIRECT
-DOMAIN-SUFFIX,qwant.com,DIRECT
-DOMAIN-SUFFIX,vmware.com,DIRECT
-DOMAIN-SUFFIX,nvidia.com,DIRECT
-DOMAIN-SUFFIX,linkedin.com,DIRECT
-DOMAIN-SUFFIX,teamviewer.com,DIRECT
-DOMAIN-SUFFIX,mpyit.com,DIRECT
-DOMAIN-SUFFIX,digitalcertvalidation.com,DIRECT
+HOST-SUFFIX,geotrust.com,DIRECT
+HOST-SUFFIX,hostloc.com,DIRECT
+HOST-SUFFIX,sitegur.com,DIRECT
+HOST-SUFFIX,qwant.com,DIRECT
+HOST-SUFFIX,vmware.com,DIRECT
+HOST-SUFFIX,nvidia.com,DIRECT
+HOST-SUFFIX,linkedin.com,DIRECT
+HOST-SUFFIX,teamviewer.com,DIRECT
+HOST-SUFFIX,mpyit.com,DIRECT
+HOST-SUFFIX,digitalcertvalidation.com,DIRECT
 
 # > Adobe
-DOMAIN-SUFFIX,adobe.com,DIRECT
-DOMAIN-SUFFIX,adobelogin.com,DIRECT
-DOMAIN-SUFFIX,typekit.use,DIRECT
-DOMAIN-SUFFIX,evidon.com,DIRECT
-DOMAIN-SUFFIX,adobe.io,DIRECT
+HOST-SUFFIX,adobe.com,DIRECT
+HOST-SUFFIX,adobelogin.com,DIRECT
+HOST-SUFFIX,typekit.use,DIRECT
+HOST-SUFFIX,evidon.com,DIRECT
+HOST-SUFFIX,adobe.io,DIRECT
 
 # > Oracle
-DOMAIN-SUFFIX,java.com,DIRECT
-DOMAIN-SUFFIX,oracle.com,DIRECT
-DOMAIN-SUFFIX,oraclecloud.com,DIRECT
-DOMAIN-SUFFIX,oracleimg.com,DIRECT
+HOST-SUFFIX,java.com,DIRECT
+HOST-SUFFIX,oracle.com,DIRECT
+HOST-SUFFIX,oraclecloud.com,DIRECT
+HOST-SUFFIX,oracleimg.com,DIRECT
 
 # > Amazon
-DOMAIN-KEYWORD,amazon.com,DIRECT
-DOMAIN-SUFFIX,amazonpay.com,DIRECT
+HOST-KEYWORD,amazon.com,DIRECT
+HOST-SUFFIX,amazonpay.com,DIRECT
 
 # > AMD
-DOMAIN-SUFFIX,amd.com,DIRECT
-DOMAIN-SUFFIX,letsencrypt.org,DIRECT
-DOMAIN-SUFFIX,hotjar.com,DIRECT
-DOMAIN-SUFFIX,acquia.com,DIRECT
-DOMAIN-SUFFIX,addthis.com,DIRECT
+HOST-SUFFIX,amd.com,DIRECT
+HOST-SUFFIX,letsencrypt.org,DIRECT
+HOST-SUFFIX,hotjar.com,DIRECT
+HOST-SUFFIX,acquia.com,DIRECT
+HOST-SUFFIX,addthis.com,DIRECT
 
 # > ASUS
-DOMAIN-SUFFIX,asus.com,DIRECT
-DOMAIN-SUFFIX,cdn.jice.io,DIRECT
+HOST-SUFFIX,asus.com,DIRECT
+HOST-SUFFIX,cdn.jice.io,DIRECT
 
 # > GIGABYTE
-DOMAIN-SUFFIX,gigabyte.com,DIRECT
-DOMAIN-SUFFIX,gigabyte.hk,DIRECT
-DOMAIN-SUFFIX,gigabyte.tw,DIRECT
-DOMAIN-SUFFIX,fontawesome.com,DIRECT
+HOST-SUFFIX,gigabyte.com,DIRECT
+HOST-SUFFIX,gigabyte.hk,DIRECT
+HOST-SUFFIX,gigabyte.tw,DIRECT
+HOST-SUFFIX,fontawesome.com,DIRECT
 
 # > WD
-DOMAIN-SUFFIX,wd.com,DIRECT
-DOMAIN-SUFFIX,mycloud.com,DIRECT
-DOMAIN-SUFFIX,tiqcdn.com,DIRECT
-DOMAIN-SUFFIX,westerndigital.com,DIRECT
-DOMAIN-SUFFIX,trustarc.com,DIRECT
-DOMAIN-SUFFIX,sandisk.com,DIRECT
-DOMAIN-SUFFIX,omtrdc.net,DIRECT
+HOST-SUFFIX,wd.com,DIRECT
+HOST-SUFFIX,mycloud.com,DIRECT
+HOST-SUFFIX,westerndigital.com,DIRECT
+HOST-SUFFIX,trustarc.com,DIRECT
+HOST-SUFFIX,sandisk.com,DIRECT
 
 # > Seagate
-DOMAIN-SUFFIX,seagate.com,DIRECT
+HOST-SUFFIX,seagate.com,DIRECT
 
 # > Synology
-DOMAIN-SUFFIX,synology.com,DIRECT
-DOMAIN,cdn.livechatinc.com,DIRECT
+HOST-SUFFIX,synology.com,DIRECT
+HOST,cdn.livechatinc.com,DIRECT
 
 # > Samsung
-DOMAIN-SUFFIX,demdex.net,DIRECT
-DOMAIN-SUFFIX,adobedtm.com,DIRECT
+HOST-SUFFIX,adobedtm.com,DIRECT
 
 # > Github
-DOMAIN-SUFFIX,github.com,PROXY
-DOMAIN-SUFFIX,githubapp.com,PROXY
-DOMAIN-SUFFIX,githubassets.com,PROXY
-DOMAIN-SUFFIX,githubusercontent.com,PROXY
+HOST-SUFFIX,github.com,PROXY
+HOST-SUFFIX,githubapp.com,PROXY
+HOST-SUFFIX,githubassets.com,PROXY
+HOST-SUFFIX,githubusercontent.com,PROXY
 
 # > Cloudflare
-DOMAIN-SUFFIX,cloudflare.com,DIRECT
-DOMAIN-SUFFIX,instabug.com,DIRECT
+HOST-SUFFIX,cloudflare.com,DIRECT
 IP-CIDR,173.245.48.0/20,DIRECT
 IP-CIDR,103.21.244.0/22,DIRECT
 IP-CIDR,103.22.200.0/22,DIRECT
@@ -212,17 +207,17 @@ IP-CIDR,172.64.0.0/13,DIRECT
 IP-CIDR,131.0.72.0/22,DIRECT
 
 # > Steam
-DOMAIN-SUFFIX,steampowered.com,DIRECT
-DOMAIN-SUFFIX,steam-chat.com,DIRECT
-DOMAIN-SUFFIX,steamgames.com,DIRECT
-DOMAIN-SUFFIX,steamusercontent.com,DIRECT
-DOMAIN-SUFFIX,steamcontent.com,DIRECT
-DOMAIN-SUFFIX,steamstatic.com,DIRECT
-DOMAIN-SUFFIX,steamstat.us,DIRECT
+HOST-SUFFIX,steampowered.com,DIRECT
+HOST-SUFFIX,steam-chat.com,DIRECT
+HOST-SUFFIX,steamgames.com,DIRECT
+HOST-SUFFIX,steamusercontent.com,DIRECT
+HOST-SUFFIX,steamcontent.com,DIRECT
+HOST-SUFFIX,steamstatic.com,DIRECT
+HOST-SUFFIX,steamstat.us,DIRECT
 
 # China
 GEOIP,CN,DIRECT
-DOMAIN-SUFFIX,cn,DIRECT
+HOST-SUFFIX,cn,DIRECT
 
 # DNSPod Public DNS+
 IP-CIDR,119.28.28.28/32,DIRECT
