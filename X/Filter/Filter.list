@@ -14,8 +14,6 @@ HOST-SUFFIX,1passwordusercontent.com,DIRECT
 # > 1.1.1.1
 HOST-SUFFIX,warp.plus,DIRECT
 HOST-SUFFIX,1.1.1.1,DIRECT
-HOST-SUFFIX,disqus.com,DIRECT
-HOST-SUFFIX,disquscdn.com,DIRECT
 HOST-SUFFIX,jquery.com,DIRECT
 HOST-SUFFIX,gravatar.com,DIRECT
 
