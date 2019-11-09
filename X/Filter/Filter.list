@@ -11,6 +11,14 @@ HOST-SUFFIX,paypalobjects.com,PayPal
 HOST-SUFFIX,1password.com,DIRECT
 HOST-SUFFIX,1passwordusercontent.com,DIRECT
 
+# > 1.1.1.1
+HOST-SUFFIX,warp.plus,DIRECT
+HOST-SUFFIX,1.1.1.1,DIRECT
+HOST-SUFFIX,disqus.com,DIRECT
+HOST-SUFFIX,disquscdn.com,DIRECT
+HOST-SUFFIX,jquery.com,DIRECT
+HOST-SUFFIX,gravatar.com,DIRECT
+
 # > Apple
 IP-CIDR,17.0.0.0/8,DIRECT
 HOST-SUFFIX,me.com,DIRECT
@@ -28,6 +36,11 @@ HOST-SUFFIX,akadns.net,DIRECT
 HOST-SUFFIX,weather.com,DIRECT
 HOST-SUFFIX,s.w-x.co,DIRECT
 HOST-SUFFIX,cdn.polyfill.io,DIRECT
+
+# > Mozilla
+HOST-SUFFIX,mozilla.com,DIRECT
+HOST-SUFFIX,firefox.com,DIRECT
+HOST-SUFFIX,mozilla.org,DIRECT
 
 # > Office
 HOST-SUFFIX,office.com,DIRECT
