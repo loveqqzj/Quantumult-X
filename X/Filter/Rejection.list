@@ -16,6 +16,8 @@ HOST-SUFFIX,omtrdc.net,REJECT
 HOST-SUFFIX,demdex.net,REJECT
 HOST-SUFFIX,instabug.com,REJECT
 HOST-SUFFIX,tiqcdn.com,REJECT
+HOST-SUFFIX,disqus.com,REJECT
+HOST-SUFFIX,disquscdn.com,REJECT
 
 # > Microsoft
 HOST-SUFFIX,hockeyapp.net,REJECT
