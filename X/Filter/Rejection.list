@@ -10,4 +10,12 @@ HOST-SUFFIX,crashlytics.com,RRJECT
 # > Google
 HOST-SUFFIX,gstatic.com,REJECT
 
+# > Other
 HOST-SUFFIX,akamaized.net,REJECT
+HOST-SUFFIX,omtrdc.net,REJECT
+HOST-SUFFIX,demdex.net,REJECT
+HOST-SUFFIX,instabug.com,REJECT
+HOST-SUFFIX,tiqcdn.com,REJECT
+
+# > Microsoft
+HOST-SUFFIX,hockeyapp.net,REJECT
