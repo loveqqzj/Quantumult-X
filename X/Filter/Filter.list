@@ -19,6 +19,7 @@ HOST-SUFFIX,gravatar.com,DIRECT
 
 # > Alipay
 HOST-SUFFIX,alipay.com,DIRECT
+HOST-SUFFIX,aliyuncs.com,DIRECT
 
 # > Apple
 IP-CIDR,17.0.0.0/8,DIRECT
@@ -97,6 +98,14 @@ HOST-SUFFIX,meixincdn.com,DIRECT
 HOST-SUFFIX,ourdvs.com,DIRECT
 HOST-SUFFIX,staticdn.net,DIRECT
 HOST-SUFFIX,wangsu.com,DIRECT
+
+# > Akamai
+DOMAIN-SUFFIX,akadns.net,DIRECT
+# DOMAIN-SUFFIX,akamai.net,DIRECT
+# DOMAIN-SUFFIX,akamaiedge.net,DIRECT
+# DOMAIN-SUFFIX,akamaihd.net,DIRECT
+# DOMAIN-SUFFIX,akamaistream.net,DIRECT
+# DOMAIN-SUFFIX,akamaized.net,DIRECT
 
 # > DiDi
 HOST-SUFFIX,didiglobal.com,DIRECT
