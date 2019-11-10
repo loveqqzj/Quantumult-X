@@ -100,12 +100,12 @@ HOST-SUFFIX,staticdn.net,DIRECT
 HOST-SUFFIX,wangsu.com,DIRECT
 
 # > Akamai
-DOMAIN-SUFFIX,akadns.net,DIRECT
-# DOMAIN-SUFFIX,akamai.net,DIRECT
-# DOMAIN-SUFFIX,akamaiedge.net,DIRECT
-# DOMAIN-SUFFIX,akamaihd.net,DIRECT
-# DOMAIN-SUFFIX,akamaistream.net,DIRECT
-# DOMAIN-SUFFIX,akamaized.net,DIRECT
+HOST-SUFFIX,akadns.net,DIRECT
+HOST-SUFFIX,akamai.net,DIRECT
+HOST-SUFFIX,akamaiedge.net,DIRECT
+HOST-SUFFIX,akamaihd.net,DIRECT
+HOST-SUFFIX,akamaistream.net,DIRECT
+HOST-SUFFIX,akamaized.net,DIRECT
 
 # > DiDi
 HOST-SUFFIX,didiglobal.com,DIRECT
