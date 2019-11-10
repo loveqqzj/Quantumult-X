@@ -12,7 +12,6 @@ HOST-SUFFIX,gstatic.com,REJECT
 HOST-SUFFIX,app-measurement.com,REJECT
 
 # > Other
-HOST-SUFFIX,akamaized.net,REJECT
 HOST-SUFFIX,omtrdc.net,REJECT
 HOST-SUFFIX,demdex.net,REJECT
 HOST-SUFFIX,instabug.com,REJECT
