@@ -19,6 +19,10 @@ HOST-SUFFIX,tiqcdn.com,REJECT
 HOST-SUFFIX,disqus.com,REJECT
 HOST-SUFFIX,disquscdn.com,REJECT
 HOST-SUFFIX,umtrack.com,REJECT
+HOST-SUFFIX,adjust.com,REJECT
 
 # > Microsoft
 HOST-SUFFIX,hockeyapp.net,REJECT
+
+# > Umeng
+HOST-SUFFIX,umeng.com,REJECT
