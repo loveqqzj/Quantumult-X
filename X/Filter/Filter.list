@@ -191,6 +191,7 @@ HOST-SUFFIX,fontawesome.com,DIRECT
 
 # > WD
 HOST-SUFFIX,wd.com,DIRECT
+HOST-SUFFIX,wdc.com,DIRECT
 HOST-SUFFIX,mycloud.com,DIRECT
 HOST-SUFFIX,westerndigital.com,DIRECT
 HOST-SUFFIX,trustarc.com,DIRECT
