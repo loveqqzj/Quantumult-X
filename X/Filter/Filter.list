@@ -9,6 +9,8 @@ HOST-SUFFIX,paypalobjects.com,PayPal
 
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
+HOST-SUFFIX,1password.eu,DIRECT
+HOST-SUFFIX,1password.ca,DIRECT
 HOST-SUFFIX,1passwordusercontent.com,DIRECT
 
 # > 1.1.1.1
