@@ -73,6 +73,9 @@ HOST-SUFFIX,microsoftedgeinsider.com,DIRECT
 HOST-SUFFIX,msecnd.net,DIRECT
 HOST-SUFFIX,msocdn.com,DIRECT
 HOST-SUFFIX,msauth.com,DIRECT
+HOST-SUFFIX,msauth.net,DIRECT
+HOST-SUFFIX,azureedge.net,DIRECT
+HOST-SUFFIX,onenote.com,DIRECT
 HOST-SUFFIX,s-microsoft.com,DIRECT
 HOST-SUFFIX,visualstudio.com,DIRECT
 HOST-SUFFIX,windows.com,DIRECT
