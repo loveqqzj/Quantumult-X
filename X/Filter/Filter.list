@@ -8,8 +8,8 @@ HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
 
 # > GeoLite2
-HOST-SUFFIX,maxmind.com,DIRECT
-HOST,quantumult.crossutility.com,DIRECT
+HOST-SUFFIX,maxmind.com,PROXY
+HOST,quantumult.crossutility.com,PROXY
 
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
