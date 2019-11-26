@@ -7,6 +7,10 @@ HOST-KEYWORD,paypal,PayPal
 HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
 
+# > GeoLite2
+HOST-SUFFIX,maxmind.com,DIRECT
+HOST,quantumult.crossutility.com,DIRECT
+
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
 HOST-SUFFIX,1password.eu,DIRECT
