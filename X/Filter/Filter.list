@@ -34,7 +34,8 @@ HOST-SUFFIX,appstore.com,DIRECT
 HOST-SUFFIX,mzstatic.com,DIRECT
 HOST-SUFFIX,cdn-apple.com,DIRECT
 HOST-SUFFIX,icloud-content.com,DIRECT
-HOST-SUFFIX,akadns.net,DIRECT
+HOST-SUFFIX,apple-cloudkit.com,DIRECT
+HOST-SUFFIX,crashlytics.com,DIRECT
 
 # > Apple Weather
 HOST-SUFFIX,weather.com,DIRECT
