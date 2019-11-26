@@ -117,6 +117,13 @@ HOST-SUFFIX,didiglobal.com,DIRECT
 HOST-SUFFIX,comodoca.com,DIRECT
 HOST-SUFFIX,sectigo.com,DIRECT
 
+# > Antivirus
+HOST-SUFFIX,avast.com,DIRECT
+HOST-SUFFIX,avira.com,DIRECT
+HOST-SUFFIX,kaspersky.com,DIRECT
+HOST-SUFFIX,mixpanel.com,DIRECT
+HOST-SUFFIX,trustpilot.com,DIRECT
+
 # > IP Query
 HOST-SUFFIX,ip.la,DIRECT
 HOST-SUFFIX,ipip.net,DIRECT
