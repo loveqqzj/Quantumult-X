@@ -13,5 +13,8 @@ HOST-SUFFIX,disqus.com,REJECT
 HOST-SUFFIX,disquscdn.com,REJECT
 HOST-SUFFIX,umtrack.com,REJECT
 
+# > Paypal
+HOST-SUFFIX,mparticle.com,REJECT
+
 # > Microsoft
 HOST-SUFFIX,hockeyapp.net,REJECT
