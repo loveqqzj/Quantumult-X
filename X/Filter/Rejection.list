@@ -1,9 +1,6 @@
 # > 12306
 HOST-SUFFIX,res.mall.10010.cn,REJECT
 
-# > Baidu
-HOST-SUFFIX,bdstatic.com,REJECT
-
 # > Google
 HOST-SUFFIX,app-measurement.com,REJECT
 
