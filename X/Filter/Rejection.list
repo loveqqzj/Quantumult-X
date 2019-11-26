@@ -15,6 +15,7 @@ HOST-SUFFIX,umtrack.com,REJECT
 
 # > Paypal
 HOST-SUFFIX,mparticle.com,REJECT
+HOST-SUFFIX,crashlytics.com,REJECT
 
 # > Microsoft
 HOST-SUFFIX,hockeyapp.net,REJECT
