@@ -253,7 +253,6 @@ HOST-SUFFIX,steamstatic.com,DIRECT
 HOST-SUFFIX,steamstat.us,DIRECT
 
 # China
-GEOIP,CN,DIRECT
 HOST-SUFFIX,cn,DIRECT
 
 # DNSPod Public DNS+
