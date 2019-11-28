@@ -6,3 +6,29 @@ HOST-SUFFIX,app-measurement.com,REJECT
 
 # > Microsoft
 HOST,gate.hockeyapp.net,REJECT
+
+# > Alibaba
+HOST-SUFFIX,amdc.m.taobao.com,REJECT
+HOST-SUFFIX,apoll.m.taobao.com,REJECT
+HOST-SUFFIX,agoodm.m.taobao.com,REJECT
+HOST-SUFFIX,ai.m.taobao.com,REJECT
+HOST-SUFFIX,ai.taobao.com,REJECT
+HOST-SUFFIX,api.waptest.taobao.com,REJECT
+HOST-SUFFIX,c-adash.m.taobao.com,REJECT
+HOST-SUFFIX,dsp.simba.taobao.com,REJECT
+HOST-SUFFIX,fav.simba.taobao.com,REJECT
+HOST-SUFFIX,m.simba.taobao.com,REJECT
+HOST-SUFFIX,m-adash.m.taobao.com,REJECT
+HOST-SUFFIX,mclick.simba.taobao.com,REJECT
+HOST-SUFFIX,re.m.taobao.com,REJECT
+HOST-SUFFIX,re.taobao.com,REJECT
+HOST-SUFFIX,redirect.simba.taobao.com,REJECT
+HOST-SUFFIX,simba.m.taobao.com,REJECT
+HOST-SUFFIX,srd.simba.taobao.com,REJECT
+HOST-SUFFIX,strip.taobaocdn.com,REJECT
+HOST-SUFFIX,taobaoaliyun.cn,REJECT
+HOST-SUFFIX,taobaobo5.com,REJECT
+HOST-SUFFIX,temai.taobao.com,REJECT
+HOST-SUFFIX,textlink.simba.taobao.com,REJECT
+HOST-SUFFIX,unitacs.m.taobao.com,REJECT
+HOST-SUFFIX,w.m.taobao.com,REJECT
