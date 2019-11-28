@@ -7,9 +7,10 @@ USER-AGENT,PayPal*,PayPal
 HOST-KEYWORD,paypal,PayPal
 HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
-HOST-SUFFIX,config2.mparticle.com,PayPal
-HOST-SUFFIX,identity.mparticle.com,PayPal
-HOST-SUFFIX,nativesdks.mparticle.com,PayPal
+HOST,ocsp.digcert.com,PayPal
+HOST,config2.mparticle.com,PayPal
+HOST,identity.mparticle.com,PayPal
+HOST,nativesdks.mparticle.com,PayPal
 
 # > 国内直连
 # > 1Password
