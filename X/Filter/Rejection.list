@@ -1,21 +1,13 @@
 # > 12306
-HOST-SUFFIX,res.mall.10010.cn,REJECT
+HOST,res.mall.10010.cn,REJECT
 
 # > Google
 HOST-SUFFIX,app-measurement.com,REJECT
 
-# > Other
-HOST-SUFFIX,omtrdc.net,REJECT
-HOST-SUFFIX,demdex.net,REJECT
-HOST-SUFFIX,instabug.com,REJECT
-HOST-SUFFIX,tiqcdn.com,REJECT
-HOST-SUFFIX,disqus.com,REJECT
-HOST-SUFFIX,disquscdn.com,REJECT
-HOST-SUFFIX,umtrack.com,REJECT
-
 # > Paypal
-HOST-SUFFIX,mparticle.com,REJECT
+HOST,nativesdks.mparticle.com,REJECT
+HOST,config2.mparticle.com,REJECT
 HOST-SUFFIX,crashlytics.com,REJECT
 
 # > Microsoft
-HOST-SUFFIX,hockeyapp.net,REJECT
+HOST,gate.hockeyapp.net,REJECT
