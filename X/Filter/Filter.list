@@ -11,6 +11,11 @@ HOST,ocsp.digicert.com,PayPal
 HOST,config2.mparticle.com,PayPal
 HOST,identity.mparticle.com,PayPal
 HOST,nativesdks.mparticle.com,PayPal
+HOST,ocsp.trust-provider.com,PayPal
+HOST,ocsp.usertrust.com,PayPal
+HOST,e.crashlytics.com,PayPal
+HOST,setting.crashlytics.com,PayPal
+HOST,ocsp.sectigo.com,PayPal
 
 # > 国内直连
 # > 1Password
