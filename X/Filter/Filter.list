@@ -1,3 +1,4 @@
+# > 策略
 # > AdGuard
 HOST-SUFFIX,adguard.com,AdGuard
 
@@ -7,10 +8,7 @@ HOST-KEYWORD,paypal,PayPal
 HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
 
-# > GeoLite2
-HOST-SUFFIX,maxmind.com,PROXY
-HOST,quantumult.crossutility.com,PROXY
-
+# > 国内直连
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
 HOST-SUFFIX,1password.eu,DIRECT
@@ -22,10 +20,6 @@ HOST-SUFFIX,warp.plus,DIRECT
 HOST-SUFFIX,1.1.1.1,DIRECT
 HOST-SUFFIX,jquery.com,DIRECT
 HOST-SUFFIX,gravatar.com,DIRECT
-
-# > Alipay
-HOST-SUFFIX,alipay.com,DIRECT
-HOST-SUFFIX,aliyuncs.com,DIRECT
 
 # > Apple
 IP-CIDR,17.0.0.0/8,DIRECT
@@ -45,23 +39,98 @@ HOST-SUFFIX,weather.com,DIRECT
 HOST-SUFFIX,s.w-x.co,DIRECT
 HOST-SUFFIX,cdn.polyfill.io,DIRECT
 
-# > Mozilla
-HOST-SUFFIX,mozilla.com,DIRECT
-HOST-SUFFIX,firefox.com,DIRECT
-HOST-SUFFIX,mozilla.org,DIRECT
+# > Akamai
+HOST-SUFFIX,akadns.net,DIRECT
+HOST-SUFFIX,akamai.net,DIRECT
+HOST-SUFFIX,akamaiedge.net,DIRECT
+HOST-SUFFIX,akamaihd.net,DIRECT
+HOST-SUFFIX,akamaistream.net,DIRECT
+HOST-SUFFIX,akamaized.net,DIRECT
+
+# > Antivirus
+HOST-SUFFIX,avast.com,DIRECT
+HOST-SUFFIX,avira.com,DIRECT
+HOST-SUFFIX,kaspersky.com,DIRECT
+HOST-SUFFIX,mixpanel.com,DIRECT
+HOST-SUFFIX,trustpilot.com,DIRECT
+
+# > Adobe
+HOST-SUFFIX,adobe.com,DIRECT
+HOST-SUFFIX,adobelogin.com,DIRECT
+HOST-SUFFIX,typekit.use,DIRECT
+HOST-SUFFIX,evidon.com,DIRECT
+HOST-SUFFIX,adobe.io,DIRECT
+
+# > Amazon
+HOST-KEYWORD,amazon.com,DIRECT
+HOST-SUFFIX,amazonpay.com,DIRECT
+
+# > AMD
+HOST-SUFFIX,amd.com,DIRECT
+HOST-SUFFIX,letsencrypt.org,DIRECT
+HOST-SUFFIX,hotjar.com,DIRECT
+HOST-SUFFIX,acquia.com,DIRECT
+HOST-SUFFIX,addthis.com,DIRECT
+
+# > ASUS
+HOST-SUFFIX,asus.com,DIRECT
+HOST-SUFFIX,cdn.jice.io,DIRECT
+
+# China
+HOST-SUFFIX,cn,DIRECT
+
+# DNSPod Public DNS+
+IP-CIDR,114.114.114.114/32,DIRECT
+
+# > Cloudflare
+HOST-SUFFIX,cloudflare.com,DIRECT
+IP-CIDR,173.245.48.0/20,DIRECT
+IP-CIDR,103.21.244.0/22,DIRECT
+IP-CIDR,103.22.200.0/22,DIRECT
+IP-CIDR,103.31.4.0/22,DIRECT
+IP-CIDR,141.101.64.0/18,DIRECT
+IP-CIDR,108.162.192.0/18,DIRECT
+IP-CIDR,190.93.240.0/20,DIRECT
+IP-CIDR,188.114.96.0/20,DIRECT
+IP-CIDR,197.234.240.0/22,DIRECT
+IP-CIDR,198.41.128.0/17,DIRECT
+IP-CIDR,162.158.0.0/15,DIRECT
+IP-CIDR,104.16.0.0/12,DIRECT
+IP-CIDR,172.64.0.0/13,DIRECT
+IP-CIDR,131.0.72.0/22,DIRECT
+
+# > CDN
+HOST-SUFFIX,ccgslb.com,DIRECT
+HOST-SUFFIX,ccgslb.net,DIRECT
+HOST-SUFFIX,chinanetcenter.com,DIRECT
+HOST-SUFFIX,meixincdn.com,DIRECT
+HOST-SUFFIX,ourdvs.com,DIRECT
+HOST-SUFFIX,staticdn.net,DIRECT
+HOST-SUFFIX,wangsu.com,DIRECT
+
+# > DiDi
+HOST-SUFFIX,didiglobal.com,DIRECT
+HOST-SUFFIX,comodoca.com,DIRECT
+HOST-SUFFIX,sectigo.com,DIRECT
 
 # > Office
 HOST-SUFFIX,office.com,DIRECT
 HOST-SUFFIX,office.net,DIRECT
 HOST-SUFFIX,office365.com,DIRECT
 
-# > Outlook
-HOST-SUFFIX,outlook.com,DIRECT
-HOST-SUFFIX,hotmail.com,DIRECT
+# > GIGABYTE
+HOST-SUFFIX,gigabyte.com,DIRECT
+HOST-SUFFIX,gigabyte.hk,DIRECT
+HOST-SUFFIX,gigabyte.tw,DIRECT
+HOST-SUFFIX,fontawesome.com,DIRECT
 
-# > Xbox
-HOST-SUFFIX,xboxlive.com,DIRECT
-HOST-SUFFIX,xbox.com,DIRECT
+# > IP Query
+HOST-SUFFIX,ip.la,DIRECT
+HOST-SUFFIX,ipip.net,DIRECT
+HOST-SUFFIX,ip-cdn.com,DIRECT
+HOST-SUFFIX,ipv6-test.com,DIRECT
+HOST-SUFFIX,test-ipv6.com,DIRECT
+HOST-SUFFIX,whatismyip.com,DIRECT
 
 # > MSN
 HOST-SUFFIX,msn.com,DIRECT
@@ -92,6 +161,15 @@ HOST-SUFFIX,sfx.ms,DIRECT
 HOST-SUFFIX,gfx.ms,DIRECT
 HOST-SUFFIX,digicert.com,DIRECT
 
+# > Mozilla
+HOST-SUFFIX,mozilla.com,DIRECT
+HOST-SUFFIX,firefox.com,DIRECT
+HOST-SUFFIX,mozilla.org,DIRECT
+
+# > Outlook
+HOST-SUFFIX,outlook.com,DIRECT
+HOST-SUFFIX,hotmail.com,DIRECT
+
 # >> OneDrive
 USER-AGENT,OneDrive*,DIRECT
 USER-AGENT,OneDriveiOSApp*,DIRECT
@@ -99,42 +177,23 @@ HOST-SUFFIX,1drv.com,DIRECT
 HOST-SUFFIX,onedrive.com,DIRECT
 HOST-SUFFIX,onedrive.live.com,PROXY
 
-# > CDN
-HOST-SUFFIX,ccgslb.com,DIRECT
-HOST-SUFFIX,ccgslb.net,DIRECT
-HOST-SUFFIX,chinanetcenter.com,DIRECT
-HOST-SUFFIX,meixincdn.com,DIRECT
-HOST-SUFFIX,ourdvs.com,DIRECT
-HOST-SUFFIX,staticdn.net,DIRECT
-HOST-SUFFIX,wangsu.com,DIRECT
+# > Oracle
+HOST-SUFFIX,java.com,DIRECT
+HOST-SUFFIX,oracle.com,DIRECT
+HOST-SUFFIX,oraclecloud.com,DIRECT
+HOST-SUFFIX,oracleimg.com,DIRECT
 
-# > Akamai
-HOST-SUFFIX,akadns.net,DIRECT
-HOST-SUFFIX,akamai.net,DIRECT
-HOST-SUFFIX,akamaiedge.net,DIRECT
-HOST-SUFFIX,akamaihd.net,DIRECT
-HOST-SUFFIX,akamaistream.net,DIRECT
-HOST-SUFFIX,akamaized.net,DIRECT
-
-# > DiDi
-HOST-SUFFIX,didiglobal.com,DIRECT
-HOST-SUFFIX,comodoca.com,DIRECT
-HOST-SUFFIX,sectigo.com,DIRECT
-
-# > Antivirus
-HOST-SUFFIX,avast.com,DIRECT
-HOST-SUFFIX,avira.com,DIRECT
-HOST-SUFFIX,kaspersky.com,DIRECT
-HOST-SUFFIX,mixpanel.com,DIRECT
-HOST-SUFFIX,trustpilot.com,DIRECT
-
-# > IP Query
-HOST-SUFFIX,ip.la,DIRECT
-HOST-SUFFIX,ipip.net,DIRECT
-HOST-SUFFIX,ip-cdn.com,DIRECT
-HOST-SUFFIX,ipv6-test.com,DIRECT
-HOST-SUFFIX,test-ipv6.com,DIRECT
-HOST-SUFFIX,whatismyip.com,DIRECT
+# > Other
+HOST-SUFFIX,geotrust.com,DIRECT
+HOST-SUFFIX,hostloc.com,DIRECT
+HOST-SUFFIX,sitegur.com,DIRECT
+HOST-SUFFIX,qwant.com,DIRECT
+HOST-SUFFIX,vmware.com,DIRECT
+HOST-SUFFIX,nvidia.com,DIRECT
+HOST-SUFFIX,linkedin.com,DIRECT
+HOST-SUFFIX,teamviewer.com,DIRECT
+HOST-SUFFIX,mpyit.com,DIRECT
+HOST-SUFFIX,digitalcertvalidation.com,DIRECT
 
 # > PT
 HOST-SUFFIX,awesome-hd.me,DIRECT
@@ -159,60 +218,6 @@ HOST-SUFFIX,springsunday.net,DIRECT
 HOST-SUFFIX,tjupt.org,DIRECT
 HOST-SUFFIX,totheglory.im,DIRECT
 
-# > Other
-HOST-SUFFIX,geotrust.com,DIRECT
-HOST-SUFFIX,hostloc.com,DIRECT
-HOST-SUFFIX,sitegur.com,DIRECT
-HOST-SUFFIX,qwant.com,DIRECT
-HOST-SUFFIX,vmware.com,DIRECT
-HOST-SUFFIX,nvidia.com,DIRECT
-HOST-SUFFIX,linkedin.com,DIRECT
-HOST-SUFFIX,teamviewer.com,DIRECT
-HOST-SUFFIX,mpyit.com,DIRECT
-HOST-SUFFIX,digitalcertvalidation.com,DIRECT
-
-# > Adobe
-HOST-SUFFIX,adobe.com,DIRECT
-HOST-SUFFIX,adobelogin.com,DIRECT
-HOST-SUFFIX,typekit.use,DIRECT
-HOST-SUFFIX,evidon.com,DIRECT
-HOST-SUFFIX,adobe.io,DIRECT
-
-# > Oracle
-HOST-SUFFIX,java.com,DIRECT
-HOST-SUFFIX,oracle.com,DIRECT
-HOST-SUFFIX,oraclecloud.com,DIRECT
-HOST-SUFFIX,oracleimg.com,DIRECT
-
-# > Amazon
-HOST-KEYWORD,amazon.com,DIRECT
-HOST-SUFFIX,amazonpay.com,DIRECT
-
-# > AMD
-HOST-SUFFIX,amd.com,DIRECT
-HOST-SUFFIX,letsencrypt.org,DIRECT
-HOST-SUFFIX,hotjar.com,DIRECT
-HOST-SUFFIX,acquia.com,DIRECT
-HOST-SUFFIX,addthis.com,DIRECT
-
-# > ASUS
-HOST-SUFFIX,asus.com,DIRECT
-HOST-SUFFIX,cdn.jice.io,DIRECT
-
-# > GIGABYTE
-HOST-SUFFIX,gigabyte.com,DIRECT
-HOST-SUFFIX,gigabyte.hk,DIRECT
-HOST-SUFFIX,gigabyte.tw,DIRECT
-HOST-SUFFIX,fontawesome.com,DIRECT
-
-# > WD
-HOST-SUFFIX,wd.com,DIRECT
-HOST-SUFFIX,wdc.com,DIRECT
-HOST-SUFFIX,mycloud.com,DIRECT
-HOST-SUFFIX,westerndigital.com,DIRECT
-HOST-SUFFIX,trustarc.com,DIRECT
-HOST-SUFFIX,sandisk.com,DIRECT
-
 # > Seagate
 HOST-SUFFIX,seagate.com,DIRECT
 
@@ -223,40 +228,105 @@ HOST,cdn.livechatinc.com,DIRECT
 # > Samsung
 HOST-SUFFIX,adobedtm.com,DIRECT
 
+# > WD
+HOST-SUFFIX,wd.com,DIRECT
+HOST-SUFFIX,wdc.com,DIRECT
+HOST-SUFFIX,mycloud.com,DIRECT
+HOST-SUFFIX,westerndigital.com,DIRECT
+HOST-SUFFIX,trustarc.com,DIRECT
+HOST-SUFFIX,sandisk.com,DIRECT
+
+# > Xbox
+HOST-SUFFIX,xboxlive.com,DIRECT
+HOST-SUFFIX,xbox.com,DIRECT
+
+# > 代理
 # > Github
 HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,githubapp.com,PROXY
 HOST-SUFFIX,githubassets.com,PROXY
 HOST-SUFFIX,githubusercontent.com,PROXY
 
-# > Cloudflare
-HOST-SUFFIX,cloudflare.com,DIRECT
-IP-CIDR,173.245.48.0/20,DIRECT
-IP-CIDR,103.21.244.0/22,DIRECT
-IP-CIDR,103.22.200.0/22,DIRECT
-IP-CIDR,103.31.4.0/22,DIRECT
-IP-CIDR,141.101.64.0/18,DIRECT
-IP-CIDR,108.162.192.0/18,DIRECT
-IP-CIDR,190.93.240.0/20,DIRECT
-IP-CIDR,188.114.96.0/20,DIRECT
-IP-CIDR,197.234.240.0/22,DIRECT
-IP-CIDR,198.41.128.0/17,DIRECT
-IP-CIDR,162.158.0.0/15,DIRECT
-IP-CIDR,104.16.0.0/12,DIRECT
-IP-CIDR,172.64.0.0/13,DIRECT
-IP-CIDR,131.0.72.0/22,DIRECT
+# > GeoLite2
+HOST-SUFFIX,maxmind.com,PROXY
+HOST,quantumult.crossutility.com,PROXY
 
-# > Steam
-HOST-SUFFIX,steampowered.com,DIRECT
-HOST-SUFFIX,steam-chat.com,DIRECT
-HOST-SUFFIX,steamgames.com,DIRECT
-HOST-SUFFIX,steamusercontent.com,DIRECT
-HOST-SUFFIX,steamcontent.com,DIRECT
-HOST-SUFFIX,steamstatic.com,DIRECT
-HOST-SUFFIX,steamstat.us,DIRECT
+# > Google
+DOMAIN-SUFFIX,abc.xyz,PROXY
+DOMAIN-SUFFIX,android.com,PROXY
+DOMAIN-SUFFIX,androidify.com,PROXY
+DOMAIN-SUFFIX,dialogflow.com,PROXY
+DOMAIN-SUFFIX,autodraw.com,PROXY
+DOMAIN-SUFFIX,capitalg.com,PROXY
+DOMAIN-SUFFIX,certificate-transparency.org,PROXY
+DOMAIN-SUFFIX,chrome.com,PROXY
+DOMAIN-SUFFIX,chromeexperiments.com,PROXY
+DOMAIN-SUFFIX,chromestatus.com,PROXY
+DOMAIN-SUFFIX,chromium.org,PROXY
+DOMAIN-SUFFIX,creativelab5.com,PROXY
+DOMAIN-SUFFIX,debug.com,PROXY
+DOMAIN-SUFFIX,deepmind.com,PROXY
+DOMAIN-SUFFIX,firebaseio.com,PROXY
+DOMAIN-SUFFIX,getmdl.io,PROXY
+DOMAIN-SUFFIX,ggpht.com,PROXY
+DOMAIN-SUFFIX,gmail.com,PROXY
+DOMAIN-SUFFIX,gmodules.com,PROXY
+DOMAIN-SUFFIX,godoc.org,PROXY
+DOMAIN-SUFFIX,golang.org,PROXY
+DOMAIN-SUFFIX,gstatic.com,PROXY
+DOMAIN-SUFFIX,gv.com,PROXY
+DOMAIN-SUFFIX,gwtproject.org,PROXY
+DOMAIN-SUFFIX,itasoftware.com,PROXY
+DOMAIN-SUFFIX,madewithcode.com,PROXY
+DOMAIN-SUFFIX,material.io,PROXY
+DOMAIN-SUFFIX,polymer-project.org,PROXY
+DOMAIN-SUFFIX,admin.recaptcha.net,PROXY
+DOMAIN-SUFFIX,recaptcha.net,PROXY
+DOMAIN-SUFFIX,shattered.io,PROXY
+DOMAIN-SUFFIX,synergyse.com,PROXY
+DOMAIN-SUFFIX,tensorflow.org,PROXY
+DOMAIN-SUFFIX,tfhub.dev,PROXY
+DOMAIN-SUFFIX,tiltbrush.com,PROXY
+DOMAIN-SUFFIX,waveprotocol.org,PROXY
+DOMAIN-SUFFIX,waymo.com,PROXY
+DOMAIN-SUFFIX,webmproject.org,PROXY
+DOMAIN-SUFFIX,webrtc.org,PROXY
+DOMAIN-SUFFIX,whatbrowser.org,PROXY
+DOMAIN-SUFFIX,widevine.com,PROXY
+DOMAIN-SUFFIX,x.company,PROXY
+DOMAIN-SUFFIX,youtu.be,PROXY
+DOMAIN-SUFFIX,yt.be,PROXY
+DOMAIN-SUFFIX,ytimg.com,PROXY
+# (DNS Cache Pollution Protection)
+DOMAIN-SUFFIX,appspot.com,PROXY
+DOMAIN-SUFFIX,blogger.com,PROXY
+DOMAIN-SUFFIX,getoutline.org,PROXY
+DOMAIN-SUFFIX,gvt0.com,PROXY
+DOMAIN-SUFFIX,gvt1.com,PROXY
+DOMAIN-SUFFIX,gvt3.com,PROXY
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
+DOMAIN-KEYWORD,google,PROXY
+DOMAIN-KEYWORD,blogspot,PROXY
 
-# China
-HOST-SUFFIX,cn,DIRECT
+# > Telegram
+DOMAIN-SUFFIX,t.me,PROXY
+DOMAIN-SUFFIX,tdesktop.com,PROXY
+DOMAIN-SUFFIX,telegra.ph,PROXY
+DOMAIN-SUFFIX,telegram.me,PROXY
+DOMAIN-SUFFIX,telegram.org,PROXY
+IP-CIDR,67.198.55.0/24,PROXY
+IP-CIDR,91.108.4.0/22,PROXY
+IP-CIDR,91.108.8.0/22,PROXY
+IP-CIDR,91.108.12.0/22,PROXY
+IP-CIDR,91.108.16.0/22,PROXY
+IP-CIDR,91.108.56.0/22,PROXY
+IP-CIDR,109.239.140.0/24,PROXY
+IP-CIDR,149.154.160.0/20,PROXY
+IP-CIDR,205.172.60.0/22,PROXY
 
-# DNSPod Public DNS+
-IP-CIDR,119.28.28.28/32,DIRECT
+# > YouTube
+USER-AGENT,com.google.ios.youtube*,PROXY
+USER-AGENT,YouTube*,PROXY
+DOMAIN-SUFFIX,googlevideo.com,PROXY
+DOMAIN-SUFFIX,youtube.com,PROXY
+DOMAIN,youtubei.googleapis.com,PROXY
