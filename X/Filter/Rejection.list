@@ -4,8 +4,5 @@ HOST,res.mall.10010.cn,REJECT
 # > Google
 HOST-SUFFIX,app-measurement.com,REJECT
 
-# > Paypal
-HOST-SUFFIX,crashlytics.com,REJECT
-
 # > Microsoft
 HOST,gate.hockeyapp.net,REJECT
