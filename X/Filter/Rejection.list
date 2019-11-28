@@ -5,9 +5,6 @@ HOST,res.mall.10010.cn,REJECT
 HOST-SUFFIX,app-measurement.com,REJECT
 
 # > Paypal
-HOST,nativesdks.mparticle.com,REJECT
-HOST,config2.mparticle.com,REJECT
-HOST,identity.mparticle.com,REJECT
 HOST-SUFFIX,crashlytics.com,REJECT
 
 # > Microsoft
