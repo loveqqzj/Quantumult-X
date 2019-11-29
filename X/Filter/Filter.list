@@ -38,8 +38,7 @@ HOST-SUFFIX,mzstatic.com,DIRECT
 HOST-SUFFIX,cdn-apple.com,DIRECT
 HOST-SUFFIX,icloud-content.com,DIRECT
 HOST-SUFFIX,apple-cloudkit.com,DIRECT
-HOST-SUFFIX,crashlytics.com,DIRECT
-HOST,www-cdn.icloud.com.akadns.net,DIRECT
+HOST,dispatcher.is.autonavi.com,DIRECT
 
 # > Apple Weather
 HOST-SUFFIX,weather.com,DIRECT
