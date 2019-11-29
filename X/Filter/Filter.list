@@ -63,6 +63,7 @@ HOST-SUFFIX,adobe.io,DIRECT
 # > Amazon
 HOST-KEYWORD,amazon.com,DIRECT
 HOST-SUFFIX,amazonpay.com,DIRECT
+HOST-SUFFIX,amazonaws.com,DIRECT
 
 # China
 HOST-SUFFIX,cn,DIRECT
@@ -117,7 +118,8 @@ HOST-SUFFIX,whatismyip.com,DIRECT
 
 # > Microsoft
 USER-AGENT,Microsoft*,DIRECT
-HOST-KEYWORD,microsoft,DIRECT
+HOST-SUFFIX,microsoft.com,DIRECT
+HOST-SUFFIX,microsoftonline.com,DIRECT
 HOST-SUFFIX,bing.com,DIRECT
 HOST-SUFFIX,bing.net,DIRECT
 HOST-SUFFIX,msn.com,DIRECT
@@ -183,6 +185,12 @@ HOST-SUFFIX,springsunday.net,DIRECT
 HOST-SUFFIX,tjupt.org,DIRECT
 HOST-SUFFIX,totheglory.im,DIRECT
 
+# > TeamViewer
+IP-CIDR,185.188.32.0/24,DIRECT
+IP-CIDR,185.188.33.0/24,DIRECT
+IP-CIDR,185.188.34.0/24,DIRECT
+IP-CIDR,185.188.35.0/24,DIRECT
+
 # > WD
 HOST-SUFFIX,wd.com,DIRECT
 HOST-SUFFIX,wdc.com,DIRECT
@@ -195,6 +203,10 @@ HOST-SUFFIX,xboxlive.com,DIRECT
 HOST-SUFFIX,xbox.com,DIRECT
 
 # > 代理
+# > APKPure
+HOST-SUFFIX,apkpure.com,PROXY
+HOST-SUFFIX,appdownloader.net,PROXY
+
 # > Github
 HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,githubapp.com,PROXY
