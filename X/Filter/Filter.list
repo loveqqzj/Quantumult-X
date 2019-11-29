@@ -73,6 +73,7 @@ HOST-SUFFIX,adobe.io,DIRECT
 HOST-KEYWORD,amazon.com,DIRECT
 HOST-SUFFIX,amazonpay.com,DIRECT
 HOST-SUFFIX,amazonaws.com,DIRECT
+HOST-SUFFIX,amazontrust.com,DIRECT
 
 # China
 HOST-SUFFIX,cn,DIRECT
@@ -106,10 +107,9 @@ HOST-SUFFIX,ourdvs.com,DIRECT
 HOST-SUFFIX,staticdn.net,DIRECT
 HOST-SUFFIX,wangsu.com,DIRECT
 
-# > Office
-HOST-SUFFIX,office.com,DIRECT
-HOST-SUFFIX,office.net,DIRECT
-HOST-SUFFIX,office365.com,DIRECT
+# > Evernote
+HOST-SUFFIX,evernote.com,DIRECT
+
 
 # > IP Query
 HOST-SUFFIX,ip.la,DIRECT
@@ -118,6 +118,11 @@ HOST-SUFFIX,ip-cdn.com,DIRECT
 HOST-SUFFIX,ipv6-test.com,DIRECT
 HOST-SUFFIX,test-ipv6.com,DIRECT
 HOST-SUFFIX,whatismyip.com,DIRECT
+
+# > Mozilla
+HOST-SUFFIX,mozilla.com,DIRECT
+HOST-SUFFIX,firefox.com,DIRECT
+HOST-SUFFIX,mozilla.org,DIRECT
 
 # > Microsoft
 USER-AGENT,Microsoft*,DIRECT
@@ -141,17 +146,36 @@ HOST-SUFFIX,windows.net,DIRECT
 HOST-SUFFIX,live.com,DIRECT
 HOST-SUFFIX,live.net,DIRECT
 HOST-SUFFIX,skype.com,DIRECT
+HOST-SUFFIX,aka.ms,DIRECT
+HOST,ocsp.digicert.com,DIRECT
 
-# > Mozilla
-HOST-SUFFIX,mozilla.com,DIRECT
-HOST-SUFFIX,firefox.com,DIRECT
-HOST-SUFFIX,mozilla.org,DIRECT
+# > Office
+HOST-SUFFIX,office.com,DIRECT
+HOST-SUFFIX,office.net,DIRECT
+HOST-SUFFIX,office365.com,DIRECT
+HOST-KEYWORD,office365,DIRECT
+HOST-KEYWORD,o365,DIRECT
 
 # > Outlook
 HOST-SUFFIX,outlook.com,DIRECT
 HOST-SUFFIX,hotmail.com,DIRECT
 HOST-SUFFIX,acompli.net,DIRECT
 HOST,acompli.helpshift.com,DIRECT
+HOST-SUFFIX,azurewebsites.net,DIRECT
+HOST-KEYWORD,outlook,DIRECT
+HOST-SUFFIX,concurlabs.com,DIRECT
+HOST,api.franconnect.net,DIRECT
+HOST,assets.gfycat.com,DIRECT
+HOST,www.moxtra1.com,DIRECT
+HOST,addins.mr2020.tech,DIRECT
+HOST,app.nimble.com,DIRECT
+HOST,cinnamon.oneplaceapps.net,DIRECT
+HOST,sync.appfluence.com,DIRECT
+HOST-SUFFIX,cloudfront.net,DIRECT
+HOST,smart-addinsf.invisible.io,DIRECT
+HOST,msaddins.smartsheet.com,DIRECT
+HOST-SUFFIX,cdn.wrike.com,DIRECT
+HOST-SUFFIX,aspnetcdn.com,DIRECT
 
 # >> OneDrive
 USER-AGENT,OneDrive*,DIRECT
