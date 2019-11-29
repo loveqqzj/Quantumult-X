@@ -171,11 +171,13 @@ HOST,addins.mr2020.tech,DIRECT
 HOST,app.nimble.com,DIRECT
 HOST,cinnamon.oneplaceapps.net,DIRECT
 HOST,sync.appfluence.com,DIRECT
+HOST,ea.pstmrk.it,DIRECT
 HOST-SUFFIX,cloudfront.net,DIRECT
 HOST,smart-addinsf.invisible.io,DIRECT
 HOST,msaddins.smartsheet.com,DIRECT
 HOST-SUFFIX,cdn.wrike.com,DIRECT
 HOST-SUFFIX,aspnetcdn.com,DIRECT
+
 
 # >> OneDrive
 USER-AGENT,OneDrive*,DIRECT
