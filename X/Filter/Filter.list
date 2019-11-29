@@ -7,16 +7,6 @@ USER-AGENT,PayPal*,PayPal
 HOST-KEYWORD,paypal,PayPal
 HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
-HOST,ocsp.digicert.com,PayPal
-HOST,config2.mparticle.com,PayPal
-HOST,identity.mparticle.com,PayPal
-HOST,nativesdks.mparticle.com,PayPal
-HOST,ocsp.trust-provider.com,PayPal
-HOST,ocsp.usertrust.com,PayPal
-HOST,e.crashlytics.com,PayPal
-HOST,settings.crashlytics.com,PayPal
-HOST,ocsp.sectigo.com,PayPal
-HOST,app.adjust.com,PayPal
 
 # > 国内直连
 # > 1Password
@@ -127,29 +117,25 @@ HOST-SUFFIX,test-ipv6.com,DIRECT
 HOST-SUFFIX,whatismyip.com,DIRECT
 
 # > Microsoft
-HOST-SUFFIX,aspnetcdn.com,DIRECT
-HOST-SUFFIX,onestore.ms,DIRECT
-HOST-SUFFIX,microsoft.com,DIRECT
-HOST-SUFFIX,microsoftonline.com,DIRECT
-HOST-SUFFIX,microsoftestore.com,DIRECT
-HOST-SUFFIX,microsoftedgeinsider.com,DIRECT
+USER-AGENT,Microsoft*,DIRECT
+HOST-KEYWORD,microsoft,DIRECT
+HOST-SUFFIX,bing.com,DIRECT
+HOST-SUFFIX,bing.net,DIRECT
+HOST-SUFFIX,msn.com,DIRECT
 HOST-SUFFIX,msecnd.net,DIRECT
 HOST-SUFFIX,msocdn.com,DIRECT
 HOST-SUFFIX,msauth.com,DIRECT
 HOST-SUFFIX,msauth.net,DIRECT
-HOST-SUFFIX,azureedge.net,DIRECT
+HOST-SUFFIX,msedge.net,DIRECT
 HOST-SUFFIX,onenote.com,DIRECT
+HOST-SUFFIX,onenote.net,DIRECT
 HOST-SUFFIX,s-microsoft.com,DIRECT
 HOST-SUFFIX,visualstudio.com,DIRECT
 HOST-SUFFIX,windows.com,DIRECT
 HOST-SUFFIX,windows.net,DIRECT
-HOST-SUFFIX,windowsupdate.com,DIRECT
 HOST-SUFFIX,live.com,DIRECT
 HOST-SUFFIX,live.net,DIRECT
 HOST-SUFFIX,skype.com,DIRECT
-HOST-SUFFIX,sfx.ms,DIRECT
-HOST-SUFFIX,gfx.ms,DIRECT
-HOST-SUFFIX,digicert.com,DIRECT
 
 # > Mozilla
 HOST-SUFFIX,mozilla.com,DIRECT
@@ -200,7 +186,6 @@ HOST-SUFFIX,wd.com,DIRECT
 HOST-SUFFIX,wdc.com,DIRECT
 HOST-SUFFIX,mycloud.com,DIRECT
 HOST-SUFFIX,westerndigital.com,DIRECT
-HOST-SUFFIX,trustarc.com,DIRECT
 HOST-SUFFIX,sandisk.com,DIRECT
 
 # > Xbox
@@ -214,7 +199,7 @@ HOST-SUFFIX,githubapp.com,PROXY
 HOST-SUFFIX,githubassets.com,PROXY
 HOST-SUFFIX,githubusercontent.com,PROXY
 
-# > GeoLite2
+# > GeoLite2 Update
 HOST-SUFFIX,maxmind.com,PROXY
 HOST,quantumult.crossutility.com,PROXY
 
@@ -223,8 +208,8 @@ HOST-SUFFIX,chrome.com,PROXY
 HOST-SUFFIX,gmail.com,PROXY
 HOST-SUFFIX,gstatic.com,PROXY
 HOST-KEYWORD,google,PROXY
-HOST-SUFFIX,googlevideo.com,PROXY
-HOST-SUFFIX,youtube.com,PROXY
+IP-CIDR,173.194.0.0/16,PROXY
+IP-CIDR,74.125.0.0/16,PROXY
 
 # > Telegram
 HOST-SUFFIX,t.me,PROXY
@@ -242,3 +227,11 @@ IP-CIDR,109.239.140.0/24,PROXY
 IP-CIDR,149.154.160.0/20,PROXY
 IP-CIDR,205.172.60.0/22,PROXY
 
+# > YouTube
+USER-AGENT,*youtube*,PROXY
+USER-AGENT,YouTube*,PROXY
+HOST-KEYWORD,youtube,PROXY
+HOST-SUFFIX,gvt2.com,PROXY
+HOST-SUFFIX,youtu.be,PROXY
+HOST-SUFFIX,yt.be,PROXY
+HOST-SUFFIX,ytimg.com,PROXY
