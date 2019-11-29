@@ -258,13 +258,13 @@ HOST-SUFFIX,adjust.com,REJECT
 HOST-SUFFIX,crashlytics.com,REJECT
 HOST-SUFFIX,mparticle.com,REJECT
 HOST-SUFFIX,eloqua.com,REJECT
-#HOST,app.adjust.com,REJECT
-#HOST,e.crashlytics.com,REJECT
-#HOST,settings.crashlytics.com,REJECT
-#HOST,nativesdks.mparticle.com,REJECT
-#HOST,config2.mparticle.com,REJECT
-#HOST,identity.mparticle.com,REJECT
-#HOST,s94483084.t.eloqua.com,REJECT
+;HOST,app.adjust.com,REJECT
+;HOST,e.crashlytics.com,REJECT
+;HOST,settings.crashlytics.com,REJECT
+;HOST,nativesdks.mparticle.com,REJECT
+;HOST,config2.mparticle.com,REJECT
+;HOST,identity.mparticle.com,REJECT
+;HOST,s94483084.t.eloqua.com,REJECT
 
 # > SMZDM
 HOST-SUFFIX,res-ga.smzdm.com,REJECT
