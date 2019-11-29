@@ -10,6 +10,7 @@ HOST-SUFFIX,paypalobjects.com,PayPal
 
 # > 国内直连
 # > Other
+HOST-SUFFIX,cn,DIRECT
 HOST-SUFFIX,hostloc.com,DIRECT
 HOST-SUFFIX,qwant.com,DIRECT
 
@@ -74,11 +75,9 @@ HOST-SUFFIX,amazonpay.com,DIRECT
 HOST-SUFFIX,amazonaws.com,DIRECT
 HOST-SUFFIX,amazontrust.com,DIRECT
 
-# China
-HOST-SUFFIX,cn,DIRECT
-
-# DNSPod Public DNS+
-IP-CIDR,114.114.114.114/32,DIRECT
+# Bitwarden
+HOST-SUFFIX,bitwarden.com,DIRECT
+HOST,maxcdn.bootstrapcdn.com,DIRECT
 
 # > Cloudflare
 HOST-SUFFIX,cloudflare.com,DIRECT
@@ -109,7 +108,6 @@ HOST-SUFFIX,wangsu.com,DIRECT
 # > Evernote
 HOST-SUFFIX,evernote.com,DIRECT
 
-
 # > IP Query
 HOST-SUFFIX,ip.la,DIRECT
 HOST-SUFFIX,ipip.net,DIRECT
@@ -117,6 +115,11 @@ HOST-SUFFIX,ip-cdn.com,DIRECT
 HOST-SUFFIX,ipv6-test.com,DIRECT
 HOST-SUFFIX,test-ipv6.com,DIRECT
 HOST-SUFFIX,whatismyip.com,DIRECT
+
+# > Lastpass
+HOST-SUFFIX,lastpass.com,DIRECT
+HOST-SUFFIX,cdn.lmiutil.com,DIRECT
+HOST,ocsp2.globalsign.com,DIRECT
 
 # > Mozilla
 HOST-SUFFIX,mozilla.com,DIRECT
@@ -150,6 +153,7 @@ HOST,ocsp.digicert.com,DIRECT
 HOST,i2.wp.com,DIRECT
 HOST,mem.gfx.ms,DIRECT
 HOST,assets.onestore.ms,DIRECT
+HOST,msftenterprise.sc.omtrdc.net,DIRECT
 HOST-KEYWORD,microsof,DIRECT
 
 # > Office
@@ -281,3 +285,6 @@ HOST-SUFFIX,gvt2.com,PROXY
 HOST-SUFFIX,youtu.be,PROXY
 HOST-SUFFIX,yt.be,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
+
+# DNSPod Public DNS+
+IP-CIDR,114.114.114.114/32,DIRECT
