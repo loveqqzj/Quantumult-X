@@ -161,6 +161,7 @@ HOST-SUFFIX,outlook.com,DIRECT
 HOST-SUFFIX,hotmail.com,DIRECT
 HOST-SUFFIX,acompli.net,DIRECT
 HOST,acompli.helpshift.com,DIRECT
+HOST,sws-a.helpshift.com,DIRECT
 HOST-SUFFIX,azurewebsites.net,DIRECT
 HOST-KEYWORD,outlook,DIRECT
 HOST-SUFFIX,concurlabs.com,DIRECT
@@ -177,7 +178,6 @@ HOST,smart-addinsf.invisible.io,DIRECT
 HOST,msaddins.smartsheet.com,DIRECT
 HOST-SUFFIX,cdn.wrike.com,DIRECT
 HOST-SUFFIX,aspnetcdn.com,DIRECT
-
 
 # >> OneDrive
 USER-AGENT,OneDrive*,DIRECT
