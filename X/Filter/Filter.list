@@ -14,7 +14,7 @@ HOST,nativesdks.mparticle.com,PayPal
 HOST,ocsp.trust-provider.com,PayPal
 HOST,ocsp.usertrust.com,PayPal
 HOST,e.crashlytics.com,PayPal
-HOST,setting.crashlytics.com,PayPal
+HOST,settings.crashlytics.com,PayPal
 HOST,ocsp.sectigo.com,PayPal
 HOST,app.adjust.com,PayPal
 
