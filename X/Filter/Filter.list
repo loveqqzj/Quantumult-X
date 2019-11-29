@@ -184,6 +184,7 @@ USER-AGENT,OneDriveiOSApp*,DIRECT
 HOST-SUFFIX,1drv.com,DIRECT
 HOST-SUFFIX,onedrive.com,DIRECT
 HOST-SUFFIX,onedrive.live.com,PROXY
+HOST,eastus21.mediap.svc.ms,DIRECT
 
 # > PT
 HOST-SUFFIX,awesome-hd.me,DIRECT
