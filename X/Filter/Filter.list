@@ -44,6 +44,7 @@ HOST-SUFFIX,aaplimg.com,DIRECT
 HOST-SUFFIX,appstore.com,DIRECT
 HOST-SUFFIX,mzstatic.com,DIRECT
 HOST-SUFFIX,cdn-apple.com,DIRECT
+HOST-SUFFIX,crashlytics.com,DIRECT
 HOST-SUFFIX,icloud-content.com,DIRECT
 HOST-SUFFIX,apple-cloudkit.com,DIRECT
 HOST,dispatcher.is.autonavi.com,DIRECT
