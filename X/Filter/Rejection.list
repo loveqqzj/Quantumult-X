@@ -249,9 +249,9 @@ HOST,wmlog.meituan.com,REJECT
 HOST,app.adjust.com,REJECT
 HOST,e.crashlytics.com,REJECT
 HOST,settings.crashlytics.com,REJECT
-HOST,nativesdks.mparticle.com,PayPal
-HOST,config2.mparticle.com,PayPal
-HOST,identity.mparticle.com,PayPal
+HOST,nativesdks.mparticle.com,REJECT
+HOST,config2.mparticle.com,REJECT
+HOST,identity.mparticle.com,REJECT
 
 # > Tencent
 HOST-SUFFIX,beacon.qq.com,REJECT
