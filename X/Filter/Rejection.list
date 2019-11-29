@@ -1,3 +1,22 @@
+# > General
+HOST-KEYWORD,adservice,REJECT
+HOST-KEYWORD,analytics,REJECT
+HOST-KEYWORD,analysis,REJECT
+HOST-SUFFIX,adinfuse.com,REJECT
+HOST-SUFFIX,adjust.com,REJECT
+HOST-SUFFIX,adjust.io,REJECT
+HOST-SUFFIX,admaster.com.cn,REJECT
+HOST-SUFFIX,admob.com,REJECT
+HOST-SUFFIX,adnxs.com,REJECT
+HOST-SUFFIX,adnyg.com,REJECT
+HOST-SUFFIX,adsensor.org,REJECT
+HOST-SUFFIX,adsymptotic.com,REJECT
+HOST-SUFFIX,adtarget.tech,REJECT
+HOST-SUFFIX,adthor.com,REJECT
+HOST-SUFFIX,adwhirl.com,REJECT
+HOST-SUFFIX,amazon-adsystem.com,REJECT
+HOST-SUFFIX,crashlytics.com,REJECT
+
 # > 12306
 HOST,res.mall.10010.cn,REJECT
 HOST,ad.12306.cn,REJECT
@@ -201,24 +220,6 @@ HOST-SUFFIX,googleadsserving.cn,REJECT
 HOST-SUFFIX,googlesyndication.com,REJECT
 HOST-SUFFIX,googletagmanager.com,REJECT
 HOST-SUFFIX,googletagservices.com,REJECT
-
-# > General
-HOST-KEYWORD,adservice,REJECT
-HOST-KEYWORD,analytics,REJECT
-HOST-KEYWORD,analysis,REJECT
-HOST-SUFFIX,adinfuse.com,REJECT
-HOST-SUFFIX,adjust.com,REJECT
-HOST-SUFFIX,adjust.io,REJECT
-HOST-SUFFIX,admaster.com.cn,REJECT
-HOST-SUFFIX,admob.com,REJECT
-HOST-SUFFIX,adnxs.com,REJECT
-HOST-SUFFIX,adnyg.com,REJECT
-HOST-SUFFIX,adsensor.org,REJECT
-HOST-SUFFIX,adsymptotic.com,REJECT
-HOST-SUFFIX,adtarget.tech,REJECT
-HOST-SUFFIX,adthor.com,REJECT
-HOST-SUFFIX,adwhirl.com,REJECT
-HOST-SUFFIX,amazon-adsystem.com,REJECT
 
 # > Kingsoft
 HOST,ad-stat.ksosoft.com,REJECT
