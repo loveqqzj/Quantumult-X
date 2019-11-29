@@ -261,6 +261,7 @@ HOST,settings.crashlytics.com,REJECT
 HOST,nativesdks.mparticle.com,REJECT
 HOST,config2.mparticle.com,REJECT
 HOST,identity.mparticle.com,REJECT
+HOST,s94483084.t.eloqua.com,REJECT
 
 # > SMZDM
 HOST-SUFFIX,res-ga.smzdm.com,REJECT
