@@ -2,9 +2,7 @@
 HOST-KEYWORD,adservice,REJECT
 HOST-KEYWORD,analytics,REJECT
 HOST-KEYWORD,analysis,REJECT
-HOST-SUFFIX,adjust.com,REJECT
 HOST-SUFFIX,adjust.io,REJECT
-HOST-SUFFIX,crashlytics.com,REJECT
 HOST-SUFFIX,adinfuse.com,REJECT
 HOST-SUFFIX,admaster.com.cn,REJECT
 HOST-SUFFIX,admob.com,REJECT
@@ -246,6 +244,14 @@ HOST,tracking.intl.miui.com,REJECT
 
 # > Meituan
 HOST,wmlog.meituan.com,REJECT
+
+# > PayPal
+HOST,app.adjust.com,REJECT
+HOST,e.crashlytics.com,REJECT
+HOST,settings.crashlytics.com,REJECT
+HOST,nativesdks.mparticle.com,PayPal
+HOST,config2.mparticle.com,PayPal
+HOST,identity.mparticle.com,PayPal
 
 # > Tencent
 HOST-SUFFIX,beacon.qq.com,REJECT
