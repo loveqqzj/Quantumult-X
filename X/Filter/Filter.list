@@ -127,6 +127,7 @@ HOST-SUFFIX,msocdn.com,DIRECT
 HOST-SUFFIX,msauth.com,DIRECT
 HOST-SUFFIX,msauth.net,DIRECT
 HOST-SUFFIX,msedge.net,DIRECT
+HOST-SUFFIX,azureedge.net,DIRECT
 HOST-SUFFIX,onenote.com,DIRECT
 HOST-SUFFIX,onenote.net,DIRECT
 HOST-SUFFIX,s-microsoft.com,DIRECT
@@ -145,6 +146,8 @@ HOST-SUFFIX,mozilla.org,DIRECT
 # > Outlook
 HOST-SUFFIX,outlook.com,DIRECT
 HOST-SUFFIX,hotmail.com,DIRECT
+HOST-SUFFIX,acompli.net,DIRECT
+HOST,acompli.helpshift.com,DIRECT
 
 # >> OneDrive
 USER-AGENT,OneDrive*,DIRECT
