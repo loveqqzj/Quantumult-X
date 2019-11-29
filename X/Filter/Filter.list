@@ -9,6 +9,10 @@ HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
 
 # > 国内直连
+# > Other
+HOST-SUFFIX,hostloc.com,DIRECT
+HOST-SUFFIX,qwant.com,DIRECT
+
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
 HOST-SUFFIX,1password.eu,DIRECT
@@ -21,10 +25,14 @@ HOST-SUFFIX,1.1.1.1,DIRECT
 HOST-SUFFIX,jquery.com,DIRECT
 HOST-SUFFIX,gravatar.com,DIRECT
 
+# > Accelerate direct sites
+HOST-KEYWORD,torrent,DIRECT
+
 # > Alibaba
 HOST-SUFFIX,alicdn.com,DIRECT
 HOST-SUFFIX,alipay.com,DIRECT
 HOST-SUFFIX,aliyuncs.com,DIRECT
+HOST-SUFFIX,alipayobjects.com,DIRECT
 
 # > Apple
 IP-CIDR,17.0.0.0/8,DIRECT
@@ -102,12 +110,6 @@ HOST-SUFFIX,office.com,DIRECT
 HOST-SUFFIX,office.net,DIRECT
 HOST-SUFFIX,office365.com,DIRECT
 
-# > GIGABYTE
-HOST-SUFFIX,gigabyte.com,DIRECT
-HOST-SUFFIX,gigabyte.hk,DIRECT
-HOST-SUFFIX,gigabyte.tw,DIRECT
-HOST-SUFFIX,fontawesome.com,DIRECT
-
 # > IP Query
 HOST-SUFFIX,ip.la,DIRECT
 HOST-SUFFIX,ipip.net,DIRECT
@@ -157,11 +159,6 @@ HOST-SUFFIX,1drv.com,DIRECT
 HOST-SUFFIX,onedrive.com,DIRECT
 HOST-SUFFIX,onedrive.live.com,PROXY
 
-# > Other
-HOST-SUFFIX,hostloc.com,DIRECT
-HOST-SUFFIX,qwant.com,DIRECT
-HOST-SUFFIX,teamviewer.com,DIRECT
-
 # > PT
 HOST-SUFFIX,awesome-hd.me,DIRECT
 HOST-SUFFIX,broadcasthe.net,DIRECT
@@ -190,6 +187,10 @@ IP-CIDR,185.188.32.0/24,DIRECT
 IP-CIDR,185.188.33.0/24,DIRECT
 IP-CIDR,185.188.34.0/24,DIRECT
 IP-CIDR,185.188.35.0/24,DIRECT
+HOST-SUFFIX,teamviewer.com,DIRECT
+
+# > 腾讯IP
+IP-CIDR,134.175.0.0/16,DIRECT
 
 # > WD
 HOST-SUFFIX,wd.com,DIRECT
