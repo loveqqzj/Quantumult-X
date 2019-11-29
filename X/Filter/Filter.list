@@ -7,12 +7,9 @@ USER-AGENT,PayPal*,PayPal
 HOST-KEYWORD,paypal,PayPal
 HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
-HOST,app.adjust.com,PayPal
 HOST,nativesdks.mparticle.com,PayPal
 HOST,config2.mparticle.com,PayPal
 HOST,identity.mparticle.com,PayPal
-HOST,e.crashlytics.com,PayPal
-HOST,settings.crashlytics.com,PayPal
 
 # > 国内直连
 # > Other
