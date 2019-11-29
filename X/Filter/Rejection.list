@@ -2,9 +2,10 @@
 HOST-KEYWORD,adservice,REJECT
 HOST-KEYWORD,analytics,REJECT
 HOST-KEYWORD,analysis,REJECT
-HOST-SUFFIX,adinfuse.com,REJECT
 HOST-SUFFIX,adjust.com,REJECT
 HOST-SUFFIX,adjust.io,REJECT
+HOST-SUFFIX,crashlytics.com,REJECT
+HOST-SUFFIX,adinfuse.com,REJECT
 HOST-SUFFIX,admaster.com.cn,REJECT
 HOST-SUFFIX,admob.com,REJECT
 HOST-SUFFIX,adnxs.com,REJECT
@@ -15,7 +16,6 @@ HOST-SUFFIX,adtarget.tech,REJECT
 HOST-SUFFIX,adthor.com,REJECT
 HOST-SUFFIX,adwhirl.com,REJECT
 HOST-SUFFIX,amazon-adsystem.com,REJECT
-HOST-SUFFIX,crashlytics.com,REJECT
 
 # > 12306
 HOST,res.mall.10010.cn,REJECT
