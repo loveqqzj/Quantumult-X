@@ -11,6 +11,8 @@ HOST,app.adjust.com,PayPal
 HOST,nativesdks.mparticle.com,PayPal
 HOST,config2.mparticle.com,PayPal
 HOST,identity.mparticle.com,PayPal
+HOST,e.crashlytics.com,PayPal
+HOST,settings.crashlytics.com,PayPal
 
 # > 国内直连
 # > Other
@@ -48,7 +50,6 @@ HOST-SUFFIX,aaplimg.com,DIRECT
 HOST-SUFFIX,appstore.com,DIRECT
 HOST-SUFFIX,mzstatic.com,DIRECT
 HOST-SUFFIX,cdn-apple.com,DIRECT
-HOST-SUFFIX,crashlytics.com,DIRECT
 HOST-SUFFIX,icloud-content.com,DIRECT
 HOST-SUFFIX,apple-cloudkit.com,DIRECT
 HOST,dispatcher.is.autonavi.com,DIRECT
