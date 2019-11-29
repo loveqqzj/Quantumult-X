@@ -147,6 +147,7 @@ HOST-SUFFIX,live.net,DIRECT
 HOST-SUFFIX,skype.com,DIRECT
 HOST-SUFFIX,aka.ms,DIRECT
 HOST,ocsp.digicert.com,DIRECT
+HOST,i2.wp.com,DIRECT
 
 # > Office
 HOST-SUFFIX,office.com,DIRECT
