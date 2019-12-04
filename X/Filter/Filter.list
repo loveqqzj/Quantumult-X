@@ -9,7 +9,7 @@ HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
 
 # > 国内直连
-# > Other
+# > General
 HOST-SUFFIX,cn,DIRECT
 HOST-SUFFIX,hostloc.com,DIRECT
 HOST-SUFFIX,qwant.com,DIRECT
@@ -25,9 +25,6 @@ HOST-SUFFIX,warp.plus,DIRECT
 HOST-SUFFIX,1.1.1.1,DIRECT
 HOST-SUFFIX,jquery.com,DIRECT
 HOST-SUFFIX,gravatar.com,DIRECT
-
-# > Accelerate direct sites
-HOST-KEYWORD,torrent,DIRECT
 
 # > Alibaba
 HOST-SUFFIX,alicdn.com,DIRECT
@@ -240,10 +237,6 @@ HOST-SUFFIX,xboxlive.com,DIRECT
 HOST-SUFFIX,xbox.com,DIRECT
 
 # > 代理
-# > APKPure
-HOST-SUFFIX,apkpure.com,PROXY
-HOST-SUFFIX,appdownloader.net,PROXY
-
 # > Github
 HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,githubapp.com,PROXY
@@ -255,7 +248,6 @@ HOST-SUFFIX,maxmind.com,PROXY
 HOST,quantumult.crossutility.com,PROXY
 
 # > Google
-HOST-SUFFIX,chrome.com,PROXY
 HOST-SUFFIX,gmail.com,PROXY
 HOST-SUFFIX,gstatic.com,PROXY
 HOST-KEYWORD,google,PROXY
