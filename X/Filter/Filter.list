@@ -125,6 +125,7 @@ HOST,ocsp2.globalsign.com,DIRECT
 HOST-SUFFIX,mozilla.com,DIRECT
 HOST-SUFFIX,firefox.com,DIRECT
 HOST-SUFFIX,mozilla.org,DIRECT
+HOST-SUFFIX,cdn.mozilla.net,DIRECT
 
 # > Microsoft
 USER-AGENT,Microsoft*,DIRECT
