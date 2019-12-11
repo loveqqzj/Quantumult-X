@@ -119,7 +119,6 @@ HOST-SUFFIX,hotmail.com,DIRECT
 USER-AGENT,OneDrive*,DIRECT
 USER-AGENT,OneDriveiOSApp*,DIRECT
 HOST,api.onedrive.com,DIRECT
-HOST,gate.hockeyapp.net,DIRECT
 
 # > PT
 HOST-SUFFIX,awesome-hd.me,DIRECT
