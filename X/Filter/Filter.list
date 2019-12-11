@@ -4,6 +4,7 @@ HOST-SUFFIX,adguard.com,AdGuard
 
 # > PayPal
 USER-AGENT,PayPal*,PayPal
+HOST-KEYWORD,paypal,PayPal
 HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
 
@@ -32,65 +33,30 @@ HOST-SUFFIX,aliyuncs.com,DIRECT
 HOST-SUFFIX,alipayobjects.com,DIRECT
 
 # > Apple
-IP-CIDR,17.0.0.0/8,DIRECT
-HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,aaplimg.com,DIRECT
 HOST-SUFFIX,apple.co,DIRECT
 HOST-SUFFIX,apple.com,DIRECT
-HOST-SUFFIX,icloud.com,DIRECT
-HOST-SUFFIX,aaplimg.com,DIRECT
-HOST-SUFFIX,appstore.com,DIRECT
-HOST-SUFFIX,mzstatic.com,DIRECT
-HOST-SUFFIX,cdn-apple.com,DIRECT
-HOST-SUFFIX,icloud-content.com,DIRECT
 HOST-SUFFIX,apple-cloudkit.com,DIRECT
-HOST,dispatcher.is.autonavi.com,DIRECT
+HOST-SUFFIX,appstore.com,DIRECT
+HOST-SUFFIX,cdn-apple.com,DIRECT
+HOST-SUFFIX,crashlytics.com,DIRECT
+HOST-SUFFIX,icloud.com,DIRECT
+HOST-SUFFIX,icloud-content.com,DIRECT
+HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,mzstatic.com,DIRECT
+HOST,www-cdn.icloud.com.akadns.net,DIRECT
+IP-CIDR,17.0.0.0/8,DIRECT
 
 # > Apple Weather
 HOST-SUFFIX,weather.com,DIRECT
-HOST-SUFFIX,s.w-x.co,DIRECT
-HOST-SUFFIX,cdn.polyfill.io,DIRECT
 
 # > Akamai
 HOST-SUFFIX,akadns.net,DIRECT
-HOST-SUFFIX,akamai.net,DIRECT
-HOST-SUFFIX,akamaiedge.net,DIRECT
-HOST-SUFFIX,akamaihd.net,DIRECT
-HOST-SUFFIX,akamaistream.net,DIRECT
-HOST-SUFFIX,akamaized.net,DIRECT
-
-# > Adobe
-HOST-SUFFIX,adobe.com,DIRECT
-HOST-SUFFIX,adobelogin.com,DIRECT
-HOST-SUFFIX,typekit.use,DIRECT
-HOST-SUFFIX,evidon.com,DIRECT
-HOST-SUFFIX,adobe.io,DIRECT
-
-# > Amazon
-HOST-KEYWORD,amazon.com,DIRECT
-HOST-SUFFIX,amazonpay.com,DIRECT
-HOST-SUFFIX,amazonaws.com,DIRECT
-HOST-SUFFIX,amazontrust.com,DIRECT
-
-# Bitwarden
-HOST-SUFFIX,bitwarden.com,DIRECT
-HOST,maxcdn.bootstrapcdn.com,DIRECT
-
-# > Cloudflare
-HOST-SUFFIX,cloudflare.com,DIRECT
-IP-CIDR,173.245.48.0/20,DIRECT
-IP-CIDR,103.21.244.0/22,DIRECT
-IP-CIDR,103.22.200.0/22,DIRECT
-IP-CIDR,103.31.4.0/22,DIRECT
-IP-CIDR,141.101.64.0/18,DIRECT
-IP-CIDR,108.162.192.0/18,DIRECT
-IP-CIDR,190.93.240.0/20,DIRECT
-IP-CIDR,188.114.96.0/20,DIRECT
-IP-CIDR,197.234.240.0/22,DIRECT
-IP-CIDR,198.41.128.0/17,DIRECT
-IP-CIDR,162.158.0.0/15,DIRECT
-IP-CIDR,104.16.0.0/12,DIRECT
-IP-CIDR,172.64.0.0/13,DIRECT
-IP-CIDR,131.0.72.0/22,DIRECT
+# HOST-SUFFIX,akamai.net,DIRECT
+# HOST-SUFFIX,akamaiedge.net,DIRECT
+# HOST-SUFFIX,akamaihd.net,DIRECT
+# HOST-SUFFIX,akamaistream.net,DIRECT
+# HOST-SUFFIX,akamaized.net,DIRECT
 
 # > CDN
 HOST-SUFFIX,ccgslb.com,DIRECT
@@ -101,9 +67,6 @@ HOST-SUFFIX,ourdvs.com,DIRECT
 HOST-SUFFIX,staticdn.net,DIRECT
 HOST-SUFFIX,wangsu.com,DIRECT
 
-# > Evernote
-HOST-SUFFIX,evernote.com,DIRECT
-
 # > IP Query
 HOST-SUFFIX,ip.la,DIRECT
 HOST-SUFFIX,ipip.net,DIRECT
@@ -112,20 +75,14 @@ HOST-SUFFIX,ipv6-test.com,DIRECT
 HOST-SUFFIX,test-ipv6.com,DIRECT
 HOST-SUFFIX,whatismyip.com,DIRECT
 
-# > Lastpass
-HOST-SUFFIX,lastpass.com,DIRECT
-HOST-SUFFIX,cdn.lmiutil.com,DIRECT
-HOST,ocsp2.globalsign.com,DIRECT
-
 # > Mozilla
 HOST-SUFFIX,mozilla.com,DIRECT
-HOST-SUFFIX,firefox.com,DIRECT
 HOST-SUFFIX,mozilla.org,DIRECT
 HOST-SUFFIX,mozilla.net,DIRECT
+HOST-SUFFIX,firefox.com,DIRECT
 
 # > 微软翻译
 HOST-SUFFIX,microsofttranslator.com,DIRECT
-HOST,in.appcenter.ms,DIRECT
 
 # > Microsoft
 USER-AGENT,Microsoft*,DIRECT
@@ -164,32 +121,10 @@ HOST-SUFFIX,office365.com,DIRECT
 # > Outlook
 HOST-SUFFIX,outlook.com,DIRECT
 HOST-SUFFIX,hotmail.com,DIRECT
-HOST-SUFFIX,acompli.net,DIRECT
-HOST,acompli.helpshift.com,DIRECT
-HOST,sws-a.helpshift.com,DIRECT
-HOST-SUFFIX,azurewebsites.net,DIRECT
-HOST-SUFFIX,concurlabs.com,DIRECT
-HOST,api.franconnect.net,DIRECT
-HOST,assets.gfycat.com,DIRECT
-HOST,www.moxtra1.com,DIRECT
-HOST,addins.mr2020.tech,DIRECT
-HOST,app.nimble.com,DIRECT
-HOST,cinnamon.oneplaceapps.net,DIRECT
-HOST,sync.appfluence.com,DIRECT
-HOST,ea.pstmrk.it,DIRECT
-HOST-SUFFIX,cloudfront.net,DIRECT
-HOST,smart-addinsf.invisible.io,DIRECT
-HOST,msaddins.smartsheet.com,DIRECT
-HOST-SUFFIX,cdn.wrike.com,DIRECT
-HOST-SUFFIX,aspnetcdn.com,DIRECT
 
 # >> OneDrive
 USER-AGENT,OneDrive*,DIRECT
 USER-AGENT,OneDriveiOSApp*,DIRECT
-HOST-SUFFIX,1drv.com,DIRECT
-HOST-SUFFIX,onedrive.com,DIRECT
-HOST-SUFFIX,onedrive.live.com,PROXY
-HOST,eastus21.mediap.svc.ms,DIRECT
 
 # > PT
 HOST-SUFFIX,awesome-hd.me,DIRECT
@@ -231,10 +166,6 @@ HOST-SUFFIX,mycloud.com,DIRECT
 HOST-SUFFIX,westerndigital.com,DIRECT
 HOST-SUFFIX,sandisk.com,DIRECT
 
-# > Xbox
-HOST-SUFFIX,xboxlive.com,DIRECT
-HOST-SUFFIX,xbox.com,DIRECT
-
 # > 代理
 # > Github
 HOST-SUFFIX,github.com,PROXY
@@ -247,11 +178,19 @@ HOST-SUFFIX,maxmind.com,PROXY
 HOST,quantumult.crossutility.com,PROXY
 
 # > Google
+HOST-SUFFIX,ampproject.org,PROXY
+HOST-SUFFIX,appspot.com,PROXY
+HOST-SUFFIX,blogger.com,PROXY
+HOST-SUFFIX,getoutline.org,PROXY
+HOST-SUFFIX,gvt0.com,PROXY
+HOST-SUFFIX,gvt1.com,PROXY
+HOST-SUFFIX,gvt3.com,PROXY
+HOST-SUFFIX,xn--ngstr-lra8j.com,PROXY
+HOST-KEYWORD,google,PROXY
+HOST-KEYWORD,blogspot,PROXY
+
+# > Gmail
 HOST-SUFFIX,gmail.com,PROXY
-HOST-SUFFIX,gstatic.com,PROXY
-HOST-SUFFIX,google.com,PROXY
-IP-CIDR,173.194.0.0/16,PROXY
-IP-CIDR,74.125.0.0/16,PROXY
 
 # > Telegram
 HOST-SUFFIX,t.me,PROXY
@@ -270,13 +209,11 @@ IP-CIDR,149.154.160.0/20,PROXY
 IP-CIDR,205.172.60.0/22,PROXY
 
 # > YouTube
-USER-AGENT,*youtube*,PROXY
+USER-AGENT,com.google.ios.youtube*,PROXY
 USER-AGENT,YouTube*,PROXY
+HOST-SUFFIX,googlevideo.com,PROXY
 HOST-SUFFIX,youtube.com,PROXY
-HOST-SUFFIX,gvt2.com,PROXY
-HOST-SUFFIX,youtu.be,PROXY
-HOST-SUFFIX,yt.be,PROXY
-HOST-SUFFIX,ytimg.com,PROXY
+HOST,youtubei.googleapis.com,PROXY
 
 # DNS
 IP-CIDR,114.114.114.114/32,DIRECT
