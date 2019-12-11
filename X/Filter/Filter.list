@@ -12,7 +12,6 @@ HOST-SUFFIX,paypalobjects.com,PayPal
 # > General
 HOST-SUFFIX,cn,DIRECT
 HOST-SUFFIX,hostloc.com,DIRECT
-HOST-SUFFIX,qwant.com,DIRECT
 
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
@@ -191,6 +190,9 @@ HOST-KEYWORD,blogspot,PROXY
 
 # > Gmail
 HOST-SUFFIX,gmail.com,PROXY
+
+# > OneDrive
+HOST-SUFFIX,onedrive.live.com,PROXY
 
 # > Telegram
 HOST-SUFFIX,t.me,PROXY
