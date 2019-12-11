@@ -124,6 +124,7 @@ HOST-SUFFIX,hotmail.com,DIRECT
 # >> OneDrive
 USER-AGENT,OneDrive*,DIRECT
 USER-AGENT,OneDriveiOSApp*,DIRECT
+HOST,api.onedrive.com,DIRECT
 
 # > PT
 HOST-SUFFIX,awesome-hd.me,DIRECT
