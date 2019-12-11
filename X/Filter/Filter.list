@@ -4,7 +4,6 @@ HOST-SUFFIX,adguard.com,AdGuard
 
 # > PayPal
 USER-AGENT,PayPal*,PayPal
-HOST-KEYWORD,paypal,PayPal
 HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
 
@@ -161,8 +160,6 @@ HOST,msftenterprise.sc.omtrdc.net,DIRECT
 HOST-SUFFIX,office.com,DIRECT
 HOST-SUFFIX,office.net,DIRECT
 HOST-SUFFIX,office365.com,DIRECT
-HOST-KEYWORD,office365,DIRECT
-HOST-KEYWORD,o365,DIRECT
 
 # > Outlook
 HOST-SUFFIX,outlook.com,DIRECT
@@ -171,7 +168,6 @@ HOST-SUFFIX,acompli.net,DIRECT
 HOST,acompli.helpshift.com,DIRECT
 HOST,sws-a.helpshift.com,DIRECT
 HOST-SUFFIX,azurewebsites.net,DIRECT
-HOST-KEYWORD,outlook,DIRECT
 HOST-SUFFIX,concurlabs.com,DIRECT
 HOST,api.franconnect.net,DIRECT
 HOST,assets.gfycat.com,DIRECT
@@ -253,7 +249,7 @@ HOST,quantumult.crossutility.com,PROXY
 # > Google
 HOST-SUFFIX,gmail.com,PROXY
 HOST-SUFFIX,gstatic.com,PROXY
-HOST-KEYWORD,google,PROXY
+HOST-SUFFIX,google.com,PROXY
 IP-CIDR,173.194.0.0/16,PROXY
 IP-CIDR,74.125.0.0/16,PROXY
 
@@ -276,7 +272,7 @@ IP-CIDR,205.172.60.0/22,PROXY
 # > YouTube
 USER-AGENT,*youtube*,PROXY
 USER-AGENT,YouTube*,PROXY
-HOST-KEYWORD,youtube,PROXY
+HOST-SUFFIX,youtube.com,PROXY
 HOST-SUFFIX,gvt2.com,PROXY
 HOST-SUFFIX,youtu.be,PROXY
 HOST-SUFFIX,yt.be,PROXY
