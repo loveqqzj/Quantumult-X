@@ -124,6 +124,10 @@ HOST-SUFFIX,firefox.com,DIRECT
 HOST-SUFFIX,mozilla.org,DIRECT
 HOST-SUFFIX,cdn.mozilla.net,DIRECT
 
+# > 微软翻译
+HOST-SUFFIX,microsofttranslator.com,DIRECT
+HOST,in.appcenter.ms,DIRECT
+
 # > Microsoft
 USER-AGENT,Microsoft*,DIRECT
 HOST-SUFFIX,microsoft.com,DIRECT
@@ -152,7 +156,6 @@ HOST,i2.wp.com,DIRECT
 HOST,mem.gfx.ms,DIRECT
 HOST,assets.onestore.ms,DIRECT
 HOST,msftenterprise.sc.omtrdc.net,DIRECT
-HOST-KEYWORD,microsof,DIRECT
 
 # > Office
 HOST-SUFFIX,office.com,DIRECT
