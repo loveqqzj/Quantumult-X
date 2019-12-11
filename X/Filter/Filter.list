@@ -122,7 +122,7 @@ HOST,ocsp2.globalsign.com,DIRECT
 HOST-SUFFIX,mozilla.com,DIRECT
 HOST-SUFFIX,firefox.com,DIRECT
 HOST-SUFFIX,mozilla.org,DIRECT
-HOST-SUFFIX,cdn.mozilla.net,DIRECT
+HOST-SUFFIX,mozilla.net,DIRECT
 
 # > 微软翻译
 HOST-SUFFIX,microsofttranslator.com,DIRECT
