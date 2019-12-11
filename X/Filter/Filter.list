@@ -22,8 +22,6 @@ HOST-SUFFIX,1passwordusercontent.com,DIRECT
 # > 1.1.1.1
 HOST-SUFFIX,warp.plus,DIRECT
 HOST-SUFFIX,1.1.1.1,DIRECT
-HOST-SUFFIX,jquery.com,DIRECT
-HOST-SUFFIX,gravatar.com,DIRECT
 
 # > Alibaba
 HOST-SUFFIX,alicdn.com,DIRECT
@@ -66,6 +64,9 @@ HOST-SUFFIX,ourdvs.com,DIRECT
 HOST-SUFFIX,staticdn.net,DIRECT
 HOST-SUFFIX,wangsu.com,DIRECT
 
+# DNSPod Public DNS+
+IP-CIDR,119.28.28.28/32,DIRECT
+
 # > IP Query
 HOST-SUFFIX,ip.la,DIRECT
 HOST-SUFFIX,ipip.net,DIRECT
@@ -84,7 +85,6 @@ HOST-SUFFIX,firefox.com,DIRECT
 HOST-SUFFIX,microsofttranslator.com,DIRECT
 
 # > Microsoft
-USER-AGENT,Microsoft*,DIRECT
 HOST-SUFFIX,microsoft.com,DIRECT
 HOST-SUFFIX,microsoftonline.com,DIRECT
 HOST-SUFFIX,bing.com,DIRECT
@@ -95,7 +95,6 @@ HOST-SUFFIX,msocdn.com,DIRECT
 HOST-SUFFIX,msauth.com,DIRECT
 HOST-SUFFIX,msauth.net,DIRECT
 HOST-SUFFIX,msedge.net,DIRECT
-HOST-SUFFIX,azureedge.net,DIRECT
 HOST-SUFFIX,onenote.com,DIRECT
 HOST-SUFFIX,onenote.net,DIRECT
 HOST-SUFFIX,s-microsoft.com,DIRECT
@@ -105,12 +104,7 @@ HOST-SUFFIX,windows.net,DIRECT
 HOST-SUFFIX,live.com,DIRECT
 HOST-SUFFIX,live.net,DIRECT
 HOST-SUFFIX,skype.com,DIRECT
-HOST-SUFFIX,aka.ms,DIRECT
-HOST,ocsp.digicert.com,DIRECT
-HOST,i2.wp.com,DIRECT
-HOST,mem.gfx.ms,DIRECT
-HOST,assets.onestore.ms,DIRECT
-HOST,msftenterprise.sc.omtrdc.net,DIRECT
+HOST,officecdn-microsoft-com.akamaized.net,DIRECT
 
 # > Office
 HOST-SUFFIX,office.com,DIRECT
@@ -155,9 +149,6 @@ IP-CIDR,185.188.33.0/24,DIRECT
 IP-CIDR,185.188.34.0/24,DIRECT
 IP-CIDR,185.188.35.0/24,DIRECT
 HOST-SUFFIX,teamviewer.com,DIRECT
-
-# > 腾讯IP
-IP-CIDR,134.175.0.0/16,DIRECT
 
 # > WD
 HOST-SUFFIX,wd.com,DIRECT
@@ -217,6 +208,3 @@ USER-AGENT,YouTube*,PROXY
 HOST-SUFFIX,googlevideo.com,PROXY
 HOST-SUFFIX,youtube.com,PROXY
 HOST,youtubei.googleapis.com,PROXY
-
-# DNS
-IP-CIDR,114.114.114.114/32,DIRECT
