@@ -1,4 +1,4 @@
-# > 策略
+# > 策略组
 # > AdGuard
 HOST-SUFFIX,adguard.com,DIRECT
 
@@ -13,11 +13,21 @@ HOST-SUFFIX,paypalobjects.com,DIRECT
 HOST-SUFFIX,cn,DIRECT
 HOST-SUFFIX,hostloc.com,DIRECT
 
+# > 密码管理器
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
 HOST-SUFFIX,1password.eu,DIRECT
 HOST-SUFFIX,1password.ca,DIRECT
 HOST-SUFFIX,1passwordusercontent.com,DIRECT
+
+# > Lastpass
+HOST-SUFFIX,lastpass.com,DIRECT
+
+# > RoboForm
+HOST-SUFFIX,roboform.com,DIRECT
+
+# > Bitwarden
+HOST-SUFFIX,bitwarden.com,DIRECT
 
 # > 1.1.1.1
 HOST-SUFFIX,warp.plus,DIRECT
@@ -49,11 +59,11 @@ HOST-SUFFIX,weather.com,DIRECT
 
 # > Akamai
 HOST-SUFFIX,akadns.net,DIRECT
-# HOST-SUFFIX,akamai.net,DIRECT
-# HOST-SUFFIX,akamaiedge.net,DIRECT
-# HOST-SUFFIX,akamaihd.net,DIRECT
-# HOST-SUFFIX,akamaistream.net,DIRECT
-# HOST-SUFFIX,akamaized.net,DIRECT
+HOST-SUFFIX,akamai.net,DIRECT
+HOST-SUFFIX,akamaiedge.net,DIRECT
+HOST-SUFFIX,akamaihd.net,DIRECT
+HOST-SUFFIX,akamaistream.net,DIRECT
+HOST-SUFFIX,akamaized.net,DIRECT
 
 # > CDN
 HOST-SUFFIX,ccgslb.com,DIRECT
@@ -88,8 +98,6 @@ HOST-SUFFIX,microsofttranslator.com,DIRECT
 HOST-SUFFIX,microsoft.com,DIRECT
 HOST-SUFFIX,microsoftonline.com,DIRECT
 HOST-SUFFIX,bing.com,DIRECT
-HOST-SUFFIX,bing.net,DIRECT
-HOST-SUFFIX,msn.com,DIRECT
 HOST-SUFFIX,msecnd.net,DIRECT
 HOST-SUFFIX,msocdn.com,DIRECT
 HOST-SUFFIX,msauth.com,DIRECT
@@ -104,7 +112,6 @@ HOST-SUFFIX,windows.net,DIRECT
 HOST-SUFFIX,live.com,DIRECT
 HOST-SUFFIX,live.net,DIRECT
 HOST-SUFFIX,skype.com,DIRECT
-HOST,officecdn-microsoft-com.akamaized.net,DIRECT
 
 # > Office
 HOST-SUFFIX,office.com,DIRECT
@@ -150,13 +157,6 @@ IP-CIDR,185.188.34.0/24,DIRECT
 IP-CIDR,185.188.35.0/24,DIRECT
 HOST-SUFFIX,teamviewer.com,DIRECT
 
-# > WD
-HOST-SUFFIX,wd.com,DIRECT
-HOST-SUFFIX,wdc.com,DIRECT
-HOST-SUFFIX,mycloud.com,DIRECT
-HOST-SUFFIX,westerndigital.com,DIRECT
-HOST-SUFFIX,sandisk.com,DIRECT
-
 # > 代理
 # > Github
 HOST-SUFFIX,github.com,PROXY
@@ -169,18 +169,12 @@ HOST-SUFFIX,maxmind.com,PROXY
 HOST,quantumult.crossutility.com,PROXY
 
 # > Google
-HOST-SUFFIX,ampproject.org,PROXY
-HOST-SUFFIX,appspot.com,PROXY
-HOST-SUFFIX,blogger.com,PROXY
-HOST-SUFFIX,getoutline.org,PROXY
-HOST-SUFFIX,gvt0.com,PROXY
-HOST-SUFFIX,gvt1.com,PROXY
-HOST-SUFFIX,gvt3.com,PROXY
-HOST-SUFFIX,xn--ngstr-lra8j.com,PROXY
-HOST-KEYWORD,google,PROXY
-HOST-KEYWORD,blogspot,PROXY
-
-# > Gmail
+HOST-SUFFIX,gstatic.com,PROXY
+HOST-SUFFIX,google.com,PROXY
+HOST-SUFFIX,googleapis.com,PROXY
+HOST-SUFFIX,googleusercontent.com,PROXY
+HOST-SUFFIX,googlevideo.com,PROXY
+HOST-SUFFIX,youtube.com,PROXY
 HOST-SUFFIX,gmail.com,PROXY
 
 # > OneDrive
@@ -201,10 +195,3 @@ IP-CIDR,91.108.56.0/22,PROXY
 IP-CIDR,109.239.140.0/24,PROXY
 IP-CIDR,149.154.160.0/20,PROXY
 IP-CIDR,205.172.60.0/22,PROXY
-
-# > YouTube
-USER-AGENT,com.google.ios.youtube*,PROXY
-USER-AGENT,YouTube*,PROXY
-HOST-SUFFIX,googlevideo.com,PROXY
-HOST-SUFFIX,youtube.com,PROXY
-HOST,youtubei.googleapis.com,PROXY
