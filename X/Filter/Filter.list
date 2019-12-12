@@ -1,6 +1,7 @@
 # > 策略组
 # > AdGuard
 HOST-SUFFIX,adguard.com,DIRECT
+HOST,filters.adtity.org,DIRECT
 
 # > PayPal
 USER-AGENT,PayPal*,DIRECT
