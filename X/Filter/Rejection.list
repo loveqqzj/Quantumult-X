@@ -9,3 +9,5 @@ HOST-SUFFIX,eloqua.com,REJECT
 HOST-SUFFIX,doubleclick.net,REJECT
 HOST-SUFFIX,google-analytics.com,REJECT
 HOST-SUFFIX,cnzz.com,REJECT
+HOST-SUFFIX,googlesyndication.com,REJECT
+HOST-SUFFIX,everesttech.net,REJECT
