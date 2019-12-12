@@ -181,6 +181,9 @@ HOST-SUFFIX,gmail.com,PROXY
 # > OneDrive
 HOST-SUFFIX,onedrive.live.com,PROXY
 
+# > reCaptcha
+HOST-SUFFIX,recaptcha.net,PROXY
+
 # > Telegram
 HOST-SUFFIX,t.me,PROXY
 HOST-SUFFIX,tdesktop.com,PROXY
