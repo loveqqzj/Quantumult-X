@@ -4,4 +4,8 @@ HOST,res.mall.10010.cn,REJECT
 # > 数据收集
 HOST-SUFFIX,hockeyapp.net,REJECT
 HOST-SUFFIX,mparticle.com,REJECT
-HOST-SUFFIX,app.adjust.com,REJECT
+HOST-SUFFIX,adjust.com,REJECT
+HOST-SUFFIX,eloqua.com,REJECT
+HOST-SUFFIX,doubleclick.net,REJECT
+HOST-SUFFIX,google-analytics.com,REJECT
+HOST-SUFFIX,cnzz.com,REJECT
