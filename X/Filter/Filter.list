@@ -11,8 +11,8 @@ HOST-SUFFIX,paypalobjects.com,DIRECT
 
 # > 国内直连
 # > General
-HOST-SUFFIX,cn,DIRECT
 HOST-SUFFIX,hostloc.com,DIRECT
+HOST-SUFFIX,cn,DIRECT
 
 # > 密码管理器
 # > 1Password
