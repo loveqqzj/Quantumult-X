@@ -1,20 +1,17 @@
-# > 策略组
-# > AdGuard
-HOST-SUFFIX,adguard.com,DIRECT
-HOST,filters.adtity.org,DIRECT
-
-# > PayPal
-USER-AGENT,PayPal*,DIRECT
-HOST-KEYWORD,paypal,DIRECT
-HOST-SUFFIX,paypal.com,DIRECT
-HOST-SUFFIX,paypalobjects.com,DIRECT
-
-# > 国内直连
 # > General
 HOST-SUFFIX,hostloc.com,DIRECT
 HOST-SUFFIX,cn,DIRECT
 
-# > 密码管理器
+# > AdGuard
+HOST-SUFFIX,adguard.com,AdGuard
+HOST,filters.adtity.org,AdGuard
+
+# > PayPal
+USER-AGENT,PayPal*,PayPal
+HOST-KEYWORD,paypal,PayPal
+HOST-SUFFIX,paypal.com,PayPal
+HOST-SUFFIX,paypalobjects.com,PayPal
+
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
 HOST-SUFFIX,1password.eu,DIRECT
@@ -24,9 +21,6 @@ HOST-SUFFIX,1passwordusercontent.com,DIRECT
 # > Lastpass
 HOST-SUFFIX,lastpass.com,DIRECT
 
-# > RoboForm
-HOST-SUFFIX,roboform.com,DIRECT
-
 # > Bitwarden
 HOST-SUFFIX,bitwarden.com,DIRECT
 
@@ -34,82 +28,24 @@ HOST-SUFFIX,bitwarden.com,DIRECT
 HOST-SUFFIX,warp.plus,DIRECT
 HOST-SUFFIX,1.1.1.1,DIRECT
 
-# > Alibaba
-HOST-SUFFIX,alicdn.com,DIRECT
-HOST-SUFFIX,alipay.com,DIRECT
-HOST-SUFFIX,aliyuncs.com,DIRECT
-HOST-SUFFIX,alipayobjects.com,DIRECT
-
-# > Apple
-HOST-SUFFIX,aaplimg.com,DIRECT
-HOST-SUFFIX,apple.co,DIRECT
-HOST-SUFFIX,apple.com,DIRECT
-HOST-SUFFIX,apple-cloudkit.com,DIRECT
-HOST-SUFFIX,appstore.com,DIRECT
-HOST-SUFFIX,cdn-apple.com,DIRECT
-HOST-SUFFIX,crashlytics.com,DIRECT
-HOST-SUFFIX,icloud.com,DIRECT
-HOST-SUFFIX,icloud-content.com,DIRECT
-HOST-SUFFIX,me.com,DIRECT
-HOST-SUFFIX,mzstatic.com,DIRECT
-HOST,www-cdn.icloud.com.akadns.net,DIRECT
-IP-CIDR,17.0.0.0/8,DIRECT
-
-# > Apple Weather
-HOST-SUFFIX,weather.com,DIRECT
-
-# > Akamai
-HOST-SUFFIX,akadns.net,DIRECT
-HOST-SUFFIX,akamai.net,DIRECT
-HOST-SUFFIX,akamaiedge.net,DIRECT
-HOST-SUFFIX,akamaihd.net,DIRECT
-HOST-SUFFIX,akamaistream.net,DIRECT
-HOST-SUFFIX,akamaized.net,DIRECT
-
-# > CDN
-HOST-SUFFIX,ccgslb.com,DIRECT
-HOST-SUFFIX,ccgslb.net,DIRECT
-HOST-SUFFIX,chinanetcenter.com,DIRECT
-HOST-SUFFIX,meixincdn.com,DIRECT
-HOST-SUFFIX,ourdvs.com,DIRECT
-HOST-SUFFIX,staticdn.net,DIRECT
-HOST-SUFFIX,wangsu.com,DIRECT
-
-# DNSPod Public DNS+
-IP-CIDR,119.28.28.28/32,DIRECT
-
-# > IP Query
-HOST-SUFFIX,ip.la,DIRECT
-HOST-SUFFIX,ipip.net,DIRECT
-HOST-SUFFIX,ip-cdn.com,DIRECT
-HOST-SUFFIX,ipv6-test.com,DIRECT
-HOST-SUFFIX,test-ipv6.com,DIRECT
-HOST-SUFFIX,whatismyip.com,DIRECT
-
 # > Mozilla
 HOST-SUFFIX,mozilla.com,DIRECT
 HOST-SUFFIX,mozilla.org,DIRECT
 HOST-SUFFIX,mozilla.net,DIRECT
 HOST-SUFFIX,firefox.com,DIRECT
 
-# > 微软翻译
+# > Microsoft Translator
 HOST-SUFFIX,microsofttranslator.com,DIRECT
 
 # > Microsoft
-HOST-SUFFIX,microsoft.com,DIRECT
 HOST-SUFFIX,microsoftonline.com,DIRECT
 HOST-SUFFIX,bing.com,DIRECT
-HOST-SUFFIX,msecnd.net,DIRECT
 HOST-SUFFIX,msocdn.com,DIRECT
 HOST-SUFFIX,msauth.com,DIRECT
 HOST-SUFFIX,msauth.net,DIRECT
 HOST-SUFFIX,msedge.net,DIRECT
 HOST-SUFFIX,onenote.com,DIRECT
 HOST-SUFFIX,onenote.net,DIRECT
-HOST-SUFFIX,s-microsoft.com,DIRECT
-HOST-SUFFIX,visualstudio.com,DIRECT
-HOST-SUFFIX,windows.com,DIRECT
-HOST-SUFFIX,windows.net,DIRECT
 HOST-SUFFIX,live.com,DIRECT
 HOST-SUFFIX,live.net,DIRECT
 HOST-SUFFIX,skype.com,DIRECT
@@ -117,53 +53,9 @@ HOST-SUFFIX,skype.com,DIRECT
 # > Office
 HOST-SUFFIX,office.com,DIRECT
 HOST-SUFFIX,office.net,DIRECT
-HOST-SUFFIX,office365.com,DIRECT
 
 # > Outlook
-HOST-SUFFIX,outlook.com,DIRECT
 HOST-SUFFIX,hotmail.com,DIRECT
-
-# >> OneDrive
-USER-AGENT,OneDrive*,DIRECT
-USER-AGENT,OneDriveiOSApp*,DIRECT
-HOST,api.onedrive.com,DIRECT
-
-# > PT
-HOST-SUFFIX,awesome-hd.me,DIRECT
-HOST-SUFFIX,broadcasthe.net,DIRECT
-HOST-SUFFIX,chdbits.co,DIRECT
-HOST-SUFFIX,classix-unlimited.co.uk,DIRECT
-HOST-SUFFIX,empornium.me,DIRECT
-HOST-SUFFIX,gazellegames.net,DIRECT
-HOST-SUFFIX,hdchina.org,DIRECT
-HOST-SUFFIX,hdsky.me,DIRECT
-HOST-SUFFIX,jpopsuki.eu,DIRECT
-HOST-SUFFIX,keepfrds.com,DIRECT
-HOST-SUFFIX,m-team.cc,DIRECT
-HOST-SUFFIX,nanyangpt.com,DIRECT
-HOST-SUFFIX,ncore.cc,DIRECT
-HOST-SUFFIX,open.cd,DIRECT
-HOST-SUFFIX,ourbits.club,DIRECT
-HOST-SUFFIX,passthepopcorn.me,DIRECT
-HOST-SUFFIX,privatehd.to,DIRECT
-HOST-SUFFIX,redacted.ch,DIRECT
-HOST-SUFFIX,springsunday.net,DIRECT
-HOST-SUFFIX,tjupt.org,DIRECT
-HOST-SUFFIX,totheglory.im,DIRECT
-
-# > TeamViewer
-IP-CIDR,185.188.32.0/24,DIRECT
-IP-CIDR,185.188.33.0/24,DIRECT
-IP-CIDR,185.188.34.0/24,DIRECT
-IP-CIDR,185.188.35.0/24,DIRECT
-HOST-SUFFIX,teamviewer.com,DIRECT
-
-# > 代理
-# > Github
-HOST-SUFFIX,github.com,PROXY
-HOST-SUFFIX,githubapp.com,PROXY
-HOST-SUFFIX,githubassets.com,PROXY
-HOST-SUFFIX,githubusercontent.com,PROXY
 
 # > GeoLite2 Update
 HOST-SUFFIX,maxmind.com,PROXY
@@ -171,31 +63,6 @@ HOST,quantumult.crossutility.com,PROXY
 
 # > Google
 HOST-SUFFIX,gstatic.com,PROXY
-HOST-SUFFIX,google.com,PROXY
-HOST-SUFFIX,googleapis.com,PROXY
-HOST-SUFFIX,googleusercontent.com,PROXY
-HOST-SUFFIX,googlevideo.com,PROXY
-HOST-SUFFIX,youtube.com,PROXY
-HOST-SUFFIX,gmail.com,PROXY
-
-# > OneDrive
-HOST-SUFFIX,onedrive.live.com,PROXY
 
 # > reCaptcha
 HOST-SUFFIX,recaptcha.net,PROXY
-
-# > Telegram
-HOST-SUFFIX,t.me,PROXY
-HOST-SUFFIX,tdesktop.com,PROXY
-HOST-SUFFIX,telegra.ph,PROXY
-HOST-SUFFIX,telegram.me,PROXY
-HOST-SUFFIX,telegram.org,PROXY
-IP-CIDR,67.198.55.0/24,PROXY
-IP-CIDR,91.108.4.0/22,PROXY
-IP-CIDR,91.108.8.0/22,PROXY
-IP-CIDR,91.108.12.0/22,PROXY
-IP-CIDR,91.108.16.0/22,PROXY
-IP-CIDR,91.108.56.0/22,PROXY
-IP-CIDR,109.239.140.0/24,PROXY
-IP-CIDR,149.154.160.0/20,PROXY
-IP-CIDR,205.172.60.0/22,PROXY
