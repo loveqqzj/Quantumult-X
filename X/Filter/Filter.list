@@ -4,7 +4,7 @@ HOST-SUFFIX,cn,DIRECT
 
 # > AdGuard
 HOST-SUFFIX,adguard.com,AdGuard
-HOST,filters.adtity.org,AdGuard
+HOST,filters.adtidy.org,AdGuard
 
 # > PayPal
 USER-AGENT,PayPal*,PayPal
