@@ -33,12 +33,6 @@ HOST,www-cdn.icloud.com.akadns.net,DIRECT
 HOST-SUFFIX,weather.com,DIRECT
 IP-CIDR,17.0.0.0/8,DIRECT
 
-# > 1Password
-HOST-SUFFIX,1password.com,DIRECT
-HOST-SUFFIX,1password.eu,DIRECT
-HOST-SUFFIX,1password.ca,DIRECT
-HOST-SUFFIX,1passwordusercontent.com,DIRECT
-
 # > Mozilla
 HOST-SUFFIX,mozilla.com,DIRECT
 HOST-SUFFIX,mozilla.org,DIRECT
