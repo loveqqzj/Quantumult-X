@@ -4,6 +4,9 @@ HOST,app.adjust.com,REJECT
 # > 12306
 HOST,res.mall.10010.cn,REJECT
 
+# > Baidu
+HOST-SUFFIX,bdstatic.com,REJECT
+
 # > PayPal
 HOST,config2.mparticle.com,REJECT
 HOST,identity.mparticle.com,REJECT
