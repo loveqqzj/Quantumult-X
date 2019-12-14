@@ -2,6 +2,33 @@
 HOST-SUFFIX,hostloc.com,DIRECT
 HOST-SUFFIX,cn,DIRECT
 
+# > Akamai
+HOST-SUFFIX,akadns.net,DIRECT
+HOST-SUFFIX,akamai.net,DIRECT
+HOST-SUFFIX,akamaiedge.net,DIRECT
+HOST-SUFFIX,akamaihd.net,DIRECT
+HOST-SUFFIX,akamaistream.net,DIRECT
+HOST-SUFFIX,akamaized.net,DIRECT
+
+# > Alibaba
+USER-AGENT,%E4%BC%98%E9%85%B7*,DIRECT
+HOST-SUFFIX,alibaba.com,DIRECT
+HOST-SUFFIX,alicdn.com,DIRECT
+HOST-SUFFIX,alikunlun.com,DIRECT
+HOST-SUFFIX,alipay.com,DIRECT
+HOST-SUFFIX,amap.com,DIRECT
+HOST-SUFFIX,autonavi.com,DIRECT
+HOST-SUFFIX,dingtalk.com,DIRECT
+HOST-SUFFIX,mxhichina.com,DIRECT
+HOST-SUFFIX,soku.com,DIRECT
+HOST-SUFFIX,taobao.com,DIRECT
+HOST-SUFFIX,tmall.com,DIRECT
+HOST-SUFFIX,tmall.hk,DIRECT
+HOST-SUFFIX,ykimg.com,DIRECT
+HOST-SUFFIX,youku.com,DIRECT
+HOST-SUFFIX,xiami.com,DIRECT
+HOST-SUFFIX,xiami.net,DIRECT
+
 # > Apple
 HOST-SUFFIX,aaplimg.com,DIRECT
 HOST-SUFFIX,apple.co,DIRECT
@@ -22,12 +49,6 @@ HOST-SUFFIX,1password.com,DIRECT
 HOST-SUFFIX,1password.eu,DIRECT
 HOST-SUFFIX,1password.ca,DIRECT
 HOST-SUFFIX,1passwordusercontent.com,DIRECT
-
-# > Lastpass
-HOST-SUFFIX,lastpass.com,DIRECT
-
-# > Bitwarden
-HOST-SUFFIX,bitwarden.com,DIRECT
 
 # > Mozilla
 HOST-SUFFIX,mozilla.com,DIRECT
@@ -65,3 +86,46 @@ HOST-SUFFIX,office365.com,DIRECT
 # > Outlook
 HOST-SUFFIX,hotmail.com,DIRECT
 HOST-SUFFIX,outlook.com,DIRECT
+
+# > Teamviewer
+DOMAIN-SUFFIX,teamviewer.com,DIRECT
+
+# > Content Delivery Network
+HOST-SUFFIX,ccgslb.com,DIRECT
+HOST-SUFFIX,ccgslb.net,DIRECT
+HOST-SUFFIX,chinanetcenter.com,DIRECT
+HOST-SUFFIX,meixincdn.com,DIRECT
+HOST-SUFFIX,ourdvs.com,DIRECT
+HOST-SUFFIX,staticdn.net,DIRECT
+HOST-SUFFIX,wangsu.com,DIRECT
+
+# > IP Query
+HOST-SUFFIX,ipip.net,DIRECT
+HOST-SUFFIX,ip.la,DIRECT
+HOST-SUFFIX,ip-cdn.com,DIRECT
+HOST-SUFFIX,ipv6-test.com,DIRECT
+HOST-SUFFIX,test-ipv6.com,DIRECT
+HOST-SUFFIX,whatismyip.com,DIRECT
+
+# > Private Tracker
+HOST-SUFFIX,awesome-hd.me,DIRECT
+HOST-SUFFIX,broadcasthe.net,DIRECT
+HOST-SUFFIX,chdbits.co,DIRECT
+HOST-SUFFIX,classix-unlimited.co.uk,DIRECT
+HOST-SUFFIX,empornium.me,DIRECT
+HOST-SUFFIX,gazellegames.net,DIRECT
+HOST-SUFFIX,hdchina.org,DIRECT
+HOST-SUFFIX,hdsky.me,DIRECT
+HOST-SUFFIX,jpopsuki.eu,DIRECT
+HOST-SUFFIX,keepfrds.com,DIRECT
+HOST-SUFFIX,m-team.cc,DIRECT
+HOST-SUFFIX,nanyangpt.com,DIRECT
+HOST-SUFFIX,ncore.cc,DIRECT
+HOST-SUFFIX,open.cd,DIRECT
+HOST-SUFFIX,ourbits.club,DIRECT
+HOST-SUFFIX,passthepopcorn.me,DIRECT
+HOST-SUFFIX,privatehd.to,DIRECT
+HOST-SUFFIX,redacted.ch,DIRECT
+HOST-SUFFIX,springsunday.net,DIRECT
+HOST-SUFFIX,tjupt.org,DIRECT
+HOST-SUFFIX,totheglory.im,DIRECT
