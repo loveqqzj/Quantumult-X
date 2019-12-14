@@ -1,11 +1,11 @@
 # > 12306
 HOST,res.mall.10010.cn,REJECT
 
-# > 数据收集
-HOST-SUFFIX,hockeyapp.net,REJECT
-HOST-SUFFIX,mparticle.com,REJECT
-HOST-SUFFIX,eloqua.com,REJECT
-HOST-SUFFIX,doubleclick.net,REJECT
-HOST-SUFFIX,cnzz.com,REJECT
-HOST-SUFFIX,googlesyndication.com,REJECT
-HOST-SUFFIX,everesttech.net,REJECT
+# > PayPal
+HOST,config2.mparticle.com,REJECT
+HOST,identity.mparticle.com,REJECT
+HOST,nativesdks.mparticle.com,REJECT
+
+# > Microsoft
+HOST,gate.hockeyapp.net,REJECT
+HOST,app.adjust.com,REJECT
