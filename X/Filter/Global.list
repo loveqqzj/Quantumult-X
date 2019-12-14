@@ -2,62 +2,22 @@
 HOST-SUFFIX,maxmind.com,PROXY
 HOST,quantumult.crossutility.com,PROXY
 
+# > Github
+HOST-SUFFIX,github.com,PROXY
+HOST-SUFFIX,githubusercontent.com,PROXY
+
 # > Google
 HOST-SUFFIX,gstatic.com,PROXY
 HOST-SUFFIX,gmail.com,PROXY
-HOST-SUFFIX,ampproject.org,PROXY
-HOST-SUFFIX,appspot.com,PROXY
-HOST-SUFFIX,blogger.com,PROXY
-HOST-SUFFIX,getoutline.org,PROXY
-HOST-SUFFIX,gvt0.com,PROXY
-HOST-SUFFIX,gvt1.com,PROXY
-HOST-SUFFIX,gvt3.com,PROXY
-HOST-SUFFIX,xn--ngstr-lra8j.com,PROXY
 HOST-KEYWORD,google,PROXY
-HOST-KEYWORD,blogspot,PROXY
 HOST-SUFFIX,recaptcha.net,PROXY
 
 # > YouTube
-USER-AGENT,com.google.ios.youtube*,PROXY
-USER-AGENT,YouTube*,PROXY
 HOST-SUFFIX,youtube.com,PROXY
 
-# > Facebook
-HOST-SUFFIX,cdninstagram.com,PROXY
-HOST-SUFFIX,fb.com,PROXY
-HOST-SUFFIX,fb.me,PROXY
-HOST-SUFFIX,fbaddins.com,PROXY
-HOST-SUFFIX,fbcdn.net,PROXY
-HOST-SUFFIX,fbsbx.com,PROXY
-HOST-SUFFIX,fbworkmail.com,PROXY
-HOST-SUFFIX,instagram.com,PROXY
-HOST-SUFFIX,m.me,PROXY
-HOST-SUFFIX,messenger.com,PROXY
-HOST-SUFFIX,oculus.com,PROXY
-HOST-SUFFIX,oculuscdn.com,PROXY
-HOST-SUFFIX,rocksdb.org,PROXY
-HOST-SUFFIX,whatsapp.com,PROXY
-HOST-SUFFIX,whatsapp.net,PROXY
-HOST-KEYWORD,facebook,PROXY
-IP-CIDR,3.123.36.126/32,PROXY
-IP-CIDR,35.157.215.84/32,PROXY
-IP-CIDR,35.157.217.255/32,PROXY
-IP-CIDR,52.58.209.134/32,PROXY
-IP-CIDR,54.93.124.31/32,PROXY
-IP-CIDR,54.162.243.80/32,PROXY
-IP-CIDR,54.173.34.141/32,PROXY
-IP-CIDR,54.235.23.242/32,PROXY
-IP-CIDR,169.45.248.118/32,PROXY
-
-# > Twitter
-HOST-SUFFIX,pscp.tv,PROXY
-HOST-SUFFIX,periscope.tv,PROXY
-HOST-SUFFIX,t.co,PROXY
-HOST-SUFFIX,twimg.co,PROXY
-HOST-SUFFIX,twimg.com,PROXY
-HOST-SUFFIX,twitpic.com,PROXY
-HOST-SUFFIX,vine.co,PROXY
-HOST-KEYWORD,twitter,PROXY
+# > Steam
+HOST,api.steampowered.com,PROXY
+HOST,store.steampowered.com,PROXY
 
 # > Telegram
 HOST-SUFFIX,t.me,PROXY
