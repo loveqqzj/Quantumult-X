@@ -2,15 +2,20 @@
 HOST-SUFFIX,hostloc.com,DIRECT
 HOST-SUFFIX,cn,DIRECT
 
-# > AdGuard
-HOST-SUFFIX,adguard.com,AdGuard
-HOST,filters.adtidy.org,AdGuard
-
-# > PayPal
-USER-AGENT,PayPal*,PayPal
-HOST-KEYWORD,paypal,PayPal
-HOST-SUFFIX,paypal.com,PayPal
-HOST-SUFFIX,paypalobjects.com,PayPal
+# > Apple
+HOST-SUFFIX,aaplimg.com,DIRECT
+HOST-SUFFIX,apple.co,DIRECT
+HOST-SUFFIX,apple.com,DIRECT
+HOST-SUFFIX,apple-cloudkit.com,DIRECT
+HOST-SUFFIX,appstore.com,DIRECT
+HOST-SUFFIX,cdn-apple.com,DIRECT
+HOST-SUFFIX,crashlytics.com,DIRECT
+HOST-SUFFIX,icloud.com,DIRECT
+HOST-SUFFIX,icloud-content.com,DIRECT
+HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,mzstatic.com,DIRECT
+HOST,www-cdn.icloud.com.akadns.net,DIRECT
+HOST-SUFFIX,weather.com,DIRECT
 
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
@@ -24,22 +29,18 @@ HOST-SUFFIX,lastpass.com,DIRECT
 # > Bitwarden
 HOST-SUFFIX,bitwarden.com,DIRECT
 
-# > 1.1.1.1
-HOST-SUFFIX,warp.plus,DIRECT
-HOST-SUFFIX,1.1.1.1,DIRECT
-
 # > Mozilla
 HOST-SUFFIX,mozilla.com,DIRECT
 HOST-SUFFIX,mozilla.org,DIRECT
 HOST-SUFFIX,mozilla.net,DIRECT
 HOST-SUFFIX,firefox.com,DIRECT
 
-# > Microsoft Translator
-HOST-SUFFIX,microsofttranslator.com,DIRECT
-
 # > Microsoft
+HOST-SUFFIX,microsoft.com,DIRECT
 HOST-SUFFIX,microsoftonline.com,DIRECT
+HOST-SUFFIX,microsofttranslator.com,DIRECT
 HOST-SUFFIX,bing.com,DIRECT
+HOST-SUFFIX,msecnd.net,DIRECT
 HOST-SUFFIX,msocdn.com,DIRECT
 HOST-SUFFIX,msauth.com,DIRECT
 HOST-SUFFIX,msauth.net,DIRECT
@@ -49,20 +50,18 @@ HOST-SUFFIX,onenote.net,DIRECT
 HOST-SUFFIX,live.com,DIRECT
 HOST-SUFFIX,live.net,DIRECT
 HOST-SUFFIX,skype.com,DIRECT
+HOST-SUFFIX,s-microsoft.com,DIRECT
+HOST-SUFFIX,visualstudio.com,DIRECT
+HOST-SUFFIX,windows.com,DIRECT
+HOST-SUFFIX,windowsupdate.com,DIRECT
+HOST,ocsp.digicert.com,DIRECT
+HOST,officecdn-microsoft-com.akamaized.net,DIRECT
 
 # > Office
 HOST-SUFFIX,office.com,DIRECT
 HOST-SUFFIX,office.net,DIRECT
+HOST-SUFFIX,office365.com,DIRECT
 
 # > Outlook
 HOST-SUFFIX,hotmail.com,DIRECT
-
-# > GeoLite2 Update
-HOST-SUFFIX,maxmind.com,PROXY
-HOST,quantumult.crossutility.com,PROXY
-
-# > Google
-HOST-SUFFIX,gstatic.com,PROXY
-
-# > reCaptcha
-HOST-SUFFIX,recaptcha.net,PROXY
+HOST-SUFFIX,outlook.com,DIRECT
