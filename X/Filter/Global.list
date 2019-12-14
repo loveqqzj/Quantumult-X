@@ -8,6 +8,7 @@ HOST-SUFFIX,githubusercontent.com,PROXY
 
 # > Google
 HOST-SUFFIX,google.com,PROXY
+HOST-SUFFIX,googleapis.com,PROXY
 HOST-SUFFIX,googleusercontent.com,PROXY
 HOST-SUFFIX,gmodules.com,PROXY
 HOST-SUFFIX,gmail.com,PROXY
