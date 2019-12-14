@@ -1,3 +1,6 @@
+# > General
+HOST,app.adjust.com,REJECT
+
 # > 12306
 HOST,res.mall.10010.cn,REJECT
 
@@ -8,4 +11,3 @@ HOST,nativesdks.mparticle.com,REJECT
 
 # > Microsoft
 HOST,gate.hockeyapp.net,REJECT
-HOST,app.adjust.com,REJECT
