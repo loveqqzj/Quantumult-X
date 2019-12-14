@@ -2,6 +2,16 @@
 HOST-SUFFIX,hostloc.com,DIRECT
 HOST-SUFFIX,cn,DIRECT
 
+# > 1Password
+HOST-SUFFIX,1password.com,DIRECT
+HOST-SUFFIX,1password.eu,DIRECT
+HOST-SUFFIX,1password.ca,DIRECT
+HOST-SUFFIX,1passwordusercontent.com,DIRECT
+
+# > AdGuard
+HOST-SUFFIX,adguard.com,DIRECT
+HOST,filters.adtidy.org,DIRECT
+
 # > Akamai
 HOST-SUFFIX,akadns.net,DIRECT
 HOST-SUFFIX,akamai.net,DIRECT
