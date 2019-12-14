@@ -1,0 +1,22 @@
+# > Quantumult GeoLite2 Update
+HOST-SUFFIX,maxmind.com,PROXY
+HOST,quantumult.crossutility.com,PROXY
+
+# > Google
+HOST-SUFFIX,gstatic.com,PROXY
+HOST-SUFFIX,gmail.com,PROXY
+HOST-SUFFIX,ampproject.org,PROXY
+HOST-SUFFIX,appspot.com,PROXY
+HOST-SUFFIX,blogger.com,PROXY
+HOST-SUFFIX,getoutline.org,PROXY
+HOST-SUFFIX,gvt0.com,PROXY
+HOST-SUFFIX,gvt1.com,PROXY
+HOST-SUFFIX,gvt3.com,PROXY
+HOST-SUFFIX,xn--ngstr-lra8j.com,PROXY
+HOST-KEYWORD,google,PROXY
+HOST-KEYWORD,blogspot,PROXY
+
+# > reCaptcha
+HOST-SUFFIX,recaptcha.net,PROXY
+
+
