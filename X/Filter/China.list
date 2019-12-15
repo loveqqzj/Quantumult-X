@@ -53,6 +53,7 @@ HOST-SUFFIX,firefox.com,DIRECT
 HOST-SUFFIX,microsoft.com,DIRECT
 HOST-SUFFIX,microsoftonline.com,DIRECT
 HOST-SUFFIX,microsofttranslator.com,DIRECT
+HOST-SUFFIX,microsoftedgeinsider.com,DIRECT
 HOST-SUFFIX,bing.com,DIRECT
 HOST-SUFFIX,msecnd.net,DIRECT
 HOST-SUFFIX,msocdn.com,DIRECT
