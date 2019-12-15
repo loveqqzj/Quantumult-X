@@ -72,6 +72,9 @@ HOST-SUFFIX,windows.com,DIRECT
 HOST-SUFFIX,windowsupdate.com,DIRECT
 HOST,ocsp.digicert.com,DIRECT
 HOST,officecdn-microsoft-com.akamaized.net,DIRECT
+HOST-SUFFIX,gfx.ms,DIRECT
+HOST-KEYWORD,microsoft,DIRECT
+HOST-KEYWORD,windows,DIRECT
 
 # > Office
 HOST-SUFFIX,office.com,DIRECT
