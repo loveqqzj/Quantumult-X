@@ -4,6 +4,7 @@ HOST,quantumult.crossutility.com,PROXY
 
 # > Github
 HOST-SUFFIX,github.com,PROXY
+HOST-SUFFIX,githubapp.com,PROXY
 HOST-SUFFIX,githubusercontent.com,PROXY
 
 # > Google
