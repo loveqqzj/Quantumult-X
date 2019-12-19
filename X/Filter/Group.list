@@ -19,3 +19,7 @@ HOST-SUFFIX,paypalobjects.com,PayPal
 HOST,config2.mparticle.com,PayPal
 HOST,identity.mparticle.com,PayPal
 HOST,nativesdks.mparticle.com,PayPal
+
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*,Speedtest
+HOST-KEYWORD,speedtest,Speedtest
