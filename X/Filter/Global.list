@@ -18,6 +18,7 @@ HOST-SUFFIX,justmysocks.net,PROXY
 # > Github
 HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,githubapp.com,PROXY
+HOST-SUFFIX,githubassets.com,PROXY
 HOST-SUFFIX,githubusercontent.com,PROXY
 
 # > Google
