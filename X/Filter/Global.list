@@ -3,7 +3,6 @@ HOST-SUFFIX,disqus.com,PROXY
 HOST-SUFFIX,duckduckgo.com,PROXY
 HOST-SUFFIX,mail.ru,PROXY
 HOST-SUFFIX,medium.com,PROXY
-HOST-SUFFIX,pixiv.net,PROXY
 HOST-SUFFIX,v2ray.com,PROXY
 HOST-SUFFIX,shadowsocks.org,PROXY
 HOST-SUFFIX,s3.amazonaws.com,PROXY
@@ -40,6 +39,8 @@ HOST-SUFFIX,recaptcha.net,PROXY
 HOST-SUFFIX,javbus.com,PROXY
 HOST-SUFFIX,avmask.com,PROXY
 HOST-SUFFIX,javlibrary.com,PROXY
+HOST-SUFFIX,pixiv.net,PROXY
+HOST-SUFFIX,sis001.com,PROXY
 
 # > Pornhub
 HOST-SUFFIX,phncdn.com,PROXY
