@@ -12,6 +12,32 @@ HOST-SUFFIX,1passwordusercontent.com,DIRECT
 HOST-SUFFIX,adguard.com,DIRECT
 HOST,filters.adtidy.org,DIRECT
 
+# > OneDrive
+USER-AGENT,OneDrive*,DIRECT
+USER-AGENT,OneDriveiOSApp*,DIRECT
+HOST-SUFFIX,1drv.com,DIRECT
+HOST-SUFFIX,1drv.ms,DIRECT
+HOST-SUFFIX,blob.core.windows.net,DIRECT
+HOST-SUFFIX,livefilestore.com,DIRECT
+HOST-SUFFIX,onedrive.com,DIRECT
+HOST-SUFFIX,storage.live.com,DIRECT
+HOST-SUFFIX,storage.msn.com,DIRECT
+HOST,oneclient.sfx.ms,DIRECT
+HOST-SUFFIX,onedrive.live.com,DIRECT
+
+# > PayPal
+USER-AGENT,PayPal*,DIRECT
+HOST-KEYWORD,paypal,DIRECT
+HOST-SUFFIX,paypal.com,DIRECT
+HOST-SUFFIX,paypalobjects.com,DIRECT
+HOST,config2.mparticle.com,DIRECT
+HOST,identity.mparticle.com,DIRECT
+HOST,nativesdks.mparticle.com,DIRECT
+
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*,DIRECT
+HOST-KEYWORD,speedtest,DIRECT
+
 # > Akamai
 HOST-SUFFIX,akadns.net,DIRECT
 HOST-SUFFIX,akamai.net,DIRECT
