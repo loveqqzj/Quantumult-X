@@ -1,3 +1,13 @@
+# > 1Password
+HOST-SUFFIX,1password.com,1Password
+HOST-SUFFIX,1password.eu,1Password
+HOST-SUFFIX,1password.ca,1Password
+HOST-SUFFIX,1passwordusercontent.com,1Password
+
+# > AdGuard
+HOST-SUFFIX,adguard.com,AdGuard
+HOST,filters.adtidy.org,AdGuard
+
 # > OneDrive
 USER-AGENT,OneDrive*,OneDrive
 USER-AGENT,OneDriveiOSApp*,OneDrive
@@ -22,4 +32,7 @@ HOST,nativesdks.mparticle.com,PayPal
 
 # > Speedtest by Ookla
 USER-AGENT,SpeedTest*,Speedtest
+HOST-SUFFIX,speedtest.net,Speedtest
+HOST-SUFFIX,netspeedtestmaster.com,Speedtest
+HOST,speedtest.macpaw.com,Speedtest
 HOST-KEYWORD,speedtest,Speedtest
