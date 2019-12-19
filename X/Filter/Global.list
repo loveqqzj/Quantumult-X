@@ -6,7 +6,6 @@ HOST-SUFFIX,medium.com,PROXY
 HOST-SUFFIX,pixiv.net,PROXY
 HOST-SUFFIX,v2ray.com,PROXY
 HOST-SUFFIX,shadowsocks.org,PROXY
-HOST-SUFFIX,yandex.ru,PROXY
 HOST-SUFFIX,s3.amazonaws.com,PROXY
 HOST-SUFFIX,debug.com,PROXY
 HOST-SUFFIX,yahoo.com,PROXY
@@ -36,6 +35,16 @@ HOST-SUFFIX,blogspot.com,PROXY
 HOST-SUFFIX,ggpht.com,PROXY
 HOST-SUFFIX,blogblog.com,PROXY
 HOST-SUFFIX,recaptcha.net,PROXY
+
+# > Jav
+HOST-SUFFIX,javbus.com,PROXY
+HOST-SUFFIX,avmask.com,PROXY
+HOST-SUFFIX,javlibrary.com,PROXY
+
+# > Pornhub
+HOST-SUFFIX,phncdn.com,PROXY
+HOST-SUFFIX,pornhub.com,PROXY
+HOST-SUFFIX,pornhubpremium.com,PROXY
 
 # > Quantumult GeoLite2 Update
 HOST-SUFFIX,maxmind.com,PROXY
@@ -68,8 +77,13 @@ HOST-SUFFIX,wikipedia.org,PROXY
 HOST-SUFFIX,wikiquote.org,PROXY
 HOST-SUFFIX,wikiwand.com,PROXY
 
+# > Yandex
+HOST-SUFFIX,yandex.ru,PROXY
+HOST-SUFFIX,yandex.com,PROXY
+
 # > YouTube
 HOST-SUFFIX,youtube.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 HOST-SUFFIX,youtu.be,PROXY
 HOST-SUFFIX,yt.be,PROXY
+HOST-SUFFIX,googlevideo.com,PROXY
