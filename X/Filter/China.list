@@ -18,6 +18,7 @@ HOST-SUFFIX,1password.ca,DIRECT
 HOST-SUFFIX,1passwordusercontent.com,DIRECT
 
 # > AdGuard
+HOST-SUFFIX,adguard.org,DIRECT
 HOST-SUFFIX,adguard.com,DIRECT
 HOST,filters.adtidy.org,DIRECT
 
