@@ -5,7 +5,13 @@ HOST-SUFFIX,mail.ru,PROXY
 HOST-SUFFIX,medium.com,PROXY
 HOST-SUFFIX,pixiv.net,PROXY
 HOST-SUFFIX,v2ray.com,PROXY
+HOST-SUFFIX,shadowsocks.org,PROXY
 HOST-SUFFIX,yandex.ru,PROXY
+HOST-SUFFIX,s3.amazonaws.com,PROXY
+HOST-SUFFIX,debug.com,PROXY
+HOST-SUFFIX,yahoo.com,PROXY
+HOST-SUFFIX,wordpress.com,PROXY
+HOST-SUFFIX,mega.nz,PROXY
 
 # > Bandwagon
 HOST-SUFFIX,bandwagonhost.com,PROXY
