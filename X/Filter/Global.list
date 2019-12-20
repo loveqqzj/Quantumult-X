@@ -45,6 +45,9 @@ HOST-SUFFIX,javlibrary.com,PROXY
 HOST-SUFFIX,pixiv.net,PROXY
 HOST-SUFFIX,sis001.com,PROXY
 
+# > OneDrive
+HOST-SUFFIX,onedrive.live.com,PROXY
+
 # > Pornhub
 HOST-SUFFIX,phncdn.com,PROXY
 HOST-SUFFIX,pornhub.com,PROXY
