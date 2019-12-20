@@ -1,4 +1,5 @@
-# Internet Service Providers Hijacking 运营商劫持
+# 神机劫持规则
+# 运营商劫持
 DOMAIN-SUFFIX,17gouwuba.com,REJECT
 DOMAIN-SUFFIX,186078.com,REJECT
 DOMAIN-SUFFIX,189zj.cn,REJECT
