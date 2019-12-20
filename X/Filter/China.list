@@ -33,7 +33,6 @@ HOST-SUFFIX,onedrive.com,DIRECT
 HOST-SUFFIX,storage.live.com,DIRECT
 HOST-SUFFIX,storage.msn.com,DIRECT
 HOST,oneclient.sfx.ms,DIRECT
-HOST-SUFFIX,onedrive.live.com,DIRECT
 
 # > PayPal
 USER-AGENT,PayPal*,DIRECT
