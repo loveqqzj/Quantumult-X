@@ -1,0 +1,37 @@
+# > 1Password
+HOST-SUFFIX,1password.com,1Password
+HOST-SUFFIX,1password.eu,1Password
+HOST-SUFFIX,1password.ca,1Password
+HOST-SUFFIX,1passwordusercontent.com,1Password
+
+# > AdGuard
+HOST-SUFFIX,adguard.com,AdGuard
+HOST,filters.adtidy.org,AdGuard
+
+# > OneDrive
+USER-AGENT,OneDrive*,OneDrive
+USER-AGENT,OneDriveiOSApp*,OneDrive
+HOST-SUFFIX,1drv.com,OneDrive
+HOST-SUFFIX,1drv.ms,OneDrive
+HOST-SUFFIX,blob.core.windows.net,OneDrive
+HOST-SUFFIX,livefilestore.com,OneDrive
+HOST-SUFFIX,onedrive.com,OneDrive
+HOST-SUFFIX,storage.live.com,OneDrive
+HOST-SUFFIX,storage.msn.com,OneDrive
+HOST,oneclient.sfx.ms,OneDrive
+
+# > PayPal
+USER-AGENT,PayPal*,PayPal
+HOST-KEYWORD,paypal,PayPal
+HOST-SUFFIX,paypal.com,PayPal
+HOST-SUFFIX,paypalobjects.com,PayPal
+HOST,config2.mparticle.com,PayPal
+HOST,identity.mparticle.com,PayPal
+HOST,nativesdks.mparticle.com,PayPal
+
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*,Speedtest
+HOST-SUFFIX,speedtest.net,Speedtest
+HOST-SUFFIX,netspeedtestmaster.com,Speedtest
+HOST,speedtest.macpaw.com,Speedtest
+HOST-KEYWORD,speedtest,Speedtest
