@@ -112,10 +112,6 @@ HOST-SUFFIX,yahoo.com,PROXY
 HOST-SUFFIX,yandex.ru,PROXY
 HOST-SUFFIX,yandex.com,PROXY
 
-# > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*,PROXY
-USER-AGENT,YouTubeMusic*,PROXY
-
 # > YouTube
 HOST-SUFFIX,youtube.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
