@@ -19,7 +19,6 @@ HOST-SUFFIX,onedrive.com,OneDrive
 HOST-SUFFIX,storage.live.com,OneDrive
 HOST-SUFFIX,storage.msn.com,OneDrive
 HOST,oneclient.sfx.ms,OneDrive
-HOST-SUFFIX,onedrive.live.com,OneDrive
 
 # > PayPal
 USER-AGENT,PayPal*,PayPal
