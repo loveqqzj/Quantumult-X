@@ -1,5 +1,4 @@
 # > General
-HOST,app.adjust.com,REJECT
 HOST,app-measurement.com,REJECT
 HOST-SUFFIX,adsense.com,REJECT
 
