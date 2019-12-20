@@ -1,4 +1,3 @@
-# 基于神机广告规则和运营商劫持规则，添加一些自用规则
 # > General
 HOST-KEYWORD,adservice,REJECT
 HOST-KEYWORD,analytics,REJECT
