@@ -10,6 +10,8 @@ HOST-SUFFIX,vmware.com,DIRECT
 HOST-SUFFIX,hostloc.com,DIRECT
 HOST-SUFFIX,teamviewer.com,DIRECT
 HOST-SUFFIX,accuweather.com,DIRECT
+HOST,ocsp.digicert.com,DIRECT
+HOST,statuse.digitalcertvalidation.com,DIRECT
 
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
@@ -49,11 +51,11 @@ HOST-KEYWORD,speedtest,DIRECT
 
 # > Akamai
 HOST-SUFFIX,akadns.net,DIRECT
-HOST-SUFFIX,akamai.net,DIRECT
-HOST-SUFFIX,akamaiedge.net,DIRECT
-HOST-SUFFIX,akamaihd.net,DIRECT
-HOST-SUFFIX,akamaistream.net,DIRECT
-HOST-SUFFIX,akamaized.net,DIRECT
+# HOST-SUFFIX,akamai.net,DIRECT
+# HOST-SUFFIX,akamaiedge.net,DIRECT
+# HOST-SUFFIX,akamaihd.net,DIRECT
+# HOST-SUFFIX,akamaistream.net,DIRECT
+# HOST-SUFFIX,akamaized.net,DIRECT
 
 # > Alibaba
 HOST-SUFFIX,alibaba.com,DIRECT
@@ -122,7 +124,6 @@ HOST-SUFFIX,s-microsoft.com,DIRECT
 HOST-SUFFIX,visualstudio.com,DIRECT
 HOST-SUFFIX,windows.com,DIRECT
 HOST-SUFFIX,windowsupdate.com,DIRECT
-HOST,ocsp.digicert.com,DIRECT
 HOST,officecdn-microsoft-com.akamaized.net,DIRECT
 HOST-SUFFIX,gfx.ms,DIRECT
 HOST-KEYWORD,microsoft,DIRECT
