@@ -1,6 +1,7 @@
 # > General
 HOST,app.adjust.com,REJECT
 HOST,app-measurement.com,REJECT
+HOST-SUFFIX,adsense.com,REJECT
 
 # > 12306
 HOST,res.mall.10010.cn,REJECT
