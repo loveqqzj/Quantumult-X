@@ -1,0 +1,120 @@
+# > General
+HOST-SUFFIX,disqus.com,PROXY
+HOST-SUFFIX,duckduckgo.com,PROXY
+HOST-SUFFIX,medium.com,PROXY
+HOST-SUFFIX,v2ray.com,PROXY
+HOST-SUFFIX,shadowsocks.org,PROXY
+HOST-SUFFIX,crucial.com,PROXY
+HOST-SUFFIX,debug.com,PROXY
+HOST-SUFFIX,wordpress.com,PROXY
+HOST-SUFFIX,python.com,PROXY
+
+# > Amazon
+HOST-SUFFIX,amazon.co.jp,PROXY
+HOST-SUFFIX,amazon.com,PROXY
+HOST-SUFFIX,s3.amazonaws.com,PROXY
+HOST-SUFFIX,s3-ap-northeast-1.amazonaws.com,PROXY
+
+# > Bandwagon
+HOST-SUFFIX,bwh1.net,PROXY
+HOST-SUFFIX,bandwagonhost.com,PROXY
+HOST-SUFFIX,justmysocks.net,PROXY
+
+# > Github
+HOST-SUFFIX,github.com,PROXY
+HOST-SUFFIX,github.io,PROXY
+HOST-SUFFIX,githubapp.com,PROXY
+HOST-SUFFIX,githubassets.com,PROXY
+HOST-SUFFIX,githubusercontent.com,PROXY
+
+# > Google
+HOST-SUFFIX,google.com,PROXY
+HOST-SUFFIX,googleapis.com,PROXY
+HOST-SUFFIX,googleusercontent.com,PROXY
+HOST-SUFFIX,gmodules.com,PROXY
+HOST-SUFFIX,gmail.com,PROXY
+HOST-SUFFIX,ampproject.org,PROXY
+HOST-SUFFIX,gstatic.com,PROXY
+HOST-SUFFIX,appspot.com,PROXY
+HOST-SUFFIX,blogger.com,PROXY
+HOST-SUFFIX,blogspot.com,PROXY
+HOST-SUFFIX,ggpht.com,PROXY
+HOST-SUFFIX,blogblog.com,PROXY
+HOST-SUFFIX,recaptcha.net,PROXY
+
+# > Jav
+HOST-SUFFIX,avmask.com,PROXY
+HOST-SUFFIX,avmoo.com,PROXY
+HOST-SUFFIX,tellme.pw,PROXY
+HOST-SUFFIX,javhd.com,PROXY
+HOST-SUFFIX,javbus.com,PROXY
+HOST-SUFFIX,javlibrary.com,PROXY
+HOST-SUFFIX,pixiv.net,PROXY
+HOST-SUFFIX,sis001.com,PROXY
+HOST-SUFFIX,sis001.us,PROXY
+HOST-SUFFIX,sukebei.nyaa.si,PROXY
+HOST-SUFFIX,btspread.com,PROXY
+
+# > OneDrive
+HOST-SUFFIX,onedrive.live.com,PROXY
+
+# > Pornhub
+HOST-SUFFIX,phncdn.com,PROXY
+HOST-SUFFIX,pornhub.com,PROXY
+HOST-SUFFIX,pornhubpremium.com,PROXY
+
+# > Quantumult GeoLite2 Update
+HOST-SUFFIX,maxmind.com,PROXY
+HOST,quantumult.crossutility.com,PROXY
+
+# > Steam
+HOST,api.steampowered.com,PROXY
+HOST,store.steampowered.com,PROXY
+HOST-SUFFIX,steamcommunity.com,PROXY
+
+# > Telegram
+HOST-SUFFIX,t.me,PROXY
+HOST-SUFFIX,tdesktop.com,PROXY
+HOST-SUFFIX,telegra.ph,PROXY
+HOST-SUFFIX,telegram.me,PROXY
+HOST-SUFFIX,telegram.org,PROXY
+IP-CIDR,67.198.55.0/24,PROXY
+IP-CIDR,91.108.4.0/22,PROXY
+IP-CIDR,91.108.8.0/22,PROXY
+IP-CIDR,91.108.12.0/22,PROXY
+IP-CIDR,91.108.16.0/22,PROXY
+IP-CIDR,91.108.56.0/22,PROXY
+IP-CIDR,109.239.140.0/24,PROXY
+IP-CIDR,149.154.160.0/20,PROXY
+IP-CIDR,205.172.60.0/22,PROXY
+
+# > Wikipedia
+HOST-SUFFIX,mediawiki.org,PROXY
+HOST-SUFFIX,wikidata.org,PROXY
+HOST-SUFFIX,wikimedia.org,PROXY
+HOST-SUFFIX,wikibooks.org,PROXY
+HOST-SUFFIX,wikiversity.org,PROXY
+HOST-SUFFIX,wikisource.org,PROXY
+HOST-SUFFIX,wikinews.org,PROXY
+HOST-SUFFIX,wikivoyage.org,PROXY
+HOST-SUFFIX,wiktionary.org,PROXY
+HOST-SUFFIX,wikimediafoundation.org,PROXY
+HOST-SUFFIX,wikimapia.org,PROXY
+HOST-SUFFIX,wikipedia.org,PROXY
+HOST-SUFFIX,wikiquote.org,PROXY
+HOST-SUFFIX,wikiwand.com,PROXY
+
+# > Yahoo
+HOST-SUFFIX,yahoo.co,PROXY
+HOST-SUFFIX,yahoo.com,PROXY
+
+# > Yandex
+HOST-SUFFIX,yandex.ru,PROXY
+HOST-SUFFIX,yandex.com,PROXY
+
+# > YouTube
+HOST-SUFFIX,youtube.com,PROXY
+HOST-SUFFIX,ytimg.com,PROXY
+HOST-SUFFIX,youtu.be,PROXY
+HOST-SUFFIX,yt.be,PROXY
+HOST-SUFFIX,googlevideo.com,PROXY
