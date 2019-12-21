@@ -8,6 +8,9 @@ HOST-SUFFIX,crucial.com,PROXY
 HOST-SUFFIX,debug.com,PROXY
 HOST-SUFFIX,wordpress.com,PROXY
 HOST-SUFFIX,python.com,PROXY
+HOST-SUFFIX,mpyit.com,PROXY
+HOST-SUFFIX,laomo.me,PROXY
+HOST-SUFFIX,dama.lu,PROXY
 
 # > Amazon
 HOST-SUFFIX,amazon.co.jp,PROXY
