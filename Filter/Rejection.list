@@ -240,7 +240,6 @@ HOST-SUFFIX,beacon.qq.com,REJECT
 HOST-SUFFIX,bugly.qq.com,REJECT
 HOST-SUFFIX,e.qq.com,REJECT
 HOST-SUFFIX,gdt.qq.com,REJECT
-HOST-SUFFIX,l.qq.com,REJECT
 HOST-SUFFIX,rqd.qq.com,REJECT
 HOST,adsmind.tc.qq.com,REJECT
 HOST,adsmind.apdcdn.tc.qq.com,REJECT
