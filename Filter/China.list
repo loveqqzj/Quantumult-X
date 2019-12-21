@@ -12,6 +12,8 @@ HOST-SUFFIX,teamviewer.com,DIRECT
 HOST-SUFFIX,accuweather.com,DIRECT
 HOST,ocsp.digicert.com,DIRECT
 HOST,statuse.digitalcertvalidation.com,DIRECT
+HOST-SUFFIX,appinn.com,DIRECT
+HOST,ocsp.sectigo.com,DIRECT
 
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
