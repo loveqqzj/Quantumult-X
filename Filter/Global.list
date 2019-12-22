@@ -79,6 +79,7 @@ HOST-SUFFIX,steamcommunity.com,PROXY
 # > Tampermonkey
 HOST-SUFFIX,tampermonkey.net,PROXY
 HOST-SUFFIX,greasyfork.org,PROXY
+HOST-SUFFIX,sleazyfork.org,PROXY
 
 # > Telegram
 HOST-SUFFIX,t.me,PROXY
