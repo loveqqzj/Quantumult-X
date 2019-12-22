@@ -11,6 +11,7 @@ HOST-SUFFIX,python.com,PROXY
 HOST-SUFFIX,mpyit.com,PROXY
 HOST-SUFFIX,laomo.me,PROXY
 HOST-SUFFIX,dama.lu,PROXY
+HOST-SUFFIX,repl.it,PROXY
 
 # > Amazon
 HOST-SUFFIX,amazon.co.jp,PROXY
