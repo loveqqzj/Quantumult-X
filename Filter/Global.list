@@ -70,7 +70,7 @@ HOST-SUFFIX,pornhubpremium.com,PROXY
 
 # > Quantumult GeoLite2 Update
 HOST-SUFFIX,maxmind.com,PROXY
-HOST,quantumult.crossutility.com,PROXY
+HOST-SUFFIX,crossutility.com,PROXY
 
 # > Steam
 HOST,api.steampowered.com,PROXY
