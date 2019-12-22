@@ -76,6 +76,10 @@ HOST,api.steampowered.com,PROXY
 HOST,store.steampowered.com,PROXY
 HOST-SUFFIX,steamcommunity.com,PROXY
 
+# > Tampermonkey
+HOST-SUFFIX,tampermonkey.net,PROXY
+HOST-SUFFIX,greasyfork.org,PROXY
+
 # > Telegram
 HOST-SUFFIX,t.me,PROXY
 HOST-SUFFIX,tdesktop.com,PROXY
