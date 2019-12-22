@@ -45,6 +45,7 @@ HOST-SUFFIX,blogspot.com,PROXY
 HOST-SUFFIX,ggpht.com,PROXY
 HOST-SUFFIX,blogblog.com,PROXY
 HOST-SUFFIX,recaptcha.net,PROXY
+HOST-KEYWORD,google,PROXY
 
 # > Jav
 HOST-SUFFIX,avmask.com,PROXY
@@ -120,6 +121,7 @@ HOST-SUFFIX,yahoo.com,PROXY
 # > Yandex
 HOST-SUFFIX,yandex.ru,PROXY
 HOST-SUFFIX,yandex.com,PROXY
+HOST-SUFFIX,yandex.net,PROXY
 
 # > YouTube
 HOST-SUFFIX,youtube.com,PROXY
