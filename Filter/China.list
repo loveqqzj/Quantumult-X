@@ -1,4 +1,5 @@
 # > General
+HOST-SUFFIX,cn,DIRECT
 HOST-SUFFIX,amd.com,DIRECT
 HOST-SUFFIX,java.com,DIRECT
 HOST-SUFFIX,loli.net,DIRECT
@@ -180,8 +181,7 @@ HOST-SUFFIX,springsunday.net,DIRECT
 HOST-SUFFIX,tjupt.org,DIRECT
 HOST-SUFFIX,totheglory.im,DIRECT
 
-# > 苏e行
-USER-AGENT,SZMetro*,DIRECT
+# > 苏州行
 USER-AGENT,SuzhouXing*,DIRECT
 
 # > Steam
@@ -193,8 +193,3 @@ HOST-SUFFIX,steamcontent.com,DIRECT
 HOST-SUFFIX,steamstatic.com,DIRECT
 HOST-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
 HOST-SUFFIX,steamstat.us,DIRECT
-
-# GeoIP China
-HOST-SUFFIX,cn,DIRECT
-GEOIP,CN,DIRECT
-
