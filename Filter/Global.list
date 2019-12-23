@@ -14,10 +14,12 @@ HOST-SUFFIX,dama.lu,PROXY
 HOST-SUFFIX,repl.it,PROXY
 
 # > Amazon
+HOST-SUFFIX,amazonlightsail.com,PROXY
+HOST-SUFFIX,awsstatic.com,PROXY
+HOST,amazonwebservicesinc.tt.omtrdc.net,PROXY
 HOST-SUFFIX,amazon.co.jp,PROXY
 HOST-SUFFIX,amazon.com,PROXY
-HOST-SUFFIX,s3.amazonaws.com,PROXY
-HOST-SUFFIX,s3-ap-northeast-1.amazonaws.com,PROXY
+HOST-SUFFIX,amazonaws.com,PROXY
 
 # > Bandwagon
 HOST-SUFFIX,bwh1.net,PROXY
