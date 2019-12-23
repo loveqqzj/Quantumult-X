@@ -126,6 +126,8 @@ HOST-SUFFIX,yandex.com,PROXY
 HOST-SUFFIX,yandex.net,PROXY
 
 # > YouTube
+USER-AGENT,com.google.ios.youtube*,PROXY
+USER-AGENT,YouTube*,PROXY
 HOST-SUFFIX,youtube.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 HOST-SUFFIX,youtu.be,PROXY
