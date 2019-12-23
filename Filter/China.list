@@ -180,6 +180,10 @@ HOST-SUFFIX,springsunday.net,DIRECT
 HOST-SUFFIX,tjupt.org,DIRECT
 HOST-SUFFIX,totheglory.im,DIRECT
 
+# > 苏e行
+USER-AGENT,SZMetro*,DIRECT
+USER-AGENT,SuzhouXing*,DIRECT
+
 # > Steam
 HOST-SUFFIX,steampowered.com,DIRECT
 HOST-SUFFIX,steam-chat.com,DIRECT
