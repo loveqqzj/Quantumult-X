@@ -1,6 +1,6 @@
 # > OneDrive
-USER-AGENT,OneDrive*,OneDrive
-USER-AGENT,OneDriveiOSApp*,OneDrive
+USER-AGENT,OneDrive*,DIRECT
+USER-AGENT,OneDriveiOSApp*,DIRECT
 
 # > PayPal
 USER-AGENT,PayPal*,PayPal
