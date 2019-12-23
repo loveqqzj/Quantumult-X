@@ -1,16 +1,14 @@
 # > OneDrive
-USER-AGENT,OneDrive*,OneDrive
-USER-AGENT,OneDriveiOSApp*,OneDrive
-# HOST-SUFFIX,1drv.com,DIRECT
-# HOST-SUFFIX,1drv.ms,DIRECT
-# HOST-SUFFIX,blob.core.windows.net,DIRECT
-# HOST-SUFFIX,livefilestore.com,DIRECT
-# HOST-SUFFIX,onedrive.com,DIRECT
-# HOST-SUFFIX,storage.live.com,DIRECT
-# HOST-SUFFIX,storage.msn.com,DIRECT
-# HOST-SUFFIX,sfx.ms,DIRECT
-# HOST-SUFFIX,svc.ms,DIRECT
-# HOST-SUFFIX,sharepointonline.com,DIRECT
+HOST-SUFFIX,1drv.com,DIRECT
+HOST-SUFFIX,1drv.ms,DIRECT
+HOST-SUFFIX,blob.core.windows.net,DIRECT
+HOST-SUFFIX,livefilestore.com,DIRECT
+HOST-SUFFIX,onedrive.com,DIRECT
+HOST-SUFFIX,storage.live.com,DIRECT
+HOST-SUFFIX,storage.msn.com,DIRECT
+HOST-SUFFIX,sfx.ms,DIRECT
+HOST-SUFFIX,svc.ms,DIRECT
+HOST-SUFFIX,sharepointonline.com,DIRECT
 
 # > PayPal
 HOST-KEYWORD,paypal,PayPal
