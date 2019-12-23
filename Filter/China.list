@@ -1,5 +1,4 @@
 # > General
-HOST-SUFFIX,cn,DIRECT
 HOST-SUFFIX,amd.com,DIRECT
 HOST-SUFFIX,java.com,DIRECT
 HOST-SUFFIX,loli.net,DIRECT
@@ -192,4 +191,6 @@ HOST-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
 HOST-SUFFIX,steamstat.us,DIRECT
 
 # GeoIP China
+HOST-SUFFIX,cn,DIRECT
 GEOIP,CN,DIRECT
+
