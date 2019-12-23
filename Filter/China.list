@@ -32,14 +32,6 @@ HOST,filters.adtidy.org,DIRECT
 # > OneDrive
 USER-AGENT,OneDrive*,DIRECT
 USER-AGENT,OneDriveiOSApp*,DIRECT
-HOST-SUFFIX,1drv.com,DIRECT
-HOST-SUFFIX,1drv.ms,DIRECT
-HOST-SUFFIX,blob.core.windows.net,DIRECT
-HOST-SUFFIX,livefilestore.com,DIRECT
-HOST-SUFFIX,onedrive.com,DIRECT
-HOST-SUFFIX,storage.live.com,DIRECT
-HOST-SUFFIX,storage.msn.com,DIRECT
-HOST,oneclient.sfx.ms,DIRECT
 
 # > PayPal
 USER-AGENT,PayPal*,DIRECT
@@ -52,7 +44,7 @@ HOST,nativesdks.mparticle.com,DIRECT
 
 # > Speedtest by Ookla
 USER-AGENT,SpeedTest*,DIRECT
-HOST-KEYWORD,speedtest,DIRECT
+HOST-SUFFIX,speedtest.net,DIRECT
 
 # > Akamai
 HOST-SUFFIX,akadns.net,DIRECT
@@ -130,9 +122,6 @@ HOST-SUFFIX,visualstudio.com,DIRECT
 HOST-SUFFIX,windows.com,DIRECT
 HOST-SUFFIX,windowsupdate.com,DIRECT
 HOST,officecdn-microsoft-com.akamaized.net,DIRECT
-HOST-SUFFIX,gfx.ms,DIRECT
-HOST-KEYWORD,microsoft,DIRECT
-HOST-KEYWORD,windows,DIRECT
 
 # > Office
 HOST-SUFFIX,office.com,DIRECT
