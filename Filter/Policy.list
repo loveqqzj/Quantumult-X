@@ -11,9 +11,9 @@ HOST-SUFFIX,svc.ms,DIRECT
 HOST-SUFFIX,sharepointonline.com,DIRECT
 
 # > PayPal
-HOST-KEYWORD,paypal,PayPal
-HOST-SUFFIX,paypal.com,PayPal
-HOST-SUFFIX,paypalobjects.com,PayPal
-HOST,config2.mparticle.com,PayPal
-HOST,identity.mparticle.com,PayPal
-HOST,nativesdks.mparticle.com,PayPal
+HOST-KEYWORD,paypal,DIRECT
+HOST-SUFFIX,paypal.com,DIRECT
+HOST-SUFFIX,paypalobjects.com,DIRECT
+HOST,config2.mparticle.com,DIRECT
+HOST,identity.mparticle.com,DIRECT
+HOST,nativesdks.mparticle.com,DIRECT
