@@ -190,3 +190,6 @@ HOST-SUFFIX,steamcontent.com,DIRECT
 HOST-SUFFIX,steamstatic.com,DIRECT
 HOST-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
 HOST-SUFFIX,steamstat.us,DIRECT
+
+# GeoIP China
+GEOIP,CN,DIRECT
