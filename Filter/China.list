@@ -10,7 +10,6 @@ HOST-SUFFIX,vmware.com,DIRECT
 HOST-SUFFIX,hostloc.com,DIRECT
 HOST-SUFFIX,teamviewer.com,DIRECT
 HOST-SUFFIX,accuweather.com,DIRECT
-HOST,ocsp.digicert.com,DIRECT
 HOST,statuse.digitalcertvalidation.com,DIRECT
 HOST-SUFFIX,appinn.com,DIRECT
 HOST,ocsp.sectigo.com,DIRECT
@@ -43,6 +42,7 @@ HOST-SUFFIX,alipay.com,DIRECT
 HOST-SUFFIX,tmall.hk,DIRECT
 
 # > Apple
+USER-AGENT,com.apple.trustd*,DIRECT
 HOST-SUFFIX,aaplimg.com,DIRECT
 HOST-SUFFIX,apple.co,DIRECT
 HOST-SUFFIX,apple.com,DIRECT
@@ -156,6 +156,12 @@ HOST-SUFFIX,totheglory.im,DIRECT
 # > 苏州行
 USER-AGENT,SuzhouXing*,DIRECT
 
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*,DIRECT
+HOST-SUFFIX,speedtest.net,DIRECT
+HOST-KEYWORD,speedtest,DIRECT
+HOST-SUFFIX,wlvpn.com,DIRECT
+
 # > Steam
 HOST-SUFFIX,steampowered.com,DIRECT
 HOST-SUFFIX,steam-chat.com,DIRECT
@@ -165,3 +171,7 @@ HOST-SUFFIX,steamcontent.com,DIRECT
 HOST-SUFFIX,steamstatic.com,DIRECT
 HOST-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
 HOST-SUFFIX,steamstat.us,DIRECT
+
+# > WARP+ 1.1.1.1
+HOST-SUFFIX,instabug.com,DIRECT
+HOST-SUFFIX,1.1.1.1,DIRECT
