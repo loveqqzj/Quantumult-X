@@ -64,14 +64,6 @@ HOST-SUFFIX,btspread.com,PROXY
 
 # > OneDrive
 HOST-SUFFIX,onedrive.live.com,PROXY
-HOST-SUFFIX,1drv.com,PROXY
-HOST-SUFFIX,1drv.ms,PROXY
-HOST-SUFFIX,blob.core.windows.net,PROXY
-HOST-SUFFIX,livefilestore.com,PROXY
-HOST-SUFFIX,onedrive.com,PROXY
-HOST-SUFFIX,storage.live.com,PROXY
-HOST-SUFFIX,storage.msn.com,PROXY
-HOST,oneclient.sfx.ms,PROXY
 
 # > Pornhub
 HOST-SUFFIX,phncdn.com,PROXY
