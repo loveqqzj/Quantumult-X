@@ -22,9 +22,9 @@ HOST-SUFFIX,1password.ca,DIRECT
 HOST-SUFFIX,1passwordusercontent.com,DIRECT
 
 # > AdGuard
+USER-AGENT,AdGuard*,DIRECT
 HOST-SUFFIX,adguard.org,DIRECT
 HOST-SUFFIX,adguard.com,DIRECT
-HOST,filters.adtidy.org,DIRECT
 
 # > OneDrive
 USER-AGENT,OneDrive*,DIRECT
