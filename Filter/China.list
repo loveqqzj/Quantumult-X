@@ -17,7 +17,6 @@ HOST,ocsp.sectigo.com,DIRECT
 HOST-SUFFIX,letsencrypt.org,DIRECT
 
 # > 1Password
-USER-AGENT,1Password*,DIRECT
 HOST-SUFFIX,1password.com,DIRECT
 HOST-SUFFIX,1password.eu,DIRECT
 HOST-SUFFIX,1password.ca,DIRECT
