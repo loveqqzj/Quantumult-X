@@ -24,35 +24,17 @@ HOST-SUFFIX,1password.ca,DIRECT
 HOST-SUFFIX,1passwordusercontent.com,DIRECT
 
 # > AdGuard
-USER-AGENT,AdGuard*,DIRECT
 HOST-SUFFIX,adguard.org,DIRECT
 HOST-SUFFIX,adguard.com,DIRECT
 HOST,filters.adtidy.org,DIRECT
 
-# > OneDrive
-USER-AGENT,OneDrive*,DIRECT
-USER-AGENT,OneDriveiOSApp*,DIRECT
-
-# > PayPal
-USER-AGENT,PayPal*,DIRECT
-HOST-KEYWORD,paypal,DIRECT
-HOST-SUFFIX,paypal.com,DIRECT
-HOST-SUFFIX,paypalobjects.com,DIRECT
-HOST,config2.mparticle.com,DIRECT
-HOST,identity.mparticle.com,DIRECT
-HOST,nativesdks.mparticle.com,DIRECT
-
-# > Speedtest by Ookla
-USER-AGENT,SpeedTest*,DIRECT
-HOST-SUFFIX,speedtest.net,DIRECT
-
 # > Akamai
 HOST-SUFFIX,akadns.net,DIRECT
-# HOST-SUFFIX,akamai.net,DIRECT
-# HOST-SUFFIX,akamaiedge.net,DIRECT
-# HOST-SUFFIX,akamaihd.net,DIRECT
-# HOST-SUFFIX,akamaistream.net,DIRECT
-# HOST-SUFFIX,akamaized.net,DIRECT
+HOST-SUFFIX,akamai.net,DIRECT
+HOST-SUFFIX,akamaiedge.net,DIRECT
+HOST-SUFFIX,akamaihd.net,DIRECT
+HOST-SUFFIX,akamaistream.net,DIRECT
+HOST-SUFFIX,akamaized.net,DIRECT
 
 # > Alibaba
 HOST-SUFFIX,alibaba.com,DIRECT
