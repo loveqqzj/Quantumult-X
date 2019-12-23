@@ -118,6 +118,11 @@ HOST-SUFFIX,adsense.com,REJECT
 HOST,res.mall.10010.cn,REJECT
 HOST,ad.12306.cn,REJECT
 
+# > 58 同城
+HOST,adshow.58.com,REJECT
+HOST,track.58.com,REJECT
+HOST,tracklog.58.com,REJECT
+
 # > Apple
 HOST-SUFFIX,iadsdk.apple.com,REJECT
 HOST-SUFFIX,ads.internal.unity3d.com,REJECT
@@ -199,6 +204,11 @@ HOST,minfo.wps.cn,REJECT
 HOST,mobad.ijinshan.com,REJECT
 HOST,ups.ksmobile.net,REJECT
 HOST,ws.ksmobile.net,REJECT
+
+# > 乐播投屏
+HOST,ad.hpplay.cn,REJECT
+HOST,adeng.hpplay.cn,REJECT
+HOST,rp.hpplay.cn,REJECT
 
 # > Microsoft
 HOST,gate.hockeyapp.net,REJECT
