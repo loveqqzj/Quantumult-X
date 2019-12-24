@@ -1,19 +1,24 @@
 # > OneDrive
-HOST-SUFFIX,1drv.com,DIRECT
-HOST-SUFFIX,1drv.ms,DIRECT
-HOST-SUFFIX,blob.core.windows.net,DIRECT
-HOST-SUFFIX,livefilestore.com,DIRECT
-HOST-SUFFIX,onedrive.com,DIRECT
-HOST-SUFFIX,storage.live.com,DIRECT
-HOST-SUFFIX,storage.msn.com,DIRECT
-HOST-SUFFIX,sfx.ms,DIRECT
-HOST-SUFFIX,svc.ms,DIRECT
-HOST-SUFFIX,sharepointonline.com,DIRECT
+USER-AGENT,OneDrive*,OneDrive
+USER-AGENT,OneDriveiOSApp*,OneDrive
+HOST-SUFFIX,1drv.com,OneDrive
+HOST-SUFFIX,1drv.ms,OneDrive
+HOST-SUFFIX,blob.core.windows.net,OneDrive
+HOST-SUFFIX,livefilestore.com,OneDrive
+HOST-SUFFIX,onedrive.com,OneDrive
+HOST-SUFFIX,storage.live.com,OneDrive
+HOST-SUFFIX,storage.msn.com,OneDrive
+HOST-SUFFIX,sfx.ms,OneDrive
+HOST-SUFFIX,svc.ms,OneDrive
+HOST-SUFFIX,mobile.pipe.aria.microsoft.com,OneDrive
+HOST-SUFFIX,officeapps.live.com,OneDrive
+HOST-SUFFIX,skyapi.live.net,OneDrive
 
 # > PayPal
-HOST-KEYWORD,paypal,DIRECT
-HOST-SUFFIX,paypal.com,DIRECT
-HOST-SUFFIX,paypalobjects.com,DIRECT
-HOST,config2.mparticle.com,DIRECT
-HOST,identity.mparticle.com,DIRECT
-HOST,nativesdks.mparticle.com,DIRECT
+USER-AGENT,PayPal*,PayPal
+HOST-KEYWORD,paypal,PayPal
+HOST-SUFFIX,paypal.com,PayPal
+HOST-SUFFIX,paypalobjects.com,PayPal
+HOST,config2.mparticle.com,PayPal
+HOST,identity.mparticle.com,PayPal
+HOST,nativesdks.mparticle.com,PayPal
