@@ -3,7 +3,7 @@ HOST-SUFFIX,exoclick.com,REJECT
 HOST-SUFFIX,app-measurement.com,REJECT
 HOST-SUFFIX,crashlytics.com,REJECT
 ;HOST,e.crashlytics.com,REJECT
-;HOST,setting.crashlytics.com,REJECT
+;HOST,settings.crashlytics.com,REJECT
 
 # > Microsoft
 HOST-SUFFIX,hockeyapp.net,REJECT
