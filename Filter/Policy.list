@@ -8,13 +8,14 @@ HOST-SUFFIX,livefilestore.com,OneDrive
 HOST-SUFFIX,onedrive.com,OneDrive
 HOST-SUFFIX,storage.live.com,OneDrive
 HOST-SUFFIX,storage.msn.com,OneDrive
-HOST-SUFFIX,oneclient.sfx.ms,OneDrive
-HOST-SUFFIX,3-eastus1.pushp.svc.ms,OneDrive
-HOST-SUFFIX,mobile.pipe.aria.microsoft.com,OneDrive
-HOST-SUFFIX,officeapps.live.com,OneDrive
-HOST-SUFFIX,skyapi.live.net,OneDrive
-HOST-SUFFIX,az725175.vo.msecnd.net,OneDrive
-HOST-SUFFIX,shellprod.msocdn.com,OneDrive
+HOST,oneclient.sfx.ms,OneDrive
+HOST,3-eastus1.pushp.svc.ms,OneDrive
+HOST,mobile.pipe.aria.microsoft.com,OneDrive
+HOST,odc.officeapps.live.com,OneDrive
+HOST,skyapi.live.net,OneDrive
+HOST,az725175.vo.msecnd.net,OneDrive
+HOST,shellprod.msocdn.com,OneDrive
+HOST,config.edge.skype.com,OneDrive
 
 # > PayPal
 USER-AGENT,PayPal*,PayPal
