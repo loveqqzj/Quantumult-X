@@ -40,11 +40,7 @@ HOST-SUFFIX,gmodules.com,PROXY
 HOST-SUFFIX,gmail.com,PROXY
 HOST-SUFFIX,gstatic.com,PROXY
 HOST-SUFFIX,recaptcha.net,PROXY
-HOST-KEYWORD,google,PROXY
-HOST-SUFFIX,chrome.com,PROXY
-HOST-SUFFIX,chromeexperiments.com,PROXY
-HOST-SUFFIX,chromestatus.com,PROXY
-HOST-SUFFIX,chromium.org,PROXY
+HOST-SUFFIX,ampproject.org,PROXY
 
 # > Jav
 HOST-SUFFIX,avmask.com,PROXY
