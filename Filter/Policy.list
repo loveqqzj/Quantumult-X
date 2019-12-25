@@ -19,6 +19,7 @@ HOST,config.edge.skype.com,OneDrive
 
 # > PayPal
 USER-AGENT,PayPal*,PayPal
+USER-AGENT,com.yourcompany.PPClient*,PayPal
 HOST-KEYWORD,paypal,PayPal
 HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
