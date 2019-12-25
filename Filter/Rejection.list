@@ -1,16 +1,58 @@
 # > General
+HOST-KEYWORD,admarvel,REJECT
+HOST-KEYWORD,admaster,REJECT
+HOST-KEYWORD,admdfs,REJECT
+HOST-KEYWORD,adnewnc,REJECT
+HOST-KEYWORD,adsage,REJECT
+HOST-KEYWORD,adsame,REJECT
+HOST-KEYWORD,adsensor,REJECT
+HOST-KEYWORD,adserver,REJECT
+HOST-KEYWORD,adservice,REJECT
+HOST-KEYWORD,adsmogo,REJECT
+HOST-KEYWORD,adsrvmedia,REJECT
+HOST-KEYWORD,adsserving,REJECT
+HOST-KEYWORD,advert,REJECT
+HOST-KEYWORD,adwords,REJECT
+HOST-KEYWORD,allyes,REJECT
+HOST-KEYWORD,analysis,REJECT
+HOST-KEYWORD,analysys,REJECT
+HOST-KEYWORD,analytics,REJECT
+HOST-KEYWORD,applovin,REJECT
+HOST-KEYWORD,cnzz,REJECT
+HOST-KEYWORD,dnserror,REJECT
+HOST-KEYWORD,domob,REJECT
+HOST-KEYWORD,duomeng,REJECT
+HOST-KEYWORD,dwtrack,REJECT
+HOST-KEYWORD,googleads,REJECT
+HOST-KEYWORD,guanggao,REJECT
+HOST-KEYWORD,inmobi,REJECT
+HOST-KEYWORD,lianmeng,REJECT
+HOST-KEYWORD,mobaders,REJECT
+HOST-KEYWORD,omgmta,REJECT
+HOST-KEYWORD,openx,REJECT
+HOST-KEYWORD,partnerad,REJECT
+HOST-KEYWORD,securepubads,REJECT
+HOST-KEYWORD,socdm,REJECT
+HOST-KEYWORD,supersonicads,REJECT
+HOST-KEYWORD,taboola,REJECT
+HOST-KEYWORD,uedas,REJECT
+HOST-KEYWORD,umeng,REJECT
+HOST-KEYWORD,umtrack,REJECT
+HOST-KEYWORD,wlmonitor,REJECT
+HOST-KEYWORD,zjtoolbar,REJECT
 HOST-SUFFIX,exoclick.com,REJECT
 HOST-SUFFIX,app-measurement.com,REJECT
-HOST-SUFFIX,crashlytics.com,REJECT
-;HOST,e.crashlytics.com,REJECT
-;HOST,settings.crashlytics.com,REJECT
 
 # > Microsoft
 HOST-SUFFIX,hockeyapp.net,REJECT
 ;HOST,gate.hockeyapp.net,REJECT
+;HOST,app.adjust.com,REJECT
 
 # > PayPal
 HOST-SUFFIX,mparticle.com,REJECT
 ;HOST,config2.mparticle.com,REJECT
 ;HOST,identity.mparticle.com,REJECT
 ;HOST,nativesdks.mparticle.com,REJECT
+HOST-SUFFIX,crashlytics.com,REJECT
+;HOST,e.crashlytics.com,REJECT
+;HOST,settings.crashlytics.com,REJECT
