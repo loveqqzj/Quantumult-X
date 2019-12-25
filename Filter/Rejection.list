@@ -3,15 +3,9 @@ HOST-SUFFIX,exoclick.com,REJECT
 HOST-SUFFIX,app-measurement.com,REJECT
 
 # > Microsoft
-HOST-SUFFIX,hockeyapp.net,REJECT
-;HOST,gate.hockeyapp.net,REJECT
-;HOST,app.adjust.com,REJECT
+HOST,gate.hockeyapp.net,REJECT
 
 # > PayPal
-HOST-SUFFIX,mparticle.com,REJECT
-;HOST,config2.mparticle.com,REJECT
-;HOST,identity.mparticle.com,REJECT
-;HOST,nativesdks.mparticle.com,REJECT
-HOST-SUFFIX,crashlytics.com,REJECT
-;HOST,e.crashlytics.com,REJECT
-;HOST,settings.crashlytics.com,REJECT
+HOST,config2.mparticle.com,REJECT
+HOST,identity.mparticle.com,REJECT
+HOST,nativesdks.mparticle.com,REJECT
