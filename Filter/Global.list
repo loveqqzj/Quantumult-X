@@ -15,7 +15,7 @@ HOST-SUFFIX,repl.it,PROXY
 # > Amazon
 HOST-SUFFIX,amazonlightsail.com,PROXY
 HOST-SUFFIX,awsstatic.com,PROXY
-HOST,amazonwebservicesinc.tt.omtrdc.net,PROXY
+HOST-SUFFIX,amazonwebservicesinc.tt.omtrdc.net,PROXY
 HOST-SUFFIX,amazon.co.jp,PROXY
 HOST-SUFFIX,amazon.com,PROXY
 HOST-SUFFIX,amazonaws.com,PROXY
@@ -69,8 +69,8 @@ HOST-SUFFIX,maxmind.com,PROXY
 HOST-SUFFIX,crossutility.com,PROXY
 
 # > Steam
-HOST,api.steampowered.com,PROXY
-HOST,store.steampowered.com,PROXY
+HOST-SUFFIX,api.steampowered.com,PROXY
+HOST-SUFFIX,store.steampowered.com,PROXY
 HOST-SUFFIX,steamcommunity.com,PROXY
 
 # > Tampermonkey
