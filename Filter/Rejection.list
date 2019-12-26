@@ -1,11 +1,2 @@
 # > 12306
 HOST,ad.12306.cn,REJECT
-
-# > Microsoft
-HOST,gate.hockeyapp.net,REJECT
-HOST-SUFFIX,app-measurement.com,REJECT
-
-# > PayPal
-HOST,config2.mparticle.com,REJECT
-HOST,identity.mparticle.com,REJECT
-HOST,nativesdks.mparticle.com,REJECT
