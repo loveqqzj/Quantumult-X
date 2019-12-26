@@ -174,5 +174,4 @@ HOST-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
 HOST-SUFFIX,steamstat.us,DIRECT
 
 # > WARP+ 1.1.1.1
-HOST-SUFFIX,instabug.com,DIRECT
 HOST-SUFFIX,1.1.1.1,DIRECT
