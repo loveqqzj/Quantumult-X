@@ -3,20 +3,20 @@ USER-AGENT,OneDrive*,OneDrive
 USER-AGENT,OneDriveiOSApp*,OneDrive
 HOST-SUFFIX,1drv.com,OneDrive
 HOST-SUFFIX,1drv.ms,OneDrive
-HOST-SUFFIX,blob.core.windows.net,OneDrive
+HOST,blob.core.windows.net,OneDrive
 HOST-SUFFIX,livefilestore.com,OneDrive
 HOST-SUFFIX,onedrive.com,OneDrive
 HOST-SUFFIX,storage.live.com,OneDrive
 HOST-SUFFIX,storage.msn.com,OneDrive
 HOST-SUFFIX,oneclient.sfx.ms,OneDrive
-HOST-SUFFIX,3-eastus1.pushp.svc.ms,OneDrive
-HOST-SUFFIX,mobile.pipe.aria.microsoft.com,OneDrive
-HOST-SUFFIX,odc.officeapps.live.com,OneDrive
-HOST-SUFFIX,skyapi.live.net,OneDrive
-HOST-SUFFIX,skyapi.policies.live.net,OneDrive
-HOST-SUFFIX,az725175.vo.msecnd.net,OneDrive
-HOST-SUFFIX,shellprod.msocdn.com,OneDrive
-HOST-SUFFIX,config.edge.skype.com,OneDrive
+HOST,3-eastus1.pushp.svc.ms,OneDrive
+HOST,mobile.pipe.aria.microsoft.com,OneDrive
+HOST,odc.officeapps.live.com,OneDrive
+HOST,skyapi.live.net,OneDrive
+HOSTX,skyapi.policies.live.net,OneDrive
+HOST,az725175.vo.msecnd.net,OneDrive
+HOST,shellprod.msocdn.com,OneDrive
+HOST,config.edge.skype.com,OneDrive
 HOST-SUFFIX,sharepointonline.com,OneDrive
 
 # > PayPal
@@ -25,6 +25,6 @@ USER-AGENT,com.yourcompany.PPClient*,PayPal
 HOST-KEYWORD,paypal,PayPal
 HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
-HOST-SUFFIX,config2.mparticle.com,PayPal
-HOST-SUFFIX,identity.mparticle.com,PayPal
-HOST-SUFFIX,nativesdks.mparticle.com,PayPal
+HOST,config2.mparticle.com,PayPal
+HOST,identity.mparticle.com,PayPal
+HOST,nativesdks.mparticle.com,PayPal
