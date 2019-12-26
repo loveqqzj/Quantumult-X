@@ -12,7 +12,7 @@ HOST-SUFFIX,teamviewer.com,DIRECT
 HOST-SUFFIX,accuweather.com,DIRECT
 HOST,statuse.digitalcertvalidation.com,DIRECT
 HOST-SUFFIX,appinn.com,DIRECT
-HOST,ocsp.sectigo.com,DIRECT
+HOST-SUFFIX,ocsp.sectigo.com,DIRECT
 HOST-SUFFIX,letsencrypt.org,DIRECT
 
 # > 1Password
@@ -24,7 +24,7 @@ HOST-SUFFIX,1passwordusercontent.com,DIRECT
 # > AdGuard
 HOST-SUFFIX,adguard.org,DIRECT
 HOST-SUFFIX,adguard.com,DIRECT
-HOST,filters.adtidy.org,DIRECT
+HOST-SUFFIX,filters.adtidy.org,DIRECT
 
 # > Akamai
 HOST-SUFFIX,akadns.net,DIRECT
@@ -54,7 +54,7 @@ HOST-SUFFIX,icloud.com,DIRECT
 HOST-SUFFIX,icloud-content.com,DIRECT
 HOST-SUFFIX,me.com,DIRECT
 HOST-SUFFIX,mzstatic.com,DIRECT
-HOST,www-cdn.icloud.com.akadns.net,DIRECT
+HOST-SUFFIX,www-cdn.icloud.com.akadns.net,DIRECT
 HOST-SUFFIX,weather.com,DIRECT
 IP-CIDR,17.0.0.0/8,DIRECT
 
