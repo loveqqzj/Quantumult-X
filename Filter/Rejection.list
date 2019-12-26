@@ -7,21 +7,6 @@ HOST-SUFFIX,adjust.com,REJECT
 
 # > 12306
 HOST,ad.12306.cn,REJECT
-HOST-SUFFIX,12306media.com,REJECT
-
-# > Apple
-HOST-SUFFIX,iadsdk.apple.com,REJECT
-HOST-SUFFIX,ads.internal.unity3d.com,REJECT
-HOST-SUFFIX,ads.prd.ie.internal.unity3d.com,REJECT
-HOST-SUFFIX,unityads.unity3d.com,REJECT
-
-# > Google
-HOST-SUFFIX,doubleclick.net,REJECT
-HOST-SUFFIX,googleadservices.com,REJECT
-HOST-SUFFIX,googleadsserving.cn,REJECT
-HOST-SUFFIX,googlesyndication.com,REJECT
-HOST-SUFFIX,googletagmanager.com,REJECT
-HOST-SUFFIX,googletagservices.com,REJECT
 
 # > Microsoft
 HOST,gate.hockeyapp.net,REJECT
@@ -31,7 +16,3 @@ HOST-SUFFIX,app-measurement.com,REJECT
 HOST,config2.mparticle.com,REJECT
 HOST,identity.mparticle.com,REJECT
 HOST,nativesdks.mparticle.com,REJECT
-
-# > 腾讯
-HOST,pingma.qq.com,REJECT
-HOST-SUFFIX,beacon.qq.com,REJECT
