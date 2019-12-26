@@ -13,6 +13,7 @@ HOST-SUFFIX,3-eastus1.pushp.svc.ms,OneDrive
 HOST-SUFFIX,mobile.pipe.aria.microsoft.com,OneDrive
 HOST-SUFFIX,odc.officeapps.live.com,OneDrive
 HOST-SUFFIX,skyapi.live.net,OneDrive
+HOST-SUFFIX,skyapi.policies.live.net,OneDrive
 HOST-SUFFIX,az725175.vo.msecnd.net,OneDrive
 HOST-SUFFIX,shellprod.msocdn.com,OneDrive
 HOST-SUFFIX,config.edge.skype.com,OneDrive
