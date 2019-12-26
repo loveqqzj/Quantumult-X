@@ -8,6 +8,16 @@ HOST,config2.mparticle.com,REJECT
 HOST,identity.mparticle.com,REJECT
 HOST,nativesdks.mparticle.com,REJECT
 
+# > 京东
+HOST-SUFFIX,cm.jd.com,REJECT
+HOST-SUFFIX,c-nfa.jd.com,REJECT
+HOST-SUFFIX,du.jd.com,REJECT
+HOST-SUFFIX,img-x.jd.com,REJECT
+HOST-SUFFIX,jd.c-ptsp.com.cn,REJECT
+HOST-SUFFIX,jzt.jd.com,REJECT
+HOST-SUFFIX,pic.jdunion.com,REJECT
+HOST-SUFFIX,cps.360buy.com,REJECT
+
 # 神机
 # > General
 HOST-KEYWORD,adservice,REJECT
