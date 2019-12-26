@@ -13,7 +13,7 @@ HOST,3-eastus1.pushp.svc.ms,OneDrive
 HOST,mobile.pipe.aria.microsoft.com,OneDrive
 HOST,odc.officeapps.live.com,OneDrive
 HOST,skyapi.live.net,OneDrive
-HOSTX,skyapi.policies.live.net,OneDrive
+HOST,skyapi.policies.live.net,OneDrive
 HOST,az725175.vo.msecnd.net,OneDrive
 HOST,shellprod.msocdn.com,OneDrive
 HOST,config.edge.skype.com,OneDrive
