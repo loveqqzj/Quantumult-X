@@ -153,8 +153,9 @@ HOST-SUFFIX,springsunday.net,DIRECT
 HOST-SUFFIX,tjupt.org,DIRECT
 HOST-SUFFIX,totheglory.im,DIRECT
 
-# > 苏州行
+# > 苏州行&苏e行
 USER-AGENT,SuzhouXing*,DIRECT
+USER-AGENT,SZMetro*,DIRECT
 
 # > Speedtest by Ookla
 USER-AGENT,SpeedTest*,DIRECT
