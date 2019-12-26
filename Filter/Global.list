@@ -70,7 +70,7 @@ HOST-SUFFIX,crossutility.com,PROXY
 
 # > Steam
 HOST,api.steampowered.com,PROXY
-HOSTX,store.steampowered.com,PROXY
+HOST,store.steampowered.com,PROXY
 HOST-SUFFIX,steamcommunity.com,PROXY
 
 # > Tampermonkey
