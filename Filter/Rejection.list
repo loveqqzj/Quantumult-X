@@ -18,6 +18,9 @@ HOST-SUFFIX,jzt.jd.com,REJECT
 HOST-SUFFIX,pic.jdunion.com,REJECT
 HOST-SUFFIX,cps.360buy.com,REJECT
 
+# > 招行
+HOST-SUFFIX,ccclub.cmbchina.com,REJECT
+
 # 神机
 # > General
 HOST-KEYWORD,adservice,REJECT
