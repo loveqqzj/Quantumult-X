@@ -28,21 +28,6 @@ HOST-SUFFIX,adguard.org,DIRECT
 HOST-SUFFIX,adguard.com,DIRECT
 HOST-SUFFIX,filters.adtidy.org,DIRECT
 
-# > Akamai
-HOST-SUFFIX,akadns.net,DIRECT
-;HOST-SUFFIX,akamai.net,DIRECT
-;HOST-SUFFIX,akamaiedge.net,DIRECT
-;HOST-SUFFIX,akamaihd.net,DIRECT
-;HOST-SUFFIX,akamaistream.net,DIRECT
-;HOST-SUFFIX,akamaized.net,DIRECT
-
-# > Alibaba
-HOST-SUFFIX,alibaba.com,DIRECT
-HOST-SUFFIX,alicdn.com,DIRECT
-HOST-SUFFIX,alikunlun.com,DIRECT
-HOST-SUFFIX,alipay.com,DIRECT
-HOST-SUFFIX,tmall.hk,DIRECT
-
 # > Apple
 USER-AGENT,com.apple.trustd*,DIRECT
 HOST-SUFFIX,aaplimg.com,DIRECT
@@ -60,6 +45,21 @@ HOST-SUFFIX,www-cdn.icloud.com.akadns.net,DIRECT
 HOST-SUFFIX,weather.com,DIRECT
 IP-CIDR,17.0.0.0/8,DIRECT
 
+# > Akamai
+HOST-SUFFIX,akadns.net,DIRECT
+;HOST-SUFFIX,akamai.net,DIRECT
+;HOST-SUFFIX,akamaiedge.net,DIRECT
+;HOST-SUFFIX,akamaihd.net,DIRECT
+;HOST-SUFFIX,akamaistream.net,DIRECT
+;HOST-SUFFIX,akamaized.net,DIRECT
+
+# > Alibaba
+HOST-SUFFIX,alibaba.com,DIRECT
+HOST-SUFFIX,alicdn.com,DIRECT
+HOST-SUFFIX,alikunlun.com,DIRECT
+HOST-SUFFIX,alipay.com,DIRECT
+HOST-SUFFIX,tmall.hk,DIRECT
+
 # > Cloudflare
 HOST-SUFFIX,cloudflare.com,DIRECT
 IP-CIDR,173.245.48.0/20,DIRECT
@@ -76,6 +76,23 @@ IP-CIDR,162.158.0.0/15,DIRECT
 IP-CIDR,104.16.0.0/12,DIRECT
 IP-CIDR,172.64.0.0/13,DIRECT
 IP-CIDR,131.0.72.0/22,DIRECT
+
+# > Content Delivery Network
+HOST-SUFFIX,ccgslb.com,DIRECT
+HOST-SUFFIX,ccgslb.net,DIRECT
+HOST-SUFFIX,chinanetcenter.com,DIRECT
+HOST-SUFFIX,meixincdn.com,DIRECT
+HOST-SUFFIX,ourdvs.com,DIRECT
+HOST-SUFFIX,staticdn.net,DIRECT
+HOST-SUFFIX,wangsu.com,DIRECT
+
+# > IP Query
+HOST-SUFFIX,ipip.net,DIRECT
+HOST-SUFFIX,ip.la,DIRECT
+HOST-SUFFIX,ip-cdn.com,DIRECT
+HOST-SUFFIX,ipv6-test.com,DIRECT
+HOST-SUFFIX,test-ipv6.com,DIRECT
+HOST-SUFFIX,whatismyip.com,DIRECT
 
 # > Mozilla
 HOST-SUFFIX,mozilla.com,DIRECT
@@ -114,23 +131,6 @@ HOST-SUFFIX,office365.com,DIRECT
 # > Outlook
 HOST-SUFFIX,hotmail.com,DIRECT
 HOST-SUFFIX,outlook.com,DIRECT
-
-# > Content Delivery Network
-HOST-SUFFIX,ccgslb.com,DIRECT
-HOST-SUFFIX,ccgslb.net,DIRECT
-HOST-SUFFIX,chinanetcenter.com,DIRECT
-HOST-SUFFIX,meixincdn.com,DIRECT
-HOST-SUFFIX,ourdvs.com,DIRECT
-HOST-SUFFIX,staticdn.net,DIRECT
-HOST-SUFFIX,wangsu.com,DIRECT
-
-# > IP Query
-HOST-SUFFIX,ipip.net,DIRECT
-HOST-SUFFIX,ip.la,DIRECT
-HOST-SUFFIX,ip-cdn.com,DIRECT
-HOST-SUFFIX,ipv6-test.com,DIRECT
-HOST-SUFFIX,test-ipv6.com,DIRECT
-HOST-SUFFIX,whatismyip.com,DIRECT
 
 # > Private Tracker
 HOST-SUFFIX,awesome-hd.me,DIRECT
