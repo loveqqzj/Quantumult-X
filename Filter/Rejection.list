@@ -1,8 +1,5 @@
 # > General
-HOST-SUFFIX,app-measurement.com,REJECT
-HOST-SUFFIX,crashlytics.com,REJECT
 HOST-KEYWORD,adservice,REJECT
-HOST-KEYWORD,adservices,REJECT
 HOST-KEYWORD,analytics,REJECT
 HOST-KEYWORD,analysis,REJECT
 
@@ -179,6 +176,7 @@ HOST-SUFFIX,googletagservices.com,REJECT
 # > Microsoft
 HOST-SUFFIX,hockeyapp.net,REJECT
 ;HOST-SUFFIX,gate.hockeyapp.net,REJECT
+HOST-SUFFIX,app-measurement.com,REJECT
 
 # > PayPal
 HOST-SUFFIX,mparticle.com,REJECT
