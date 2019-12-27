@@ -42,7 +42,7 @@ HOST-SUFFIX,githubassets.com,PROXY
 HOST-SUFFIX,githubusercontent.com,PROXY
 
 # > Google
-HOST-SUFFIX,google.com,PROXY
+HOST-KEYWORD,google.com,PROXY
 HOST-SUFFIX,googleapis.com,PROXY
 HOST-SUFFIX,googleusercontent.com,PROXY
 HOST-SUFFIX,gmodules.com,PROXY
@@ -109,6 +109,8 @@ HOST-SUFFIX,yandex.com,PROXY
 HOST-SUFFIX,yandex.net,PROXY
 
 # > YouTube
+USER-AGENT,com.google.ios.youtube*,PROXY
+USER-AGENT,YouTube*,PROXY
 HOST-SUFFIX,youtube.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 HOST-SUFFIX,youtu.be,PROXY
