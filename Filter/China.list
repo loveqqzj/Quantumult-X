@@ -153,6 +153,12 @@ HOST-SUFFIX,springsunday.net,DIRECT
 HOST-SUFFIX,tjupt.org,DIRECT
 HOST-SUFFIX,totheglory.im,DIRECT
 
+# > Readdle
+USER-AGENT,Documents*,DIRECT
+HOST-SUFFIX,readdle.com,DIRECT
+HOST-SUFFIX,docstransfer.com,DIRECT
+HOST-SUFFIX,pdfexpert.com,DIRECT
+
 # > 苏州行&苏e行
 USER-AGENT,SuzhouXing*,DIRECT
 USER-AGENT,SZMetro*,DIRECT
