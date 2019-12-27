@@ -219,3 +219,9 @@ HOST,ar.umeng.com,REJECT
 HOST,plbslog.umeng.com,REJECT
 HOST,ulogs.umeng.com,REJECT
 HOST,ulogs.umengcloud.com,REJECT
+
+# > 小米
+HOST-SUFFIX,ad.intl.xiaomi.com,REJECT
+HOST-SUFFIX,ad.xiaomi.com,REJECT
+HOST-SUFFIX,admob.xiaomi.com,REJECT
+HOST,data.mistat.xiaomi.com,REJECT
