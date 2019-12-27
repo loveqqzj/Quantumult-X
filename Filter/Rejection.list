@@ -1,2 +1,21 @@
+# > General
+HOST-SUFFIX,app-measurement.com,REJECT
+HOST,crashlytics.com,REJECT
+
 # > 12306
 HOST,ad.12306.cn,REJECT
+
+# > Readdle
+HOST-SUFFIX,clearbit.com,REJECT
+
+# > Google
+HOST-KEYWORD,adservice,REJECT
+HOST-KEYWORD,adservices,REJECT
+HOST-KEYWORD,googleads,REJECT
+HOST-SUFFIX,doubleclick.net,REJECT
+# > Microsoft
+HOST-SUFFIX,hockeyapp.net,REJECT
+HOST-SUFFIX,gate.hockeyapp.net,REJECT
+
+# > PayPal
+HOST-SUFFIX,mparticle.com,REJECT
