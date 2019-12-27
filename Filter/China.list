@@ -16,12 +16,14 @@ HOST-SUFFIX,ocsp.sectigo.com,DIRECT
 HOST-SUFFIX,letsencrypt.org,DIRECT
 
 # > 1Password
+USER-AGENT,1Password*,DIRECT
 HOST-SUFFIX,1password.com,DIRECT
 HOST-SUFFIX,1password.eu,DIRECT
 HOST-SUFFIX,1password.ca,DIRECT
 HOST-SUFFIX,1passwordusercontent.com,DIRECT
 
 # > AdGuard
+USER-AGENT,AdGuard*,DIRECT
 HOST-SUFFIX,adguard.org,DIRECT
 HOST-SUFFIX,adguard.com,DIRECT
 HOST-SUFFIX,filters.adtidy.org,DIRECT
@@ -180,4 +182,5 @@ HOST-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
 HOST-SUFFIX,steamstat.us,DIRECT
 
 # > WARP+ 1.1.1.1
+USER-AGENT,1.1.1.1*,DIRECT
 HOST-SUFFIX,1.1.1.1,DIRECT
