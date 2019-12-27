@@ -12,6 +12,15 @@ HOST-SUFFIX,laomo.me,PROXY
 HOST-SUFFIX,dama.lu,PROXY
 HOST-SUFFIX,repl.it,PROXY
 
+# > ABBYY
+USER-AGENT,textgrabber*,PROXY
+USER-AGENT,FineScanner*,PROXY
+HOST-SUFFIX,appsflyer.com,PROXY
+HOST-SUFFIX,finereader.cloud,PROXY
+HOST-SUFFIX,finereaderonline.com,PROXY
+HOST-SUFFIX,abbyy.com,PROXY
+HOST-SUFFIX,onesignal.com,PROXY
+
 # > Amazon
 HOST-SUFFIX,amazonlightsail.com,PROXY
 HOST-SUFFIX,awsstatic.com,PROXY
