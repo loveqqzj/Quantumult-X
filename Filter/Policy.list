@@ -9,7 +9,7 @@ HOST-SUFFIX,onedrive.com,OneDrive
 HOST-SUFFIX,storage.live.com,OneDrive
 HOST-SUFFIX,storage.msn.com,OneDrive
 HOST-SUFFIX,oneclient.sfx.ms,OneDrive
-HOST,3-eastus1.pushp.svc.ms,OneDrive
+HOST-SUFFIX,svc.ms,OneDrive
 HOST,mobile.pipe.aria.microsoft.com,OneDrive
 HOST,odc.officeapps.live.com,OneDrive
 HOST,skyapi.live.net,OneDrive
