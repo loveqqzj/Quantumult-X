@@ -369,13 +369,6 @@ HOST-SUFFIX,admarket.21cn.com,REJECT
 HOST-SUFFIX,adshows.21cn.com,REJECT
 HOST-SUFFIX,ad.k.21cn.com,REJECT
 
-# > Daum
-HOST,track.tiara.daum.net,REJECT
-HOST-SUFFIX,adimg.daumcdn.net,REJECT
-HOST-SUFFIX,live.tvpot.daum.net,REJECT
-HOST-SUFFIX,m1.daumcdn.net,REJECT
-HOST-SUFFIX,ad.daum.net,REJECT
-
 # > 饿了么
 HOST-SUFFIX,log.star.ele.me,REJECT
 HOST-SUFFIX,app-monitor.ele.me,REJECT
@@ -466,52 +459,6 @@ HOST-SUFFIX,uid.ksosoft.com,REJECT
 HOST-SUFFIX,up.cm.ksmobile.com,REJECT
 HOST-SUFFIX,ups.ksmobile.net,REJECT
 HOST-SUFFIX,ws.ksmobile.net,REJECT
-
-# > 酷狗
-HOST-SUFFIX,ads.bssdl.kugou.com,REJECT
-HOST-SUFFIX,ads.service.kugou.com,REJECT
-HOST-SUFFIX,adserviceretry.kugou.com,REJECT
-HOST-SUFFIX,adsfile.bssdlbig.kugou.com,REJECT
-HOST-SUFFIX,d.kugou.com,REJECT
-HOST-SUFFIX,downmobile.kugou.com,REJECT
-HOST-SUFFIX,fanxing.kugou.com,REJECT
-HOST-SUFFIX,gad.kugou.com,REJECT
-HOST-SUFFIX,game.kugou.com,REJECT
-HOST-SUFFIX,gamebox.kugou.com,REJECT
-HOST-SUFFIX,gcapi.sy.kugou.com,REJECT
-HOST-SUFFIX,gg.kugou.com,REJECT
-HOST-SUFFIX,install.kugou.com,REJECT
-HOST-SUFFIX,install2.kugou.com,REJECT
-HOST-SUFFIX,kgmobilestat.kugou.com,REJECT
-HOST-SUFFIX,kgmobilestatbak.kugou.com,REJECT
-HOST-SUFFIX,log.stat.kugou.com,REJECT
-HOST-SUFFIX,log.web.kugou.com,REJECT
-HOST-SUFFIX,minidcsc.kugou.com,REJECT
-HOST-SUFFIX,mobilelog.kugou.com,REJECT
-HOST-SUFFIX,msg.mobile.kugou.com,REJECT
-HOST-SUFFIX,mvads.kugou.com,REJECT
-HOST-SUFFIX,p.kugou.com,REJECT
-HOST-SUFFIX,push.mobile.kugou.com,REJECT
-HOST-SUFFIX,rtmonitor.kugou.com,REJECT
-HOST-SUFFIX,sdn.kugou.com,REJECT
-HOST-SUFFIX,tj.kugou.com,REJECT
-HOST-SUFFIX,update.mobile.kugou.com,REJECT
-HOST-SUFFIX,youxi.kugou.com,REJECT
-
-# > 酷我
-HOST-SUFFIX,c.kuwo.cn,REJECT
-HOST-SUFFIX,deliver.kuwo.cn,REJECT
-HOST-SUFFIX,g.koowo.com,REJECT
-HOST-SUFFIX,game.kuwo.cn,REJECT
-HOST-SUFFIX,koowo.com,REJECT
-HOST-SUFFIX,kwmsg.kuwo.cn,REJECT
-HOST-SUFFIX,mobilead.kuwo.cn,REJECT
-HOST-SUFFIX,msclick2.kuwo.cn,REJECT
-HOST-SUFFIX,msphoneclick.kuwo.cn,REJECT
-HOST-SUFFIX,rich.kuwo.cn,REJECT
-HOST-SUFFIX,updatepage.kuwo.cn,REJECT
-HOST-SUFFIX,wa.kuwo.cn,REJECT
-HOST-SUFFIX,webstat.kuwo.cn,REJECT
 
 # > 乐播投屏
 HOST-SUFFIX,ad.hpplay.cn,REJECT
