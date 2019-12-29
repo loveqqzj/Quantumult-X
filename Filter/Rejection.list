@@ -487,7 +487,6 @@ HOST-SUFFIX,kgmobilestatbak.kugou.com,REJECT
 HOST-SUFFIX,log.stat.kugou.com,REJECT
 HOST-SUFFIX,log.web.kugou.com,REJECT
 HOST-SUFFIX,minidcsc.kugou.com,REJECT
-HOST-SUFFIX,mo.kugou.com,REJECT
 HOST-SUFFIX,mobilelog.kugou.com,REJECT
 HOST-SUFFIX,msg.mobile.kugou.com,REJECT
 HOST-SUFFIX,mvads.kugou.com,REJECT
