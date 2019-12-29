@@ -433,7 +433,7 @@ HOST-SUFFIX,googletagservices.com,REJECT
 HOST-SUFFIX,mobileads.google.com,REJECT
 HOST-SUFFIX,mtalk.google.com,REJECT
 HOST-SUFFIX,pagead.google.com,REJECT
-OMAIN-SUFFIX,pagead.l.google.com,REJECT
+HOST-SUFFIX,pagead.l.google.com,REJECT
 HOST-SUFFIX,pagead-tpc.l.google.com,REJECT
 HOST-SUFFIX,ads.youtube.com,REJECT
 
