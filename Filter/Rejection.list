@@ -142,17 +142,6 @@ HOST-SUFFIX,zu08e.cn,REJECT
 # > 12306
 HOST,ad.12306.cn,REJECT
 
-# > 58同城
-HOST-SUFFIX,adshow.58.com,REJECT
-HOST-SUFFIX,brandshow.58.com,REJECT
-HOST-SUFFIX,jing.58.com,REJECT
-HOST-SUFFIX,jump.luna.58.com,REJECT
-HOST-SUFFIX,jumpluna.58.com,REJECT
-HOST-SUFFIX,news.58.com,REJECT
-HOST-SUFFIX,track.58.com,REJECT
-HOST-SUFFIX,tracklog.58.com,REJECT
-HOST-SUFFIX,zzpush.58.com,REJECT
-
 # > Apple
 HOST-SUFFIX,iadsdk.apple.com,REJECT
 HOST-SUFFIX,ads.internal.unity3d.com,REJECT
@@ -195,11 +184,6 @@ HOST-SUFFIX,p.alimama.com,REJECT
 HOST-SUFFIX,static.alimama.com,REJECT
 HOST-SUFFIX,t.alimama.com,REJECT
 HOST-SUFFIX,tw.alimama.cn,REJECT
-
-# > 哔哩哔哩
-HOST-SUFFIX,cm.bilibili.com,REJECT
-HOST-SUFFIX,data.bilibili.com,REJECT
-HOST-SUFFIX,miniapp.bilibili.com,REJECT
 
 # > 百度
 HOST-SUFFIX,a.baidu.com,REJECT
@@ -465,33 +449,6 @@ HOST-SUFFIX,ad.hpplay.cn,REJECT
 HOST-SUFFIX,adeng.hpplay.cn,REJECT
 HOST-SUFFIX,rp.hpplay.cn,REJECT
 
-# > 美团
-HOST-SUFFIX,wmlog.meituan.com,REJECT
-
-# > 美图
-HOST-SUFFIX,adui.tg.meitu.com,REJECT
-HOST-SUFFIX,corp.meitu.com,REJECT
-HOST-SUFFIX,dc.meitustat.com,REJECT
-HOST-SUFFIX,gg.meitu.com,REJECT
-HOST-SUFFIX,jssd.uumeitu.com,REJECT
-HOST-SUFFIX,mdc.meitustat.com,REJECT
-HOST-SUFFIX,meitubeauty.meitudata.com,REJECT
-HOST-SUFFIX,meitumq.com,REJECT
-HOST-SUFFIX,message.meitu.com,REJECT
-HOST-SUFFIX,rabbit.meitustat.com,REJECT
-HOST-SUFFIX,rabbit.tg.meitu.com,REJECT
-HOST-SUFFIX,tuiguang.meitu.com,REJECT
-HOST-SUFFIX,xiuxiu.mobile.meitudata.com,REJECT
-
-# > 蜻蜓FM
-HOST-SUFFIX,admgr.qingting.fm,REJECT
-HOST-SUFFIX,dload.qd.qingting.fm,REJECT
-HOST-SUFFIX,logger.qingting.fm,REJECT
-HOST-SUFFIX,s.qd.qingting.fm,REJECT
-HOST-SUFFIX,s.qd.qingtingfm.com,REJECT
-HOST-SUFFIX,s.qtad.qingting.fm,REJECT
-HOST-SUFFIX,ad.qingting.fm,REJECT
-
 # > PayPal
 HOST-SUFFIX,mparticle.com,REJECT
 HOST,config2.mparticle.com,PayPal
@@ -503,13 +460,6 @@ HOST-SUFFIX,clearbit.com,REJECT
 
 # > 什么值得买
 HOST-SUFFIX,res-ga.smzdm.com,REJECT
-
-# > 苏宁
-HOST-SUFFIX,apm.suning.cn,REJECT
-HOST-SUFFIX,ssac.suning.com,REJECT
-HOST-SUFFIX,tad.suning.com,REJECT
-HOST-SUFFIX,dfp.suning.com,REJECT
-HOST,mads.suning.com,REJECT
 
 # > 淘宝
 HOST-SUFFIX,acs4baichuan.m.taobao.com,REJECT
@@ -734,54 +684,6 @@ HOST-SUFFIX,vortex-sandbox.data.microsoft.com,REJECT
 HOST-SUFFIX,vortex-win.data.microsoft.com,REJECT
 HOST-SUFFIX,watson.microsoft.com,REJECT
 
-# > 网易
-HOST,ad.bn.netease.com,REJECT
-HOST-SUFFIX,adgeo.163.com,REJECT
-HOST,admusicpic.music.126.net,REJECT
-HOST-SUFFIX,b.bst.126.net,REJECT
-HOST-SUFFIX,bobo.163.com,REJECT
-HOST-SUFFIX,count.mail.163.com,REJECT
-HOST-SUFFIX,crashlytics.163.com,REJECT
-HOST-SUFFIX,e-p4p.163.com,REJECT
-HOST-SUFFIX,fa.163.com,REJECT
-HOST-SUFFIX,g.163.com,REJECT
-HOST-SUFFIX,g1.163.com,REJECT
-HOST-SUFFIX,gb.corp.163.com,REJECT
-HOST-SUFFIX,haitaoad.nosdn.127.net,REJECT
-HOST,iadmat.nosdn.127.net,REJECT
-HOST-SUFFIX,iadmatvideo.nosdn.127.net,REJECT
-HOST-SUFFIX,iadmusicmat.music.126.net,REJECT
-HOST,iadmusicmatvideo.music.126.net,REJECT
-HOST-SUFFIX,img1.126.net,REJECT
-HOST-SUFFIX,img2.126.net,REJECT
-HOST-SUFFIX,img3.126.net,REJECT
-HOST-SUFFIX,img6.126.net,REJECT
-HOST-SUFFIX,ir.mail.126.com,REJECT
-HOST-SUFFIX,ir.mail.163.com,REJECT
-HOST-SUFFIX,ir.mail.yeah.net,REJECT
-HOST-SUFFIX,irpmt.mail.163.com,REJECT
-HOST-SUFFIX,m.analytics.126.net,REJECT
-HOST-SUFFIX,mimg.126.net,REJECT
-HOST-SUFFIX,mr.da.netease.com,REJECT
-HOST-SUFFIX,n.3g.163.com,REJECT
-HOST-SUFFIX,news.push.126.net,REJECT
-HOST-SUFFIX,nex.163.com,REJECT
-HOST-SUFFIX,pimg1.126.net,REJECT
-HOST-SUFFIX,popme.163.com,REJECT
-HOST-SUFFIX,pr.da.netease.com,REJECT
-HOST-SUFFIX,push.126.net,REJECT
-HOST-SUFFIX,push.yuedu.163.com,REJECT
-HOST-SUFFIX,r.mail.163.com,REJECT
-HOST-SUFFIX,rd.da.netease.com,REJECT
-HOST-SUFFIX,stat.ws.126.net,REJECT
-HOST-SUFFIX,statis.push.netease.com,REJECT
-HOST-SUFFIX,temp.163.com,REJECT
-HOST-SUFFIX,wanproxy.127.net,REJECT
-HOST-SUFFIX,webstat.ws.126.net,REJECT
-HOST-SUFFIX,wr.da.netease.com,REJECT
-HOST-SUFFIX,yt-adp.nosdn.127.net,REJECT
-HOST-SUFFIX,yt-adp.ws.126.net,REJECT
-
 # > 网易有道
 HOST-SUFFIX,a.youdao.com,REJECT
 HOST-SUFFIX,api.push.daoyoudao.com,REJECT
@@ -817,21 +719,6 @@ HOST-SUFFIX,tb060x.corp.youdao.com,REJECT
 HOST-SUFFIX,tb104x.corp.youdao.com,REJECT
 HOST-SUFFIX,union.youdao.com,REJECT
 HOST-SUFFIX,ydpushserver.youdao.com,REJECT
-
-# > 喜马拉雅
-HOST-SUFFIX,ad.test.ximalaya.com,REJECT
-HOST-SUFFIX,ad.ximalaya.com,REJECT
-HOST-SUFFIX,adbehavior.wsa.ximalaya.com,REJECT
-HOST-SUFFIX,adbs.ximalaya.com,REJECT
-HOST-SUFFIX,adse.test.ximalaya.com,REJECT
-HOST-SUFFIX,adse.wsa.ximalaya.com,REJECT
-HOST-SUFFIX,adse.ximalaya.com,REJECT
-HOST-SUFFIX,adsebs.ximalaya.com,REJECT
-HOST-SUFFIX,adweb.test.ximalaya.com,REJECT
-HOST-SUFFIX,adweb.ximalaya.com,REJECT
-HOST-SUFFIX,linkeye.ximalaya.com,REJECT
-HOST-SUFFIX,location.ximalaya.com,REJECT
-HOST-SUFFIX,xdcs-collector.ximalaya.com,REJECT
 
 # > 小米
 HOST-SUFFIX,a.hl.mi.com,REJECT
@@ -910,18 +797,3 @@ HOST-SUFFIX,umengcloud.com,REJECT
 
 # > 招行
 HOST-SUFFIX,ccclub.cmbchina.com,REJECT
-
-# > 字节跳动
-HOST-SUFFIX,ad.toutiao.com,REJECT
-HOST-SUFFIX,analytics.snssdk.com,REJECT
-HOST-SUFFIX,applog.musical.ly,REJECT
-HOST-SUFFIX,dm.bytedance.com,REJECT
-HOST-SUFFIX,dm.toutiao.com,REJECT
-HOST-SUFFIX,dsp.toutiao.com,REJECT
-HOST-SUFFIX,log.snssdk.com,REJECT
-HOST-SUFFIX,nativeapp.toutiao.com,REJECT
-HOST-SUFFIX,partner.toutiao.com,REJECT
-HOST-SUFFIX,temai.snssdk.com,REJECT
-HOST-SUFFIX,track.toutiao.com,REJECT
-HOST-SUFFIX,xlog.snssdk.com,REJECT
-HOST-SUFFIX,xlog-va.byteoversea.com,REJECT
