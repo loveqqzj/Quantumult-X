@@ -8,7 +8,6 @@ HOST-SUFFIX,ads.prd.ie.internal.unity3d.com,REJECT
 HOST-SUFFIX,unityads.unity3d.com,REJECT
 
 # > 百度
-HOST-SUFFIX,bdstatic.com,REJECT
 HOST-SUFFIX,baidustatic.com,REJECT
 
 # > 电信
@@ -72,12 +71,6 @@ HOST-SUFFIX,gate.hockeyapp.net,REJECT
 HOST-SUFFIX,hockeyapp.net,REJECT
 
 # > 友盟
-DOMAIN,alog.umeng.co,REJECT
-DOMAIN,alog.umeng.com,REJECT
-DOMAIN,alogs.umeng.com,REJECT
-DOMAIN,alog.umengcloud.com,REJECT
-DOMAIN,alogs.umengcloud.com,REJECT
-DOMAIN,ar.umeng.com,REJECT
-DOMAIN,plbslog.umeng.com,REJECT
-DOMAIN,ulogs.umeng.com,REJECT
-DOMAIN,ulogs.umengcloud.com,REJECT
+HOST-SUFFIX,umeng.co,REJECT
+HOST-SUFFIX,umeng.com,REJECT
+HOST-SUFFIX,umengcloud.com,REJECT
