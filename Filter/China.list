@@ -16,16 +16,14 @@ HOST-SUFFIX,ocsp.sectigo.com,DIRECT
 HOST-SUFFIX,letsencrypt.org,DIRECT
 
 # > 1Password
-USER-AGENT,1Password*,DIRECT
 HOST-SUFFIX,1password.com,DIRECT
 HOST-SUFFIX,1password.eu,DIRECT
 HOST-SUFFIX,1password.ca,DIRECT
 HOST-SUFFIX,1passwordusercontent.com,DIRECT
 
 # > AdGuard
-USER-AGENT,AdGuard*,DIRECT
 HOST-SUFFIX,adguard.org,DIRECT
-HOST-SUFFIX,adguard.com,DIRECT
+;HOST-SUFFIX,adguard.com,DIRECT
 HOST-SUFFIX,filters.adtidy.org,DIRECT
 
 # > Apple
@@ -165,7 +163,6 @@ USER-AGENT,SuzhouXing*,DIRECT
 USER-AGENT,SZMetro*,DIRECT
 
 # > Speedtest by Ookla
-USER-AGENT,SpeedTest*,DIRECT
 HOST-SUFFIX,speedtest.net,DIRECT
 HOST-KEYWORD,speedtest,DIRECT
 HOST-SUFFIX,wlvpn.com,DIRECT
