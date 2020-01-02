@@ -1,3 +1,6 @@
+# > AdGuard
+HOST-SUFFIX,adguard.com,AdGuard
+
 # > OneDrive
 USER-AGENT,OneDrive*,OneDrive
 USER-AGENT,OneDriveiOSApp*,OneDrive
