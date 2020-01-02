@@ -2,8 +2,6 @@
 HOST-SUFFIX,adguard.com,AdGuard
 
 # > OneDrive
-USER-AGENT,OneDrive*,OneDrive
-USER-AGENT,OneDriveiOSApp*,OneDrive
 HOST-SUFFIX,1drv.com,OneDrive
 HOST-SUFFIX,1drv.ms,OneDrive
 HOST,blob.core.windows.net,OneDrive
@@ -24,8 +22,6 @@ HOST-SUFFIX,sharepointonline.com,OneDrive
 HOST,gate.hockeyapp.net,OneDrive
 
 # > PayPal
-USER-AGENT,PayPal*,PayPal
-USER-AGENT,com.yourcompany.PPClient*,PayPal
 HOST-KEYWORD,paypal,PayPal
 HOST-SUFFIX,paypal.com,PayPal
 HOST-SUFFIX,paypalobjects.com,PayPal
