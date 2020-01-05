@@ -1,6 +1,3 @@
-# > AdGuard
-HOST-SUFFIX,adguard.com,AdGuard
-
 # > OneDrive
 HOST-SUFFIX,1drv.com,OneDrive
 HOST-SUFFIX,1drv.ms,OneDrive
