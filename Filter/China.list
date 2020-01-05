@@ -130,6 +130,34 @@ HOST-SUFFIX,office365.com,DIRECT
 HOST-SUFFIX,hotmail.com,DIRECT
 HOST-SUFFIX,outlook.com,DIRECT
 
+# > OneDrive
+HOST-SUFFIX,1drv.com,DIRECT
+HOST-SUFFIX,1drv.ms,DIRECT
+HOST,blob.core.windows.net,DIRECT
+HOST-SUFFIX,livefilestore.com,DIRECT
+HOST-SUFFIX,onedrive.com,DIRECT
+HOST-SUFFIX,storage.live.com,DIRECT
+HOST-SUFFIX,storage.msn.com,DIRECT
+HOST-SUFFIX,oneclient.sfx.ms,DIRECT
+HOST-SUFFIX,svc.ms,OneDrive
+HOST,mobile.pipe.aria.microsoft.com,DIRECT
+HOST,odc.officeapps.live.com,DIRECT
+HOST,skyapi.live.net,DIRECT
+HOST,skyapi.policies.live.net,DIRECT
+HOST,az725175.vo.msecnd.net,DIRECT
+HOST,shellprod.msocdn.com,DIRECT
+HOST,config.edge.skype.com,DIRECT
+HOST-SUFFIX,sharepointonline.com,DIRECT
+HOST,gate.hockeyapp.net,DIRECT
+
+# > PayPal
+HOST-KEYWORD,paypal,DIRECT
+HOST-SUFFIX,paypal.com,DIRECT
+HOST-SUFFIX,paypalobjects.com,DIRECT
+HOST,config2.mparticle.com,DIRECT
+HOST,identity.mparticle.com,DIRECT
+HOST,nativesdks.mparticle.com,DIRECT
+
 # > Private Tracker
 HOST-SUFFIX,awesome-hd.me,DIRECT
 HOST-SUFFIX,broadcasthe.net,DIRECT
