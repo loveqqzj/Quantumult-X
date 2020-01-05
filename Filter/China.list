@@ -139,7 +139,7 @@ HOST-SUFFIX,onedrive.com,DIRECT
 HOST-SUFFIX,storage.live.com,DIRECT
 HOST-SUFFIX,storage.msn.com,DIRECT
 HOST-SUFFIX,oneclient.sfx.ms,DIRECT
-HOST-SUFFIX,svc.ms,OneDrive
+HOST-SUFFIX,svc.ms,DIRECT
 HOST,mobile.pipe.aria.microsoft.com,DIRECT
 HOST,odc.officeapps.live.com,DIRECT
 HOST,skyapi.live.net,DIRECT
