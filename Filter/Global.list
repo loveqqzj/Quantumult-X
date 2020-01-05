@@ -36,6 +36,13 @@ HOST-SUFFIX,bwh1.net,PROXY
 HOST-SUFFIX,bandwagonhost.com,PROXY
 HOST-SUFFIX,justmysocks.net,PROXY
 
+# > Github
+HOST-SUFFIX,github.io,PROXY
+HOST-SUFFIX,github.com,PROXY
+HOST-SUFFIX,githubapp.com,PROXY
+HOST-SUFFIX,githubassets.com,PROXY
+HOST-SUFFIX,githubusercontent.com,PROXY
+
 # > Google
 HOST-KEYWORD,google.com,PROXY
 HOST-SUFFIX,googleapis.com,PROXY
