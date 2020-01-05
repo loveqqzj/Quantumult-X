@@ -12,6 +12,7 @@ HOST-SUFFIX,laomo.me,PROXY
 HOST-SUFFIX,dama.lu,PROXY
 HOST-SUFFIX,repl.it,PROXY
 HOST-SUFFIX,cloudfront.net,PROXY
+HOST-SUFFIX,bit.ly,PROXY
 
 # > ABBYY
 USER-AGENT,textgrabber*,PROXY
