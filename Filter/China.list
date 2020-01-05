@@ -23,7 +23,7 @@ HOST-SUFFIX,1passwordusercontent.com,DIRECT
 
 # > AdGuard
 HOST-SUFFIX,adguard.org,DIRECT
-;HOST-SUFFIX,adguard.com,DIRECT
+HOST-SUFFIX,adguard.com,DIRECT
 HOST-SUFFIX,filters.adtidy.org,DIRECT
 
 # > Apple
