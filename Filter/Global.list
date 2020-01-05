@@ -13,6 +13,7 @@ HOST-SUFFIX,dama.lu,PROXY
 HOST-SUFFIX,repl.it,PROXY
 HOST-SUFFIX,cloudfront.net,PROXY
 HOST-SUFFIX,bit.ly,PROXY
+HOST-SUFFIX,imazing.com,PROXY
 
 # > ABBYY
 USER-AGENT,textgrabber*,PROXY
