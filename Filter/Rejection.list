@@ -10,3 +10,6 @@ HOST-KEYWORD,ad.amap.com,REJECT
 HOST-SUFFIX,ad.hpplay.cn,REJECT
 HOST-SUFFIX,adeng.hpplay.cn,REJECT
 HOST-SUFFIX,rp.hpplay.cn,REJECT
+
+# > PayPal
+HOST-SUFFIX,mparticle.com,REJECT
