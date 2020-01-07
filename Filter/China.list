@@ -114,6 +114,8 @@ HOST-SUFFIX,onenote.com,DIRECT
 HOST-SUFFIX,onenote.net,DIRECT
 HOST-SUFFIX,live.com,DIRECT
 HOST-SUFFIX,live.net,DIRECT
+HOST-SUFFIX,sharepoint.com,DIRECT
+HOST-SUFFIX,sharepointonline.com,DIRECT
 HOST-SUFFIX,skype.com,DIRECT
 HOST-SUFFIX,s-microsoft.com,DIRECT
 HOST-SUFFIX,visualstudio.com,DIRECT
@@ -147,7 +149,6 @@ HOST,skyapi.policies.live.net,DIRECT
 HOST,az725175.vo.msecnd.net,DIRECT
 HOST,shellprod.msocdn.com,DIRECT
 HOST,config.edge.skype.com,DIRECT
-HOST-SUFFIX,sharepointonline.com,DIRECT
 HOST,gate.hockeyapp.net,DIRECT
 
 # > PayPal
