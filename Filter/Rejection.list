@@ -16,3 +16,4 @@ HOST-SUFFIX,hockeyapp.net,REJECT
 
 # > PayPal
 HOST-SUFFIX,mparticle.com,REJECT
+HOST-SUFFIX,adjust.com,REJECT
