@@ -15,7 +15,6 @@ HOST,skyapi.policies.live.net,OneDrive
 HOST,az725175.vo.msecnd.net,OneDrive
 HOST,shellprod.msocdn.com,OneDrive
 HOST,config.edge.skype.com,OneDrive
-HOST-SUFFIX,sharepointonline.com,OneDrive
 HOST,gate.hockeyapp.net,OneDrive
 
 # > PayPal
