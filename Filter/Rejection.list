@@ -18,3 +18,4 @@ HOST-SUFFIX,hockeyapp.net,REJECT
 HOST-SUFFIX,mparticle.com,REJECT
 HOST-SUFFIX,adjust.com,REJECT
 HOST-SUFFIX,crashlytics.com,REJECT
+HOST-SUFFIX,stats.paypal.com,REJECT
