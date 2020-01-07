@@ -14,6 +14,8 @@ HOST-SUFFIX,repl.it,PROXY
 HOST-SUFFIX,cloudfront.net,PROXY
 HOST-SUFFIX,bit.ly,PROXY
 HOST-SUFFIX,imazing.com,PROXY
+HOST-SUFFIX,disqus.com,PROXY
+HOST-SUFFIX,yahoo.com,PROXY
 
 # > ABBYY
 USER-AGENT,textgrabber*,PROXY
