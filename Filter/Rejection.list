@@ -11,5 +11,8 @@ HOST-SUFFIX,ad.hpplay.cn,REJECT
 HOST-SUFFIX,adeng.hpplay.cn,REJECT
 HOST-SUFFIX,rp.hpplay.cn,REJECT
 
+# > Microsoft
+HOST-SUFFIX,hockeyapp.net,REJECT
+
 # > PayPal
 HOST-SUFFIX,mparticle.com,REJECT
