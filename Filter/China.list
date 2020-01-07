@@ -158,6 +158,7 @@ HOST-SUFFIX,paypalobjects.com,DIRECT
 HOST,config2.mparticle.com,DIRECT
 HOST,identity.mparticle.com,DIRECT
 HOST,nativesdks.mparticle.com,DIRECT
+HOST,app.adjust.com,DIRECT
 
 # > Private Tracker
 HOST-SUFFIX,awesome-hd.me,DIRECT
