@@ -3,11 +3,17 @@ HOST-KEYWORD,adservice,REJECT
 HOST-KEYWORD,analytics,REJECT
 HOST-KEYWORD,analysis,REJECT
 
+HOST-SUFFIX,appsflyer.com,REJECT
+HOST-SUFFIX,app-measurement.com,REJECT
+HOST-SUFFIX,hockeyapp.net,REJECT
+HOST-SUFFIX,adjust.com,REJECT
+HOST-SUFFIX,mparticle.com,DIRECT
+HOST-SUFFIX,crashlytics.com,REJECT
+
 # > 12306
 HOST-SUFFIX,ad.12306.cn,REJECT
 
 # > AirDroid
-HOST-SUFFIX,app-measurement.com,REJECT
 HOST-SUFFIX,stat.airdroid.com,REJECT
 HOST-SUFFIX,stat3.airdroid.com,REJECT
 HOST-SUFFIX,lb.airdroid.com,REJECT
@@ -35,13 +41,10 @@ HOST-SUFFIX,rp.hpplay.cn,REJECT
 
 # > Microsoft
 HOST,gate.hockeyapp.net,REJECT
-HOST-SUFFIX,hockeyapp.net,REJECT
 
 # > PayPal
 HOST,app.adjust.com,REJECT
 HOST,config2.mparticle.com,DIRECT
 HOST,identity.mparticle.com,DIRECT
 HOST,nativesdks.mparticle.com,DIRECT
-HOST-SUFFIX,crashlytics.com,REJECT
 HOST-SUFFIX,stats.paypal.com,REJECT
-HOST-SUFFIX,adjust.com,REJECT
