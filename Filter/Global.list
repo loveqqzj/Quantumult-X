@@ -20,7 +20,7 @@ HOST-SUFFIX,yahoo.com,PROXY
 # > ABBYY
 USER-AGENT,textgrabber*,PROXY
 USER-AGENT,FineScanner*,PROXY
-HOST-SUFFIX,appsflyer.com,PROXY
+HOST-SUFFIX,appsflyer.com,REJECT
 HOST-SUFFIX,finereader.cloud,PROXY
 HOST-SUFFIX,finereaderonline.com,PROXY
 HOST-SUFFIX,abbyy.com,PROXY
