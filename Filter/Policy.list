@@ -15,7 +15,6 @@ HOST,skyapi.policies.live.net,OneDrive
 HOST,az725175.vo.msecnd.net,OneDrive
 HOST,shellprod.msocdn.com,OneDrive
 HOST,config.edge.skype.com,OneDrive
-HOST,gate.hockeyapp.net,OneDrive
 
 # > PayPal
 HOST-KEYWORD,paypal,PayPal
@@ -24,3 +23,4 @@ HOST-SUFFIX,paypalobjects.com,PayPal
 HOST,config2.mparticle.com,PayPal
 HOST,identity.mparticle.com,PayPal
 HOST,nativesdks.mparticle.com,PayPal
+HOST,app.adjust.com,PayPal
