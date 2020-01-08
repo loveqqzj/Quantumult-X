@@ -1,26 +1,26 @@
 # > OneDrive
-HOST-SUFFIX,1drv.com,OneDrive
-HOST-SUFFIX,1drv.ms,OneDrive
-HOST,blob.core.windows.net,OneDrive
-HOST-SUFFIX,livefilestore.com,OneDrive
-HOST-SUFFIX,onedrive.com,OneDrive
-HOST-SUFFIX,storage.live.com,OneDrive
-HOST-SUFFIX,storage.msn.com,OneDrive
-HOST-SUFFIX,oneclient.sfx.ms,OneDrive
-HOST-SUFFIX,svc.ms,OneDrive
-HOST,mobile.pipe.aria.microsoft.com,OneDrive
-HOST,odc.officeapps.live.com,OneDrive
-HOST,skyapi.live.net,OneDrive
-HOST,skyapi.policies.live.net,OneDrive
-HOST,az725175.vo.msecnd.net,OneDrive
-HOST,shellprod.msocdn.com,OneDrive
-HOST,config.edge.skype.com,OneDrive
+host-suffix, 1drv.com, OneDrive
+host-suffix, 1drv.ms, OneDrive
+host, blob.core.windows.net, OneDrive
+host-suffix, livefilestore.com, OneDrive
+host-suffix, onedrive.com, OneDrive
+host-suffix, storage.live.com, OneDrive
+host-suffix, storage.msn.com, OneDrive
+host-suffix, oneclient.sfx.ms, OneDrive
+host-suffix, svc.ms, OneDrive
+host, mobile.pipe.aria.microsoft.com, OneDrive
+host, odc.officeapps.live.com, OneDrive
+host, skyapi.live.net, OneDrive
+host, skyapi.policies.live.net, OneDrive
+host, az725175.vo.msecnd.net, OneDrive
+host, shellprod.msocdn.com, OneDrive
+host, config.edge.skype.com, OneDrive
 
 # > PayPal
-HOST-KEYWORD,paypal,PayPal
-HOST-SUFFIX,paypal.com,PayPal
-HOST-SUFFIX,paypalobjects.com,PayPal
-HOST,config2.mparticle.com,PayPal
-HOST,identity.mparticle.com,PayPal
-HOST,nativesdks.mparticle.com,PayPal
-HOST,app.adjust.com,PayPal
+host-keyword, paypal, PayPal
+host-suffix, paypal.com, PayPal
+host-suffix, paypalobjects.com, PayPal
+host, config2.mparticle.com, PayPal
+host, identity.mparticle.com, PayPal
+host, nativesdks.mparticle.com, PayPal
+host, app.adjust.com, PayPal
