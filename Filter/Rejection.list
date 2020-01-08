@@ -12,10 +12,14 @@ HOST-SUFFIX,adeng.hpplay.cn,REJECT
 HOST-SUFFIX,rp.hpplay.cn,REJECT
 
 # > Microsoft
+HOST,gate.hockeyapp.net,REJECT
 HOST-SUFFIX,hockeyapp.net,REJECT
 
 # > PayPal
-HOST-SUFFIX,mparticle.com,REJECT
-HOST-SUFFIX,app.adjust.com,REJECT
+HOST,app.adjust.com,REJECT
+HOST,config2.mparticle.com,DIRECT
+HOST,identity.mparticle.com,DIRECT
+HOST,nativesdks.mparticle.com,DIRECT
 HOST-SUFFIX,crashlytics.com,REJECT
 HOST-SUFFIX,stats.paypal.com,REJECT
+HOST-SUFFIX,adjust.com,REJECT
