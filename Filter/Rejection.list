@@ -1,10 +1,32 @@
+# > General
+HOST-KEYWORD,adservice,REJECT
+HOST-KEYWORD,analytics,REJECT
+HOST-KEYWORD,analysis,REJECT
+
 # > 12306
 HOST-SUFFIX,ad.12306.cn,REJECT
+
+# > AirDroid
+HOST-SUFFIX,app-measurement.com,REJECT
+HOST-SUFFIX,stat.airdroid.com,REJECT
+HOST-SUFFIX,stat3.airdroid.com,REJECT
+HOST-SUFFIX,lb.airdroid.com,REJECT
+HOST-SUFFIX,td.airdroid.com,REJECT
+HOST-SUFFIX,srv3.airdroid.com,REJECT
+HOST-SUFFIX,pc.airdroid.com,REJECT
 
 # > Amap
 HOST-SUFFIX,page.amap.com,REJECT
 HOST-KEYWORD,ads.amap.com,REJECT
 HOST-KEYWORD,ad.amap.com,REJECT
+
+# > Google
+HOST-SUFFIX,doubleclick.net,REJECT
+HOST-SUFFIX,googleadservices.com,REJECT
+HOST-SUFFIX,googleadsserving.cn,REJECT
+HOST-SUFFIX,googlesyndication.com,REJECT
+HOST-SUFFIX,googletagmanager.com,REJECT
+HOST-SUFFIX,googletagservices.com,REJECT
 
 # > Lebo
 HOST-SUFFIX,ad.hpplay.cn,REJECT
