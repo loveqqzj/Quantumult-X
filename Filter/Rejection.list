@@ -7,7 +7,7 @@ HOST-SUFFIX,appsflyer.com,REJECT
 HOST-SUFFIX,app-measurement.com,REJECT
 HOST-SUFFIX,hockeyapp.net,REJECT
 HOST-SUFFIX,adjust.com,REJECT
-HOST-SUFFIX,mparticle.com,DIRECT
+HOST-SUFFIX,mparticle.com,REJECT
 HOST-SUFFIX,crashlytics.com,REJECT
 
 # > 12306
