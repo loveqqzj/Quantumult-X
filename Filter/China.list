@@ -14,6 +14,7 @@ HOST,statuse.digitalcertvalidation.com,DIRECT
 HOST-SUFFIX,appinn.com,DIRECT
 HOST-SUFFIX,ocsp.sectigo.com,DIRECT
 HOST-SUFFIX,letsencrypt.org,DIRECT
+HOST-SUFFIX,airdroid.com,DIRECT
 
 # > 1Password
 HOST-SUFFIX,1password.com,DIRECT
