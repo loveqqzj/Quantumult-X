@@ -1,119 +1,118 @@
 # > General
-HOST-SUFFIX,duckduckgo.com,PROXY
-HOST-SUFFIX,medium.com,PROXY
-HOST-SUFFIX,v2ray.com,PROXY
-HOST-SUFFIX,shadowsocks.org,PROXY
-HOST-SUFFIX,crucial.com,PROXY
-HOST-SUFFIX,debug.com,PROXY
-HOST-SUFFIX,wordpress.com,PROXY
-HOST-SUFFIX,python.com,PROXY
-HOST-SUFFIX,mpyit.com,PROXY
-HOST-SUFFIX,laomo.me,PROXY
-HOST-SUFFIX,dama.lu,PROXY
-HOST-SUFFIX,repl.it,PROXY
-HOST-SUFFIX,cloudfront.net,PROXY
-HOST-SUFFIX,bit.ly,PROXY
-HOST-SUFFIX,imazing.com,PROXY
-HOST-SUFFIX,disqus.com,PROXY
-HOST-SUFFIX,yahoo.com,PROXY
+host-suffix, duckduckgo.com, proxy
+host-suffix, medium.com, proxy
+host-suffix, v2ray.com, proxy
+host-suffix, shadowsocks.org, proxy
+host-suffix, crucial.com, proxy
+host-suffix, debug.com, proxy
+host-suffix, wordpress.com, proxy
+host-suffix, python.com, proxy
+host-suffix, mpyit.com, proxy
+host-suffix, laomo.me, proxy
+host-suffix, dama.lu, proxy
+host-suffix, repl.it, proxy
+host-suffix, cloudfront.net, proxy
+host-suffix, bit.ly, proxy
+host-suffix, imazing.com, proxy
+host-suffix, disqus.com, proxy
+host-suffix, yahoo.com, proxy
 
 # > ABBYY
-USER-AGENT,textgrabber*,PROXY
-USER-AGENT,FineScanner*,PROXY
-HOST-SUFFIX,appsflyer.com,PROXY
-HOST-SUFFIX,finereader.cloud,PROXY
-HOST-SUFFIX,finereaderonline.com,PROXY
-HOST-SUFFIX,abbyy.com,PROXY
-HOST-SUFFIX,onesignal.com,PROXY
+user-agent, textgrabber*, proxy
+user-agent, finescanner*, proxy
+host-suffix, finereader.cloud, proxy
+host-suffix, finereaderonline.com, proxy
+host-suffix, abbyy.com, proxy
+host-suffix, onesignal.com, proxy
 
 # > Amazon
-HOST-SUFFIX,amazonlightsail.com,PROXY
-HOST-SUFFIX,awsstatic.com,PROXY
-HOST,amazonwebservicesinc.tt.omtrdc.net,PROXY
-HOST-SUFFIX,amazon.co.jp,PROXY
-HOST-SUFFIX,amazon.com,PROXY
-HOST-SUFFIX,amazonaws.com,PROXY
+host-suffix, amazonlightsail.com, proxy
+host-suffix, awsstatic.com, proxy
+host, amazonwebservicesinc.tt.omtrdc.net, proxy
+host-suffix, amazon.co.jp, proxy
+host-suffix, amazon.com, proxy
+host-suffix, amazonaws.com, proxy
 
 # > Bandwagon
-HOST-SUFFIX,bwh1.net,PROXY
-HOST-SUFFIX,bandwagonhost.com,PROXY
-HOST-SUFFIX,justmysocks.net,PROXY
+host-suffix, bwh1.net, proxy
+host-suffix, bandwagonhost.com, proxy
+host-suffix, justmysocks.net, proxy
 
 # > Github
-HOST-SUFFIX,github.io,PROXY
-HOST-SUFFIX,github.com,PROXY
-HOST-SUFFIX,githubapp.com,PROXY
-HOST-SUFFIX,githubassets.com,PROXY
-HOST-SUFFIX,githubusercontent.com,PROXY
+host-suffix, github.io, proxy
+host-suffix, github.com, proxy
+host-suffix, githubapp.com, proxy
+host-suffix, githubassets.com, proxy
+host-suffix, githubusercontent.com, proxy
 
 # > Google
-HOST-KEYWORD,google.com,PROXY
-HOST-SUFFIX,googleapis.com,PROXY
-HOST-SUFFIX,googleusercontent.com,PROXY
-HOST-SUFFIX,gmodules.com,PROXY
-HOST-SUFFIX,gmail.com,PROXY
-HOST-SUFFIX,gstatic.com,PROXY
-HOST-SUFFIX,recaptcha.net,PROXY
-HOST-SUFFIX,ampproject.org,PROXY
+host-keyword, google.com, proxy
+host-suffix, googleapis.com, proxy
+host-suffix, googleusercontent.com, proxy
+host-suffix, gmodules.com, proxy
+host-suffix, gmail.com, proxy
+host-suffix, gstatic.com, proxy
+host-suffix, recaptcha.net, proxy
+host-suffix, ampproject.org, proxy
 
 # > Jav
-HOST-SUFFIX,avmask.com,PROXY
-HOST-SUFFIX,avmoo.com,PROXY
-HOST-SUFFIX,tellme.pw,PROXY
-HOST-SUFFIX,javbus.com,PROXY
-HOST-SUFFIX,netcdn.space,PROXY
-HOST-SUFFIX,javlibrary.com,PROXY
-HOST-SUFFIX,pixiv.net,PROXY
-HOST-SUFFIX,sis001.com,PROXY
-HOST-SUFFIX,sukebei.nyaa.si,PROXY
-HOST-SUFFIX,btspread.com,PROXY
+host-suffix, avmask.com, proxy
+host-suffix, avmoo.com, proxy
+host-suffix, tellme.pw, proxy
+host-suffix, javbus.com, proxy
+host-suffix, netcdn.space, proxy
+host-suffix, javlibrary.com, proxy
+host-suffix, pixiv.net, proxy
+host-suffix, sis001.com, proxy
+host-suffix, sukebei.nyaa.si, proxy
+host-suffix, btspread.com, proxy
 
 # > OneDrive
-HOST-SUFFIX,onedrive.live.com,PROXY
+host-suffix, onedrive.live.com, proxy
 
 # > Pornhub
-HOST-SUFFIX,phncdn.com,PROXY
-HOST-SUFFIX,pornhub.com,PROXY
-HOST-SUFFIX,pornhubpremium.com,PROXY
+host-suffix, phncdn.com, proxy
+host-suffix, pornhub.com, proxy
+host-suffix, pornhubpremium.com, proxy
 
-# > Quantumult GeoLite2 Update
-HOST-SUFFIX,maxmind.com,PROXY
-HOST-SUFFIX,crossutility.com,PROXY
+# > Quantumult Geolite2 Update
+host-suffix, maxmind.com, proxy
+host-suffix, crossutility.com, proxy
 
 # > Steam
-HOST,api.steampowered.com,PROXY
-HOST,store.steampowered.com,PROXY
-HOST-SUFFIX,steamcommunity.com,PROXY
+host, api.steampowered.com, proxy
+host, store.steampowered.com, proxy
+host-suffix, steamcommunity.com, proxy
 
 # > Tampermonkey
-HOST-SUFFIX,tampermonkey.net,PROXY
-HOST-SUFFIX,greasyfork.org,PROXY
-HOST-SUFFIX,sleazyfork.org,PROXY
+host-suffix, tampermonkey.net, proxy
+host-suffix, greasyfork.org, proxy
+host-suffix, sleazyfork.org, proxy
 
 # > Telegram
-HOST-SUFFIX,t.me,PROXY
-HOST-SUFFIX,tdesktop.com,PROXY
-HOST-SUFFIX,telegra.ph,PROXY
-HOST-SUFFIX,telegram.me,PROXY
-HOST-SUFFIX,telegram.org,PROXY
-IP-CIDR,67.198.55.0/24,PROXY
-IP-CIDR,91.108.4.0/22,PROXY
-IP-CIDR,91.108.8.0/22,PROXY
-IP-CIDR,91.108.12.0/22,PROXY
-IP-CIDR,91.108.16.0/22,PROXY
-IP-CIDR,91.108.56.0/22,PROXY
-IP-CIDR,109.239.140.0/24,PROXY
-IP-CIDR,149.154.160.0/20,PROXY
-IP-CIDR,205.172.60.0/22,PROXY
+host-suffix, t.me, proxy
+host-suffix, tdesktop.com, proxy
+host-suffix, telegra.ph, proxy
+host-suffix, telegram.me, proxy
+host-suffix, telegram.org, proxy
+ip-cidr, 67.198.55.0/24, proxy
+ip-cidr, 91.108.4.0/22, proxy
+ip-cidr, 91.108.8.0/22, proxy
+ip-cidr, 91.108.12.0/22, proxy
+ip-cidr, 91.108.16.0/22, proxy
+ip-cidr, 91.108.56.0/22, proxy
+ip-cidr, 109.239.140.0/24, proxy
+ip-cidr, 149.154.160.0/20, proxy
+ip-cidr, 205.172.60.0/22, proxy
 
 # > Yandex
-HOST-SUFFIX,yandex.ru,PROXY
-HOST-SUFFIX,yandex.com,PROXY
-HOST-SUFFIX,yandex.net,PROXY
+host-suffix, yandex.ru, proxy
+host-suffix, yandex.com, proxy
+host-suffix, yandex.net, proxy
 
 # > YouTube
-HOST-SUFFIX,youtube.com,PROXY
-HOST-SUFFIX,ytimg.com,PROXY
-HOST-SUFFIX,youtu.be,PROXY
-HOST-SUFFIX,yt.be,PROXY
-HOST-SUFFIX,googlevideo.com,PROXY
+host-suffix, youtube.com, proxy
+host-suffix, ytimg.com, proxy
+host-suffix, youtu.be, proxy
+host-suffix, yt.be, proxy
+host-suffix, googlevideo.com, proxy
