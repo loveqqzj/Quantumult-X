@@ -122,6 +122,7 @@ HOST-SUFFIX,visualstudio.com,DIRECT
 HOST-SUFFIX,windows.com,DIRECT
 HOST-SUFFIX,windowsupdate.com,DIRECT
 HOST,officecdn-microsoft-com.akamaized.net,DIRECT
+HOST,gate.hockeyapp.net,DIRECT
 
 # > Office
 HOST-SUFFIX,office.com,DIRECT
@@ -133,23 +134,8 @@ HOST-SUFFIX,hotmail.com,DIRECT
 HOST-SUFFIX,outlook.com,DIRECT
 
 # > OneDrive
-HOST-SUFFIX,1drv.com,DIRECT
-HOST-SUFFIX,1drv.ms,DIRECT
-HOST,blob.core.windows.net,DIRECT
-HOST-SUFFIX,livefilestore.com,DIRECT
-HOST-SUFFIX,onedrive.com,DIRECT
-HOST-SUFFIX,storage.live.com,DIRECT
-HOST-SUFFIX,storage.msn.com,DIRECT
-HOST-SUFFIX,oneclient.sfx.ms,DIRECT
-HOST-SUFFIX,svc.ms,DIRECT
-HOST,mobile.pipe.aria.microsoft.com,DIRECT
-HOST,odc.officeapps.live.com,DIRECT
-HOST,skyapi.live.net,DIRECT
-HOST,skyapi.policies.live.net,DIRECT
-HOST,az725175.vo.msecnd.net,DIRECT
-HOST,shellprod.msocdn.com,DIRECT
-HOST,config.edge.skype.com,DIRECT
-HOST,gate.hockeyapp.net,DIRECT
+USER-AGENT,OneDrive*,OneDrive
+USER-AGENT,OneDriveiOSApp*,OneDrive
 
 # > PayPal
 HOST-KEYWORD,paypal,DIRECT
