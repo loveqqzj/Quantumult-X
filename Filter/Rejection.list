@@ -1,50 +1,50 @@
 # > General
-HOST-KEYWORD,adservice,REJECT
-HOST-KEYWORD,analytics,REJECT
-HOST-KEYWORD,analysis,REJECT
+host-keyword, adservice, reject
+host-keyword, analytics, reject
+host-keyword, analysis, reject
 
-HOST-SUFFIX,appsflyer.com,REJECT
-HOST-SUFFIX,app-measurement.com,REJECT
-HOST-SUFFIX,hockeyapp.net,REJECT
-HOST-SUFFIX,adjust.com,REJECT
-HOST-SUFFIX,mparticle.com,REJECT
-HOST-SUFFIX,crashlytics.com,REJECT
+host-suffix, appsflyer.com, reject
+host-suffix, app-measurement.com, reject
+host-suffix, hockeyapp.net, reject
+host-suffix, adjust.com, reject
+host-suffix, mparticle.com, reject
+host-suffix, crashlytics.com, reject
 
 # > 12306
-HOST-SUFFIX,ad.12306.cn,REJECT
+host-suffix, ad.12306.cn, reject
 
 # > AirDroid
-HOST-SUFFIX,stat.airdroid.com,REJECT
-HOST-SUFFIX,stat3.airdroid.com,REJECT
-HOST-SUFFIX,lb.airdroid.com,REJECT
-HOST-SUFFIX,td.airdroid.com,REJECT
-HOST-SUFFIX,srv3.airdroid.com,REJECT
-HOST-SUFFIX,pc.airdroid.com,REJECT
+host-suffix, stat.airdroid.com, reject
+host-suffix, stat3.airdroid.com, reject
+host-suffix, lb.airdroid.com, reject
+host-suffix, td.airdroid.com, reject
+host-suffix, srv3.airdroid.com, reject
+host-suffix, pc.airdroid.com, reject
 
 # > Amap
-HOST-SUFFIX,page.amap.com,REJECT
-HOST-KEYWORD,ads.amap.com,REJECT
-HOST-KEYWORD,ad.amap.com,REJECT
+host-suffix, page.amap.com, reject
+host-keyword, ads.amap.com, reject
+host-keyword, ad.amap.com, reject
 
 # > Google
-HOST-SUFFIX,doubleclick.net,REJECT
-HOST-SUFFIX,googleadservices.com,REJECT
-HOST-SUFFIX,googleadsserving.cn,REJECT
-HOST-SUFFIX,googlesyndication.com,REJECT
-HOST-SUFFIX,googletagmanager.com,REJECT
-HOST-SUFFIX,googletagservices.com,REJECT
+host-suffix, doubleclick.net, reject
+host-suffix, googleadservices.com, reject
+host-suffix, googleadsserving.cn, reject
+host-suffix, googlesyndication.com, reject
+host-suffix, googletagmanager.com, reject
+host-suffix, googletagservices.com, reject
 
 # > Lebo
-HOST-SUFFIX,ad.hpplay.cn,REJECT
-HOST-SUFFIX,adeng.hpplay.cn,REJECT
-HOST-SUFFIX,rp.hpplay.cn,REJECT
+host-suffix, ad.hpplay.cn, reject
+host-suffix, adeng.hpplay.cn, reject
+host-suffix, rp.hpplay.cn, reject
 
 # > Microsoft
-HOST,gate.hockeyapp.net,REJECT
+host, gate.hockeyapp.net, reject
 
 # > PayPal
-HOST,app.adjust.com,REJECT
-HOST,config2.mparticle.com,REJECT
-HOST,identity.mparticle.com,REJECT
-HOST,nativesdks.mparticle.com,REJECT
-HOST-SUFFIX,stats.paypal.com,REJECT
+host, app.adjust.com, reject
+host, config2.mparticle.com, reject
+host, identity.mparticle.com, reject
+host, nativesdks.mparticle.com, reject
+host-suffix, stats.paypal.com, reject
