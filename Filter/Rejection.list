@@ -9,6 +9,7 @@ host-suffix, hockeyapp.net, reject
 host-suffix, adjust.com, reject
 host-suffix, mparticle.com, reject
 host-suffix, crashlytics.com, reject
+host-suffix, eloqua.com, reject
 
 # > 12306
 host-suffix, ad.12306.cn, reject
