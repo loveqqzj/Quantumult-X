@@ -44,7 +44,7 @@ HOST,gate.hockeyapp.net,REJECT
 
 # > PayPal
 HOST,app.adjust.com,REJECT
-HOST,config2.mparticle.com,DIRECT
-HOST,identity.mparticle.com,DIRECT
-HOST,nativesdks.mparticle.com,DIRECT
+HOST,config2.mparticle.com,REJECT
+HOST,identity.mparticle.com,REJECT
+HOST,nativesdks.mparticle.com,REJECT
 HOST-SUFFIX,stats.paypal.com,REJECT
