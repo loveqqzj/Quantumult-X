@@ -14,6 +14,12 @@ host-suffix, eloqua.com, reject
 # > 12306
 host-suffix, ad.12306.cn, reject
 
+# > Apple
+host-suffix, iadsdk.apple.com, reject
+host-suffix, ads.internal.unity3d.com, reject
+host-suffix, ads.prd.ie.internal.unity3d.com, reject
+host-suffix, unityads.unity3d.com, reject
+
 # > AirDroid
 host-suffix, stat.airdroid.com, reject
 host-suffix, stat3.airdroid.com, reject
@@ -52,3 +58,45 @@ host, config2.mparticle.com, reject
 host, identity.mparticle.com, reject
 host, nativesdks.mparticle.com, reject
 host-suffix, stats.paypal.com, reject
+
+# > Taobao
+host-keyword, adash, reject
+host-suffix, amdc.alipay.com, reject
+
+# > Tencent
+host-suffix, ad.qq.com, reject
+host-suffix, ad.qun.qq.com, reject
+host-suffix, act.qq.com, reject
+host-suffix, beacon.qq.com, reject
+host-suffix, l.qq.com, reject
+host-suffix, pingma.qq.com, reject
+host-suffix, gdt.qq.com, reject
+host-suffix, bugly.qq.com, reject
+host-suffix, e.qq.com, reject
+host-suffix, ex.qq.com, reject
+host-suffix, etg.qq.com, reject
+host-suffix, rh.qq.com, reject
+host-keyword, rich.qq.com, reject
+host-suffix, report.qq.com, reject
+host-suffix, adping.qq.com, reject
+host-suffix, adpm.app.qq.com, reject
+host-suffix, adrdir.qq.com, reject
+host-suffix, adsgroup.qq.com, reject
+host-suffix, adsfile.qq.com, reject
+host-suffix, adsview.qq.com, reject
+host-suffix, adv.app.qq.com, reject
+host-suffix, adver.qq.com, reject
+host-suffix, analy.qq.com, reject
+host-suffix, game.html5.qq.com, reject
+host-keyword, click.qq.com, reject
+host-keyword, trace.qq.com, reject
+host-keyword, push.qq.com, reject
+host-keyword, push.html5.qq.com, reject
+
+# > Xiaomi
+host-suffix, ad.xiaomi.com, reject
+host-suffix, ad.intl.xiaomi.com, reject
+host-suffix, ad1.xiaomi.com, reject
+host-suffix, data.mistat.xiaomi.com, reject
+host-suffix, mistat.xiaomi.com, reject
+host-suffix, xmpush.xiaomi.com, reject
