@@ -3,7 +3,6 @@ host-suffix, duckduckgo.com, proxy
 host-suffix, medium.com, proxy
 host-suffix, v2ray.com, proxy
 host-suffix, shadowsocks.org, proxy
-host-suffix, crucial.com, proxy
 host-suffix, debug.com, proxy
 host-suffix, wordpress.com, proxy
 host-suffix, python.com, proxy
