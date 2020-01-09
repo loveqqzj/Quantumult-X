@@ -37,6 +37,7 @@ host-suffix, amazonaws.com, proxy
 host-suffix, bwh1.net, proxy
 host-suffix, bandwagonhost.com, proxy
 host-suffix, justmysocks.net, proxy
+host-suffix, justmysocks1.net, proxy
 
 # > Github
 host-suffix, github.io, proxy
