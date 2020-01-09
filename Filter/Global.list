@@ -59,8 +59,11 @@ host-suffix, ampproject.org, proxy
 host-suffix, avmask.com, proxy
 host-suffix, avmoo.com, proxy
 host-suffix, tellme.pw, proxy
-host-suffix, javbus.com, proxy
+host-suffix, dmm.com, proxy
 host-suffix, netcdn.space, proxy
+host-suffix, javbus.com, proxy
+host-suffix, javbus22.com, proxy
+host-suffix, dmm.co.jp, proxy
 host-suffix, javlibrary.com, proxy
 host-suffix, pixiv.net, proxy
 host-suffix, sis001.com, proxy
