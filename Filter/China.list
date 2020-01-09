@@ -10,12 +10,14 @@ host-suffix, vmware.com, direct
 host-suffix, hostloc.com, direct
 host-suffix, teamviewer.com, direct
 host-suffix, accuweather.com, direct
-host, statuse.digitalcertvalidation.com, direct
+host-suffix, digicert.com, direct
+host-suffix, digitalcertvalidation.com, direct
 host-suffix, appinn.com, direct
-host-suffix, ocsp.sectigo.com, direct
+host-suffix, sectigo.com, direct
 host-suffix, letsencrypt.org, direct
 host-suffix, airdroid.com, direct
 host-suffix, qrserver.com, direct
+host-suffix, justmysocks.in, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
