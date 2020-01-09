@@ -11,7 +11,6 @@ host-suffix, mparticle.com, reject
 host-suffix, crashlytics.com, reject
 host-suffix, eloqua.com, reject
 
-
 # > 12306
 host-suffix, ad.12306.cn, reject
 
@@ -26,7 +25,6 @@ host-suffix, pc.airdroid.com, reject
 # > Amap
 host-suffix, page.amap.com, reject
 host-keyword, ads.amap.com, reject
-host-keyword, ad.amap.com, reject
 
 # > Google
 host-suffix, doubleclick.net, reject
