@@ -18,6 +18,8 @@ host-suffix, letsencrypt.org, direct
 host-suffix, airdroid.com, direct
 host-suffix, qrserver.com, direct
 host-suffix, justmysocks.in, direct
+host-suffix, rizonesoft.com, direct
+host-suffix, bandisoft.com, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
@@ -61,6 +63,10 @@ host-suffix, alicdn.com, direct
 host-suffix, alikunlun.com, direct
 host-suffix, alipay.com, direct
 host-suffix, tmall.hk, direct
+
+# > Crucial
+host-suffix, crucial.com, direct
+host-suffix, orderingmemory.com, direct
 
 # > Cloudflare
 host-suffix, cloudflare.com, direct
