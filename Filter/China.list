@@ -67,10 +67,6 @@ host-suffix, alikunlun.com, direct
 host-suffix, alipay.com, direct
 host-suffix, tmall.hk, direct
 
-# > Crucial
-host-suffix, crucial.com, direct
-host-suffix, orderingmemory.com, direct
-
 # > Cloudflare
 host-suffix, cloudflare.com, direct
 ip-cidr, 173.245.48.0/20, direct
