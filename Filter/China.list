@@ -22,6 +22,7 @@ host-suffix, rizonesoft.com, direct
 host-suffix, bandisoft.com, direct
 host-suffix, cryptomator.org, direct
 host-suffix, fineprint.com, direct
+host-suffix, adobe.com, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
@@ -222,3 +223,8 @@ host-suffix, steamstat.us, direct
 # > Warp+ 1.1.1.1
 user-agent, 1.1.1.1*, direct
 host-suffix, 1.1.1.1, direct
+
+# > Western Digital
+host-suffix, wdc.com, direct
+host-suffix, mycloud.com, direct
+host-suffix, westerndigital.com, direct
