@@ -196,6 +196,11 @@ host-suffix, springsunday.net, direct
 host-suffix, tjupt.org, direct
 host-suffix, totheglory.im, direct
 
+# > Razer
+host-suffix, razer.com, direct
+host-suffix, razerzone.com, direct
+host-suffix, razersupport.com, direct
+
 # > Readdle
 host-suffix, readdle.com, direct
 host-suffix, docstransfer.com, direct
