@@ -21,6 +21,7 @@ host-suffix, justmysocks.in, direct
 host-suffix, rizonesoft.com, direct
 host-suffix, bandisoft.com, direct
 host-suffix, cryptomator.org, direct
+host-suffix, fineprint.com, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
