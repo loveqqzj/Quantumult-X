@@ -206,6 +206,10 @@ host-suffix, razer.com, direct
 host-suffix, razerzone.com, direct
 host-suffix, razersupport.com, direct
 
+# > RBSoft (Right Click Enhancer)
+host-suffix, rbsoft.org, direct
+host-suffix, rbsoft.uservoice.com, direct
+
 # > Readdle
 host-suffix, readdle.com, direct
 host-suffix, docstransfer.com, direct
