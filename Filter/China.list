@@ -97,6 +97,11 @@ host-suffix, ourdvs.com, direct
 host-suffix, staticdn.net, direct
 host-suffix, wangsu.com, direct
 
+# > FastStone
+host-suffix, faststone.org, direct
+host-suffix, faststonesoft.net, direct
+host-suffix, imagingtips.com, direct
+
 # > IP Query
 host-suffix, ipip.net, direct
 host-suffix, ip.la, direct
