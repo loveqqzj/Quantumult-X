@@ -39,6 +39,10 @@ host-suffix, justmysocks.net, proxy
 host-suffix, justmysocks1.net, proxy
 ;host-suffix, justmysocks2.net, proxy
 
+# > Crucial
+host-suffix, crucial.com, direct
+host-suffix, orderingmemory.com, direct
+
 # > Github
 host-suffix, github.io, proxy
 host-suffix, github.com, proxy
