@@ -199,7 +199,9 @@ host-suffix, totheglory.im, direct
 
 # > Razer
 host-suffix, razer.com, direct
+host-suffix, razerapi.com, direct
 host-suffix, razerzone.com, direct
+host-suffix, razersynapse.com, direct
 host-suffix, razersupport.com, direct
 
 # > RBSoft (Right Click Enhancer)
