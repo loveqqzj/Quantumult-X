@@ -61,7 +61,6 @@ host-suffix, report.meituan.com, reject
 host-suffix, mlog.dianping.com, reject
 host-suffix, wpush.meituan.com, reject
 host-suffix, dreport.meituan.net, reject
-host-suffix, meituan.net, reject
 
 # > Microsoft
 host, gate.hockeyapp.net, reject
