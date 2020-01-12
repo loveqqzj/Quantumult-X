@@ -1,8 +1,11 @@
 # > General
 host-keyword, adservice, reject
+host-keyword, adservices, reject
+host-keyword, adsserving, reject
 host-keyword, analytics, reject
 host-keyword, analysis, reject
 host-keyword, adtrack, reject
+host-keyword, adsystem, reject
 host-keyword, mobilead, reject
 host-keyword, mobileads, reject
 
