@@ -53,7 +53,7 @@ host-suffix, adeng.hpplay.cn, reject
 host-suffix, rp.hpplay.cn, reject
 
 # > Meituan
-host-suffix, wmlog.meituan.com,REJECT, reject
+host-suffix, wmlog.meituan.com, reject
 host-suffix, report.meituan.com, reject
 host-suffix, mlog.dianping.com, reject
 
