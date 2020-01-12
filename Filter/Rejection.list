@@ -2,6 +2,9 @@
 host-keyword, adservice, reject
 host-keyword, analytics, reject
 host-keyword, analysis, reject
+host-keyword, adtrack, reject
+host-keyword, mobilead, reject
+host-keyword, mobileads, reject
 
 host-suffix, appsflyer.com, reject
 host-suffix, app-measurement.com, reject
