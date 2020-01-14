@@ -77,13 +77,16 @@ host-suffix, busjav.bid, proxy
 host-suffix, dmm.co.jp, proxy
 
 host-suffix, javlibrary.com, proxy
-host-suffix, pixiv.net, proxy
 host-suffix, sis001.com, proxy
 host-suffix, sukebei.nyaa.si, proxy
 host-suffix, btspread.com, proxy
 
 # > OneDrive
 host-suffix, onedrive.live.com, proxy
+
+# > Pixiv
+host-suffix, pixiv.net, proxy
+host-suffix, pximg.net, proxy
 
 # > Pornhub
 host-suffix, phncdn.com, proxy
