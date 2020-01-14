@@ -80,6 +80,16 @@ host, identity.mparticle.com, reject
 host, nativesdks.mparticle.com, reject
 host-suffix, stats.paypal.com, reject
 
+# > Pixiv
+host-suffix, yads.c.yimg.jp, reject
+host-suffix, yads.yjtag.yahoo.co.jp, reject
+host-suffix, ads-pixiv.net, reject
+host-suffix, nend.net, reject
+host-suffix, mopub.com, reject
+host-suffix, adtdp.com, reject
+host-suffix, teads.tv, reject
+host-suffix, fivecdm.com, reject
+
 # > Taobao
 host-keyword, adash, reject
 host-suffix, amdc.alipay.com, reject
