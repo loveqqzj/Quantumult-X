@@ -38,6 +38,9 @@ host-suffix, pc.airdroid.com, reject
 host-suffix, page.amap.com, reject
 host-keyword, ads.amap.com, reject
 
+# > eBay
+host-suffix, ebaystatic.com, reject
+
 # > Google
 host-suffix, doubleclick.net, reject
 host-suffix, googleadservices.com, reject
