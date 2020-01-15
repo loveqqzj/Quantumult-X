@@ -93,6 +93,10 @@ ip-cidr, 104.16.0.0/12, direct
 ip-cidr, 172.64.0.0/13, direct
 ip-cidr, 131.0.72.0/22, direct
 
+# > CloudSMS
+host-suffix, z-sms.com, direct
+host-suffix, materialtools.com, direct
+
 # > eBay
 host-suffix, ebay.com, direct
 host-suffix, ebayimg.com, direct
@@ -109,6 +113,12 @@ host-suffix, ip-cdn.com, direct
 host-suffix, ipv6-test.com, direct
 host-suffix, test-ipv6.com, direct
 host-suffix, whatismyip.com, direct
+
+# > Laomo
+host-suffix, mpyit.com, proxy
+host-suffix, laomo.me, proxy
+host-suffix, imgchr.com, direct
+host-suffix, ax1x.com,direct
 
 # > Mozilla
 host-suffix, mozilla.com, direct
@@ -236,10 +246,6 @@ host-suffix, steamstatic.com, direct
 host-suffix, steamcdn-a.akamaihd.net, direct
 host-suffix, steamstat.us, direct
 
-# > 图床类
-host-suffix, imgchr.com, direct
-host-suffix, ax1x.com,direct
-
 # > Warp+ 1.1.1.1
 user-agent, 1.1.1.1*, direct
 host-suffix, 1.1.1.1, direct
@@ -248,7 +254,3 @@ host-suffix, 1.1.1.1, direct
 host-suffix, wdc.com, direct
 host-suffix, mycloud.com, direct
 host-suffix, westerndigital.com, direct
-
-# > 在线云短信
-host-suffix, z-sms.com, direct
-host-suffix, materialtools.com, direct
