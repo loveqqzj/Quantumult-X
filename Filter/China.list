@@ -93,6 +93,10 @@ host-suffix, ourdvs.com, direct
 host-suffix, staticdn.net, direct
 host-suffix, wangsu.com, direct
 
+# > eBay
+host-suffix, ebay.com, direct
+host-suffix, ebayimg.com, direct
+
 # > FastStone
 host-suffix, faststone.org, direct
 host-suffix, faststonesoft.net, direct
