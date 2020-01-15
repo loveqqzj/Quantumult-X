@@ -93,6 +93,10 @@ host-suffix, ourdvs.com, direct
 host-suffix, staticdn.net, direct
 host-suffix, wangsu.com, direct
 
+# > Cloud SMS
+host-suffix, z-sms.com, direct
+host-suffix, materialtools.com,direct
+
 # > eBay
 host-suffix, ebay.com, direct
 host-suffix, ebayimg.com, direct
