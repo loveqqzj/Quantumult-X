@@ -76,8 +76,10 @@ host-suffix, dmm.co.jp, proxy
 
 host-suffix, javlibrary.com, proxy
 host-suffix, sis001.com, proxy
+
 host-suffix, sukebei.nyaa.si, proxy
 host-suffix, btspread.com, proxy
+host-suffix, torrentkitty.tv, proxy
 
 # > OneDrive
 host-suffix, onedrive.live.com, proxy
