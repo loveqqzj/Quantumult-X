@@ -251,6 +251,7 @@ user-agent, 1.1.1.1*, direct
 host-suffix, 1.1.1.1, direct
 
 # > Western Digital
+host-suffix, wd.com, direct
 host-suffix, wdc.com, direct
 host-suffix, mycloud.com, direct
 host-suffix, westerndigital.com, direct
