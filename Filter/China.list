@@ -2,7 +2,6 @@
 host-suffix, cn, direct
 host-suffix, amd.com, direct
 host-suffix, java.com, direct
-host-suffix, loli.net, direct
 host-suffix, luojilab.com, direct
 host-suffix, nvidia.com, direct
 host-suffix, oracle.com, direct
@@ -23,6 +22,8 @@ host-suffix, bandisoft.com, direct
 host-suffix, cryptomator.org, direct
 host-suffix, fineprint.com, direct
 host-suffix, adobe.com, direct
+host-suffix, mpyit.com, proxy
+host-suffix, laomo.me, proxy
 
 # > 1Password
 host-suffix, 1password.com, direct
@@ -106,6 +107,10 @@ host-suffix, faststone.org, direct
 host-suffix, faststonesoft.net, direct
 host-suffix, imagingtips.com, direct
 
+# > Image Hosting
+host-suffix, imgchr.com, direct
+host-suffix, ax1x.com,direct
+
 # > IP Query
 host-suffix, ipip.net, direct
 host-suffix, ip.la, direct
@@ -113,12 +118,6 @@ host-suffix, ip-cdn.com, direct
 host-suffix, ipv6-test.com, direct
 host-suffix, test-ipv6.com, direct
 host-suffix, whatismyip.com, direct
-
-# > Laomo
-host-suffix, mpyit.com, proxy
-host-suffix, laomo.me, proxy
-host-suffix, imgchr.com, direct
-host-suffix, ax1x.com,direct
 
 # > Mozilla
 host-suffix, mozilla.com, direct
