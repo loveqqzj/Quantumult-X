@@ -24,6 +24,7 @@ host-suffix, fineprint.com, direct
 host-suffix, adobe.com, direct
 host-suffix, mpyit.com, proxy
 host-suffix, laomo.me, proxy
+host-suffix, remove.bg, proxy
 
 # > 1Password
 host-suffix, 1password.com, direct
