@@ -67,6 +67,15 @@ host-suffix, alikunlun.com, direct
 host-suffix, alipay.com, direct
 host-suffix, tmall.hk, direct
 
+# > CDN
+host-suffix, ccgslb.com, direct
+host-suffix, ccgslb.net, direct
+host-suffix, chinanetcenter.com, direct
+host-suffix, meixincdn.com, direct
+host-suffix, ourdvs.com, direct
+host-suffix, staticdn.net, direct
+host-suffix, wangsu.com, direct
+
 # > Cloudflare
 host-suffix, cloudflare.com, direct
 ip-cidr, 173.245.48.0/20, direct
@@ -84,18 +93,9 @@ ip-cidr, 104.16.0.0/12, direct
 ip-cidr, 172.64.0.0/13, direct
 ip-cidr, 131.0.72.0/22, direct
 
-# > CDN
-host-suffix, ccgslb.com, direct
-host-suffix, ccgslb.net, direct
-host-suffix, chinanetcenter.com, direct
-host-suffix, meixincdn.com, direct
-host-suffix, ourdvs.com, direct
-host-suffix, staticdn.net, direct
-host-suffix, wangsu.com, direct
-
 # > Cloud SMS
 host-suffix, z-sms.com, direct
-host-suffix, materialtools.com,direct
+host-suffix, materialtools.com, direct
 
 # > eBay
 host-suffix, ebay.com, direct
