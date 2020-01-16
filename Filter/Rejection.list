@@ -56,7 +56,6 @@ host-suffix, rdrads.com, reject
 # > JD
 host-suffix, wlmonitor.m.jd.com, reject
 host-suffix, blackhole.m.jd.com, reject
-host-suffix, bdstatic.com, reject
 host-suffix, knicks.jd.com, reject
 host-suffix, jddebug.com, reject
 host-suffix, jpushsc.m.jd.com, reject
