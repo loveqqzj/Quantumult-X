@@ -98,6 +98,7 @@ host-suffix, mpyit.com, direct
 # > Image Hosting
 host-suffix, imgchr.com, direct
 host-suffix, ax1x.com,direct
+host-suffix, pixhost.to, proxy
 
 # > IP Query
 host-suffix, ipip.net, direct
