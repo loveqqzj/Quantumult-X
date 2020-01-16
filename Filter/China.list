@@ -1,30 +1,33 @@
 # > General
 host-suffix, cn, direct
+host-suffix, adobe.com, direct
 host-suffix, amd.com, direct
 host-suffix, java.com, direct
-host-suffix, luojilab.com, direct
 host-suffix, nvidia.com, direct
 host-suffix, oracle.com, direct
 host-suffix, vmware.com, direct
-host-suffix, hostloc.com, direct
-host-suffix, teamviewer.com, direct
-host-suffix, accuweather.com, direct
+
 host-suffix, digicert.com, direct
 host-suffix, digitalcertvalidation.com, direct
-host-suffix, appinn.com, direct
 host-suffix, sectigo.com, direct
 host-suffix, letsencrypt.org, direct
-host-suffix, airdroid.com, direct
-host-suffix, qrserver.com, direct
+
+host-suffix, hostloc.com, direct
 host-suffix, justmysocks.in, direct
+
+host-suffix, appinn.com, direct
+host-suffix, laomo.me, proxy
+host-suffix, mpyit.com, proxy
+host-suffix, remove.bg, proxy
+
+host-suffix, airdroid.com, direct
 host-suffix, rizonesoft.com, direct
 host-suffix, bandisoft.com, direct
 host-suffix, cryptomator.org, direct
 host-suffix, fineprint.com, direct
-host-suffix, adobe.com, direct
-host-suffix, mpyit.com, proxy
-host-suffix, laomo.me, proxy
-host-suffix, remove.bg, proxy
+host-suffix, droipitproject.com, proxy
+host-suffix, sourceforge.net, proxy
+host-suffix, teamviewer.com, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
@@ -210,6 +213,10 @@ host-suffix, redacted.ch, direct
 host-suffix, springsunday.net, direct
 host-suffix, tjupt.org, direct
 host-suffix, totheglory.im, direct
+
+# > QR Code Generator
+host-suffix, goqr.me, direct
+host-suffix, qrserver.com, direct
 
 # > Razer
 host-suffix, razer.com, direct
