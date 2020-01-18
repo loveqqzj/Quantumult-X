@@ -13,6 +13,7 @@ host-suffix, appsflyer.com, reject
 host-suffix, app-measurement.com, reject
 host-suffix, crashlytics.com, reject
 host-suffix, eloqua.com, reject
+host-suffix, jpush.cn, reject
 
 # > 12306
 host-suffix, ad.12306.cn, reject
@@ -74,6 +75,8 @@ host-suffix, hockeyapp.net, reject
 
 # > Notion
 host-suffix, loggly.com, reject
+host-suffix, segment.io, reject
+host-suffix, amplitude.com, reject
 
 # > PayPal
 host-suffix, adjust.com, reject
@@ -123,6 +126,11 @@ host-keyword, click.qq.com, reject
 host-keyword, trace.qq.com, reject
 host-keyword, push.qq.com, reject
 host-keyword, push.html5.qq.com, reject
+
+# > Umeng
+host-suffix, umeng.co, reject
+host-suffix, umeng.com, reject
+host-suffix, umengcloud.com, reject
 
 # > Xiaomi
 host-suffix, ad.xiaomi.com, reject
