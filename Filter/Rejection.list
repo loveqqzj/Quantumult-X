@@ -11,9 +11,6 @@ host-keyword, mobileads, reject
 
 host-suffix, appsflyer.com, reject
 host-suffix, app-measurement.com, reject
-host-suffix, hockeyapp.net, reject
-host-suffix, adjust.com, reject
-host-suffix, mparticle.com, reject
 host-suffix, crashlytics.com, reject
 host-suffix, eloqua.com, reject
 
@@ -73,13 +70,14 @@ host-suffix, wpush.meituan.com, reject
 host-suffix, dreport.meituan.net, reject
 
 # > Microsoft
-host, gate.hockeyapp.net, reject
+host-suffix, hockeyapp.net, reject
+
+# > Notion
+host-suffix, loggly.com, reject
 
 # > PayPal
-host, app.adjust.com, reject
-host, config2.mparticle.com, reject
-host, identity.mparticle.com, reject
-host, nativesdks.mparticle.com, reject
+host-suffix, adjust.com, reject
+host-suffix, mparticle.com, reject
 host-suffix, stats.paypal.com, reject
 
 # > Pixiv
