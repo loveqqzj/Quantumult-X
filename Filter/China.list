@@ -143,9 +143,7 @@ host, gate.hockeyapp.net, direct
 # > Notion
 host-suffix, notion.so, direct
 host-suffix, intercom.io, direct
-host-suffix, segment.io, direct
 host-suffix, intercomcdn.com, direct
-host-suffix, amplitude.com, direct
 
 # > Office
 host-suffix, office.com, direct
