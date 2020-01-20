@@ -13,7 +13,6 @@ host-suffix, imazing.com, proxy
 host-suffix, disqus.com, proxy
 host-suffix, yahoo.com, proxy
 
-
 # > ABBYY
 user-agent, textgrabber*, proxy
 user-agent, finescanner*, proxy
@@ -41,7 +40,7 @@ host-suffix, justmysocks1.net, proxy
 host-suffix, crucial.com, direct
 host-suffix, orderingmemory.com, direct
 
-# > DropBox
+# > Dropbox
 host-suffix, dropbox.com, proxy
 host-suffix, dropboxcaptcha.com, proxy
 
