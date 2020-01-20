@@ -9,7 +9,6 @@ host-suffix, python.com, proxy
 host-suffix, dama.lu, proxy
 host-suffix, repl.it, proxy
 host-suffix, cloudfront.net, proxy
-host-suffix, bit.ly, proxy
 host-suffix, imazing.com, proxy
 host-suffix, disqus.com, proxy
 host-suffix, yahoo.com, proxy
@@ -96,6 +95,10 @@ host-suffix, pornhubpremium.com, proxy
 # > Quantumult Geolite2 Update
 host-suffix, maxmind.com, proxy
 host-suffix, crossutility.com, proxy
+
+# > Short URL
+host-suffix, tinyurl.com, proxy
+host-suffix, bit.ly, proxy
 
 # > Steam
 host, api.steampowered.com, proxy
