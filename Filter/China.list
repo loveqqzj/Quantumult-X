@@ -80,6 +80,12 @@ ip-cidr, 131.0.72.0/22, direct
 host-suffix, z-sms.com, direct
 host-suffix, materialtools.com, direct
 
+# > draw.io
+host-suffix, draw.io, direct
+host, api.trello.com, direct
+host, code.jquery.com, direct
+host, js.pusher.com, direct
+
 # > eBay
 host-suffix, ebay.com, direct
 host-suffix, ebayimg.com, direct
