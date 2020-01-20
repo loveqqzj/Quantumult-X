@@ -84,6 +84,10 @@ host-suffix, sukebei.nyaa.si, proxy
 host-suffix, btspread.com, proxy
 host-suffix, torrentkitty.tv, proxy
 
+# > Mega
+host-suffix, mega.nz, proxy
+host-suffix, mega.co.nz, proxy
+
 # > OneDrive
 host-suffix, onedrive.live.com, proxy
 
