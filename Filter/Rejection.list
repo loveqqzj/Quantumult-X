@@ -36,6 +36,9 @@ host-suffix, pc.airdroid.com, reject
 host-suffix, page.amap.com, reject
 host-keyword, ads.amap.com, reject
 
+# > Dropbox
+host-suffix, dropboxstatic.com, reject
+
 # > eBay
 host-suffix, ebaystatic.com, reject
 
