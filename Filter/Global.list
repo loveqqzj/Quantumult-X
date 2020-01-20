@@ -12,7 +12,7 @@ host-suffix, cloudfront.net, proxy
 host-suffix, imazing.com, proxy
 host-suffix, disqus.com, proxy
 host-suffix, yahoo.com, proxy
-host-suffix, dropbox.com, proxy
+
 
 # > ABBYY
 user-agent, textgrabber*, proxy
@@ -40,6 +40,10 @@ host-suffix, justmysocks1.net, proxy
 # > Crucial
 host-suffix, crucial.com, direct
 host-suffix, orderingmemory.com, direct
+
+# > DropBox
+host-suffix, dropbox.com, proxy
+host-suffix, dropboxcaptcha.com, proxy
 
 # > Github
 host-suffix, github.io, proxy
