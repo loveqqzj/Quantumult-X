@@ -5,7 +5,7 @@ host-suffix, digitalcertvalidation.com, direct
 host-suffix, sectigo.com, direct
 host-suffix, letsencrypt.org, direct
 host-suffix, remove.bg, direct
-host-suffix, ifttt.com, proxy
+host-suffix, ifttt.com, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
