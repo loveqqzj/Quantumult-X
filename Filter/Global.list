@@ -57,6 +57,7 @@ host-suffix, githubusercontent.com, proxy
 
 # > Google
 host-keyword, google, proxy
+host-suffix, gvt1.com, proxy
 host-suffix, googleapis.com, proxy
 host-suffix, googleusercontent.com, proxy
 host-suffix, gmodules.com, proxy
