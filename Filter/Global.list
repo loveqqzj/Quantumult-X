@@ -40,6 +40,10 @@ host-suffix, justmysocks1.net, proxy
 host-suffix, crucial.com, direct
 host-suffix, orderingmemory.com, direct
 
+# > Daum Potplayer
+host-suffix, daum.net, proxy
+host-suffix, daumcdn.net, proxy
+
 # > Dropbox
 host-suffix, dropbox.com, proxy
 host-suffix, dropboxcaptcha.com, proxy
