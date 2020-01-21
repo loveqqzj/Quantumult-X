@@ -143,7 +143,7 @@ host-suffix, visualstudio.com, direct
 host-suffix, windows.com, direct
 host-suffix, windowsupdate.com, direct
 host, officecdn-microsoft-com.akamaized.net, direct
-host, gate.hockeyapp.net, direct
+;host, gate.hockeyapp.net, direct
 
 # > Notion
 host-suffix, notion.so, direct
@@ -181,10 +181,10 @@ host, config.edge.skype.com, direct
 host-keyword, paypal, direct
 host-suffix, paypal.com, direct
 host-suffix, paypalobjects.com, direct
-host, config2.mparticle.com, direct
-host, identity.mparticle.com, direct
-host, nativesdks.mparticle.com, direct
-host, app.adjust.com, direct
+;host, config2.mparticle.com, direct
+;host, identity.mparticle.com, direct
+;host, nativesdks.mparticle.com, direct
+;host, app.adjust.com, direct
 
 # > PT
 host-suffix, awesome-hd.me, direct
