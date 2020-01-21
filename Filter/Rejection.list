@@ -85,6 +85,10 @@ host-suffix, amplitude.com, reject
 host-suffix, adjust.com, reject
 host-suffix, mparticle.com, reject
 host-suffix, stats.paypal.com, reject
+;host, config2.mparticle.com, reject
+;host, identity.mparticle.com, reject
+;host, nativesdks.mparticle.com, reject
+;host, app.adjust.com, reject
 
 # > Pixiv
 host-suffix, yads.c.yimg.jp, reject
