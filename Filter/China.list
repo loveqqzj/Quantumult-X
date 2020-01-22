@@ -242,9 +242,10 @@ host-suffix, sourceforge.net, direct
 host-suffix, teamviewer.com, direct
 host-suffix, notepad-plus-plus.org, direct
 
-# > 苏州行&苏e行
-user-agent, suzhouxing*, direct
-user-agent, szmetro*, direct
+# > Suzhou
+user-agent, SuzhouXing*, direct
+host-suffix, icitymobile.com, direct
+user-agent, SZMetro*, direct
 
 # > Speedtest
 host-suffix, speedtest.net, direct
