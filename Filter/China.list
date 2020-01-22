@@ -37,11 +37,11 @@ ip-cidr, 17.0.0.0/8, direct
 
 # > Akamai
 host-suffix, akadns.net, direct
-;host-suffix, akamai.net, direct
-;host-suffix, akamaiedge.net, direct
-;host-suffix, akamaihd.net, direct
-;host-suffix, akamaistream.net, direct
-;host-suffix, akamaized.net, direct
+host-suffix, akamai.net, direct
+host-suffix, akamaiedge.net, direct
+host-suffix, akamaihd.net, direct
+host-suffix, akamaistream.net, direct
+host-suffix, akamaized.net, direct
 
 # > Alibaba
 host-suffix, alibaba.com, direct
@@ -244,7 +244,6 @@ host-suffix, notepad-plus-plus.org, direct
 
 # > Suzhou
 user-agent, SuzhouXing*, direct
-host-suffix, icitymobile.com, direct
 user-agent, SZMetro*, direct
 
 # > Speedtest
