@@ -14,6 +14,8 @@ host-suffix, app-measurement.com, reject
 host-suffix, crashlytics.com, reject
 host-suffix, eloqua.com, reject
 host-suffix, jpush.cn, reject
+host-suffix, getui.com, reject
+host-suffix, igexin.com, reject
 
 # > 12306
 host-suffix, ad.12306.cn, reject
