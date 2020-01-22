@@ -90,11 +90,6 @@ host, js.pusher.com, direct
 host-suffix, ebay.com, direct
 host-suffix, ebayimg.com, direct
 
-# > FastStone
-host-suffix, faststone.org, direct
-host-suffix, faststonesoft.net, direct
-host-suffix, imagingtips.com, direct
-
 # > Forum & Blog
 host-suffix, hostloc.com, direct
 host-suffix, justmysocks.in, direct
