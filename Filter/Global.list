@@ -48,6 +48,11 @@ host-suffix, daumcdn.net, proxy
 host-suffix, dropbox.com, proxy
 host-suffix, dropboxcaptcha.com, proxy
 
+# > FastStone
+host-suffix, faststone.org, proxy
+host-suffix, faststonesoft.net, proxy
+host-suffix, imagingtips.com, proxy
+
 # > Github
 host-suffix, github.io, proxy
 host-suffix, github.com, proxy
