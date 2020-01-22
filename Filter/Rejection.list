@@ -16,6 +16,7 @@ host-suffix, eloqua.com, reject
 host-suffix, jpush.cn, reject
 host-suffix, getui.com, reject
 host-suffix, igexin.com, reject
+host-suffix, umsns.com, reject
 
 # > 12306
 host-suffix, ad.12306.cn, reject
