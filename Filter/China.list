@@ -95,6 +95,14 @@ host-suffix, hostloc.com, direct
 host-suffix, justmysocks.in, direct
 host-suffix, appinn.com, direct
 
+# > Free Download Manager
+host-suffix, freedownloadmanager.org, direct
+host-suffix, unite.com, direct
+
+# > HTTPS Everywhere
+host-suffix, eff.org, direct
+host-suffix, https-rulesets.org, direct
+
 # > Image Hosting
 host-suffix, imgchr.com, direct
 host-suffix, ax1x.com,direct
@@ -241,6 +249,7 @@ host-suffix, softwareok.com, direct
 host-suffix, sourceforge.net, direct
 host-suffix, teamviewer.com, direct
 host-suffix, notepad-plus-plus.org, direct
+host-suffix, internetdownloadmanager.com, direct
 
 # > Suzhou
 user-agent, SuzhouXing*, direct
