@@ -240,6 +240,7 @@ host-suffix, dropitproject.com, direct
 host-suffix, softwareok.com, direct
 host-suffix, sourceforge.net, direct
 host-suffix, teamviewer.com, direct
+host-suffix, notepad-plus-plus.org, direct
 
 # > 苏州行&苏e行
 user-agent, suzhouxing*, direct
