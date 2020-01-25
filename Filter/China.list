@@ -251,6 +251,7 @@ host-suffix, sourceforge.net, direct
 host-suffix, teamviewer.com, direct
 host-suffix, notepad-plus-plus.org, direct
 host-suffix, internetdownloadmanager.com, direct
+host-suffix, den4b.com, direct
 
 # > Suzhou
 user-agent, SuzhouXing*, direct
