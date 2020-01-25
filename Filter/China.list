@@ -127,6 +127,7 @@ host-suffix, microsoft.com, direct
 host-suffix, microsoftonline.com, direct
 host-suffix, microsoftstore.com, direct
 host-suffix, microsofttranslator.com, direct
+host-suffix, microsoftedge.com, direct
 host-suffix, microsoftedgeinsider.com, direct
 host-suffix, bing.com, direct
 host-suffix, msecnd.net, direct
