@@ -252,6 +252,7 @@ host-suffix, teamviewer.com, direct
 host-suffix, notepad-plus-plus.org, direct
 host-suffix, internetdownloadmanager.com, direct
 host-suffix, den4b.com, direct
+host-suffix, mythicsoft.com, direct
 
 # > Suzhou
 user-agent, SuzhouXing*, direct
