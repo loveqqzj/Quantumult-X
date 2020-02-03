@@ -12,7 +12,6 @@ host-suffix, cloudfront.net, proxy
 host-suffix, imazing.com, proxy
 host-suffix, disqus.com, proxy
 host-suffix, yahoo.com, proxy
-host-suffix, getfvid.com, proxy
 
 # > ABBYY
 user-agent, textgrabber*, proxy
