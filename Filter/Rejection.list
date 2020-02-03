@@ -142,6 +142,9 @@ host-suffix, umeng.co, reject
 host-suffix, umeng.com, reject
 host-suffix, umengcloud.com, reject
 
+# > Wondershare
+host-suffix, kochava.com, reject
+
 # > Xiaomi
 host-suffix, ad.xiaomi.com, reject
 host-suffix, ad.intl.xiaomi.com, reject
