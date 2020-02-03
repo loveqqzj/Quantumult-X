@@ -282,3 +282,8 @@ host-suffix, wd.com, direct
 host-suffix, wdc.com, direct
 host-suffix, mycloud.com, direct
 host-suffix, westerndigital.com, direct
+
+# > Wondershare
+host-suffix, wondershare.cc, direct
+host-suffix, wondershare.cn, direct
+host-suffix, wondershare.com, direct
