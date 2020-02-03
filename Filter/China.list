@@ -6,6 +6,7 @@ host-suffix, sectigo.com, direct
 host-suffix, letsencrypt.org, direct
 host-suffix, remove.bg, direct
 host-suffix, ifttt.com, direct
+host-suffix, twdown.net, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
