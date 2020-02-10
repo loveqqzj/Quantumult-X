@@ -78,6 +78,7 @@ host-suffix, dreport.meituan.net, reject
 
 # > Microsoft
 host-suffix, hockeyapp.net, reject
+host-suffix, braze.com, reject
 
 # > Notion
 host-suffix, loggly.com, reject
