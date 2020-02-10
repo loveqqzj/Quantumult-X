@@ -117,12 +117,6 @@ host-suffix, ipv6-test.com, direct
 host-suffix, test-ipv6.com, direct
 host-suffix, whatismyip.com, direct
 
-# > Mozilla
-host-suffix, mozilla.com, direct
-host-suffix, mozilla.org, direct
-host-suffix, mozilla.net, direct
-host-suffix, firefox.com, direct
-
 # > Microsoft
 host-suffix, microsoft.com, direct
 host-suffix, microsoftonline.com, direct
@@ -148,6 +142,12 @@ host-suffix, windows.com, direct
 host-suffix, windowsupdate.com, direct
 host, officecdn-microsoft-com.akamaized.net, direct
 ;host, gate.hockeyapp.net, direct
+
+# > Mozilla
+host-suffix, mozilla.com, direct
+host-suffix, mozilla.org, direct
+host-suffix, mozilla.net, direct
+host-suffix, firefox.com, direct
 
 # > Notion
 host-suffix, notion.so, direct
@@ -263,10 +263,12 @@ host-suffix, mythicsoft.com, direct
 user-agent, SuzhouXing*, direct
 user-agent, SZMetro*, direct
 
-# > Speedtest
+# > Speed test
 host-suffix, speedtest.net, direct
-host-keyword, speedtest, direct
+host-suffix, netspeedtestmaster.com, direct
+host-suffix, speedtest.macpaw.com, direct
 host-suffix, wlvpn.com, direct
+host-suffix, fast.com, direct
 
 # > Steam
 host-suffix, steampowered.com, direct
