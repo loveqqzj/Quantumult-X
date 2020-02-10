@@ -238,7 +238,8 @@ host-suffix, pdfexpert.com, direct
 # > Skype
 host-suffix, skype.com, direct
 host-suffix, skypeassets.com, direct
-host-suffix, in.appcenter.ms, direct
+host, in.appcenter.ms, direct
+host, trouter-easia-a.cloudapp.net, direct
 
 # > Software & Hardware
 host-suffix, adobe.com, direct
