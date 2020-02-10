@@ -1,12 +1,3 @@
-# > Netflix
-host-suffix, netflix.com, GlobalMedia
-host-suffix, netflix.net, GlobalMedia
-host-suffix, nflxext.com, GlobalMedia
-host-suffix, nflximg.com, GlobalMedia
-host-suffix, nflximg.net, GlobalMedia
-host-suffix, nflxso.net, GlobalMedia
-host-suffix, nflxvideo.net, GlobalMedia
-
 # > Pixiv
 host-suffix, pixiv.net, GlobalMedia
 host-suffix, pximg.net, GlobalMedia
