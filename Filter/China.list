@@ -130,13 +130,8 @@ host-suffix, msocdn.com, direct
 host-suffix, msauth.com, direct
 host-suffix, msauth.net, direct
 host-suffix, msedge.net, direct
-host-suffix, onenote.com, direct
-host-suffix, onenote.net, direct
 host-suffix, live.com, direct
 host-suffix, live.net, direct
-host-suffix, sharepoint.com, direct
-host-suffix, sharepoint-df.com, direct
-host-suffix, sharepointonline.com, direct
 host-suffix, s-microsoft.com, direct
 host-suffix, visualstudio.com, direct
 host-suffix, windows.com, direct
@@ -160,6 +155,10 @@ host-suffix, office.com, direct
 host-suffix, office.net, direct
 host-suffix, office365.com, direct
 host, sdk.iad-01.braze.com, direct
+
+# > OneNote
+host-suffix, onenote.com, direct
+host-suffix, onenote.net, direct
 
 # > Outlook
 host-suffix, hotmail.com, direct
@@ -235,6 +234,11 @@ host-suffix, readdle.com, direct
 host-suffix, docstransfer.com, direct
 host-suffix, pdfexpert.com, direct
 
+# > Sharepoint
+host-suffix, sharepoint.com, direct
+host-suffix, sharepoint-df.com, direct
+host-suffix, sharepointonline.com, direct
+
 # > Skype
 host-suffix, skype.com, direct
 host-suffix, skypeassets.com, direct
@@ -266,12 +270,11 @@ host-suffix, mythicsoft.com, direct
 user-agent, SuzhouXing*, direct
 user-agent, SZMetro*, direct
 
-# > Speed test
+# > Speedtest
 host-suffix, speedtest.net, direct
 host-suffix, netspeedtestmaster.com, direct
 host-suffix, speedtest.macpaw.com, direct
 host-suffix, wlvpn.com, direct
-host-suffix, fast.com, direct
 
 # > Steam
 host-suffix, steampowered.com, direct
