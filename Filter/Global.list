@@ -102,6 +102,10 @@ host-suffix, torrentkitty.tv, proxy
 host-suffix, mega.nz, proxy
 host-suffix, mega.co.nz, proxy
 
+# > Netflix
+host-suffix, netflix.com, proxy
+host-suffix, nflxvideo.net, proxy
+
 # > OneDrive
 host-suffix, onedrive.live.com, proxy
 
