@@ -128,15 +128,6 @@ host-suffix, mega.co.nz, proxy
 # > OneDrive
 host-suffix, onedrive.live.com, proxy
 
-# > Pixiv
-host-suffix, pixiv.net, proxy
-host-suffix, pximg.net, proxy
-
-# > Pornhub
-host-suffix, phncdn.com, proxy
-host-suffix, pornhub.com, proxy
-host-suffix, pornhubpremium.com, proxy
-
 # > Quantumult Geolite2 Update
 host-suffix, maxmind.com, proxy
 host-suffix, crossutility.com, proxy
@@ -182,10 +173,3 @@ host-suffix, twitpic.com, proxy
 host-suffix, yandex.ru, proxy
 host-suffix, yandex.com, proxy
 host-suffix, yandex.net, proxy
-
-# > YouTube
-host-suffix, youtube.com, proxy
-host-suffix, ytimg.com, proxy
-host-suffix, youtu.be, proxy
-host-suffix, yt.be, proxy
-host-suffix, googlevideo.com, proxy
