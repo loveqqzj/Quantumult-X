@@ -49,6 +49,11 @@ host-suffix, daumcdn.net, proxy
 host-suffix, dropbox.com, proxy
 host-suffix, dropboxcaptcha.com, proxy
 
+# > Fast.com
+host-suffix, fast.com, proxy
+host-suffix, netflix.com, proxy
+host-suffix, nflxvideo.net, proxy
+
 # > FastStone
 host-suffix, faststone.org, proxy
 host-suffix, faststonesoft.net, proxy
