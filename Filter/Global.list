@@ -49,30 +49,6 @@ host-suffix, daumcdn.net, proxy
 host-suffix, dropbox.com, proxy
 host-suffix, dropboxcaptcha.com, proxy
 
-# > Facebook
-host-suffix, facebook.com, proxy
-host-suffix, fb.com, proxy
-host-suffix, fb.me, proxy
-host-suffix, fbaddins.com, proxy
-host-suffix, fbcdn.net, proxy
-host-suffix, fbsbx.com, proxy
-host-suffix, fbworkmail.com, proxy
-host-suffix, instagram.com, proxy
-host-suffix, cdninstagram.com, proxy
-host-suffix, m.me, proxy
-host-suffix, messenger.com, proxy
-host-suffix, whatsapp.com, proxy
-host-suffix, whatsapp.net, proxy
-ip-cidr, 3.123.36.126/32, proxy
-ip-cidr, 35.157.215.84/32, proxy
-ip-cidr, 35.157.217.255/32, proxy
-ip-cidr, 52.58.209.134/32, proxy
-ip-cidr, 54.93.124.31/32, proxy
-ip-cidr, 54.162.243.80/32, proxy
-ip-cidr, 54.173.34.141/32, proxy
-ip-cidr, 54.235.23.242/32, proxy
-ip-cidr, 169.45.248.118/32, proxy
-
 # > FastStone
 host-suffix, faststone.org, proxy
 host-suffix, faststonesoft.net, proxy
