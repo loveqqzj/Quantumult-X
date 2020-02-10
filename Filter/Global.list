@@ -35,11 +35,11 @@ host-suffix, bwh1.net, proxy
 host-suffix, bandwagonhost.com, proxy
 host-suffix, justmysocks.net, proxy
 host-suffix, justmysocks1.net, proxy
-;host-suffix, justmysocks2.net, proxy
+host-suffix, justmysocks2.net, direct
 
 # > Crucial
-host-suffix, crucial.com, direct
-host-suffix, orderingmemory.com, direct
+host-suffix, crucial.com, proxy
+host-suffix, orderingmemory.com, proxy
 
 # > Daum Potplayer
 host-suffix, daum.net, proxy
