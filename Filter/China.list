@@ -154,7 +154,6 @@ host-suffix, intercomcdn.com, direct
 host-suffix, office.com, direct
 host-suffix, office.net, direct
 host-suffix, office365.com, direct
-host, sdk.iad-01.braze.com, direct
 
 # > OneNote
 host-suffix, onenote.com, direct
