@@ -103,6 +103,16 @@ host-suffix, adtdp.com, reject
 host-suffix, teads.tv, reject
 host-suffix, fivecdm.com, reject
 
+# > Speedtest by Ookla
+host-suffix, rlcdn.com, reject
+host-suffix, rubiconproject.com, reject
+host-suffix, scorecardresearch.com, reject
+host-suffix, mathtag.com, reject
+host-suffix, everesttech.net, reject
+host-suffix, sharedid.org, reject
+host-suffix, adsrvr.org, reject
+host-suffix, ads.yahoo.com, reject
+
 # > Taobao
 host-keyword, adash, reject
 host-suffix, amdc.alipay.com, reject
