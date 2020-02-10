@@ -270,7 +270,7 @@ host-suffix, fast.com, direct
 user-agent, SpeedTest*, direct
 host-keyword, speedtest, direct
 host-suffix, speedtest.net, direct
-host-suffix, wlvpn.com, direct
+host-suffix, ooklaserver.net, direct
 
 # > Steam
 host-suffix, steampowered.com, direct
