@@ -233,10 +233,6 @@ host-suffix, readdle.com, direct
 host-suffix, docstransfer.com, direct
 host-suffix, pdfexpert.com, direct
 
-# > Signal
-host-suffix, signal.org, direct
-host-suffix, whispersystems.org, direct
-
 # > Skype
 host-suffix, skype.com, direct
 host-suffix, skypeassets.com, direct
