@@ -135,6 +135,7 @@ host-suffix, onenote.net, direct
 host-suffix, live.com, direct
 host-suffix, live.net, direct
 host-suffix, sharepoint.com, direct
+host-suffix, sharepoint-df.com, direct
 host-suffix, sharepointonline.com, direct
 host-suffix, s-microsoft.com, direct
 host-suffix, visualstudio.com, direct
