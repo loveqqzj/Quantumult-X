@@ -142,7 +142,6 @@ host-suffix, live.com, direct
 host-suffix, live.net, direct
 host-suffix, sharepoint.com, direct
 host-suffix, sharepointonline.com, direct
-host-suffix, skype.com, direct
 host-suffix, s-microsoft.com, direct
 host-suffix, visualstudio.com, direct
 host-suffix, windows.com, direct
@@ -233,6 +232,15 @@ host-suffix, rbsoft.uservoice.com, direct
 host-suffix, readdle.com, direct
 host-suffix, docstransfer.com, direct
 host-suffix, pdfexpert.com, direct
+
+# > Signal
+host-suffix, signal.org, direct
+host-suffix, whispersystems.org, direct
+
+# > Skype
+host-suffix, skype.com, direct
+host-suffix, skypeassets.com, direct
+host-suffix, in.appcenter.ms, direct
 
 # > Software & Hardware
 host-suffix, adobe.com, direct
