@@ -51,6 +51,7 @@ host-suffix, dropboxcaptcha.com, proxy
 
 # > Facebook
 host-suffix, facebook.com, proxy
+host-suffix, facebook.net, proxy
 
 # > FastStone
 host-suffix, faststone.org, proxy
