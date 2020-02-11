@@ -265,8 +265,7 @@ host-suffix, internetdownloadmanager.com, direct
 host-suffix, den4b.com, direct
 host-suffix, mythicsoft.com, direct
 
-# > Speedtest
-host-suffix, fast.com, direct
+# > Speedtest by Ookla
 user-agent, SpeedTest*, direct
 host-keyword, speedtest, direct
 host-suffix, speedtest.net, direct
