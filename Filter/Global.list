@@ -105,10 +105,6 @@ host-suffix, mega.co.nz, proxy
 # > OneDrive
 host-suffix, onedrive.live.com, proxy
 
-# > Quantumult Geolite2 Update
-host-suffix, maxmind.com, proxy
-host-suffix, crossutility.com, proxy
-
 # > Short URL
 host-suffix, tinyurl.com, proxy
 host-suffix, bit.ly, proxy
