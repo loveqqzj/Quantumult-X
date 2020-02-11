@@ -77,6 +77,7 @@ host-suffix, gmail.com, proxy
 host-suffix, gstatic.com, proxy
 host-suffix, recaptcha.net, proxy
 host-suffix, ampproject.org, proxy
+host-suffix, ggpht.com, proxy
 
 # > Jav
 host-suffix, javlibrary.com, proxy
