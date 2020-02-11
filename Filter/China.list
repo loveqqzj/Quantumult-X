@@ -7,6 +7,9 @@ host-suffix, letsencrypt.org, direct
 host-suffix, remove.bg, direct
 host-suffix, ifttt.com, direct
 host-suffix, twdown.net, direct
+host-suffix, polyfii.io, direct
+host-suffix, bootstrapcdn.com, direct
+host-suffix, ravenjs.com, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
