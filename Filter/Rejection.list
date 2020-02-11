@@ -117,6 +117,7 @@ host-suffix, sharedid.org, reject
 host-suffix, adsrvr.org, reject
 host-suffix, dc-1.net, reject
 host-suffix, ads.yahoo.com, reject
+host-suffix, ziffdavis.com, reject
 
 # > Taobao
 host-keyword, adash, reject
