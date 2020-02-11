@@ -245,6 +245,7 @@ host-suffix, sharepointonline.com, direct
 # > Skype
 host-suffix, skype.com, direct
 host-suffix, skypeassets.com, direct
+host-suffix, s-msedge.net, direct
 host, in.appcenter.ms, direct
 host, trouter-easia-a.cloudapp.net, direct
 
