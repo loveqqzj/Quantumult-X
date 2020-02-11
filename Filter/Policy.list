@@ -1,3 +1,11 @@
+# > PayPal
+host-suffix, paypal.com, PayPal
+host-suffix, paypalobjects.com, PayPal
+;host, config2.mparticle.com, PayPal
+;host, identity.mparticle.com, PayPal
+;host, nativesdks.mparticle.com, PayPal
+;host, app.adjust.com, PayPal
+
 # > Pixiv
 host-suffix, pixiv.net, GlobalMedia
 host-suffix, pximg.net, GlobalMedia
