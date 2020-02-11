@@ -49,6 +49,9 @@ host-suffix, daumcdn.net, proxy
 host-suffix, dropbox.com, proxy
 host-suffix, dropboxcaptcha.com, proxy
 
+# > Facebook
+host-suffix, facebook.com, proxy
+
 # > FastStone
 host-suffix, faststone.org, proxy
 host-suffix, faststonesoft.net, proxy
