@@ -81,14 +81,14 @@ host-suffix, ampproject.org, proxy
 # > Jav
 host-suffix, javlibrary.com, proxy
 host-suffix, sis001.com, proxy
-# AVMOO
+###AVMOO
 host-suffix, avmask.com, proxy
 host-suffix, avmoo.com, proxy
 host-suffix, tellme.pw, proxy
 host-suffix, dmm.com, proxy
 host-suffix, netcdn.space, proxy
 host-suffix, avsox.asia, proxy
-# Javbus
+###Javbus
 host-suffix, javbus.com, proxy
 host-suffix, javbus22.com, proxy
 host-suffix, javbus.zone, proxy
@@ -96,7 +96,7 @@ host-suffix, javcdn.pw, proxy
 host-suffix, cdnbus.cloud, proxy
 host-suffix, busjav.bid, proxy
 host-suffix, dmm.co.jp, proxy
-# Torrent
+###Torrent
 host-suffix, sukebei.nyaa.si, proxy
 host-suffix, btspread.com, proxy
 host-suffix, torrentkitty.tv, proxy
