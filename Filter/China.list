@@ -137,7 +137,6 @@ host-suffix, visualstudio.com, direct
 host-suffix, windows.com, direct
 host-suffix, windowsupdate.com, direct
 host, officecdn-microsoft-com.akamaized.net, direct
-;host, gate.hockeyapp.net, direct
 
 # > Mozilla
 host-suffix, mozilla.com, direct
@@ -180,6 +179,10 @@ host, skyapi.policies.live.net, direct
 host, az725175.vo.msecnd.net, direct
 host, shellprod.msocdn.com, direct
 host, config.edge.skype.com, direct
+
+# > PayPal
+host-suffix, paypal.com, direct
+host-suffix, paypalobjects.com, direct
 
 # > PT
 host-suffix, awesome-hd.me, direct
