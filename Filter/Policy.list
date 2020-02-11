@@ -1,6 +1,8 @@
 # > Pixiv
 host-suffix, pixiv.net, GlobalMedia
 host-suffix, pximg.net, GlobalMedia
+host-suffix, pixivision.net, GlobalMedia
+host-suffix, pixiv-bungei.net, GlobalMedia
 
 # > Pornhub
 host-suffix, phncdn.com, GlobalMedia
