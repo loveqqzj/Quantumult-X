@@ -217,6 +217,10 @@ host-suffix, totheglory.im, direct
 host-suffix, goqr.me, direct
 host-suffix, qrserver.com, direct
 
+# > Quantumult Geolite2 Update
+host-suffix, maxmind.com, direct
+host-suffix, crossutility.com, direct
+
 # > Razer
 host-suffix, razer.com, direct
 host-suffix, razerapi.com, direct
