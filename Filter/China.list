@@ -181,15 +181,6 @@ host, az725175.vo.msecnd.net, direct
 host, shellprod.msocdn.com, direct
 host, config.edge.skype.com, direct
 
-# > PayPal
-host-keyword, paypal, direct
-host-suffix, paypal.com, direct
-host-suffix, paypalobjects.com, direct
-;host, config2.mparticle.com, direct
-;host, identity.mparticle.com, direct
-;host, nativesdks.mparticle.com, direct
-;host, app.adjust.com, direct
-
 # > PT
 host-suffix, awesome-hd.me, direct
 host-suffix, broadcasthe.net, direct
