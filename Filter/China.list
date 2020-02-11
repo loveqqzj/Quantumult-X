@@ -272,6 +272,7 @@ user-agent, SpeedTest*, direct
 host-keyword, speedtest, direct
 host-suffix, speedtest.net, direct
 host-suffix, ooklaserver.net, direct
+host-suffix, cdnst.net, direct
 
 # > Steam
 host-suffix, steampowered.com, direct
