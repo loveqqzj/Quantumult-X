@@ -71,6 +71,7 @@ host-suffix, gvt1.com, proxy
 host-suffix, gvt3.com, proxy
 host-suffix, google.com, proxy
 host-suffix, googleapis.com, proxy
+host-suffix, googlemail.com, proxy
 host-suffix, googleusercontent.com, proxy
 host-suffix, gmodules.com, proxy
 host-suffix, gmail.com, proxy
