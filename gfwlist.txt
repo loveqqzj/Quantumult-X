@@ -1,1 +1,1084 @@
-W0F1dG9Qcm94eSAwLjIuOV0KISBDaGVja3N1bTogbUlTaEp0dkI0VVVhWjdtcyswZm00ZwohIEV4cGlyZXM6IDZoCiEgVGl0bGU6IEdGV0xpc3Q0TEwKISBHRldMaXN0IHdpdGggRVZFUllUSElORyBpbmNsdWRlZAohIExhc3QgTW9kaWZpZWQ6IE1vbiwgMDQgTm92IDIwMTkgMTE6MjE6NDcgLTA1MDAKIQohIEhvbWVQYWdlOiBodHRwczovL2dpdGh1Yi5jb20vZ2Z3bGlzdC9nZndsaXN0CiEgTGljZW5zZTogaHR0cHM6Ly93d3cuZ251Lm9yZy9saWNlbnNlcy9vbGQtbGljZW5zZXMvbGdwbC0yLjEudHh0CiEKISBHRldMaXN0IGlzIHVubGlrZWx5IHRvIGZ1bGx5IGNvbXByaXNlIHRoZSByZWFsCiEgcnVsZXMgYmVpbmcgZGVwbG95ZWQgaW5zaWRlIEdGVyBzeXN0ZW0uIFdlIHRyeQohIG91ciBiZXN0IHRvIGtlZXAgdGhlIGxpc3QgdXAgdG8gZGF0ZS4gUGxlYXNlCiEgY29udGFjdCB1cyByZWdhcmRpbmcgVVJMIHN1Ym1pc3Npb24gLyByZW1vdmFsLAohIG9yIHN1Z2dlc3Rpb24gLyBlbmhhbmNlbWVudCBhdCBpc3N1ZSB0cmFja2VyOgohIGh0dHBzOi8vZ2l0aHViLmNvbS9nZndsaXN0L2dmd2xpc3QvaXNzdWVzLy4KCiEtLS0tLS0tLS1HbG9iYWwtLS0tLS0tLS0KIUdlbmVyYWwKLmR1Y2tkdWNrZ28uY29tLwoubWVkaXVtLmNvbS8KLnYycmF5LmNvbS8KLnNoYWRvd3NvY2tzLm9yZy8KLmRlYnVnLmNvbS8KLndvcmRwcmVzcy5jb20vCi5weXRob24uY29tLwouZGFtYS5sdS8KLnJlcGwuaXQvCi5jbG91ZGZyb250Lm5ldC8KLmltYXppbmcuY29tLwouZGlzcXVzLmNvbS8KLnlhaG9vLmNvbS8KLmxpbWJvcHJvLnh5ei8KCiFBQkJZWQouZmluZXJlYWRlci5jbG91ZC8KLmZpbmVyZWFkZXJvbmxpbmUuY29tLwouYWJieXkuY29tLwoub25lc2lnbmFsLmNvbS8KCiFBbWF6b24KLmFtYXpvbmxpZ2h0c2FpbC5jb20vCi5hd3NzdGF0aWMuY29tLwouYW1hem9ud2Vic2VydmljZXNpbmMudHQub210cmRjLm5ldC8KLmFtYXpvbi5jby5qcC8KLmFtYXpvbi5jb20vCi5hbWF6b25hd3MuY29tLwoKIUJhbmR3YWdvbgouYndoMS5uZXQvCi5iYW5kd2Fnb25ob3N0LmNvbS8KLmp1c3RteXNvY2tzLm5ldC8KLmp1c3RteXNvY2tzMS5uZXQvCi5qdXN0bXlzb2NrczIubmV0LyoKICAKIUNydWNpYWwKLmNydWNpYWwuY29tLwoub3JkZXJpbmdtZW1vcnkuY29tLwoKIURhdW0gUG90cGxheWVyCi5kYXVtLm5ldC8KLmRhdW1jZG4ubmV0LwoKIURyb3Bib3gKLmRyb3Bib3guY29tLwouZHJvcGJveGNhcHRjaGEuY29tLwoKIUZhY2Vib29rCi5mYWNlYm9vay5jb20vCi5mYWNlYm9vay5uZXQvCiAgCiFGYXN0U3RvbmUKLmZhc3RzdG9uZS5vcmcvCi5mYXN0c3RvbmVzb2Z0Lm5ldC8KLmltYWdpbmd0aXBzLmNvbS8KCiFHaXRodWIKLmdpdGh1Yi5jb20vCi5naXRodWIuaW8vCi5naXRodWJhcHAuY29tLwouZ2l0aHViYXNzZXRzLmNvbS8KLmdpdGh1YnVzZXJjb250ZW50LmNvbS8KCiFHb29nbGUKLmd2dDAuY29tLwouZ3Z0MS5jb20vCi5ndnQzLmNvbS8KLmdvb2dsZS5jb20vCi5nb29nbGVhcGlzLmNvbS8KLmdvb2dsZW1haWwuY29tLwouZ29vZ2xldXNlcmNvbnRlbnQuY29tLwouZ21vZHVsZXMuY29tLwouZ21haWwuY29tLwouZ3N0YXRpYy5jb20vCi5yZWNhcHRjaGEubmV0LwouYW1wcHJvamVjdC5vcmcvCgohSmF2Ci5qYXZsaWJyYXJ5LmNvbS8KLnNpczAwMS5jb20vCiAgIyMjQVZNT08KLmF2bWFzay5jb20vCi5hdm1vby5jb20vCi50ZWxsbWUucHcvCi5kbW0uY29tLwoubmV0Y2RuLnNwYWNlLwouYXZzb3guYXNpYS8KICAjIyNKYXZidXMKLmphdmJ1cy5jb20vCi5qYXZidXMyMi5jb20vCi5qYXZidXMuem9uZS8KLmphdmNkbi5wdy8KLmNkbmJ1cy5jbG91ZC8KLmJ1c2phdi5iaWQvCi5kbW0uY28uanAvCiAgIyMjVG9ycmVudAouc3VrZWJlaS5ueWFhLnNpLwouYnRzcHJlYWQuY29tLwoudG9ycmVudGtpdHR5LnR2LwoKIU1lZ2EKLm1lZ2EubnovCi5tZWdhLmNvLm56LwogIAohT25lRHJpdmUKLm9uZWRyaXZlLmxpdmUuY29tLwoKIVBpeGl2Ci5waXhpdi5uZXQvCi5weGltZy5uZXQvCi5waXhpdmlzaW9uLm5ldC8KLnBpeGl2LWJ1bmdlaS5uZXQvCgogIVBvcm5odWIKLnBobmNkbi5jb20vCi5wb3JuaHViLmNvbS8KLnBvcm5odWJwcmVtaXVtLmNvbS8KCiFTaG9ydCBVUkwKLnRpbnl1cmwuY29tLwouYml0Lmx5LwoKIVRhbXBlcm1vbmtleQoudGFtcGVybW9ua2V5Lm5ldC8KLmdyZWFzeWZvcmsub3JnLwouc2xlYXp5Zm9yay5vcmcvCgohVGVsZWdyYW0KLnQubWUvCi50ZGVza3RvcC5jb20vCi50ZWxlZ3JhLnBoLwoudGVsZWdyYW0ubWUvCi50ZWxlZ3JhbS5vcmcvCgohVHdpdHRlcgoudHdpdHRlci5jb20vCi50LmNvLwoudHdpbWcuY28vCi50d2ltZy5jb20vCi50d2l0cGljLmNvbS8KCiFZYW5kZXgKLnlhbmRleC5ydS8KLnlhbmRleC5jb20vCi55YW5kZXgubmV0LwoKCiFZb3VUdWJlCi55b3V0dWJlLmNvbS8KLnl0aW1nLmNvbS8KLnlvdXR1LmJlLwoueXQuYmUvCi5nb29nbGV2aWRlby5jb20vCgohLS0tLS0tLS0tQ2hpbmEtLS0tLS0tLS0KIUdlbmVyYWwKQEAqLmRpZ2ljZXJ0LmNvbS8qCkBAKi5kaWdpdGFsY2VydHZhbGlkYXRpb24uY29tLyoKQEAqLnNlY3RpZ28uY29tLyoKQEAqLmxldHNlbmNyeXB0Lm9yZy8qCkBAKi5yZW1vdmUuYmcvKgpAQCouaWZ0dHQuY29tLyoKQEAqLnR3ZG93bi5uZXQvKgpAQCoucG9seWZpbGwuaW8vKgpAQCouYm9vdHN0cmFwY2RuLmNvbS8qCkBAKi5yYXZlbmpzLmNvbS8qCgohMVBhc3N3b3JkCkBAKi4xcGFzc3dvcmQuY29tLyoKQEAqLjFwYXNzd29yZC5ldS8qCkBAKi4xcGFzc3dvcmQuY2EvKgpAQCouMXBhc3N3b3JkdXNlcmNvbnRlbnQuY29tLyoKCiFBZEd1YXJkCkBAKi5hZGd1YXJkLm9yZy8qCkBAKi5hZGd1YXJkLmNvbS8qCkBAKi5maWx0ZXJzLmFkdGlkeS5vcmcvKgoKIUFwcGxlCkBAKi5hYXBsaW1nLmNvbS8qCkBAKi5hcHBsZS5jby8qCkBAKi5hcHBsZS5jb20vKgpAQCouYXBwbGUtY2xvdWRraXQuY29tLyoKQEAqLmFwcHN0b3JlLmNvbS8qCkBAKi5jZG4tYXBwbGUuY29tLyoKQEAqLmNyYXNobHl0aWNzLmNvbS8qCkBAKi5pY2xvdWQuY29tLyoKQEAqLmljbG91ZC1jb250ZW50LmNvbS8qCkBAKi5tZS5jb20vKgpAQCoubXpzdGF0aWMuY29tLyoKQEAqLnd3dy1jZG4uaWNsb3VkLmNvbS5ha2FkbnMubmV0LyoKQEAqLndlYXRoZXIuY29tLyoKCiFBa2FtYWkKQEAqLmFrYWRucy5uZXQvKgpAQCouYWthbWFpLm5ldC8qCkBAKi5ha2FtYWllZGdlLm5ldC8qCkBAKi5ha2FtYWloZC5uZXQvKgpAQCouYWthbWFpc3RyZWFtLm5ldC8qCkBAKi5ha2FtYWl6ZWQubmV0LyoKCiFBbGliYWJhCkBAKi5hbGliYWJhLmNvbS8qCkBAKi5hbGljZG4uY29tLyoKQEAqLmFsaWt1bmx1bi5jb20vKgpAQCouYWxpcGF5LmNvbS8qCkBAKi50bWFsbC5oay8qCgohQ0ROCkBAKi5jY2dzbGIuY29tLyoKQEAqLmNjZ3NsYi5uZXQvKgpAQCouY2hpbmFuZXRjZW50ZXIuY29tLyoKQEAqLm1laXhpbmNkbi5jb20vKgpAQCoub3VyZHZzLmNvbS8qCkBAKi5zdGF0aWNkbi5uZXQvKgpAQCoud2FuZ3N1LmNvbS8qCgohQ2xvdWRTTVMKQEAqLnotc21zLmNvbS8qCkBAKi5tYXRlcmlhbHRvb2xzLmNvbS8qCgohZHJhdy5pbwpAQCouZHJhdy5pby8qCkBAKi5hcGkudHJlbGxvLmNvbS8qCkBAKi5jb2RlLmpxdWVyeS5jb20vKgpAQCouanMucHVzaGVyLmNvbS8qCgohZUJheQpAQCouZWJheS5jb20vKgpAQCouZWJheWltZy5jb20vKgoKIUZvcnVtICYgQmxvZwpAQCouaG9zdGxvYy5jb20vKgpAQCouanVzdG15c29ja3MuaW4vKgpAQCouYXBwaW5uLmNvbS8qCgohRnJlZSBEb3dubG9hZCBNYW5hZ2VyCkBAKi5mcmVlZG93bmxvYWRtYW5hZ2VyLm9yZy8qCkBAKi51bml0ZS5jb20vKgoKIUhUVFBTIEV2ZXJ5d2hlcmUKQEAqLmVmZi5vcmcvKgpAQCouaHR0cHMtcnVsZXNldHMub3JnLyoKCiFJbWFnZSBIb3N0aW5nCkBAKi5pbWdjaHIuY29tLyoKQEAqLmF4MXguY29tLyoKQEAqLnBpeGhvc3QudG8vKgoKIUlQIFF1ZXJ5CkBAKi5pcGlwLm5ldC8qCkBAKi5pcC5sYS8qCkBAKi5pcC1jZG4uY29tLyoKQEAqLmlwdjYtdGVzdC5jb20vKgpAQCoudGVzdC1pcHY2LmNvbS8qCkBAKi53aGF0aXNteWlwLmNvbS8qCgohTWljcm9zb2Z0CkBAKi5taWNyb3NvZnQuY29tLyoKQEAqLm1pY3Jvc29mdG9ubGluZS5jb20vKgpAQCoubWljcm9zb2Z0c3RvcmUuY29tLyoKQEAqLm1pY3Jvc29mdHRyYW5zbGF0b3IuY29tLyoKQEAqLm1pY3Jvc29mdGVkZ2UuY29tLyoKQEAqLm1pY3Jvc29mdGVkZ2VpbnNpZGVyLmNvbS8qCkBAKi5iaW5nLmNvbS8qCkBAKi5tc2VjbmQubmV0LyoKQEAqLm1zb2Nkbi5jb20vKgpAQCoubXNhdXRoLmNvbS8qCkBAKi5tc2F1dGgubmV0LyoKQEAqLm1zZWRnZS5uZXQvKgpAQCoubGl2ZS5jb20vKgpAQCoubGl2ZS5uZXQvKgpAQCoucy1taWNyb3NvZnQuY29tLyoKQEAqLnZpc3VhbHN0dWRpby5jb20vKgpAQCoud2luZG93cy5jb20vKgpAQCoud2luZG93c3VwZGF0ZS5jb20vKgpAQCoub2ZmaWNlY2RuLW1pY3Jvc29mdC1jb20uYWthbWFpemVkLm5ldC8qCkBAKi5nYXRlLmhvY2tleWFwcC5uZXQvKgoKIU1vemlsbGEKQEAqLm1vemlsbGEuY29tLyoKQEAqLm1vemlsbGEub3JnLyoKQEAqLm1vemlsbGEubmV0LyoKQEAqLmZpcmVmb3guY29tLyoKCiFOb3Rpb24KQEAqLm5vdGlvbi5zby8qCkBAKi5pbnRlcmNvbS5pby8qCkBAKi5pbnRlcmNvbWNkbi5jb20vKgoKIU9mZmljZQpAQCoub2ZmaWNlLmNvbS8qCkBAKi5vZmZpY2UubmV0LyoKQEAqLm9mZmljZTM2NS5jb20vKgoKIU9uZU5vdGUKQEAqLm9uZW5vdGUuY29tLyoKQEAqLm9uZW5vdGUubmV0LyoKCiFPdXRsb29rCkBAKi5ob3RtYWlsLmNvbS8qCkBAKi5vdXRsb29rLmNvbS8qCgohT25lRHJpdmUKQEAqLjFkcnYuY29tLyoKQEAqLjFkcnYubXMvKgpAQCouYmxvYi5jb3JlLndpbmRvd3MubmV0LyoKQEAqLmxpdmVmaWxlc3RvcmUuY29tLyoKQEAqLm9uZWRyaXZlLmNvbS8qCkBAKi5zdG9yYWdlLmxpdmUuY29tLyoKQEAqLnN0b3JhZ2UubXNuLmNvbS8qCkBAKi5vbmVjbGllbnQuc2Z4Lm1zLyoKQEAqLnN2Yy5tcy8qCkBAKi5tb2JpbGUucGlwZS5hcmlhLm1pY3Jvc29mdC5jb20vKgpAQCoub2RjLm9mZmljZWFwcHMubGl2ZS5jb20vKgpAQCouc2t5YXBpLmxpdmUubmV0LyoKQEAqLnNreWFwaS5wb2xpY2llcy5saXZlLm5ldC8qCkBAKi5hejcyNTE3NS52by5tc2VjbmQubmV0LyoKQEAqLnNoZWxscHJvZC5tc29jZG4uY29tLyoKQEAqLmNvbmZpZy5lZGdlLnNreXBlLmNvbS8qCgohUGF5UGFsCkBAKi5wYXlwYWwuY29tLyoKQEAqLnBheXBhbG9iamVjdHMuY29tLyoKCiFQVApAQCouYXdlc29tZS1oZC5tZS8qCkBAKi5icm9hZGNhc3RoZS5uZXQvKgpAQCouY2hkYml0cy5jby8qCkBAKi5jbGFzc2l4LXVubGltaXRlZC5jby51ay8qCkBAKi5lbXBvcm5pdW0ubWUvKgpAQCouZ2F6ZWxsZWdhbWVzLm5ldC8qCkBAKi5oZGNoaW5hLm9yZy8qCkBAKi5oZHNreS5tZS8qCkBAKi5qcG9wc3VraS5ldS8qCkBAKi5rZWVwZnJkcy5jb20vKgpAQCoubS10ZWFtLmNjLyoKQEAqLm5hbnlhbmdwdC5jb20vKgpAQCoubmNvcmUuY2MvKgpAQCoub3Blbi5jZC8qCkBAKi5vdXJiaXRzLmNsdWIvKgpAQCoucGFzc3RoZXBvcGNvcm4ubWUvKgpAQCoucHJpdmF0ZWhkLnRvLyoKQEAqLnJlZGFjdGVkLmNoLyoKQEAqLnNwcmluZ3N1bmRheS5uZXQvKgpAQCoudGp1cHQub3JnLyoKQEAqLnRvdGhlZ2xvcnkuaW0vKgoKIVFSIENvZGUgR2VuZXJhdG9yCkBAKi5nb3FyLm1lLyoKQEAqLnFyc2VydmVyLmNvbS8qCgohUXVhbnR1bXVsdCBHZW9MaXRlMiBVcGRhdGUKQEAqLm1heG1pbmQuY29tLyoKQEAqLmNyb3NzdXRpbGl0eS5jb20vKgoKIVJhemVyCkBAKi5yYXplci5jb20vKgpAQCoucmF6ZXJhcGkuY29tLyoKQEAqLnJhemVyem9uZS5jb20vKgpAQCoucmF6ZXJzeW5hcHNlLmNvbS8qCkBAKi5yYXplcnN1cHBvcnQuY29tLyoKCiFSQlNvZnQgKFJpZ2h0IENsaWNrIEVuaGFuY2VyKQpAQCoucmJzb2Z0Lm9yZy8qCkBAKi5yYnNvZnQudXNlcnZvaWNlLmNvbS8qCgohUmVhZGRsZQpAQCoucmVhZGRsZS5jb20vKgpAQCouZG9jc3RyYW5zZmVyLmNvbS8qCkBAKi5wZGZleHBlcnQuY29tLyoKCiFTaGFyZXBvaW50CkBAKi5zaGFyZXBvaW50LmNvbS8qCkBAKi5zaGFyZXBvaW50LWRmLmNvbS8qCkBAKi5zaGFyZXBvaW50b25saW5lLmNvbS8qCgohU2t5cGUKQEAqLnNreXBlLmNvbS8qCkBAKi5za3lwZWFzc2V0cy5jb20vKgpAQCoucy1tc2VkZ2UubmV0LyoKQEAqLmluLmFwcGNlbnRlci5tcy8qCkBAKi50cm91dGVyLWVhc2lhLWEuY2xvdWRhcHAubmV0LyoKCiFTb2Z0d2FyZSAmIEhhcmR3YXJlCkBAKi5hZG9iZS5jb20vKgpAQCouYW1kLmNvbS8qCkBAKi5qYXZhLmNvbS8qCkBAKi5udmlkaWEuY29tLyoKQEAqLm9yYWNsZS5jb20vKgpAQCoudm13YXJlLmNvbS8qCkBAKi5haXJkcm9pZC5jb20vKgpAQCoucml6b25lc29mdC5jb20vKgpAQCouYmFuZGlzb2Z0LmNvbS8qCkBAKi5jcnlwdG9tYXRvci5vcmcvKgpAQCouZmluZXByaW50LmNvbS8qCkBAKi5kcm9waXRwcm9qZWN0LmNvbS8qCkBAKi5zb3VyY2Vmb3JnZS5uZXQvKgpAQCouc291cmNlZm9yZ2UuaW8vKgpAQCoudGVhbXZpZXdlci5jb20vKgpAQCoubm90ZXBhZC1wbHVzLXBsdXMub3JnLyoKQEAqLmludGVybmV0ZG93bmxvYWRtYW5hZ2VyLmNvbS8qCkBAKi5kZW40Yi5jb20vKgpAQCoubXl0aGljc29mdC5jb20vKgoKIVNwZWVkdGVzdCBieSBPb2tsYQpAQCouc3BlZWR0ZXN0Lm5ldC8qCkBAKi5vb2tsYXNlcnZlci5uZXQvKgpAQCouY2Ruc3QubmV0LyoKCiFXQVJQKyAxLjEuMS4xCkBAKi4xLjEuMS4xLyoKCiFXZXN0ZXJuIERpZ2l0YWwKQEAqLndkLmNvbS8qCkBAKi53ZGMuY29tLyoKQEAqLm15Y2xvdWQuY29tLyoKQEAqLndlc3Rlcm5kaWdpdGFsLmNvbS8qCiEjIyMjIyMjIyMjIyMjIyMjV2hpdGVsaXN0IEVuZCMjIyMjIyMjIyMjIyMjIyMjIwohLS0tLS0tLS0tLS0tLS0tLS0tLS0tRU9GLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0=
+// Generated by gfwlist2pac in precise mode
+// https://github.com/clowwindy/gfwlist2pac
+
+var proxy = "__PROXY__";
+
+var rules = [
+  ".duckduckgo.com/",
+  ".medium.com/",
+  ".v2ray.com/",
+  ".shadowsocks.org/",
+  ".debug.com/",
+  ".wordpress.com/",
+  ".python.com/",
+  ".dama.lu/",
+  ".repl.it/",
+  ".cloudfront.net/",
+  ".imazing.com/",
+  ".disqus.com/",
+  ".yahoo.com/",
+  ".limbopro.xyz/",
+  ".finereader.cloud/",
+  ".finereaderonline.com/",
+  ".abbyy.com/",
+  ".onesignal.com/",
+  ".amazonlightsail.com/",
+  ".awsstatic.com/",
+  ".amazonwebservicesinc.tt.omtrdc.net/",
+  ".amazon.co.jp/",
+  ".amazon.com/",
+  ".amazonaws.com/",
+  ".bwh1.net/",
+  ".bandwagonhost.com/",
+  ".justmysocks.net/",
+  ".justmysocks1.net/",
+  ".justmysocks2.net/*",
+  ".crucial.com/",
+  ".orderingmemory.com/",
+  ".daum.net/",
+  ".daumcdn.net/",
+  ".dropbox.com/",
+  ".dropboxcaptcha.com/",
+  ".facebook.com/",
+  ".facebook.net/",
+  ".faststone.org/",
+  ".faststonesoft.net/",
+  ".imagingtips.com/",
+  ".github.com/",
+  ".github.io/",
+  ".githubapp.com/",
+  ".githubassets.com/",
+  ".githubusercontent.com/",
+  ".gvt0.com/",
+  ".gvt1.com/",
+  ".gvt3.com/",
+  ".google.com/",
+  ".googleapis.com/",
+  ".googlemail.com/",
+  ".googleusercontent.com/",
+  ".gmodules.com/",
+  ".gmail.com/",
+  ".gstatic.com/",
+  ".recaptcha.net/",
+  ".ampproject.org/",
+  ".javlibrary.com/",
+  ".sis001.com/",
+  "  ###AVMOO",
+  ".avmask.com/",
+  ".avmoo.com/",
+  ".tellme.pw/",
+  ".dmm.com/",
+  ".netcdn.space/",
+  ".avsox.asia/",
+  "  ###Javbus",
+  ".javbus.com/",
+  ".javbus22.com/",
+  ".javbus.zone/",
+  ".javcdn.pw/",
+  ".cdnbus.cloud/",
+  ".busjav.bid/",
+  ".dmm.co.jp/",
+  "  ###Torrent",
+  ".sukebei.nyaa.si/",
+  ".btspread.com/",
+  ".torrentkitty.tv/",
+  ".mega.nz/",
+  ".mega.co.nz/",
+  ".onedrive.live.com/",
+  ".pixiv.net/",
+  ".pximg.net/",
+  ".pixivision.net/",
+  ".pixiv-bungei.net/",
+  " !Pornhub",
+  ".phncdn.com/",
+  ".pornhub.com/",
+  ".pornhubpremium.com/",
+  ".tinyurl.com/",
+  ".bit.ly/",
+  ".tampermonkey.net/",
+  ".greasyfork.org/",
+  ".sleazyfork.org/",
+  ".t.me/",
+  ".tdesktop.com/",
+  ".telegra.ph/",
+  ".telegram.me/",
+  ".telegram.org/",
+  ".twitter.com/",
+  ".t.co/",
+  ".twimg.co/",
+  ".twimg.com/",
+  ".twitpic.com/",
+  ".yandex.ru/",
+  ".yandex.com/",
+  ".yandex.net/",
+  ".youtube.com/",
+  ".ytimg.com/",
+  ".youtu.be/",
+  ".yt.be/",
+  ".googlevideo.com/",
+  "@@*.digicert.com/*",
+  "@@*.digitalcertvalidation.com/*",
+  "@@*.sectigo.com/*",
+  "@@*.letsencrypt.org/*",
+  "@@*.remove.bg/*",
+  "@@*.ifttt.com/*",
+  "@@*.twdown.net/*",
+  "@@*.polyfill.io/*",
+  "@@*.bootstrapcdn.com/*",
+  "@@*.ravenjs.com/*",
+  "@@*.1password.com/*",
+  "@@*.1password.eu/*",
+  "@@*.1password.ca/*",
+  "@@*.1passwordusercontent.com/*",
+  "@@*.adguard.org/*",
+  "@@*.adguard.com/*",
+  "@@*.filters.adtidy.org/*",
+  "@@*.aaplimg.com/*",
+  "@@*.apple.co/*",
+  "@@*.apple.com/*",
+  "@@*.apple-cloudkit.com/*",
+  "@@*.appstore.com/*",
+  "@@*.cdn-apple.com/*",
+  "@@*.crashlytics.com/*",
+  "@@*.icloud.com/*",
+  "@@*.icloud-content.com/*",
+  "@@*.me.com/*",
+  "@@*.mzstatic.com/*",
+  "@@*.www-cdn.icloud.com.akadns.net/*",
+  "@@*.weather.com/*",
+  "@@*.akadns.net/*",
+  "@@*.akamai.net/*",
+  "@@*.akamaiedge.net/*",
+  "@@*.akamaihd.net/*",
+  "@@*.akamaistream.net/*",
+  "@@*.akamaized.net/*",
+  "@@*.alibaba.com/*",
+  "@@*.alicdn.com/*",
+  "@@*.alikunlun.com/*",
+  "@@*.alipay.com/*",
+  "@@*.tmall.hk/*",
+  "@@*.ccgslb.com/*",
+  "@@*.ccgslb.net/*",
+  "@@*.chinanetcenter.com/*",
+  "@@*.meixincdn.com/*",
+  "@@*.ourdvs.com/*",
+  "@@*.staticdn.net/*",
+  "@@*.wangsu.com/*",
+  "@@*.z-sms.com/*",
+  "@@*.materialtools.com/*",
+  "@@*.draw.io/*",
+  "@@*.api.trello.com/*",
+  "@@*.code.jquery.com/*",
+  "@@*.js.pusher.com/*",
+  "@@*.ebay.com/*",
+  "@@*.ebayimg.com/*",
+  "@@*.hostloc.com/*",
+  "@@*.justmysocks.in/*",
+  "@@*.appinn.com/*",
+  "@@*.freedownloadmanager.org/*",
+  "@@*.unite.com/*",
+  "@@*.eff.org/*",
+  "@@*.https-rulesets.org/*",
+  "@@*.imgchr.com/*",
+  "@@*.ax1x.com/*",
+  "@@*.pixhost.to/*",
+  "@@*.ipip.net/*",
+  "@@*.ip.la/*",
+  "@@*.ip-cdn.com/*",
+  "@@*.ipv6-test.com/*",
+  "@@*.test-ipv6.com/*",
+  "@@*.whatismyip.com/*",
+  "@@*.microsoft.com/*",
+  "@@*.microsoftonline.com/*",
+  "@@*.microsoftstore.com/*",
+  "@@*.microsofttranslator.com/*",
+  "@@*.microsoftedge.com/*",
+  "@@*.microsoftedgeinsider.com/*",
+  "@@*.bing.com/*",
+  "@@*.msecnd.net/*",
+  "@@*.msocdn.com/*",
+  "@@*.msauth.com/*",
+  "@@*.msauth.net/*",
+  "@@*.msedge.net/*",
+  "@@*.live.com/*",
+  "@@*.live.net/*",
+  "@@*.s-microsoft.com/*",
+  "@@*.visualstudio.com/*",
+  "@@*.windows.com/*",
+  "@@*.windowsupdate.com/*",
+  "@@*.officecdn-microsoft-com.akamaized.net/*",
+  "@@*.gate.hockeyapp.net/*",
+  "@@*.mozilla.com/*",
+  "@@*.mozilla.org/*",
+  "@@*.mozilla.net/*",
+  "@@*.firefox.com/*",
+  "@@*.notion.so/*",
+  "@@*.intercom.io/*",
+  "@@*.intercomcdn.com/*",
+  "@@*.office.com/*",
+  "@@*.office.net/*",
+  "@@*.office365.com/*",
+  "@@*.onenote.com/*",
+  "@@*.onenote.net/*",
+  "@@*.hotmail.com/*",
+  "@@*.outlook.com/*",
+  "@@*.1drv.com/*",
+  "@@*.1drv.ms/*",
+  "@@*.blob.core.windows.net/*",
+  "@@*.livefilestore.com/*",
+  "@@*.onedrive.com/*",
+  "@@*.storage.live.com/*",
+  "@@*.storage.msn.com/*",
+  "@@*.oneclient.sfx.ms/*",
+  "@@*.svc.ms/*",
+  "@@*.mobile.pipe.aria.microsoft.com/*",
+  "@@*.odc.officeapps.live.com/*",
+  "@@*.skyapi.live.net/*",
+  "@@*.skyapi.policies.live.net/*",
+  "@@*.az725175.vo.msecnd.net/*",
+  "@@*.shellprod.msocdn.com/*",
+  "@@*.config.edge.skype.com/*",
+  "@@*.paypal.com/*",
+  "@@*.paypalobjects.com/*",
+  "@@*.awesome-hd.me/*",
+  "@@*.broadcasthe.net/*",
+  "@@*.chdbits.co/*",
+  "@@*.classix-unlimited.co.uk/*",
+  "@@*.empornium.me/*",
+  "@@*.gazellegames.net/*",
+  "@@*.hdchina.org/*",
+  "@@*.hdsky.me/*",
+  "@@*.jpopsuki.eu/*",
+  "@@*.keepfrds.com/*",
+  "@@*.m-team.cc/*",
+  "@@*.nanyangpt.com/*",
+  "@@*.ncore.cc/*",
+  "@@*.open.cd/*",
+  "@@*.ourbits.club/*",
+  "@@*.passthepopcorn.me/*",
+  "@@*.privatehd.to/*",
+  "@@*.redacted.ch/*",
+  "@@*.springsunday.net/*",
+  "@@*.tjupt.org/*",
+  "@@*.totheglory.im/*",
+  "@@*.goqr.me/*",
+  "@@*.qrserver.com/*",
+  "@@*.maxmind.com/*",
+  "@@*.crossutility.com/*",
+  "@@*.razer.com/*",
+  "@@*.razerapi.com/*",
+  "@@*.razerzone.com/*",
+  "@@*.razersynapse.com/*",
+  "@@*.razersupport.com/*",
+  "@@*.rbsoft.org/*",
+  "@@*.rbsoft.uservoice.com/*",
+  "@@*.readdle.com/*",
+  "@@*.docstransfer.com/*",
+  "@@*.pdfexpert.com/*",
+  "@@*.sharepoint.com/*",
+  "@@*.sharepoint-df.com/*",
+  "@@*.sharepointonline.com/*",
+  "@@*.skype.com/*",
+  "@@*.skypeassets.com/*",
+  "@@*.s-msedge.net/*",
+  "@@*.in.appcenter.ms/*",
+  "@@*.trouter-easia-a.cloudapp.net/*",
+  "@@*.adobe.com/*",
+  "@@*.amd.com/*",
+  "@@*.java.com/*",
+  "@@*.nvidia.com/*",
+  "@@*.oracle.com/*",
+  "@@*.vmware.com/*",
+  "@@*.airdroid.com/*",
+  "@@*.rizonesoft.com/*",
+  "@@*.bandisoft.com/*",
+  "@@*.cryptomator.org/*",
+  "@@*.fineprint.com/*",
+  "@@*.dropitproject.com/*",
+  "@@*.sourceforge.net/*",
+  "@@*.sourceforge.io/*",
+  "@@*.teamviewer.com/*",
+  "@@*.notepad-plus-plus.org/*",
+  "@@*.internetdownloadmanager.com/*",
+  "@@*.den4b.com/*",
+  "@@*.mythicsoft.com/*",
+  "@@*.speedtest.net/*",
+  "@@*.ooklaserver.net/*",
+  "@@*.cdnst.net/*",
+  "@@*.1.1.1.1/*",
+  "@@*.wd.com/*",
+  "@@*.wdc.com/*",
+  "@@*.mycloud.com/*",
+  "@@*.westerndigital.com/*"
+];
+
+/*
+* This file is part of Adblock Plus <http://adblockplus.org/>,
+* Copyright (C) 2006-2014 Eyeo GmbH
+*
+* Adblock Plus is free software: you can redistribute it and/or modify
+* it under the terms of the GNU General Public License version 3 as
+* published by the Free Software Foundation.
+*
+* Adblock Plus is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* GNU General Public License for more details.
+*
+* You should have received a copy of the GNU General Public License
+* along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+function createDict()
+{
+    var result = {};
+    result.__proto__ = null;
+    return result;
+}
+
+function getOwnPropertyDescriptor(obj, key)
+{
+    if (obj.hasOwnProperty(key))
+    {
+        return obj[key];
+    }
+    return null;
+}
+
+function extend(subclass, superclass, definition)
+{
+    if (Object.__proto__)
+    {
+        definition.__proto__ = superclass.prototype;
+        subclass.prototype = definition;
+    }
+    else
+    {
+        var tmpclass = function(){}, ret;
+        tmpclass.prototype = superclass.prototype;
+        subclass.prototype = new tmpclass();
+        subclass.prototype.constructor = superclass;
+        for (var i in definition)
+        {
+            if (definition.hasOwnProperty(i))
+            {
+                subclass.prototype[i] = definition[i];
+            }
+        }
+    }
+}
+
+function Filter(text)
+{
+    this.text = text;
+    this.subscriptions = [];
+}
+Filter.prototype = {
+    text: null,
+    subscriptions: null,
+    toString: function()
+    {
+        return this.text;
+    }
+};
+Filter.knownFilters = createDict();
+Filter.elemhideRegExp = /^([^\/\*\|\@"!]*?)#(\@)?(?:([\w\-]+|\*)((?:\([\w\-]+(?:[$^*]?=[^\(\)"]*)?\))*)|#([^{}]+))$/;
+Filter.regexpRegExp = /^(@@)?\/.*\/(?:\$~?[\w\-]+(?:=[^,\s]+)?(?:,~?[\w\-]+(?:=[^,\s]+)?)*)?$/;
+Filter.optionsRegExp = /\$(~?[\w\-]+(?:=[^,\s]+)?(?:,~?[\w\-]+(?:=[^,\s]+)?)*)$/;
+Filter.fromText = function(text)
+{
+    if (text in Filter.knownFilters)
+    {
+        return Filter.knownFilters[text];
+    }
+    var ret;
+    if (text.charAt(0) == "!")
+    {
+        ret = new CommentFilter(text);
+    }
+    else
+    {
+        ret = RegExpFilter.fromText(text);
+    }
+    Filter.knownFilters[ret.text] = ret;
+    return ret;
+};
+
+function InvalidFilter(text, reason)
+{
+    Filter.call(this, text);
+    this.reason = reason;
+}
+extend(InvalidFilter, Filter, {
+    reason: null
+});
+
+function CommentFilter(text)
+{
+    Filter.call(this, text);
+}
+extend(CommentFilter, Filter, {
+});
+
+function ActiveFilter(text, domains)
+{
+    Filter.call(this, text);
+    this.domainSource = domains;
+}
+extend(ActiveFilter, Filter, {
+    domainSource: null,
+    domainSeparator: null,
+    ignoreTrailingDot: true,
+    domainSourceIsUpperCase: false,
+    getDomains: function()
+    {
+        var prop = getOwnPropertyDescriptor(this, "domains");
+        if (prop)
+        {
+            return prop;
+        }
+        var domains = null;
+        if (this.domainSource)
+        {
+            var source = this.domainSource;
+            if (!this.domainSourceIsUpperCase)
+            {
+                source = source.toUpperCase();
+            }
+            var list = source.split(this.domainSeparator);
+            if (list.length == 1 && (list[0]).charAt(0) != "~")
+            {
+                domains = createDict();
+                domains[""] = false;
+                if (this.ignoreTrailingDot)
+                {
+                    list[0] = list[0].replace(/\.+$/, "");
+                }
+                domains[list[0]] = true;
+            }
+            else
+            {
+                var hasIncludes = false;
+                for (var i = 0; i < list.length; i++)
+                {
+                    var domain = list[i];
+                    if (this.ignoreTrailingDot)
+                    {
+                        domain = domain.replace(/\.+$/, "");
+                    }
+                    if (domain == "")
+                    {
+                        continue;
+                    }
+                    var include;
+                    if (domain.charAt(0) == "~")
+                    {
+                        include = false;
+                        domain = domain.substr(1);
+                    }
+                    else
+                    {
+                        include = true;
+                        hasIncludes = true;
+                    }
+                    if (!domains)
+                    {
+                        domains = createDict();
+                    }
+                    domains[domain] = include;
+                }
+                domains[""] = !hasIncludes;
+            }
+            this.domainSource = null;
+        }
+        return this.domains;
+    },
+    sitekeys: null,
+    isActiveOnDomain: function(docDomain, sitekey)
+    {
+        if (this.getSitekeys() && (!sitekey || this.getSitekeys().indexOf(sitekey.toUpperCase()) < 0))
+        {
+            return false;
+        }
+        if (!this.getDomains())
+        {
+            return true;
+        }
+        if (!docDomain)
+        {
+            return this.getDomains()[""];
+        }
+        if (this.ignoreTrailingDot)
+        {
+            docDomain = docDomain.replace(/\.+$/, "");
+        }
+        docDomain = docDomain.toUpperCase();
+        while (true)
+        {
+            if (docDomain in this.getDomains())
+            {
+                return this.domains[docDomain];
+            }
+            var nextDot = docDomain.indexOf(".");
+            if (nextDot < 0)
+            {
+                break;
+            }
+            docDomain = docDomain.substr(nextDot + 1);
+        }
+        return this.domains[""];
+    },
+    isActiveOnlyOnDomain: function(docDomain)
+    {
+        if (!docDomain || !this.getDomains() || this.getDomains()[""])
+        {
+            return false;
+        }
+        if (this.ignoreTrailingDot)
+        {
+            docDomain = docDomain.replace(/\.+$/, "");
+        }
+        docDomain = docDomain.toUpperCase();
+        for (var domain in this.getDomains())
+        {
+            if (this.domains[domain] && domain != docDomain && (domain.length <= docDomain.length || domain.indexOf("." + docDomain) != domain.length - docDomain.length - 1))
+            {
+                return false;
+            }
+        }
+        return true;
+    }
+});
+
+function RegExpFilter(text, regexpSource, contentType, matchCase, domains, thirdParty, sitekeys)
+{
+    ActiveFilter.call(this, text, domains, sitekeys);
+    if (contentType != null)
+    {
+        this.contentType = contentType;
+    }
+    if (matchCase)
+    {
+        this.matchCase = matchCase;
+    }
+    if (thirdParty != null)
+    {
+        this.thirdParty = thirdParty;
+    }
+    if (sitekeys != null)
+    {
+        this.sitekeySource = sitekeys;
+    }
+    if (regexpSource.length >= 2 && regexpSource.charAt(0) == "/" && regexpSource.charAt(regexpSource.length - 1) == "/")
+    {
+        var regexp = new RegExp(regexpSource.substr(1, regexpSource.length - 2), this.matchCase ? "" : "i");
+        this.regexp = regexp;
+    }
+    else
+    {
+        this.regexpSource = regexpSource;
+    }
+}
+extend(RegExpFilter, ActiveFilter, {
+    domainSourceIsUpperCase: true,
+    length: 1,
+    domainSeparator: "|",
+    regexpSource: null,
+    getRegexp: function()
+    {
+        var prop = getOwnPropertyDescriptor(this, "regexp");
+        if (prop)
+        {
+            return prop;
+        }
+        var source = this.regexpSource.replace(/\*+/g, "*").replace(/\^\|$/, "^").replace(/\W/g, "\\$&").replace(/\\\*/g, ".*").replace(/\\\^/g, "(?:[\\x00-\\x24\\x26-\\x2C\\x2F\\x3A-\\x40\\x5B-\\x5E\\x60\\x7B-\\x7F]|$)").replace(/^\\\|\\\|/, "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?").replace(/^\\\|/, "^").replace(/\\\|$/, "$").replace(/^(\.\*)/, "").replace(/(\.\*)$/, "");
+        var regexp = new RegExp(source, this.matchCase ? "" : "i");
+        this.regexp = regexp;
+        return regexp;
+    },
+    contentType: 2147483647,
+    matchCase: false,
+    thirdParty: null,
+    sitekeySource: null,
+    getSitekeys: function()
+    {
+        var prop = getOwnPropertyDescriptor(this, "sitekeys");
+        if (prop)
+        {
+            return prop;
+        }
+        var sitekeys = null;
+        if (this.sitekeySource)
+        {
+            sitekeys = this.sitekeySource.split("|");
+            this.sitekeySource = null;
+        }
+        this.sitekeys = sitekeys;
+        return this.sitekeys;
+    },
+    matches: function(location, contentType, docDomain, thirdParty, sitekey)
+    {
+        if (this.getRegexp().test(location) && this.isActiveOnDomain(docDomain, sitekey))
+        {
+            return true;
+        }
+        return false;
+    }
+});
+RegExpFilter.prototype["0"] = "#this";
+RegExpFilter.fromText = function(text)
+{
+    var blocking = true;
+    var origText = text;
+    if (text.indexOf("@@") == 0)
+    {
+        blocking = false;
+        text = text.substr(2);
+    }
+    var contentType = null;
+    var matchCase = null;
+    var domains = null;
+    var sitekeys = null;
+    var thirdParty = null;
+    var collapse = null;
+    var options;
+    var match = text.indexOf("$") >= 0 ? Filter.optionsRegExp.exec(text) : null;
+    if (match)
+    {
+        options = match[1].toUpperCase().split(",");
+        text = match.input.substr(0, match.index);
+        for (var _loopIndex6 = 0; _loopIndex6 < options.length; ++_loopIndex6)
+        {
+            var option = options[_loopIndex6];
+            var value = null;
+            var separatorIndex = option.indexOf("=");
+            if (separatorIndex >= 0)
+            {
+                value = option.substr(separatorIndex + 1);
+                option = option.substr(0, separatorIndex);
+            }
+            option = option.replace(/-/, "_");
+            if (option in RegExpFilter.typeMap)
+            {
+                if (contentType == null)
+                {
+                    contentType = 0;
+                }
+                contentType |= RegExpFilter.typeMap[option];
+            }
+            else if (option.charAt(0) == "~" && option.substr(1) in RegExpFilter.typeMap)
+            {
+                if (contentType == null)
+                {
+                    contentType = RegExpFilter.prototype.contentType;
+                }
+                contentType &= ~RegExpFilter.typeMap[option.substr(1)];
+            }
+            else if (option == "MATCH_CASE")
+            {
+                matchCase = true;
+            }
+            else if (option == "~MATCH_CASE")
+            {
+                matchCase = false;
+            }
+            else if (option == "DOMAIN" && typeof value != "undefined")
+            {
+                domains = value;
+            }
+            else if (option == "THIRD_PARTY")
+            {
+                thirdParty = true;
+            }
+            else if (option == "~THIRD_PARTY")
+            {
+                thirdParty = false;
+            }
+            else if (option == "COLLAPSE")
+            {
+                collapse = true;
+            }
+            else if (option == "~COLLAPSE")
+            {
+                collapse = false;
+            }
+            else if (option == "SITEKEY" && typeof value != "undefined")
+            {
+                sitekeys = value;
+            }
+            else
+            {
+                return new InvalidFilter(origText, "Unknown option " + option.toLowerCase());
+            }
+        }
+    }
+    if (!blocking && (contentType == null || contentType & RegExpFilter.typeMap.DOCUMENT) && (!options || options.indexOf("DOCUMENT") < 0) && !/^\|?[\w\-]+:/.test(text))
+    {
+        if (contentType == null)
+        {
+            contentType = RegExpFilter.prototype.contentType;
+        }
+        contentType &= ~RegExpFilter.typeMap.DOCUMENT;
+    }
+    try
+    {
+        if (blocking)
+        {
+            return new BlockingFilter(origText, text, contentType, matchCase, domains, thirdParty, sitekeys, collapse);
+        }
+        else
+        {
+            return new WhitelistFilter(origText, text, contentType, matchCase, domains, thirdParty, sitekeys);
+        }
+    }
+    catch (e)
+    {
+        return new InvalidFilter(origText, e);
+    }
+};
+RegExpFilter.typeMap = {
+    OTHER: 1,
+    SCRIPT: 2,
+    IMAGE: 4,
+    STYLESHEET: 8,
+    OBJECT: 16,
+    SUBDOCUMENT: 32,
+    DOCUMENT: 64,
+    XBL: 1,
+    PING: 1,
+    XMLHTTPREQUEST: 2048,
+    OBJECT_SUBREQUEST: 4096,
+    DTD: 1,
+    MEDIA: 16384,
+    FONT: 32768,
+    BACKGROUND: 4,
+    POPUP: 268435456,
+    ELEMHIDE: 1073741824
+};
+RegExpFilter.prototype.contentType &= ~ (RegExpFilter.typeMap.ELEMHIDE | RegExpFilter.typeMap.POPUP);
+
+function BlockingFilter(text, regexpSource, contentType, matchCase, domains, thirdParty, sitekeys, collapse)
+{
+    RegExpFilter.call(this, text, regexpSource, contentType, matchCase, domains, thirdParty, sitekeys);
+    this.collapse = collapse;
+}
+extend(BlockingFilter, RegExpFilter, {
+    collapse: null
+});
+
+function WhitelistFilter(text, regexpSource, contentType, matchCase, domains, thirdParty, sitekeys)
+{
+    RegExpFilter.call(this, text, regexpSource, contentType, matchCase, domains, thirdParty, sitekeys);
+}
+extend(WhitelistFilter, RegExpFilter, {
+});
+
+function Matcher()
+{
+    this.clear();
+}
+Matcher.prototype = {
+    filterByKeyword: null,
+    keywordByFilter: null,
+    clear: function()
+    {
+        this.filterByKeyword = createDict();
+        this.keywordByFilter = createDict();
+    },
+    add: function(filter)
+    {
+        if (filter.text in this.keywordByFilter)
+        {
+            return;
+        }
+        var keyword = this.findKeyword(filter);
+        var oldEntry = this.filterByKeyword[keyword];
+        if (typeof oldEntry == "undefined")
+        {
+            this.filterByKeyword[keyword] = filter;
+        }
+        else if (oldEntry.length == 1)
+        {
+            this.filterByKeyword[keyword] = [oldEntry, filter];
+        }
+        else
+        {
+            oldEntry.push(filter);
+        }
+        this.keywordByFilter[filter.text] = keyword;
+    },
+    remove: function(filter)
+    {
+        if (!(filter.text in this.keywordByFilter))
+        {
+            return;
+        }
+        var keyword = this.keywordByFilter[filter.text];
+        var list = this.filterByKeyword[keyword];
+        if (list.length <= 1)
+        {
+            delete this.filterByKeyword[keyword];
+        }
+        else
+        {
+            var index = list.indexOf(filter);
+            if (index >= 0)
+            {
+                list.splice(index, 1);
+                if (list.length == 1)
+                {
+                    this.filterByKeyword[keyword] = list[0];
+                }
+            }
+        }
+        delete this.keywordByFilter[filter.text];
+    },
+    findKeyword: function(filter)
+    {
+        var result = "";
+        var text = filter.text;
+        if (Filter.regexpRegExp.test(text))
+        {
+            return result;
+        }
+        var match = Filter.optionsRegExp.exec(text);
+        if (match)
+        {
+            text = match.input.substr(0, match.index);
+        }
+        if (text.substr(0, 2) == "@@")
+        {
+            text = text.substr(2);
+        }
+        var candidates = text.toLowerCase().match(/[^a-z0-9%*][a-z0-9%]{3,}(?=[^a-z0-9%*])/g);
+        if (!candidates)
+        {
+            return result;
+        }
+        var hash = this.filterByKeyword;
+        var resultCount = 16777215;
+        var resultLength = 0;
+        for (var i = 0, l = candidates.length; i < l; i++)
+        {
+            var candidate = candidates[i].substr(1);
+            var count = candidate in hash ? hash[candidate].length : 0;
+            if (count < resultCount || count == resultCount && candidate.length > resultLength)
+            {
+                result = candidate;
+                resultCount = count;
+                resultLength = candidate.length;
+            }
+        }
+        return result;
+    },
+    hasFilter: function(filter)
+    {
+        return filter.text in this.keywordByFilter;
+    },
+    getKeywordForFilter: function(filter)
+    {
+        if (filter.text in this.keywordByFilter)
+        {
+            return this.keywordByFilter[filter.text];
+        }
+        else
+        {
+            return null;
+        }
+    },
+    _checkEntryMatch: function(keyword, location, contentType, docDomain, thirdParty, sitekey)
+    {
+        var list = this.filterByKeyword[keyword];
+        for (var i = 0; i < list.length; i++)
+        {
+            var filter = list[i];
+            if (filter == "#this")
+            {
+                filter = list;
+            }
+            if (filter.matches(location, contentType, docDomain, thirdParty, sitekey))
+            {
+                return filter;
+            }
+        }
+        return null;
+    },
+    matchesAny: function(location, contentType, docDomain, thirdParty, sitekey)
+    {
+        var candidates = location.toLowerCase().match(/[a-z0-9%]{3,}/g);
+        if (candidates === null)
+        {
+            candidates = [];
+        }
+        candidates.push("");
+        for (var i = 0, l = candidates.length; i < l; i++)
+        {
+            var substr = candidates[i];
+            if (substr in this.filterByKeyword)
+            {
+                var result = this._checkEntryMatch(substr, location, contentType, docDomain, thirdParty, sitekey);
+                if (result)
+                {
+                    return result;
+                }
+            }
+        }
+        return null;
+    }
+};
+
+function CombinedMatcher()
+{
+    this.blacklist = new Matcher();
+    this.whitelist = new Matcher();
+    this.resultCache = createDict();
+}
+CombinedMatcher.maxCacheEntries = 1000;
+CombinedMatcher.prototype = {
+    blacklist: null,
+    whitelist: null,
+    resultCache: null,
+    cacheEntries: 0,
+    clear: function()
+    {
+        this.blacklist.clear();
+        this.whitelist.clear();
+        this.resultCache = createDict();
+        this.cacheEntries = 0;
+    },
+    add: function(filter)
+    {
+        if (filter instanceof WhitelistFilter)
+        {
+            this.whitelist.add(filter);
+        }
+        else
+        {
+            this.blacklist.add(filter);
+        }
+        if (this.cacheEntries > 0)
+        {
+            this.resultCache = createDict();
+            this.cacheEntries = 0;
+        }
+    },
+    remove: function(filter)
+    {
+        if (filter instanceof WhitelistFilter)
+        {
+            this.whitelist.remove(filter);
+        }
+        else
+        {
+            this.blacklist.remove(filter);
+        }
+        if (this.cacheEntries > 0)
+        {
+            this.resultCache = createDict();
+            this.cacheEntries = 0;
+        }
+    },
+    findKeyword: function(filter)
+    {
+        if (filter instanceof WhitelistFilter)
+        {
+            return this.whitelist.findKeyword(filter);
+        }
+        else
+        {
+            return this.blacklist.findKeyword(filter);
+        }
+    },
+    hasFilter: function(filter)
+    {
+        if (filter instanceof WhitelistFilter)
+        {
+            return this.whitelist.hasFilter(filter);
+        }
+        else
+        {
+            return this.blacklist.hasFilter(filter);
+        }
+    },
+    getKeywordForFilter: function(filter)
+    {
+        if (filter instanceof WhitelistFilter)
+        {
+            return this.whitelist.getKeywordForFilter(filter);
+        }
+        else
+        {
+            return this.blacklist.getKeywordForFilter(filter);
+        }
+    },
+    isSlowFilter: function(filter)
+    {
+        var matcher = filter instanceof WhitelistFilter ? this.whitelist : this.blacklist;
+        if (matcher.hasFilter(filter))
+        {
+            return !matcher.getKeywordForFilter(filter);
+        }
+        else
+        {
+            return !matcher.findKeyword(filter);
+        }
+    },
+    matchesAnyInternal: function(location, contentType, docDomain, thirdParty, sitekey)
+    {
+        var candidates = location.toLowerCase().match(/[a-z0-9%]{3,}/g);
+        if (candidates === null)
+        {
+            candidates = [];
+        }
+        candidates.push("");
+        var blacklistHit = null;
+        for (var i = 0, l = candidates.length; i < l; i++)
+        {
+            var substr = candidates[i];
+            if (substr in this.whitelist.filterByKeyword)
+            {
+                var result = this.whitelist._checkEntryMatch(substr, location, contentType, docDomain, thirdParty, sitekey);
+                if (result)
+                {
+                    return result;
+                }
+            }
+            if (substr in this.blacklist.filterByKeyword && blacklistHit === null)
+            {
+                blacklistHit = this.blacklist._checkEntryMatch(substr, location, contentType, docDomain, thirdParty, sitekey);
+            }
+        }
+        return blacklistHit;
+    },
+    matchesAny: function(location, docDomain)
+    {
+        var key = location + " " + docDomain + " ";
+        if (key in this.resultCache)
+        {
+            return this.resultCache[key];
+        }
+        var result = this.matchesAnyInternal(location, 0, docDomain, null, null);
+        if (this.cacheEntries >= CombinedMatcher.maxCacheEntries)
+        {
+            this.resultCache = createDict();
+            this.cacheEntries = 0;
+        }
+        this.resultCache[key] = result;
+        this.cacheEntries++;
+        return result;
+    }
+};
+var defaultMatcher = new CombinedMatcher();
+
+var direct = 'DIRECT;';
+
+for (var i = 0; i < rules.length; i++) {
+    defaultMatcher.add(Filter.fromText(rules[i]));
+}
+
+function FindProxyForURL(url, host) {
+    if (defaultMatcher.matchesAny(url, host) instanceof BlockingFilter) {
+        return proxy;
+    }
+    return direct;
+}
