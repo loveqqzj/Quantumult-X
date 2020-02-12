@@ -113,11 +113,6 @@ host-suffix, onedrive.live.com, proxy
 host-suffix, tinyurl.com, proxy
 host-suffix, bit.ly, proxy
 
-# > Steam
-host, api.steampowered.com, proxy
-host, store.steampowered.com, proxy
-host-suffix, steamcommunity.com, proxy
-
 # > Tampermonkey
 host-suffix, tampermonkey.net, proxy
 host-suffix, greasyfork.org, proxy
