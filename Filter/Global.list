@@ -55,6 +55,11 @@ host-suffix, dropboxcaptcha.com, proxy
 # > Facebook
 host-suffix, facebook.com, proxy
 host-suffix, facebook.net, proxy
+host-suffix, fb.com, proxy
+host-suffix, fb.me, proxy
+host-suffix, fbaddins.com, proxy
+host-suffix, fbcdn.net, proxy
+host-suffix, fbsbx.com, proxy
 
 # > FastStone
 host-suffix, faststone.org, proxy
