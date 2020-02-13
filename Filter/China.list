@@ -249,6 +249,7 @@ host-suffix, notepad-plus-plus.org, direct
 host-suffix, internetdownloadmanager.com, direct
 host-suffix, den4b.com, direct
 host-suffix, mythicsoft.com, direct
+host-suffix, adblockplus.org, direct
 
 # > Speedtest by Ookla
 user-agent, SpeedTest*, direct
