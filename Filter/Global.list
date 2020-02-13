@@ -48,6 +48,7 @@ host-suffix, daumcdn.net, proxy
 
 # > Dropbox
 host-suffix, dropbox.com, proxy
+host-suffix, dropboxapi.com, proxy
 host-suffix, dropboxcaptcha.com, proxy
 
 # > Facebook
