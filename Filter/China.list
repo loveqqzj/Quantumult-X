@@ -16,6 +16,10 @@ host-suffix, 1password.eu, direct
 host-suffix, 1password.ca, direct
 host-suffix, 1passwordusercontent.com, direct
 
+# > Adblock Plus
+host-suffix, adblockplus.org, direct
+host-suffix, eyeo.com, direct
+
 # > AdGuard
 host-suffix, adguard.org, direct
 host-suffix, adguard.com, direct
@@ -249,7 +253,6 @@ host-suffix, notepad-plus-plus.org, direct
 host-suffix, internetdownloadmanager.com, direct
 host-suffix, den4b.com, direct
 host-suffix, mythicsoft.com, direct
-host-suffix, adblockplus.org, direct
 
 # > Speedtest by Ookla
 user-agent, SpeedTest*, direct
