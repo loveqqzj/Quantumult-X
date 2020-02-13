@@ -80,6 +80,9 @@ host-suffix, recaptcha.net, proxy
 host-suffix, ampproject.org, proxy
 host-suffix, ggpht.com, proxy
 
+# > Image Hosting
+host-suffix, pixhost.to, proxy
+
 # > Jav
 host-suffix, javlibrary.com, proxy
 host-suffix, sis001.com, proxy
@@ -109,6 +112,17 @@ host-suffix, mega.co.nz, proxy
 
 # > OneDrive
 host-suffix, onedrive.live.com, proxy
+
+# > Pixiv
+host-suffix, pixiv.net, proxy
+host-suffix, pximg.net, proxy
+host-suffix, pixivision.net, proxy
+host-suffix, pixiv-bungei.net, proxy
+
+# > Pornhub
+host-suffix, phncdn.com, proxy
+host-suffix, pornhub.com, proxy
+host-suffix, pornhubpremium.com, proxy
 
 # > Short URL
 host-suffix, tinyurl.com, proxy
@@ -146,3 +160,10 @@ host-suffix, twitpic.com, proxy
 host-suffix, yandex.ru, proxy
 host-suffix, yandex.com, proxy
 host-suffix, yandex.net, proxy
+
+# > YouTube
+host-suffix, youtube.com, proxy
+host-suffix, ytimg.com, proxy
+host-suffix, youtu.be, proxy
+host-suffix, yt.be, proxy
+host-suffix, googlevideo.com, proxy
