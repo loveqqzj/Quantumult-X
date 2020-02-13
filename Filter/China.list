@@ -8,7 +8,6 @@ host-suffix, remove.bg, direct
 host-suffix, ifttt.com, direct
 host-suffix, twdown.net, direct
 host-suffix, polyfill.io, direct
-host-suffix, bootstrapcdn.com, direct
 host-suffix, ravenjs.com, direct
 
 # > 1Password
@@ -62,6 +61,7 @@ host-suffix, meixincdn.com, direct
 host-suffix, ourdvs.com, direct
 host-suffix, staticdn.net, direct
 host-suffix, wangsu.com, direct
+host-suffix, bootstrapcdn.com, direct
 
 # > CloudSMS
 host-suffix, z-sms.com, direct
