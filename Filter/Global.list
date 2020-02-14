@@ -14,6 +14,7 @@ host-suffix, yahoo.com, proxy
 host-suffix, limbopro.xyz, proxy
 host-suffix, duyaoss.com, proxy
 host-suffix, nodejs.org, proxy
+host, in.appcenter.ms, proxy
 
 # > ABBYY
 user-agent, textgrabber*, proxy
@@ -95,7 +96,6 @@ host-suffix, ggpht.com, proxy
 host-suffix, imazing.com, proxy
 host, app.hello.devmate.com, proxy
 host, activations.devmate.com, proxy
-host, in.appcenter.ms, proxy
 
 # > Jav
 host-suffix, javlibrary.com, proxy
