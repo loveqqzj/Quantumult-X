@@ -1,0 +1,7 @@
+# > AdGuard
+host-suffix, adguard.org, proxy
+host-suffix, filters.adtidy.org, proxy
+
+# > Microsoft
+host-suffix, onedrive.live.com, proxy
+host-suffix, xboxlive.com, proxy
