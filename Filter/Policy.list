@@ -14,8 +14,10 @@ host-suffix, 1drv.ms, Microsoft
 host-suffix, msauth.net, Microsoft
 host-suffix, msecnd.net, Microsoft
 host-suffix, msocdn.net, Microsoft
+host-suffix, msocdn.com, Microsoft
 host-suffix, office.net, Microsoft
 host-suffix, office.com, Microsoft
+host-suffix, office365.com, Microsoft
 host-suffix, mem.gfx.ms, Microsoft
 host-suffix, tt.omtrdc.net, Microsoft
 host-suffix, akamaihd.net, Microsoft
@@ -32,9 +34,12 @@ host-suffix, sharepointonline.com, Microsoft
 host, gate.hockeyapp.net, Microsoft
 host, app.adjust.com, Microsoft
 host, config.edge.skype.com, Microsoft
+host, swc.cdn.skype.com, Microsoft
 host, microsoftwindows.112.2o7.net, Microsoft
 host, skydrive.wns.windows.com, Microsoft
 host, ocsp.msocsp.com, Microsoft
+host, dynmsg.modpim.com, Microsoft
+host, onerm.olsvc.com, Microsoft
 
 # > Pixiv
 host-suffix, pixiv.net, GlobalMedia
