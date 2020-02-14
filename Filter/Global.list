@@ -9,7 +9,6 @@ host-suffix, python.com, proxy
 host-suffix, dama.lu, proxy
 host-suffix, repl.it, proxy
 host-suffix, cloudfront.net, proxy
-host-suffix, imazing.com, proxy
 host-suffix, disqus.com, proxy
 host-suffix, yahoo.com, proxy
 host-suffix, limbopro.xyz, proxy
@@ -90,6 +89,12 @@ host-suffix, ggpht.com, proxy
 
 # > Image Hosting
 host-suffix, pixhost.to, proxy
+
+# > Imazing
+host-suffix, imazing.com, proxy
+host, app.hello.devmate.com, proxy
+host, activations.devmate.com, proxy
+host, in.appcenter.ms, proxy
 
 # > Jav
 host-suffix, javlibrary.com, proxy
