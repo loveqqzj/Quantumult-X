@@ -41,6 +41,9 @@ host, ocsp.msocsp.com, Microsoft
 host, dynmsg.modpim.com, Microsoft
 host, onerm.olsvc.com, Microsoft
 
+# > Jav
+host-suffix, sis.la, GlobalMedia
+
 # > Pixiv
 host-suffix, pixiv.net, GlobalMedia
 host-suffix, pximg.net, GlobalMedia
