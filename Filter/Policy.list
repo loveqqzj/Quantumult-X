@@ -20,6 +20,9 @@ host-suffix, aspnetcdn.com, Micrsoft
 host-suffix, s-microsoft.com, Micrsoft
 host, config.edge.skype.com, Micrsoft
 host, microsoftwindows.112.2o7.net, Micrsoft
+host-suffix, onenote.com, Micrsoft
+host-suffix, onenote.net, Micrsoft
+host-suffix, outlook.com, Micrsoft
 
 # > Pixiv
 host-suffix, pixiv.net, GlobalMedia
