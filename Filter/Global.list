@@ -123,10 +123,6 @@ host-suffix, torrentkitty.tv, proxy
 host-suffix, mega.nz, proxy
 host-suffix, mega.co.nz, proxy
 
-# > Microsoft
-host-suffix, onedrive.live.com, proxy
-host-suffix, xboxlive.com, proxy
-
 # > Pixiv
 host-suffix, pixiv.net, proxy
 host-suffix, pximg.net, proxy
