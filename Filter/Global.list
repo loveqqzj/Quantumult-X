@@ -91,9 +91,6 @@ host-suffix, recaptcha.net, proxy
 host-suffix, ampproject.org, proxy
 host-suffix, ggpht.com, proxy
 
-# > Image Hosting
-host-suffix, pixhost.to, proxy
-
 # > Imazing
 host-suffix, imazing.com, proxy
 host, app.hello.devmate.com, proxy
@@ -104,6 +101,7 @@ host, in.appcenter.ms, proxy
 host-suffix, javlibrary.com, proxy
 host-suffix, sis001.com, proxy
 host-suffix, blogjav.net, proxy
+host-suffix, pixhost.to, proxy
 ###AVMOO
 host-suffix, avmask.com, proxy
 host-suffix, avmoo.com, proxy
