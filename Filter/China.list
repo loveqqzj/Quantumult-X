@@ -169,11 +169,6 @@ host-suffix, readdle.com, direct
 host-suffix, docstransfer.com, direct
 host-suffix, pdfexpert.com, direct
 
-# > Sharepoint
-host-suffix, sharepoint.com, direct
-host-suffix, sharepoint-df.com, direct
-host-suffix, sharepointonline.com, direct
-
 # > Skype
 host-suffix, skype.com, direct
 host-suffix, skypeassets.com, direct
