@@ -44,11 +44,11 @@ ip-cidr, 17.0.0.0/8, direct
 
 # > Akamai
 host-suffix, akadns.net, direct
-host-suffix, akamai.net, direct
-host-suffix, akamaiedge.net, direct
-host-suffix, akamaihd.net, direct
-host-suffix, akamaistream.net, direct
-host-suffix, akamaized.net, direct
+;host-suffix, akamai.net, direct
+;host-suffix, akamaiedge.net, direct
+;host-suffix, akamaihd.net, direct
+;host-suffix, akamaistream.net, direct
+;host-suffix, akamaized.net, direct
 
 # > Alibaba
 host-suffix, alibaba.com, direct
@@ -107,27 +107,6 @@ host-suffix, ipv6-test.com, direct
 host-suffix, test-ipv6.com, direct
 host-suffix, whatismyip.com, direct
 
-# > Microsoft
-host-suffix, microsoft.com, direct
-host-suffix, microsoftonline.com, direct
-host-suffix, microsoftstore.com, direct
-host-suffix, microsofttranslator.com, direct
-host-suffix, microsoftedge.com, direct
-host-suffix, microsoftedgeinsider.com, direct
-host-suffix, bing.com, direct
-host-suffix, msecnd.net, direct
-host-suffix, msocdn.com, direct
-host-suffix, msauth.com, direct
-host-suffix, msauth.net, direct
-host-suffix, msedge.net, direct
-host-suffix, live.com, direct
-host-suffix, live.net, direct
-host-suffix, s-microsoft.com, direct
-host-suffix, visualstudio.com, direct
-host-suffix, windows.com, direct
-host-suffix, windowsupdate.com, direct
-host, officecdn-microsoft-com.akamaized.net, direct
-
 # > Mozilla
 host-suffix, mozilla.com, direct
 host-suffix, mozilla.org, direct
@@ -138,37 +117,6 @@ host-suffix, firefox.com, direct
 host-suffix, notion.so, direct
 host-suffix, intercom.io, direct
 host-suffix, intercomcdn.com, direct
-
-# > Office
-host-suffix, office.com, direct
-host-suffix, office.net, direct
-host-suffix, office365.com, direct
-
-# > OneNote
-host-suffix, onenote.com, direct
-host-suffix, onenote.net, direct
-
-# > Outlook
-host-suffix, hotmail.com, direct
-host-suffix, outlook.com, direct
-
-# > OneDrive
-host-suffix, 1drv.com, direct
-host-suffix, 1drv.ms, direct
-host, blob.core.windows.net, direct
-host-suffix, livefilestore.com, direct
-host-suffix, onedrive.com, direct
-host-suffix, storage.live.com, direct
-host-suffix, storage.msn.com, direct
-host-suffix, oneclient.sfx.ms, direct
-host-suffix, svc.ms, direct
-host, mobile.pipe.aria.microsoft.com, direct
-host, odc.officeapps.live.com, direct
-host, skyapi.live.net, direct
-host, skyapi.policies.live.net, direct
-host, az725175.vo.msecnd.net, direct
-host, shellprod.msocdn.com, direct
-host, config.edge.skype.com, direct
 
 # > PayPal
 host-suffix, paypal.com, direct
@@ -275,6 +223,10 @@ host-suffix, wd.com, direct
 host-suffix, wdc.com, direct
 host-suffix, mycloud.com, direct
 host-suffix, westerndigital.com, direct
+
+# > Windows
+host-suffix, windows.com, direct
+host-suffix, windowsupdate.com, direct
 
 # > Wondershare
 host-suffix, wondershare.cc, direct
