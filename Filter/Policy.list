@@ -1,4 +1,5 @@
 # > Microsoft
+host-suffix, blob.core.windows.net, Microsoft
 host-suffix, bing.com, Microsoft
 host-suffix, sfx.ms, Microsoft
 host-suffix, svc.ms, Microsoft
@@ -7,6 +8,7 @@ host-suffix, live.net, Microsoft
 host-suffix, live.com, Microsoft
 host-suffix, livefilestore.com, Microsoft
 host-suffix, hotmail.com, Microsoft
+host-suffix, outlook.com, Microsoft
 host-suffix, 1drv.com, Microsoft
 host-suffix, 1drv.ms, Microsoft
 host-suffix, msauth.net, Microsoft
@@ -16,15 +18,14 @@ host-suffix, office.net, Microsoft
 host-suffix, office.com, Microsoft
 host-suffix, mem.gfx.ms, Microsoft
 host-suffix, tt.omtrdc.net, Microsoft
-host-suffix, akamaized.net, Microsoft
 host-suffix, akamaihd.net, Microsoft
+host-suffix, akamaized.net, Microsoft
+host-suffix, aspnetcdn.com, Microsoft
 host-suffix, onestore.ms, Microsoft
 host-suffix, microsoft.com, Microsoft
-host-suffix, aspnetcdn.com, Microsoft
 host-suffix, s-microsoft.com, Microsoft
 host-suffix, onenote.com, Microsoft
 host-suffix, onenote.net, Microsoft
-host-suffix, outlook.com, Microsoft
 host-suffix, sharepoint.com, Microsoft
 host-suffix, sharepoint-df.com, Microsoft
 host-suffix, sharepointonline.com, Microsoft
@@ -32,6 +33,8 @@ host, gate.hockeyapp.net, Microsoft
 host, app.adjust.com, Microsoft
 host, config.edge.skype.com, Microsoft
 host, microsoftwindows.112.2o7.net, Microsoft
+host, skydrive.wns.windows.com, Microsoft
+host, ocsp.msocsp.com, Microsoft
 
 # > Pixiv
 host-suffix, pixiv.net, GlobalMedia
