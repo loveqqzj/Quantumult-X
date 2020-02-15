@@ -302,6 +302,7 @@ host-suffix, googleadsserving.cn, reject
 host-suffix, googlesyndication.com, reject
 host-suffix, googletagmanager.com, reject
 host-suffix, googletagservices.com, reject
+host-suffix, adservice.google.com, reject
 
 # > Jav
 host-suffix, juicyads.com, reject
