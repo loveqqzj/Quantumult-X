@@ -14,9 +14,6 @@ host-suffix, jpush.cn, reject
 host-suffix, getui.com, reject
 host-suffix, igexin.com, reject
 host-suffix, umsns.com, reject
-host, api.adnet.mob.com, reject
-host, ads.adadapted.com, reject
-host, appnext-a.akamaihd.net, reject
   
 host-suffix, adcolony.com, reject
 host-suffix, adinall.com, reject
@@ -80,7 +77,6 @@ host-suffix, miaozhen.com, reject
 host-suffix, mmstat.com, reject
 host-suffix, moatads.com, reject
 host-suffix, mobclix.com, reject
-host-suffix, mopub.com, reject
 host-suffix, okjhb.xyz, reject
 host-suffix, openx.net, reject
 host-suffix, outbrain.com, reject
@@ -303,6 +299,7 @@ host-suffix, googlesyndication.com, reject
 host-suffix, googletagmanager.com, reject
 host-suffix, googletagservices.com, reject
 host-suffix, adservice.google.com, reject
+host-suffix, mobileads.google.com, reject
 
 # > Jav
 host-suffix, juicyads.com, reject
@@ -344,7 +341,7 @@ host, adui.tg.meitu.com, reject
 host-suffix, hockeyapp.net, reject
 host-suffix, braze.com, reject
 host, mobileads.msn.com, reject
-  
+
 # > NetEase
 host, ad.bn.netease.com, reject
 host, ad.yixin.im, reject
