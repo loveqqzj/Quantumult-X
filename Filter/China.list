@@ -10,6 +10,7 @@ host-suffix, twdown.net, direct
 host-suffix, polyfill.io, direct
 host-suffix, ravenjs.com, direct
 host, in.appcenter.ms, direct
+host, app.adjust.com, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
