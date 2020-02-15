@@ -26,8 +26,6 @@ host-suffix, ads.prd.ie.internal.unity3d.com, reject
 host-suffix, unityads.unity3d.com, reject
 
 # > AirDroid
-host-suffix, stat.airdroid.com, reject
-host-suffix, stat3.airdroid.com, reject
 host-suffix, lb.airdroid.com, reject
 host-suffix, td.airdroid.com, reject
 host-suffix, srv3.airdroid.com, reject
