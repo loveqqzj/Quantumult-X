@@ -37,6 +37,16 @@ host-suffix, pc.airdroid.com, reject
 host-suffix, page.amap.com, reject
 host-keyword, ads.amap.com, reject
 
+# > Baidu
+host-suffix, cpro.baidu.com, reject
+host-suffix, pos.baidu.com, reject
+host, afd.baidu.com, reject
+host, als.baidu.com, reject
+host, duclick.baidu.com, reject
+host, mobads.baidu.com, reject
+host, mobads-logs.baidu.com, reject
+host, nsclick.baidu.com, reject
+
 # > Dropbox
 host-suffix, dropboxstatic.com, reject
 
