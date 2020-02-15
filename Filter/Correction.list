@@ -1,3 +1,21 @@
+# > General
+host, app.adjust.com, direct
+  
+# > Google
+host-suffix, googletraveladservices.com, direct
+host, analyticsinsights-pa.googleapis.com, proxy
+host, analyticsreporting.googleapis.com, proxy
+host, dl.google.com, direct
+host, mtalk.google.com, direct
+    
 # > Microsoft
 host-suffix, onedrive.live.com, proxy
 host-suffix, xboxlive.com, proxy
+  
+# > Tencent
+host, livew.l.qq.com, direct
+host, vd.l.qq.com, direct
+
+# > Umeng
+host, msg.umeng.com, direct
+host, msg.umengcloud.com, direct
