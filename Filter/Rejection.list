@@ -145,7 +145,7 @@ host, adv.bandi.so, reject
 # > Caiyunapp（彩云小译等）
 host, ad.caiyunapp.com, reject
 
-# > ChinaTelecom & 运营商劫持
+# > ChinaTelecom
 host, ad.21cn.com, reject
 host, ad.k.21cn.com, reject
 host, admarket.21cn.com, reject
