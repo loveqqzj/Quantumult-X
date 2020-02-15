@@ -9,6 +9,7 @@ host-suffix, ifttt.com, direct
 host-suffix, twdown.net, direct
 host-suffix, polyfill.io, direct
 host-suffix, ravenjs.com, direct
+host, in.appcenter.ms, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
