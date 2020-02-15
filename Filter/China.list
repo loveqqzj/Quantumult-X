@@ -106,6 +106,10 @@ host-suffix, ipv6-test.com, direct
 host-suffix, test-ipv6.com, direct
 host-suffix, whatismyip.com, direct
 
+# > JD
+host-suffix, jd.com, direct
+host-suffix, 360buyimg.com, direct
+
 # > Mozilla
 host-suffix, mozilla.com, direct
 host-suffix, mozilla.org, direct
