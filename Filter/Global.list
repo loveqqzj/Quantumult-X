@@ -14,7 +14,6 @@ host-suffix, yahoo.com, proxy
 host-suffix, limbopro.xyz, proxy
 host-suffix, duyaoss.com, proxy
 host-suffix, nodejs.org, proxy
-host, in.appcenter.ms, proxy
 
 # > ABBYY
 user-agent, textgrabber*, proxy
