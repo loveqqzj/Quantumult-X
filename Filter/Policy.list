@@ -31,8 +31,6 @@ host-suffix, onenote.net, Microsoft
 host-suffix, sharepoint.com, Microsoft
 host-suffix, sharepoint-df.com, Microsoft
 host-suffix, sharepointonline.com, Microsoft
-host, gate.hockeyapp.net, Microsoft
-host, app.adjust.com, Microsoft
 host, config.edge.skype.com, Microsoft
 host, swc.cdn.skype.com, Microsoft
 host, microsoftwindows.112.2o7.net, Microsoft
