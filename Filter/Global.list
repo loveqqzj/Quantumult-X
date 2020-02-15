@@ -126,6 +126,10 @@ host-suffix, torrentkitty.tv, proxy
 host-suffix, mega.nz, proxy
 host-suffix, mega.co.nz, proxy
 
+# > Microsoft
+host, onedrive.live.com, proxy
+host, xboxlive.com, proxy
+
 # > Short URL
 host-suffix, tinyurl.com, proxy
 host-suffix, bit.ly, proxy
