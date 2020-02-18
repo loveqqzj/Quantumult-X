@@ -173,6 +173,7 @@ host-suffix, mobileads.google.com, reject
 # > Jav
 host-suffix, juicyads.com, reject
 host-suffix, rdrads.com, reject
+host-suffix, exoclick.com, reject
 
 # > JD
 host-suffix, wlmonitor.m.jd.com, reject
