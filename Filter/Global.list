@@ -24,10 +24,6 @@ host-suffix, finereaderonline.com, proxy
 host-suffix, abbyy.com, proxy
 host-suffix, onesignal.com, proxy
 
-# > AdGuard
-host-suffix, adguard.org, proxy
-host-suffix, filters.adtidy.org, proxy
-
 # > Amazon
 host-suffix, amazonlightsail.com, proxy
 host-suffix, awsstatic.com, proxy
