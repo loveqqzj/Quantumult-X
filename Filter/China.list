@@ -127,10 +127,6 @@ host-suffix, notion.so, direct
 host-suffix, intercom.io, direct
 host-suffix, intercomcdn.com, direct
 
-# > PayPal
-host-suffix, paypal.com, direct
-host-suffix, paypalobjects.com, direct
-
 # > PT
 host-suffix, awesome-hd.me, direct
 host-suffix, broadcasthe.net, direct
