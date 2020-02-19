@@ -39,20 +39,24 @@ host, ocsp.msocsp.com, Microsoft
 host, dynmsg.modpim.com, Microsoft
 host, onerm.olsvc.com, Microsoft
 
+# > PayPal
+host-suffix, paypal.com, PayPal
+host-suffix, paypalobjects.com, PayPal
+
 # > Pixiv
-host-suffix, pixiv.net, GlobalMedia
-host-suffix, pximg.net, GlobalMedia
-host-suffix, pixivision.net, GlobalMedia
-host-suffix, pixiv-bungei.net, GlobalMedia
+# host-suffix, pixiv.net, GlobalMedia
+# host-suffix, pximg.net, GlobalMedia
+# host-suffix, pixivision.net, GlobalMedia
+# host-suffix, pixiv-bungei.net, GlobalMedia
 
 # > Pornhub
-host-suffix, phncdn.com, GlobalMedia
-host-suffix, pornhub.com, GlobalMedia
-host-suffix, pornhubpremium.com, GlobalMedia
+# host-suffix, phncdn.com, GlobalMedia
+# host-suffix, pornhub.com, GlobalMedia
+# host-suffix, pornhubpremium.com, GlobalMedia
 
 # > YouTube
-host-suffix, youtube.com, GlobalMedia
-host-suffix, ytimg.com, GlobalMedia
-host-suffix, youtu.be, GlobalMedia
-host-suffix, yt.be, GlobalMedia
-host-suffix, googlevideo.com, GlobalMedia
+# host-suffix, youtube.com, GlobalMedia
+# host-suffix, ytimg.com, GlobalMedia
+# host-suffix, youtu.be, GlobalMedia
+# host-suffix, yt.be, GlobalMedia
+# host-suffix, googlevideo.com, GlobalMedia
