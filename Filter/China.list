@@ -23,6 +23,8 @@ host-suffix, eyeo.com, direct
 
 # > AdGuard
 host-suffix, adguard.com, direct
+host-suffix, adguard.org, direct
+host-suffix, filters.adtidy.org, direct
 
 # > Apple
 user-agent, com.apple.trustd*, direct
