@@ -25,6 +25,7 @@ host-suffix, akamaized.net, Microsoft
 host-suffix, aspnetcdn.com, Microsoft
 host-suffix, onestore.ms, Microsoft
 host-suffix, microsoft.com, Microsoft
+host-suffix, microsoftonline, Microsoft
 host-suffix, s-microsoft.com, Microsoft
 host-suffix, onenote.com, Microsoft
 host-suffix, onenote.net, Microsoft
