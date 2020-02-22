@@ -106,6 +106,7 @@ host-suffix, wedolook.com, reject
 host-suffix, xdrig.com, reject
 host-suffix, yumimobi.com, reject
 host-suffix, zu08e.cn, reject
+host-suffix, ou19.cn, reject
 
 # > 12306
 host-suffix, ad.12306.cn, reject
