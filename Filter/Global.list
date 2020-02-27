@@ -17,7 +17,6 @@ host-suffix, nodejs.org, proxy
 host-suffix, atlas.eff.org, proxy
 host-suffix, polyfill.io, proxy
 host-suffix, ravenjs.com, proxy
-host, in.appcenter.ms, proxy
 
 # > ABBYY
 user-agent, textgrabber*, proxy
