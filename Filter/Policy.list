@@ -39,6 +39,7 @@ host, skydrive.wns.windows.com, Microsoft
 host, ocsp.msocsp.com, Microsoft
 host, dynmsg.modpim.com, Microsoft
 host, onerm.olsvc.com, Microsoft
+host, in.appcenter.ms, Microsoft
 
 # > PayPal
 host-suffix, paypal.com, PayPal
