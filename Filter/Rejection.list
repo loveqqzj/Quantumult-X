@@ -77,11 +77,6 @@ host-suffix, hypers.com, reject
 host-suffix, idealads.net, reject
 host-suffix, igexin.com, reject
 host-suffix, immob.cn, reject
-host-suffix, inmobi.cn, reject
-host-suffix, inmobi.com, reject
-host-suffix, inmobi.net, reject
-host-suffix, inmobicdn.cn, reject
-host-suffix, inmobicdn.net, reject
 host-suffix, inner-active.mobi, reject
 host-suffix, insurads.com, reject
 host-suffix, intely.cn, reject
@@ -225,6 +220,13 @@ host-suffix, googletagservices.com, reject
 host-suffix, adservice.google.com, reject
 host-suffix, mobileads.google.com, reject
 host-suffix, csi.gstatic.com, reject
+
+# > InMobi
+host-suffix, inmobi.cn, reject
+host-suffix, inmobi.com, reject
+host-suffix, inmobi.net, reject
+host-suffix, inmobicdn.cn, reject
+host-suffix, inmobicdn.net, reject
 
 # > Jav
 host-suffix, juicyads.com, reject
