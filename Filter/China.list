@@ -1,15 +1,9 @@
 # > General
 host-suffix, cn, direct
-host-suffix, digicert.com, direct
-host-suffix, digitalcertvalidation.com, direct
-host-suffix, sectigo.com, direct
-host-suffix, letsencrypt.org, direct
+
 host-suffix, remove.bg, direct
 host-suffix, ifttt.com, direct
 host-suffix, twdown.net, direct
-host-suffix, polyfill.io, direct
-host-suffix, ravenjs.com, direct
-host, in.appcenter.ms, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
@@ -20,11 +14,6 @@ host-suffix, 1passwordusercontent.com, direct
 # > Adblock Plus
 host-suffix, adblockplus.org, direct
 host-suffix, eyeo.com, direct
-
-# > AdGuard
-host-suffix, adguard.com, direct
-host-suffix, adguard.org, direct
-host-suffix, filters.adtidy.org, direct
 
 # > Apple
 user-agent, com.apple.trustd*, direct
