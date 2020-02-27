@@ -15,6 +15,9 @@ host-suffix, limbopro.xyz, proxy
 host-suffix, duyaoss.com, proxy
 host-suffix, nodejs.org, proxy
 host-suffix, atlas.eff.org, proxy
+host-suffix, polyfill.io, proxy
+host-suffix, ravenjs.com, proxy
+host, in.appcenter.ms, proxy
 
 # > ABBYY
 user-agent, textgrabber*, proxy
@@ -23,6 +26,11 @@ host-suffix, finereader.cloud, proxy
 host-suffix, finereaderonline.com, proxy
 host-suffix, abbyy.com, proxy
 host-suffix, onesignal.com, proxy
+
+# > AdGuard
+host-suffix, adguard.com, proxy
+host-suffix, adguard.org, proxy
+host-suffix, filters.adtidy.org, proxy
 
 # > Amazon
 host-suffix, amazonlightsail.com, proxy
@@ -137,6 +145,12 @@ host-suffix, pornhubpremium.com, proxy
 # > Short URL
 host-suffix, tinyurl.com, proxy
 host-suffix, bit.ly, proxy
+
+# > SSL Certificate
+host-suffix, digicert.com, proxy
+host-suffix, digitalcertvalidation.com, proxy
+host-suffix, sectigo.com, proxy
+host-suffix, letsencrypt.org, proxy
 
 # > Tampermonkey
 host-suffix, tampermonkey.net, proxy
