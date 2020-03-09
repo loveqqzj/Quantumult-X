@@ -20,6 +20,7 @@ host-suffix, msocdn.com, Microsoft
 host-suffix, office.net, Microsoft
 host-suffix, office.com, Microsoft
 host-suffix, office365.com, Microsoft
+host-suffix, trafficmanager.net, Microsoft
 host-suffix, mem.gfx.ms, Microsoft
 host-suffix, akamaihd.net, Microsoft
 host-suffix, akamaized.net, Microsoft
