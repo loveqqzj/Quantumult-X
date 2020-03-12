@@ -1,4 +1,5 @@
 # > Microsoft
+host-suffix, windows.com, Microsoft
 host-suffix, wp.com, Microsoft
 host-suffix, visualstudio.com, Microsoft
 host-suffix, blob.core.windows.net, Microsoft
