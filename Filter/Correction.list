@@ -2,7 +2,7 @@
 host, dl.google.com, direct
 host, mtalk.google.com, direct
 
-# > oneDrive
+# > OneDrive
 host-suffix, onedrive.live.com, proxy
 
 # > Windows Update
