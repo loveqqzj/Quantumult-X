@@ -213,10 +213,6 @@ host-suffix, wdc.com, direct
 host-suffix, mycloud.com, direct
 host-suffix, westerndigital.com, direct
 
-# > Windows
-host-suffix, windows.com, direct
-host-suffix, windowsupdate.com, direct
-
 # > Wondershare
 host-suffix, wondershare.cc, direct
 host-suffix, wondershare.cn, direct
