@@ -2,6 +2,9 @@
 host, dl.google.com, direct
 host, mtalk.google.com, direct
 
-# > Microsoft
+# > oneDrive
 host-suffix, onedrive.live.com, proxy
-host-suffix, xboxlive.com, proxy
+
+# > Windows Update
+host-suffix, update.microsoft.com, direct
+host-suffix, windowsupdate.com, direct
