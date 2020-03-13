@@ -17,6 +17,9 @@ host-suffix, nodejs.org, proxy
 host-suffix, atlas.eff.org, proxy
 host-suffix, polyfill.io, proxy
 host-suffix, ravenjs.com, proxy
+host-suffix, trello.com, proxy
+host-suffix, jquery.com, proxy
+host-suffix, pusher.com, proxy
 
 # > ABBYY
 user-agent, textgrabber*, proxy
@@ -49,6 +52,10 @@ host-suffix, orderingmemory.com, proxy
 # > Daum Potplayer
 host-suffix, daum.net, proxy
 host-suffix, daumcdn.net, proxy
+
+# > draw.io
+host-suffix, draw.io, proxy
+host-suffix, diagrams.net, proxy
 
 # > Dropbox
 host-suffix, dropbox.com, proxy
