@@ -79,10 +79,6 @@ host-suffix, appinn.com, direct
 host-suffix, freedownloadmanager.org, direct
 host-suffix, unite.com, direct
 
-# > Google
-host, dl.google.com, direct
-host, mtalk.google.com, direct
-
 # > HTTPS Everywhere
 host-suffix, eff.org, direct
 host-suffix, https-rulesets.org, direct
