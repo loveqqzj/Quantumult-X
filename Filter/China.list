@@ -1,6 +1,5 @@
 # > General
 host-suffix, cn, direct
-
 host-suffix, remove.bg, direct
 host-suffix, ifttt.com, direct
 host-suffix, twdown.net, direct
