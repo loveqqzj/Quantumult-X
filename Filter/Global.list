@@ -73,7 +73,7 @@ host-suffix, fbcdn.net, proxy
 host-suffix, fbsbx.com, proxy
 
 # > Fast.com
-host-suffix, fast.com, proxy
+#host-suffix, fast.com, proxy
 host-suffix, netflix.com, proxy
 host-suffix, nflxvideo.net, proxy
 
