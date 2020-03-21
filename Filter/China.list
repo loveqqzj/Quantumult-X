@@ -183,12 +183,15 @@ host-suffix, oo-software.com, direct
 host-suffix, ia.net, direct
 
 # > Speedtest by Ookla
-user-agent, SpeedTest*, direct
-host-keyword, speedtest, direct
-host-suffix, speedtest.net, direct
-host-suffix, ooklaserver.net, direct
-host-suffix, cdnst.net, direct
-
+#user-agent, SpeedTest*, direct
+#host-keyword, speedtest, direct
+#host-suffix, speedtest.net, direct
+#host-suffix, ooklaserver.net, direct
+#host-suffix, cdnst.net, direct
+#host, config.88-f.net, direct
+#host, cdn.88-f.net, direct
+#host, 1x1.a-mo.net, direct
+  
 # > Suzhou
 user-agent, SuzhouXing*, direct
 user-agent, SZMetro*, direct
