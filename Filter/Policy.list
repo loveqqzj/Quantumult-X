@@ -60,6 +60,16 @@ host-suffix, paypalobjects.com, PayPal
 # host-suffix, pornhub.com, GlobalMedia
 # host-suffix, pornhubpremium.com, GlobalMedia
 
+# > Speedtest by Ookla
+user-agent, SpeedTest*, Speedtest
+host-keyword, speedtest, Speedtest
+host-suffix, speedtest.net, Speedtest
+host-suffix, ooklaserver.net, Speedtest
+host-suffix, cdnst.net, Speedtest
+host, config.88-f.net, Speedtest
+host, cdn.88-f.net, Speedtest
+host, 1x1.a-mo.net, Speedtest
+
 # > YouTube
 # host-suffix, youtube.com, GlobalMedia
 # host-suffix, ytimg.com, GlobalMedia
