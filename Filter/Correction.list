@@ -1,6 +1,3 @@
-# > OneDrive
-host-suffix, onedrive.live.com, proxy
-
 # > Windows Update
 host-suffix, windowsupdate.com, direct
 host-suffix, update.microsoft.com, direct
