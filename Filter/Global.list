@@ -74,7 +74,7 @@ host-suffix, fbsbx.com, proxy
 
 # > Fast.com
 host-suffix, fast.com, proxy
-host-suffix, netflix.net, proxy
+host-suffix, netflix.com, proxy
 host-suffix, nflxvideo.net, proxy
 
 # > FastStone
