@@ -2,5 +2,10 @@
 host-suffix, onedrive.live.com, proxy
 
 # > Windows Update
-host-suffix, update.microsoft.com, direct
 host-suffix, windowsupdate.com, direct
+host-suffix, update.microsoft.com, direct
+host-suffix, windowsupdate.microsoft.com, direct
+host-suffix, download.microsoft.com, direct
+host-suffix, wustat.windows.com, direct
+host-suffix, ntservicepack.microsoft.com, direct
+host-suffix, forefrontdl.microsoft.com, direct
