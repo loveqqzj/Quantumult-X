@@ -1,3 +1,8 @@
+# > Fast.com
+host-suffix, fast.com, 节点测速
+host-suffix, netflix.com, 节点测速
+host-suffix, nflxvideo.net, 节点测速
+
 # > Microsoft
 host-suffix, windows.com, 微软服务
 host-suffix, wp.com, 微软服务
@@ -59,20 +64,6 @@ host-suffix, paypalobjects.com, 美区PayPal
 # host-suffix, phncdn.com, GlobalMedia
 # host-suffix, pornhub.com, GlobalMedia
 # host-suffix, pornhubpremium.com, GlobalMedia
-
-# > Speedtest by Ookla
-user-agent, SpeedTest*, 网络测速
-host-keyword, speedtest, 网络测速
-host-suffix, speedtest.net, 网络测速
-host-suffix, ooklaserver.net, 网络测速
-host-suffix, cdnst.net, 网络测速
-host, config.88-f.net, 网络测速
-host, cdn.88-f.net, 网络测速
-host, 1x1.a-mo.net, 网络测速
-# > Fast.com
-host-suffix, fast.com, 网络测速
-host-suffix, netflix.com, 网络测速
-host-suffix, nflxvideo.net, 网络测速
 
 # > YouTube
 # host-suffix, youtube.com, GlobalMedia
