@@ -188,6 +188,9 @@ host, dynmsg.modpim.com, proxy
 host, onerm.olsvc.com, proxy
 host, in.appcenter.ms, proxy
 
+# > OneDrive网页版
+host-suffix, onedrive.live.com, proxy
+
 # > PayPal
 host-suffix, paypal.com, proxy
 host-suffix, paypalobjects.com, proxy
