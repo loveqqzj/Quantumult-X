@@ -1,7 +1,3 @@
-# > Google
-host, dl.google.com, direct
-host, mtalk.google.com, direct
-
 # > OneDrive
 host-suffix, onedrive.live.com, proxy
 
