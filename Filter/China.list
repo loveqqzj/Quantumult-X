@@ -205,6 +205,3 @@ host-suffix, westerndigital.com, direct
 host-suffix, wondershare.cc, direct
 host-suffix, wondershare.cn, direct
 host-suffix, wondershare.com, direct
-
-# GeoIP China
-geoip, cn, direct
