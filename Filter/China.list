@@ -60,6 +60,7 @@ host-suffix, ourdvs.com, direct
 host-suffix, staticdn.net, direct
 host-suffix, wangsu.com, direct
 host-suffix, bootstrapcdn.com, direct
+host-suffix, loli.net, direct
 
 # > CloudSMS
 host-suffix, z-sms.com, direct
