@@ -181,13 +181,6 @@ host-suffix, mythicsoft.com, direct
 host-suffix, netlimiter.com, direct
 host-suffix, oo-software.com, direct
 host-suffix, ia.net, direct
-
-# > Speedtest by Ookla
-user-agent, SpeedTest*, direct
-host-keyword, speedtest, direct
-host-suffix, speedtest.net, direct
-host-suffix, ooklaserver.net, direct
-
 # > Suzhou
 user-agent, SuzhouXing*, direct
 user-agent, SZMetro*, direct
