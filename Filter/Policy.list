@@ -29,8 +29,6 @@ host-suffix, office.com, 微软服务
 host-suffix, office365.com, 微软服务
 host-suffix, trafficmanager.net, 微软服务
 host-suffix, mem.gfx.ms, 微软服务
-host-suffix, akamaihd.net, 微软服务
-host-suffix, akamaized.net, 微软服务
 host-suffix, aspnetcdn.com, 微软服务
 host-suffix, onestore.ms, 微软服务
 host-suffix, microsoft.com, 微软服务
@@ -50,6 +48,7 @@ host, ocsp.msocsp.com, 微软服务
 host, dynmsg.modpim.com, 微软服务
 host, onerm.olsvc.com, 微软服务
 host, in.appcenter.ms, 微软服务
+host, officecdn-microsoft-com.akamaized.net, 微软服务
 
 # > PayPal
 host-suffix, paypal.com, 美区PayPal
