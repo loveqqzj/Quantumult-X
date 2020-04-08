@@ -1,9 +1,3 @@
-# > Speedtest by Ookla
-user-agent, SpeedTest*, 网络测速
-host-keyword, speedtest, 网络测速
-host-suffix, speedtest.net, 网络测速
-host-suffix, ooklaserver.net, 网络测速
-
 # > Microsoft
 host-suffix, windows.com, 微软服务
 host-suffix, wp.com, 微软服务
