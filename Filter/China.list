@@ -134,6 +134,10 @@ host-suffix, springsunday.net, direct
 host-suffix, tjupt.org, direct
 host-suffix, totheglory.im, direct
 
+# > QNAP
+host-suffix, qnap.com, direct
+host-suffix, myqnapcloud.com, direct
+
 # > QR Code Generator
 host-suffix, goqr.me, direct
 host-suffix, qrserver.com, direct
