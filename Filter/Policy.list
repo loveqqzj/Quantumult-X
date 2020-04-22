@@ -1,5 +1,6 @@
 # > Microsoft
 host-suffix, windows.com, 微软服务
+host-suffix, windows.net, 微软服务
 host-suffix, wp.com, 微软服务
 host-suffix, visualstudio.com, 微软服务
 host-suffix, blob.core.windows.net, 微软服务
@@ -39,7 +40,6 @@ host-suffix, azurewebsites.net, 微软服务
 host-suffix, cloudapp.net, 微软服务
 host-suffix, collab.app.mil, 微软服务
 host-suffix, teams.microsoft.us, 微软服务
-host-suffix, login.windows.net, 微软服务
 host, microsoftmscompoc.tt.omtrdc.net, 微软服务
 host, microsoftwindows.112.2o7.net, 微软服务
 host, skydrive.wns.windows.com, 微软服务
