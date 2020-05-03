@@ -40,6 +40,9 @@ host-suffix, azurewebsites.net, 微软服务
 host-suffix, cloudapp.net, 微软服务
 host-suffix, collab.app.mil, 微软服务
 host-suffix, teams.microsoft.us, 微软服务
+host-suffix, playfabapi.com, 微软服务
+host-suffix, msgamestudios.com, 微软服务
+host-suffix, azureedge.net, 微软服务
 host, microsoftmscompoc.tt.omtrdc.net, 微软服务
 host, microsoftwindows.112.2o7.net, 微软服务
 host, skydrive.wns.windows.com, 微软服务
