@@ -140,8 +140,9 @@ host-suffix, torrentkitty.tv, proxy
 host-suffix, mega.nz, proxy
 host-suffix, mega.co.nz, proxy
 
-# > OneDrive网页版
+# > Microsoft
 host-suffix, onedrive.live.com, proxy
+host-suffix, xboxlive.com, proxy
 
 # > PayPal
 #host-suffix, paypal.com, proxy
