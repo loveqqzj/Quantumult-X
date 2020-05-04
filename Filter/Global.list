@@ -7,7 +7,6 @@ host-suffix, shadowsocks.org, proxy
 host-suffix, debug.com, proxy
 host-suffix, wordpress.com, proxy
 host-suffix, python.com, proxy
-host-suffix, dama.lu, proxy
 host-suffix, repl.it, proxy
 host-suffix, cloudfront.net, proxy
 host-suffix, disqus.com, proxy
