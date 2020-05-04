@@ -3,6 +3,7 @@ host-suffix, cn, direct
 host-suffix, remove.bg, direct
 host-suffix, ifttt.com, direct
 host-suffix, twdown.net, direct
+host-suffix, vivaldi.com, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
