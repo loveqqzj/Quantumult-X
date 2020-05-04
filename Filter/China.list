@@ -26,6 +26,7 @@ user-agent, com.apple.trustd*, direct
 host-suffix, aaplimg.com, direct
 host-suffix, apple.co, direct
 host-suffix, apple.com, direct
+host-suffix, apple.news, direct
 host-suffix, apple-cloudkit.com, direct
 host-suffix, appstore.com, direct
 host-suffix, cdn-apple.com, direct
