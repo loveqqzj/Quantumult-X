@@ -197,6 +197,10 @@ host-suffix, twimg.co, proxy
 host-suffix, twimg.com, proxy
 host-suffix, twitpic.com, proxy
 
+# > Vivaldi
+host-suffix, vivaldi.com, proxy
+host-suffix, vivaldi.net, proxy
+
 # > Yandex
 host-suffix, yandex.ru, proxy
 host-suffix, yandex.com, proxy
