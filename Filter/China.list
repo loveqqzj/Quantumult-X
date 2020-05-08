@@ -64,10 +64,6 @@ host-suffix, wangsu.com, direct
 host-suffix, bootstrapcdn.com, direct
 host-suffix, loli.net, direct
 
-# > CloudSMS
-host-suffix, z-sms.com, direct
-host-suffix, materialtools.com, direct
-
 # > eBay
 host-suffix, ebay.com, direct
 host-suffix, ebayimg.com, direct
