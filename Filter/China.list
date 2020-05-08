@@ -4,7 +4,6 @@ host-suffix, dama.lu, direct
 host-suffix, remove.bg, direct
 host-suffix, ifttt.com, direct
 host-suffix, twdown.net, direct
-host-suffix, vivaldi.com, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
@@ -113,29 +112,6 @@ host-suffix, firefox.com, direct
 host-suffix, notion.so, direct
 host-suffix, intercom.io, direct
 host-suffix, intercomcdn.com, direct
-
-# > PT
-host-suffix, awesome-hd.me, direct
-host-suffix, broadcasthe.net, direct
-host-suffix, chdbits.co, direct
-host-suffix, classix-unlimited.co.uk, direct
-host-suffix, empornium.me, direct
-host-suffix, gazellegames.net, direct
-host-suffix, hdchina.org, direct
-host-suffix, hdsky.me, direct
-host-suffix, jpopsuki.eu, direct
-host-suffix, keepfrds.com, direct
-host-suffix, m-team.cc, direct
-host-suffix, nanyangpt.com, direct
-host-suffix, ncore.cc, direct
-host-suffix, open.cd, direct
-host-suffix, ourbits.club, direct
-host-suffix, passthepopcorn.me, direct
-host-suffix, privatehd.to, direct
-host-suffix, redacted.ch, direct
-host-suffix, springsunday.net, direct
-host-suffix, tjupt.org, direct
-host-suffix, totheglory.im, direct
 
 # > QNAP
 host-suffix, qnap.com, direct
