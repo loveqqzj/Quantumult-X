@@ -4,6 +4,7 @@ host-suffix, dama.lu, direct
 host-suffix, remove.bg, direct
 host-suffix, ifttt.com, direct
 host-suffix, twdown.net, direct
+host-suffix, instabug.com, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
@@ -174,6 +175,7 @@ user-agent, SZMetro*, direct
 # > Warp+ 1.1.1.1
 user-agent, 1.1.1.1*, direct
 host-suffix, 1.1.1.1, direct
+host-suffix, warp.plus, direct
 
 # > Western Digital
 host-suffix, wd.com, direct
