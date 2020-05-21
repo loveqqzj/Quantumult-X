@@ -70,6 +70,13 @@ host-suffix, loli.net, direct
 host-suffix, ebay.com, direct
 host-suffix, ebayimg.com, direct
 
+# > Firefox
+host-suffix, mozilla.com, direct
+host-suffix, mozilla.org, direct
+host-suffix, mozilla.net, direct
+host-suffix, firefox.com, direct
+host-suffix, adu.g-fox.cn, direct
+
 # > Forum & Blog
 host-suffix, hostloc.com, direct
 host-suffix, justmysocks.in, direct
