@@ -169,6 +169,9 @@ host-keyword, speedtest, direct
 host-suffix, speedtest.net, direct
 host-suffix, ooklaserver.net, direct
 
+# > Unsplash
+host-suffix, unsplash.com, direct
+
 # > Suzhou
 user-agent, SuzhouXing*, direct
 user-agent, SZMetro*, direct
