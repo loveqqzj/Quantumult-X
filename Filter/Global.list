@@ -1,19 +1,10 @@
 # > General
+host-suffix, yahoo.com, proxy
 host-suffix, giveawayoftheday.com, proxy
 host-suffix, duckduckgo.com, proxy
-host-suffix, medium.com, proxy
-host-suffix, v2ray.com, proxy
-host-suffix, shadowsocks.org, proxy
 host-suffix, debug.com, proxy
-host-suffix, wordpress.com, proxy
-host-suffix, python.com, proxy
-host-suffix, repl.it, proxy
 host-suffix, cloudfront.net, proxy
 host-suffix, disqus.com, proxy
-host-suffix, yahoo.com, proxy
-host-suffix, limbopro.xyz, proxy
-host-suffix, duyaoss.com, proxy
-host-suffix, nodejs.org, proxy
 host-suffix, atlas.eff.org, proxy
 host-suffix, polyfill.io, proxy
 host-suffix, ravenjs.com, proxy
@@ -98,6 +89,12 @@ host-suffix, imagingtips.com, proxy
 #host-suffix, fast.com, proxy
 #host-suffix, netflix.com, proxy
 #host-suffix, nflxvideo.net, proxy
+
+# > Forum & Blog
+host-suffix, limbopro.xyz, proxy
+host-suffix, duyaoss.com, proxy
+host-suffix, medium.com, proxy
+host-suffix, wordpress.com, proxy
 
 # > Github
 host-suffix, github.io, proxy
@@ -231,6 +228,14 @@ host-suffix, pornhubpremium.com, proxy
 # > Short URL
 host-suffix, tinyurl.com, proxy
 host-suffix, bit.ly, proxy
+
+# > Software & Hardware
+host-suffix, rizonesoft.com, proxy
+host-suffix, nodejs.org, proxy
+host-suffix, python.com, proxy
+host-suffix, repl.it, proxy
+host-suffix, v2ray.com, proxy
+host-suffix, shadowsocks.org, proxy
 
 # > SSL Certificate
 host-suffix, digicert.com, proxy
