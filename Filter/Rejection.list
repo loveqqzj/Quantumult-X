@@ -381,6 +381,9 @@ host-suffix, umengcloud.com, reject
 host-suffix, umtrack.com, reject
 host-suffix, umeng.net, reject
 
+# > Unsplash
+host-suffix, buysellads.net, reject
+
 # > Wondershare
 host-suffix, kochava.com, reject
 
