@@ -275,6 +275,21 @@ host-suffix, twitpic.com, proxy
 host-suffix, vivaldi.com, proxy
 host-suffix, vivaldi.net, proxy
 
+# > Wikipedia
+host-suffix, wikimedia.org, proxy
+host-suffix, mediawiki.org, proxy
+host-suffix, wikiquote.org, proxy
+host-suffix, wikidata.org, proxy
+host-suffix, wiktionary.org, proxy
+host-suffix, wikibooks.org, proxy
+host-suffix, wikisource.org, proxy
+host-suffix, wikiversity.org, proxy
+host-suffix, wikinews.org, proxy
+host-suffix, wikivoyage.org, proxy
+host-suffix, wikimapia.org, proxy
+host-suffix, wikipedia.org, proxy
+host-suffix, wikiwand.com, proxy
+
 # > Yandex
 host-suffix, yandex.ru, proxy
 host-suffix, yandex.com, proxy
