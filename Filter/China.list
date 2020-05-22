@@ -6,6 +6,7 @@ host-suffix, ifttt.com, direct
 host-suffix, twdown.net, direct
 host-suffix, instabug.com, direct
 host-suffix, deepl.com, direct
+host-suffix, xiaomi.net, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
@@ -69,6 +70,12 @@ host-suffix, loli.net, direct
 # > eBay
 host-suffix, ebay.com, direct
 host-suffix, ebayimg.com, direct
+
+# > Example
+host-suffix, example.com, direct
+host-suffix, example.net, direct
+host-suffix, example.org, direct
+host-suffix, example.edu, direct
 
 # > Firefox
 host-suffix, mozilla.com, direct
