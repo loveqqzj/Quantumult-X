@@ -186,6 +186,12 @@ host-keyword, speedtest, direct
 host-suffix, speedtest.net, direct
 host-suffix, ooklaserver.net, direct
 
+# > Stocard
+host-suffix, stocard-backend.com, direct
+host-suffix, stocard.de, direct
+host-suffix, stocardapp.com, direct
+host-suffix, manateeworks.com, direct
+  
 # > Unsplash
 host-suffix, unsplash.com, direct
 
