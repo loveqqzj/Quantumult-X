@@ -98,6 +98,7 @@ host-suffix, medium.com, proxy
 host-suffix, wordpress.com, proxy
 
 # > Github
+host-suffix, git.io, proxy
 host-suffix, github.io, proxy
 host-suffix, github.com, proxy
 host-suffix, githubapp.com, proxy
