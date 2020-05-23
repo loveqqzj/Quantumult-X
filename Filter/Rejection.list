@@ -296,6 +296,7 @@ host, union.youdao.com, reject
 # > Notion
 host-suffix, loggly.com, reject
 host-suffix, segment.io, reject
+host-suffix, segment.com, reject
 host-suffix, amplitude.com, reject
 
 # > PayPal
