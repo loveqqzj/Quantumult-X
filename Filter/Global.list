@@ -28,6 +28,7 @@ host, amazonwebservicesinc.tt.omtrdc.net, proxy
 host-suffix, amazon.co.jp, proxy
 host-suffix, amazon.com, proxy
 host-suffix, amazonaws.com, proxy
+host-suffix, media-amazon.com, proxy
 
 # > Bandwagon
 host-suffix, bwh1.net, proxy
@@ -114,6 +115,7 @@ host-suffix, gstatic.com, proxy
 host-suffix, recaptcha.net, proxy
 host-suffix, ampproject.org, proxy
 host-suffix, ggpht.com, proxy
+host-suffix, google.cn, proxy
 
 # > Imazing
 host-suffix, imazing.com, proxy
