@@ -175,6 +175,7 @@ host-suffix, hotmail.com, proxy
 host-suffix, outlook.com, proxy
 host-suffix, 1drv.com, proxy
 host-suffix, 1drv.ms, proxy
+host-suffix, 1drv.ws, proxy
 host-suffix, msauth.net, proxy
 host-suffix, msecnd.net, proxy
 host-suffix, msocdn.net, proxy
