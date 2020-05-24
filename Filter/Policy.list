@@ -15,6 +15,7 @@ host-suffix, hotmail.com, 微软服务
 host-suffix, outlook.com, 微软服务
 host-suffix, 1drv.com, 微软服务
 host-suffix, 1drv.ms, 微软服务
+host-suffix, 1drv.ws, 微软服务
 host-suffix, msauth.net, 微软服务
 host-suffix, msecnd.net, 微软服务
 host-suffix, msocdn.net, 微软服务
