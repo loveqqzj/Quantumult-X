@@ -12,6 +12,7 @@ host-suffix, trello.com, proxy
 host-suffix, jquery.com, proxy
 host-suffix, pusher.com, proxy
 host-suffix, gravatar.com, proxy
+host-suffix, deepl.com, proxy
 
 # > ABBYY
 user-agent, textgrabber*, proxy
@@ -212,6 +213,11 @@ host, dynmsg.modpim.com, proxy
 host, onerm.olsvc.com, proxy
 host, in.appcenter.ms, proxy
 host, officecdn-microsoft-com.akamaized.net, proxy
+
+# > Notion
+host-suffix, notion.so, proxy
+host-suffix, intercom.io, proxy
+host-suffix, intercomcdn.com, proxy
 
 # > PayPal
 host-suffix, paypal.com, proxy
