@@ -5,7 +5,6 @@ host-suffix, remove.bg, direct
 host-suffix, ifttt.com, direct
 host-suffix, twdown.net, direct
 host-suffix, instabug.com, direct
-host-suffix, deepl.com, direct
 host-suffix, xiaomi.net, direct
 
 # > 1Password
@@ -119,11 +118,6 @@ host-suffix, mozilla.com, direct
 host-suffix, mozilla.org, direct
 host-suffix, mozilla.net, direct
 host-suffix, firefox.com, direct
-
-# > Notion
-host-suffix, notion.so, direct
-host-suffix, intercom.io, direct
-host-suffix, intercomcdn.com, direct
 
 # > QNAP
 host-suffix, qnap.com, direct
