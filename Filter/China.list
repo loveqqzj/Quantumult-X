@@ -119,6 +119,11 @@ host-suffix, mozilla.org, direct
 host-suffix, mozilla.net, direct
 host-suffix, firefox.com, direct
 
+# > Notion
+host-suffix, notion.so, direct
+host-suffix, intercom.io, direct
+host-suffix, intercomcdn.com, direct
+
 # > QNAP
 host-suffix, qnap.com, direct
 host-suffix, myqnapcloud.com, direct
