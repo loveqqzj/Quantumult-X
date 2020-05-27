@@ -198,6 +198,10 @@ host-suffix, unsplash.com, direct
 user-agent, SuzhouXing*, direct
 user-agent, SZMetro*, direct
 
+# > Vivaldi
+host-suffix, vivaldi.com, direct
+host-suffix, vivaldi.net, direct
+
 # > Warp+ 1.1.1.1
 user-agent, 1.1.1.1*, direct
 host-suffix, 1.1.1.1, direct
