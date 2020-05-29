@@ -179,6 +179,12 @@ host-suffix, netlimiter.com, direct
 host-suffix, oo-software.com, direct
 host-suffix, ia.net, direct
 
+# > Speedtest by Ookla
+user-agent, SpeedTest*, direct
+host-keyword, speedtest, direct
+host-suffix, speedtest.net, direct
+host-suffix, wlvpn.com, direct
+
 # > Stocard
 host-suffix, stocard-backend.com, direct
 host-suffix, stocard.de, direct
