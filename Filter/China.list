@@ -183,7 +183,6 @@ host-suffix, ia.net, direct
 user-agent, SpeedTest*, direct
 host-keyword, speedtest, direct
 host-suffix, speedtest.net, direct
-host-suffix, wlvpn.com, direct
 
 # > Stocard
 host-suffix, stocard-backend.com, direct
