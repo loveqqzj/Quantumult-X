@@ -214,6 +214,10 @@ host, onerm.olsvc.com, proxy
 host, in.appcenter.ms, proxy
 host, officecdn-microsoft-com.akamaized.net, proxy
 
+# > PayPal
+host-suffix, paypal.com, proxy
+host-suffix, paypalobjects.com, proxy
+
 # > Pixiv
 host-suffix, pixiv.net, proxy
 host-suffix, pximg.net, proxy
