@@ -127,6 +127,8 @@ host, activations.devmate.com, proxy
 # > Jav
 host-suffix, javlibrary.com, proxy
 host-suffix, sis001.com, proxy
+host-suffix, picturelol.com, proxy
+host-suffix, imagetwist.com, proxy
 host-suffix, blogjav.net, proxy
 host-suffix, pixhost.to, proxy
 ###AVMOO
