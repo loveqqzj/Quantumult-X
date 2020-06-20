@@ -178,6 +178,7 @@ host-suffix, mythicsoft.com, direct
 host-suffix, netlimiter.com, direct
 host-suffix, oo-software.com, direct
 host-suffix, ia.net, direct
+host-suffix, msmgtoolkit.in, direct
 
 # > Speedtest by Ookla
 user-agent, SpeedTest*, direct
