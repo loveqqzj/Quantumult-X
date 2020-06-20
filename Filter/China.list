@@ -98,7 +98,6 @@ host-suffix, https-rulesets.org, direct
 
 # > Image Hosting
 host-suffix, imgchr.com, direct
-host-suffix, ax1x.com, direct
 host-suffix, imgs.in, direct
 
 # > IP Query
