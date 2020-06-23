@@ -13,6 +13,7 @@ host-suffix, jquery.com, proxy
 host-suffix, pusher.com, proxy
 host-suffix, gravatar.com, proxy
 host-suffix, deepl.com, proxy
+host-suffix, cloudflare.com, proxy
 
 # > ABBYY
 user-agent, textgrabber*, proxy
@@ -130,6 +131,14 @@ host-suffix, javcdn.pw, proxy
 host-suffix, cdnbus.cloud, proxy
 host-suffix, busjav.bid, proxy
 host-suffix, dmm.co.jp, proxy
+###Netflav
+host-suffix, netflav.com, proxy
+host-suffix, pornimg.xyz, proxy
+host-suffix, avple.video, proxy
+host-suffix, vid4vip.com, proxy
+host-suffix, fvs.io, proxy
+host-suffix, o0-2.com, proxy
+host-suffix, asianclub.tv, proxy
 ###Torrent
 host-suffix, bteve.com, proxy
 host-suffix, btdig.com, proxy
