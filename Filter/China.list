@@ -6,6 +6,9 @@ host-suffix, ifttt.com, direct
 host-suffix, twdown.net, direct
 host-suffix, instabug.com, direct
 host-suffix, xiaomi.net, direct
+host-suffix, fulibus.net, direct
+host-suffix, myqcloud.com, direct
+host-suffix, mpyit.com, direct
 
 # > 1Password
 host-suffix, 1password.com, direct
