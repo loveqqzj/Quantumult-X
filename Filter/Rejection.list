@@ -397,7 +397,7 @@ host-suffix, mistat.xiaomi.com, reject
 host-suffix, xmpush.xiaomi.com, reject
 
 # > 智慧树
-host, e.hybbtree.com, reject
+# host, e.hybbtree.com, reject
 host, ad5.hybbtree.com, reject
 host, shence-api.hybbtree.com, reject
 host, pro.zhihuishu.hybbtree.com, reject
