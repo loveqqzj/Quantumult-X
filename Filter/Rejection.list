@@ -398,8 +398,10 @@ host-suffix, xmpush.xiaomi.com, reject
 
 # > 智慧树
 host, e.hybbtree.com, reject
-host, ad5.hybbtree.com, reject
 host, shence-api.hybbtree.com, reject
+host, pro.zhihuishu.hybbtree.com, reject
+host-suffix, ad.hybbtree.com, reject
+host-suffix, ad5.hybbtree.com, reject
 host-suffix, giocdn.com, reject
 host-suffix, bobbyen.com, reject
 host-suffix, pstatp.com, reject
