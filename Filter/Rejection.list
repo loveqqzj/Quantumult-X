@@ -395,3 +395,19 @@ host-suffix, ad1.xiaomi.com, reject
 host-suffix, data.mistat.xiaomi.com, reject
 host-suffix, mistat.xiaomi.com, reject
 host-suffix, xmpush.xiaomi.com, reject
+
+# > 智慧树
+host-suffix, mob.com, reject
+host-suffix, snsdk.com, reject
+host-suffix, sensetime.com, reject
+host-suffix, ctobsnsdk.com, reject
+host-suffix, pstatp.com, reject
+host-suffix, e.hybbtree.com, reject
+host-suffix, ad5.hybbtree.com, reject
+host-suffix, shence-api.hybbtree.com, reject
+host-suffix, pglstatp-toutiao.com, reject
+host-suffix, pangolin-sdk-toutiao.com, reject
+host, vmonitor.ws.netease.com, reject
+host, cms-bucket.ws.126.net, reject
+host, static.ws.126.net, reject
+host, ipservice.163.com, reject
