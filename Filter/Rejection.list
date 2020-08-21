@@ -400,13 +400,6 @@ host-suffix, xmpush.xiaomi.com, reject
 host, e.hybbtree.com, reject
 host, shence-api.hybbtree.com, reject
 host, pro.zhihuishu.hybbtree.com, reject
-host-suffix, ad.hybbtree.com, reject
 host-suffix, ad5.hybbtree.com, reject
-host-suffix, giocdn.com, reject
-host-suffix, bobbyen.com, reject
-host-suffix, pstatp.com, reject
-host-suffix, snssdk.com, reject
-host-suffix, sensetime.com, reject
-host-suffix, ctobsnssdk, reject
-host-suffix, mob.com, reject
-host-suffix, dcloud.net.cn, reject
+host-suffix, pangolin-sdk-toutiao.com, reject
+host-suffix, pglstatp-toutiao.com, reject
