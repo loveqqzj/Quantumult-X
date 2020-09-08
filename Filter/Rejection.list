@@ -387,6 +387,7 @@ host-suffix, buysellads.net, reject
 
 # > Wondershare
 host-suffix, kochava.com, reject
+host-suffix, cbs.wondershare.com, reject
 
 # > Xiaomi
 host-suffix, ad.xiaomi.com, reject
