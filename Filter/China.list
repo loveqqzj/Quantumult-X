@@ -189,6 +189,7 @@ host-suffix, msmgtoolkit.in, direct
 user-agent, SpeedTest*, direct
 host-keyword, speedtest, direct
 host-suffix, speedtest.net, direct
+host-suffix, ooklaserver.net, direct
 
 # > Stocard
 host-suffix, stocard-backend.com, direct
