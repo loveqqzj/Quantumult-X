@@ -82,13 +82,6 @@ host-suffix, example.net, direct
 host-suffix, example.org, direct
 host-suffix, example.edu, direct
 
-# > Firefox
-host-suffix, mozilla.com, direct
-host-suffix, mozilla.org, direct
-host-suffix, mozilla.net, direct
-host-suffix, firefox.com, direct
-host-suffix, adu.g-fox.cn, direct
-
 # > Forum & Blog
 host-suffix, hostloc.com, direct
 host-suffix, justmysocks.in, direct
@@ -123,6 +116,7 @@ host-suffix, mozilla.com, direct
 host-suffix, mozilla.org, direct
 host-suffix, mozilla.net, direct
 host-suffix, firefox.com, direct
+host-suffix, adu.g-fox.cn, direct
 
 # > Notion
 host-suffix, notion.so, direct
@@ -184,18 +178,6 @@ host-suffix, netlimiter.com, direct
 host-suffix, oo-software.com, direct
 host-suffix, ia.net, direct
 host-suffix, msmgtoolkit.in, direct
-
-# > Speedtest by Ookla
-user-agent, SpeedTest*, direct
-host-keyword, speedtest, direct
-host, 1x1.a-mo.net, direct
-host, cdn.88-f.net, direct
-host, config.88-f.net, direct
-host, api.wlvpn.com, direct
-host, ipgeo.wlvpn.com, direct
-host, sjcsp.netinformatik.com, direct
-host-suffix, speedtest.net, direct
-host-suffix, ooklaserver.net, direct
 
 # > Stocard
 host-suffix, stocard-backend.com, direct
