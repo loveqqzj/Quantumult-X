@@ -37,8 +37,6 @@ host-suffix, bwh1.net, proxy
 host-suffix, bwh88.net, proxy
 host-suffix, bandwagonhost.com, proxy
 host-suffix, justmysocks.net, proxy
-host-suffix, justmysocks1.net, proxy
-host-suffix, justmysocks2.net, direct
 
 # > Crucial
 host-suffix, crucial.com, proxy
@@ -101,7 +99,6 @@ host-suffix, gstatic.com, proxy
 host-suffix, recaptcha.net, proxy
 host-suffix, ampproject.org, proxy
 host-suffix, ggpht.com, proxy
-host-suffix, google.cn, proxy
 
 # > Imazing
 host-suffix, imazing.com, proxy
@@ -136,10 +133,10 @@ host-suffix, cdnbus.cloud, proxy
 host-suffix, busjav.bid, proxy
 host-suffix, dmm.co.jp, proxy
 ###Torrent
-host-suffix, bteve.com, proxy
-host-suffix, btdig.com, proxy
+host-keyword, btsow, proxy
+host-keyword, btdig, proxy
+host-keyword, torrentkitty, proxy
 host-suffix, sukebei.nyaa.si, proxy
-host-suffix, torrentkitty.tv, proxy
 
 # > Mega
 host-suffix, mega.nz, proxy
