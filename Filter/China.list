@@ -188,6 +188,12 @@ host-suffix, msmgtoolkit.in, direct
 # > Speedtest by Ookla
 user-agent, SpeedTest*, direct
 host-keyword, speedtest, direct
+host, 1x1.a-mo.net, direct
+host, cdn.88-f.net, direct
+host, config.88-f.net, direct
+host, api.wlvpn.com, direct
+host, ipgeo.wlvpn.com, direct
+host, sjcsp.netinformatik.com, direct
 host-suffix, speedtest.net, direct
 host-suffix, ooklaserver.net, direct
 
