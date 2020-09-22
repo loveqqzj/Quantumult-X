@@ -76,7 +76,7 @@ host-suffix, phncdn.com, 国外媒体
 host-suffix, phprcdn.com, 国外媒体
 host-keyword, pornhub, 国外媒体
 # > Twitter
-host-suffix, twitter.com, 国外媒体
+host-keyword, twitter, 国外媒体
 host-suffix, t.co, 国外媒体
 host-suffix, twimg.co, 国外媒体
 host-suffix, twimg.com, 国外媒体
