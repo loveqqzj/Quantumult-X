@@ -11,18 +11,14 @@ host-suffix, myqcloud.com, direct
 host-suffix, mpyit.com, direct
 
 # > 1Password
-host-suffix, 1password.com, direct
-host-suffix, 1password.eu, direct
-host-suffix, 1password.ca, direct
-host-suffix, 1passwordusercontent.com, direct
+host-keyword, 1password, direct
 
 # > Adblock Plus
 host-suffix, adblockplus.org, direct
 host-suffix, eyeo.com, direct
 
 # > AdGuard
-host-suffix, adguard.com, direct
-host-suffix, adguard.org, direct
+host-keyword, adguard, direct
 host-suffix, filters.adtidy.org, direct
 
 # > Apple
@@ -112,9 +108,7 @@ host-suffix, jd.com, direct
 host-suffix, 360buyimg.com, direct
 
 # > Mozilla
-host-suffix, mozilla.com, direct
-host-suffix, mozilla.org, direct
-host-suffix, mozilla.net, direct
+host-keyword, mozilla, direct
 host-suffix, firefox.com, direct
 host-suffix, adu.g-fox.cn, direct
 
