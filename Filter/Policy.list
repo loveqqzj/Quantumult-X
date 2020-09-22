@@ -54,8 +54,7 @@ host, in.appcenter.ms, 微软服务
 host, officecdn-microsoft-com.akamaized.net, 微软服务
 
 # > PayPal
-host-suffix, paypal.com, 美区PayPal
-host-suffix, paypalobjects.com, 美区PayPal
+host-keyword, paypal, 美区PayPal
 
 # > Speedtest by Ookla
 user-agent, SpeedTest*, 网络测速
@@ -70,15 +69,12 @@ host-suffix, ooklaserver.net, 网络测速
 
 ######国外媒体######
 # > Pixiv
-host-suffix, pixiv.net, 国外媒体
+host-keyword, pixiv, 国外媒体
 host-suffix, pximg.net, 国外媒体
-host-suffix, pixivision.net, 国外媒体
-host-suffix, pixiv-bungei.net, 国外媒体
 # > Pornhub
 host-suffix, phncdn.com, 国外媒体
 host-suffix, phprcdn.com, 国外媒体
-host-suffix, pornhub.com, 国外媒体
-host-suffix, pornhubpremium.com, 国外媒体
+host-keyword, pornhub, 国外媒体
 # > Twitter
 host-suffix, twitter.com, 国外媒体
 host-suffix, t.co, 国外媒体
