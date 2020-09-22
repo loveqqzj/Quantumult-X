@@ -1,5 +1,8 @@
 # > General
-host-suffix, yahoo.com, proxy
+host-keyword, dropbox, proxy
+host-keyword, mega, proxy
+host-keyword, yandex, proxy
+host-keyword, yahoo, proxy
 host-suffix, giveawayoftheday.com, proxy
 host-suffix, duckduckgo.com, proxy
 host-suffix, debug.com, proxy
@@ -49,9 +52,6 @@ host-suffix, daumcdn.net, proxy
 # > draw.io
 host-suffix, draw.io, proxy
 host-suffix, diagrams.net, proxy
-
-# > Dropbox
-host-keyword, dropbox, proxy
 
 # > Facebook
 host-keyword, facebook, proxy
@@ -130,16 +130,14 @@ host-keyword, btdig, proxy
 host-keyword, torrentkitty, proxy
 host-suffix, sukebei.nyaa.si, proxy
 
-# > Mega
-host-suffix, mega.nz, proxy
-host-suffix, mega.co.nz, proxy
-
 # > Microsoft
 host-suffix, onedrive.live.com, proxy
 host-suffix, xboxlive.com, proxy
 
 # > Proxy
 host-keyword, ytoo, proxy
+host-suffix, v2ray.com, proxy
+host-suffix, shadowsocks.org, proxy
 
 # > Short URL
 host-suffix, tinyurl.com, proxy
@@ -150,8 +148,6 @@ host-suffix, rizonesoft.com, proxy
 host-suffix, nodejs.org, proxy
 host-suffix, python.com, proxy
 host-suffix, repl.it, proxy
-host-suffix, v2ray.com, proxy
-host-suffix, shadowsocks.org, proxy
 
 # > SSL Certificate
 host-suffix, digicert.com, proxy
@@ -193,6 +189,3 @@ host-suffix, wikivoyage.org, proxy
 host-suffix, wikimapia.org, proxy
 host-suffix, wikipedia.org, proxy
 host-suffix, wikiwand.com, proxy
-
-# > Yandex
-host-keyword, yandex, proxy
