@@ -65,9 +65,6 @@ host-suffix, wangsu.com, direct
 host-suffix, bootstrapcdn.com, direct
 host-suffix, loli.net, direct
 
-# > Connectify
-host-suffix, connectify.me, direct
-
 # > eBay
 host-suffix, ebay.com, direct
 host-suffix, ebayimg.com, direct
@@ -172,6 +169,7 @@ host-suffix, netlimiter.com, direct
 host-suffix, oo-software.com, direct
 host-suffix, ia.net, direct
 host-suffix, msmgtoolkit.in, direct
+host-suffix, connectify.me, direct
 
 # > Stocard
 host-suffix, stocard-backend.com, direct
