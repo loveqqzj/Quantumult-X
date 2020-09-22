@@ -51,13 +51,10 @@ host-suffix, draw.io, proxy
 host-suffix, diagrams.net, proxy
 
 # > Dropbox
-host-suffix, dropbox.com, proxy
-host-suffix, dropboxapi.com, proxy
-host-suffix, dropboxcaptcha.com, proxy
+host-keyword, dropbox, proxy
 
 # > Facebook
-host-suffix, facebook.com, proxy
-host-suffix, facebook.net, proxy
+host-keyword, facebook, proxy
 host-suffix, fb.com, proxy
 host-suffix, fb.me, proxy
 host-suffix, fbaddins.com, proxy
@@ -65,14 +62,13 @@ host-suffix, fbcdn.net, proxy
 host-suffix, fbsbx.com, proxy
 
 # > FastStone
-host-suffix, faststone.org, proxy
-host-suffix, faststonesoft.net, proxy
+host-keyword, faststone, proxy
 host-suffix, imagingtips.com, proxy
 
 # > Fast.com
-host-suffix, fast.com, 网络测速
-host-suffix, netflix.com, 网络测速
-host-suffix, nflxvideo.net, 网络测速
+host-suffix, fast.com, proxy
+host-suffix, netflix.com, proxy
+host-suffix, nflxvideo.net, proxy
 
 # > Forum & Blog
 host-suffix, limbopro.xyz, proxy
@@ -82,11 +78,7 @@ host-suffix, wordpress.com, proxy
 
 # > Github
 host-suffix, git.io, proxy
-host-suffix, github.io, proxy
-host-suffix, github.com, proxy
-host-suffix, githubapp.com, proxy
-host-suffix, githubassets.com, proxy
-host-suffix, githubusercontent.com, proxy
+host-keyword, github, proxy
 
 # > Google
 host-suffix, gvt0.com, proxy
@@ -176,8 +168,7 @@ host-suffix, sleazyfork.org, proxy
 host-suffix, t.me, proxy
 host-suffix, tdesktop.com, proxy
 host-suffix, telegra.ph, proxy
-host-suffix, telegram.me, proxy
-host-suffix, telegram.org, proxy
+host-keyword, telegram, proxy
 ip-cidr, 67.198.55.0/24, proxy
 ip-cidr, 91.108.4.0/22, proxy
 ip-cidr, 91.108.8.0/22, proxy
@@ -204,6 +195,4 @@ host-suffix, wikipedia.org, proxy
 host-suffix, wikiwand.com, proxy
 
 # > Yandex
-host-suffix, yandex.ru, proxy
-host-suffix, yandex.com, proxy
-host-suffix, yandex.net, proxy
+host-keyword, yandex, proxy
