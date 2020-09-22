@@ -146,6 +146,9 @@ host-suffix, mega.co.nz, proxy
 host-suffix, onedrive.live.com, proxy
 host-suffix, xboxlive.com, proxy
 
+# > Proxy
+host-keyword, ytoo, proxy
+
 # > Short URL
 host-suffix, tinyurl.com, proxy
 host-suffix, bit.ly, proxy
