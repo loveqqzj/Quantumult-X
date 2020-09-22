@@ -109,17 +109,14 @@ host-suffix, 1080fhd.com, proxy
 host-suffix, 995tt.pw, proxy
 host-suffix, 789the.com, proxy
 ###AVMOO
-host-suffix, avmask.com, proxy
-host-suffix, avmoo.com, proxy
+host-keyword, avmoo, proxy
 host-suffix, tellme.pw, proxy
 host-suffix, dmm.com, proxy
 host-suffix, netcdn.space, proxy
 host-suffix, clcassd.com, proxy
 host-suffix, avsox.asia, proxy
 ###Javbus
-host-suffix, javbus.com, proxy
-host-suffix, javbus22.com, proxy
-host-suffix, javbus.zone, proxy
+host-keyword, javbus, proxy
 host-suffix, javcdn.pw, proxy
 host-suffix, cdnbus.cloud, proxy
 host-suffix, busjav.bid, proxy
@@ -148,6 +145,7 @@ host-suffix, rizonesoft.com, proxy
 host-suffix, nodejs.org, proxy
 host-suffix, python.com, proxy
 host-suffix, repl.it, proxy
+host-keyword, sourceforge, proxy
 
 # > SSL Certificate
 host-suffix, digicert.com, proxy
