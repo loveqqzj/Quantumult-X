@@ -563,68 +563,69 @@ host-suffix, hockeyapp.net, reject
 host-suffix, braze.com, reject
 host-suffix, aerserv.com, reject
 
-host-suffix, ac3.msn.com
-host-suffix, ads.eu.msn.com
-host-suffix, ads.msn.com
-host-suffix, ads1.msn.com
-host-suffix, ads2.msn.com
-host-suffix, adsyndication.msn.com
-host-suffix, analytics.msn.com
-host-suffix, analytics.msnbc.msn.com
-host-suffix, bat.bing.com
-host-suffix, c.bing.com
-host-suffix, c.msn.com
-host-suffix, c.msn.com.cn
-host-suffix, c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
-host-suffix, catalog.video.msn.com
-host-suffix, confiant.msn.com
-host-suffix, expdb2.msn.com
-host-suffix, h.msn.com
-host-suffix, otf.msn.com
-host-suffix, partner.video.syndication.msn.com
-host-suffix, popup.msn.com
-host-suffix, proxypage.msn.com
-host-suffix, r.msn.com
-host-suffix, rad.msn.com
-host-suffix, rel.msn.com
-host-suffix, rmads.eu.msn.com
-host-suffix, rmads.msn.com
-host-suffix, srtb.msn.com
-host-suffix, telemetry.appex.bing.net
-host-suffix, toolbar.msn.com
-host-suffix, analytics.live.com
-host-suffix, bingads.microsoft.com
-host-suffix, c.live.com
-host-suffix, choice.microsoft.com
-host-suffix, crl.microsoft.com
-host-suffix, diagnostics.support.microsoft.com
-host-suffix, encoderfarmstatsnew.servicebus.windows.net
-host-suffix, events.data.microsoft.com
-host-suffix, fp.measure.office.com
-host-suffix, glbdns.microsoft.com
-host-suffix, i1.services.social.microsoft.com
-host-suffix, ieonline.microsoft.com
-host-suffix, insitez.blob.core.windows.net
-host-suffix, microsoftaffiliates.net
-host-suffix, mobile.pipe.aria.microsoft.com
-host-suffix, nexus.officeapps.live.com
-host-suffix, nexusrules.officeapps.live.com
-host-suffix, optanon.blob.core.windows.net
-host-suffix, rad.live.com
-host-suffix, rad.microsoft.com
-host-suffix, redir.metaservices.microsoft.com
-host-suffix, settings-sandbox.data.microsoft.com
-host-suffix, settings-win.data.microsoft.com
-host-suffix, statsfe1.ws.microsoft.com
-host-suffix, statsfe2.ws.microsoft.com
-host-suffix, telemetry.microsoft.com
-host-suffix, telemetry.urs.microsoft.com
-host-suffix, vortex.data.microsoft.com
-host-suffix, vortex-sandbox.data.microsoft.com
-host-suffix, vortex-win.data.microsoft.com
-host-suffix, vortex-win-sandbox.data.microsoft.com
-host-suffix, watson.live.com
-host-suffix, watson.microsoft.com
+host-suffix, ac3.msn.com, reject
+host-suffix, ads.eu.msn.com, reject
+host-suffix, ads.msn.com, reject
+host-suffix, ads1.msn.com, reject
+host-suffix, ads2.msn.com, reject
+host-suffix, adsyndication.msn.com, reject
+host-suffix, analytics.msn.com, reject
+host-suffix, analytics.msnbc.msn.com, reject
+host-suffix, bat.bing.com, reject
+host-suffix, c.bing.com, reject
+host-suffix, c.msn.com, reject
+host-suffix, c.msn.com.cn, reject
+host-suffix, c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com, reject
+host-suffix, catalog.video.msn.com, reject
+host-suffix, confiant.msn.com, reject
+host-suffix, expdb2.msn.com, reject
+host-suffix, h.msn.com, reject
+host-suffix, mobileads.msn.com, reject
+host-suffix, otf.msn.com, reject
+host-suffix, partner.video.syndication.msn.com, reject
+host-suffix, popup.msn.com, reject
+host-suffix, proxypage.msn.com, reject
+host-suffix, r.msn.com, reject
+host-suffix, rad.msn.com, reject
+host-suffix, rel.msn.com, reject
+host-suffix, rmads.eu.msn.com, reject
+host-suffix, rmads.msn.com, reject
+host-suffix, srtb.msn.com, reject
+host-suffix, telemetry.appex.bing.net, reject
+host-suffix, toolbar.msn.com, reject
+host-suffix, analytics.live.com, reject
+host-suffix, bingads.microsoft.com, reject
+host-suffix, c.live.com, reject
+host-suffix, choice.microsoft.com, reject
+host-suffix, crl.microsoft.com, reject
+host-suffix, diagnostics.support.microsoft.com, reject
+host-suffix, encoderfarmstatsnew.servicebus.windows.net, reject
+host-suffix, events.data.microsoft.com, reject
+host-suffix, fp.measure.office.com, reject
+host-suffix, glbdns.microsoft.com, reject
+host-suffix, i1.services.social.microsoft.com, reject
+host-suffix, ieonline.microsoft.com, reject
+host-suffix, insitez.blob.core.windows.net, reject
+host-suffix, microsoftaffiliates.net, reject
+host-suffix, mobile.pipe.aria.microsoft.com, reject
+host-suffix, nexus.officeapps.live.com, reject
+host-suffix, nexusrules.officeapps.live.com, reject
+host-suffix, optanon.blob.core.windows.net, reject
+host-suffix, rad.live.com, reject
+host-suffix, rad.microsoft.com, reject
+host-suffix, redir.metaservices.microsoft.com, reject
+host-suffix, settings-sandbox.data.microsoft.com, reject
+host-suffix, settings-win.data.microsoft.com, reject
+host-suffix, statsfe1.ws.microsoft.com, reject
+host-suffix, statsfe2.ws.microsoft.com, reject
+host-suffix, telemetry.microsoft.com, reject
+host-suffix, telemetry.urs.microsoft.com, reject
+host-suffix, vortex.data.microsoft.com, reject
+host-suffix, vortex-sandbox.data.microsoft.com, reject
+host-suffix, vortex-win.data.microsoft.com, reject
+host-suffix, vortex-win-sandbox.data.microsoft.com, reject
+host-suffix, watson.live.com, reject
+host-suffix, watson.microsoft.com, reject
 
 # > NetEase
 host, ad.bn.netease.com, reject
