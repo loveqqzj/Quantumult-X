@@ -196,7 +196,6 @@ host-suffix, baifen.music.baidu.com, reject
 host-suffix, baikebcs.bdimg.com, reject
 host-suffix, banlv.baidu.com, reject
 host-suffix, bdimg.share.baidu.com, reject
-host-suffix, boxer.baidu.com, reject
 host-suffix, browserkernel.baidu.com, reject
 host-suffix, btlaunch.baidu.com, reject
 host-suffix, bzclk.baidu.com, reject
