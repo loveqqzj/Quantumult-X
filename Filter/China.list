@@ -17,8 +17,7 @@ host-suffix, adblockplus.org, direct
 host-suffix, eyeo.com, direct
 
 # > AdGuard
-host-keyword, adguard, direct
-host-suffix, filters.adtidy.org, direct
+host-suffix, adguard.org, direct
 
 # > Apple
 user-agent, com.apple.trustd*, direct
