@@ -53,9 +53,6 @@ host, onerm.olsvc.com, 微软服务
 host, in.appcenter.ms, 微软服务
 host, officecdn-microsoft-com.akamaized.net, 微软服务
 
-# > PayPal
-host-keyword, paypal, 美区PayPal
-
 # > Speedtest by Ookla
 user-agent, SpeedTest*, 网络测速
 host-keyword, speedtest, 网络测速
@@ -66,24 +63,3 @@ host, api.wlvpn.com, 网络测速
 host, ipgeo.wlvpn.com, 网络测速
 host, sjcsp.netinformatik.com, 网络测速
 host-suffix, ooklaserver.net, 网络测速
-
-######国外媒体######
-# > Pixiv
-host-keyword, pixiv, 国外媒体
-host-suffix, pximg.net, 国外媒体
-# > Pornhub
-host-suffix, phncdn.com, 国外媒体
-host-suffix, phprcdn.com, 国外媒体
-host-keyword, pornhub, 国外媒体
-# > Twitter
-host-keyword, twitter, 国外媒体
-host-suffix, t.co, 国外媒体
-host-suffix, twimg.co, 国外媒体
-host-suffix, twimg.com, 国外媒体
-host-suffix, twitpic.com, 国外媒体
-# > YouTube
-host-suffix, youtube.com, 国外媒体
-host-suffix, ytimg.com, 国外媒体
-host-suffix, youtu.be, 国外媒体
-host-suffix, yt.be, 国外媒体
-host-suffix, googlevideo.com, 国外媒体
