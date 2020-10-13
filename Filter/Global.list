@@ -131,6 +131,18 @@ host-suffix, sukebei.nyaa.si, proxy
 host-suffix, onedrive.live.com, proxy
 host-suffix, xboxlive.com, proxy
 
+# > PayPal
+host-keyword, paypal, proxy
+
+# > Pixiv
+host-keyword, pixiv, proxy
+host-suffix, pximg.net, proxy
+
+# > Pornhub
+host-suffix, phncdn.com, proxy
+host-suffix, phprcdn.com, proxy
+host-keyword, pornhub, proxy
+
 # > Proxy
 host-keyword, ytoo, proxy
 host-suffix, v2ray.com, proxy
@@ -173,6 +185,13 @@ ip-cidr, 109.239.140.0/24, proxy
 ip-cidr, 149.154.160.0/20, proxy
 ip-cidr, 205.172.60.0/22, proxy
 
+# > Twitter
+host-keyword, twitter, proxy
+host-suffix, t.co, proxy
+host-suffix, twimg.co, proxy
+host-suffix, twimg.com, proxy
+host-suffix, twitpic.com, proxy
+
 # > Wikipedia
 host-suffix, wikimedia.org, proxy
 host-suffix, mediawiki.org, proxy
@@ -187,3 +206,10 @@ host-suffix, wikivoyage.org, proxy
 host-suffix, wikimapia.org, proxy
 host-suffix, wikipedia.org, proxy
 host-suffix, wikiwand.com, proxy
+
+# > YouTube
+host-suffix, youtube.com, proxy
+host-suffix, ytimg.com, proxy
+host-suffix, youtu.be, proxy
+host-suffix, yt.be, proxy
+host-suffix, googlevideo.com, proxy
