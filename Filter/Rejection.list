@@ -1,3 +1,6 @@
+# > General
+host-suffix, doubleclick.net, reject
+
 # > 12306
 host-suffix, ad.12306.cn, reject
 
