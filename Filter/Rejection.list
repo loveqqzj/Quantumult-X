@@ -1,5 +1,7 @@
-# > General
-host-suffix, doubleclick.net, reject
+# > 其他
+host-keyword, adservice, reject
+host-suffix, app-measurement.com, reject
+host-suffix, amazon-adsystem.com, reject
 
 # > 12306
 host-suffix, ad.12306.cn, reject
@@ -11,8 +13,26 @@ host-suffix, srv3.airdroid.com, reject
 host-suffix, pc.airdroid.com, reject
 
 # > Amap
-host-suffix, page.amap.com, reject
 host-keyword, ads.amap.com, reject
+
+# > Apple
+host-suffix, iadsdk.apple.com, reject
+host-suffix, ads.internal.unity3d.com, reject
+host-suffix, ads.prd.ie.internal.unity3d.com, reject
+host-suffix, unityads.unity3d.com, reject
+
+# > AutoHome
+host, adproxy.autohome.com.cn, reject
+host, rd.autohome.com.cn, reject
+host, al.autohome.com.cn, reject
+host, applogapi.autohome.com.cn, reject
+
+# > Google
+host-suffix, doubleclick.net, reject
+host-suffix, googleadservices.com, reject
+host-suffix, googleadsserving.cn, reject
+host-suffix, googlesyndication.com, reject
+host-suffix, google-analytics.com, reject
 
 # > Jav
 host-suffix, juicyads.com, reject
@@ -29,6 +49,21 @@ host-suffix, mopub.com, reject
 host-suffix, adtdp.com, reject
 host-suffix, teads.tv, reject
 host-suffix, fivecdm.com, reject
+
+# > Tencent
+host-suffix, e.qq.com, reject
+host-suffix, gdt.qq.com, reject
+host-suffix, l.qq.com, reject
+host, adsmind.apdcdn.tc.qq.com, reject
+host, adsmind.gdtimg.com, reject
+host, adsmind.tc.qq.com, reject
+host, pgdt.gtimg.cn, reject
+host, pgdt.gtimg.com, reject
+host, pgdt.ugdtimg.com, reject
+host, splashqqlive.gtimg.com, reject
+host, wa.gtimg.com, reject
+host, wxsnsdy.wxs.qq.com, reject
+host, wxsnsdythumb.wxs.qq.com, reject
 
 # > Wondershare
 host-suffix, kochava.com, reject
