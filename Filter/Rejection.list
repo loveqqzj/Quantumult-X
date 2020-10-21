@@ -27,6 +27,22 @@ host, rd.autohome.com.cn, reject
 host, al.autohome.com.cn, reject
 host, applogapi.autohome.com.cn, reject
 
+# > Baidu
+host-suffix, cpro.baidu.com, reject
+host-suffix, pos.baidu.com, reject
+host, afd.baidu.com, reject
+host, als.baidu.com, reject
+host, duclick.baidu.com, reject
+host, mobads.baidu.com, reject
+host, mobads-logs.baidu.com, reject
+host, nsclick.baidu.com, reject
+
+# > ChinaTelecom
+host, ad.21cn.com, reject
+host, ad.k.21cn.com, reject
+host, admarket.21cn.com, reject
+host, adshows.21cn.com, reject
+
 # > Google
 host-suffix, doubleclick.net, reject
 host-suffix, googleadservices.com, reject
