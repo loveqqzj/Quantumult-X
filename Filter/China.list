@@ -169,6 +169,9 @@ host-suffix, ia.net, direct
 host-suffix, msmgtoolkit.in, direct
 host-suffix, connectify.me, direct
 
+# > Solveigmm
+host-suffix, solveigmm.com, direct
+
 # > Stocard
 host-suffix, stocard-backend.com, direct
 host-suffix, stocard.de, direct
