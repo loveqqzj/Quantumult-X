@@ -171,6 +171,7 @@ host-suffix, connectify.me, direct
 
 # > Solveigmm
 host-suffix, solveigmm.com, direct
+host-suffix, cleverbridge.com, direct
 
 # > Stocard
 host-suffix, stocard-backend.com, direct
