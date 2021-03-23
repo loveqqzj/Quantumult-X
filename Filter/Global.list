@@ -1,22 +1,6 @@
 # > General
-host-keyword, dropbox, proxy
-host-keyword, mega, proxy
-host-keyword, yandex, proxy
-host-keyword, yahoo, proxy
-host-suffix, giveawayoftheday.com, proxy
-host-suffix, duckduckgo.com, proxy
-host-suffix, debug.com, proxy
-host-suffix, cloudfront.net, proxy
-host-suffix, disqus.com, proxy
-host-suffix, atlas.eff.org, proxy
-host-suffix, polyfill.io, proxy
-host-suffix, ravenjs.com, proxy
-host-suffix, trello.com, proxy
-host-suffix, jquery.com, proxy
-host-suffix, pusher.com, proxy
-host-suffix, gravatar.com, proxy
-host-suffix, deepl.com, proxy
-host-suffix, cloudflare.com, proxy
+host-suffix, 9to5mac.com, proxy
+host-suffix, bde4.cc, proxy
 
 # > ABBYY
 user-agent, textgrabber*, proxy
@@ -66,7 +50,8 @@ host-suffix, fbcdn.net, proxy
 host-suffix, fbsbx.com, proxy
 
 # > FastStone
-host-keyword, faststone, proxy
+host-suffix, faststone.org, proxy
+host-suffix, faststonesoft.net, proxy
 host-suffix, imagingtips.com, proxy
 
 # > Fast.com
@@ -79,6 +64,7 @@ host-suffix, limbopro.xyz, proxy
 host-suffix, duyaoss.com, proxy
 host-suffix, medium.com, proxy
 host-suffix, wordpress.com, proxy
+host-suffix, v2fly.org, proxy
 
 # > Github
 host-suffix, git.io, proxy
@@ -98,8 +84,8 @@ host-suffix, ggpht.com, proxy
 
 # > Imazing
 host-suffix, imazing.com, proxy
-host, app.hello.devmate.com, proxy
-host, activations.devmate.com, proxy
+host-suffix, devmate.com, proxy
+host-suffix, devmate.io, proxy
 
 # > Jav
 host-suffix, javlibrary.com, proxy
@@ -131,9 +117,6 @@ host-suffix, sukebei.nyaa.si, proxy
 host-suffix, onedrive.live.com, proxy
 host-suffix, xboxlive.com, proxy
 
-# > PayPal
-host-keyword, paypal, proxy
-
 # > Pixiv
 host-keyword, pixiv, proxy
 host-suffix, pximg.net, proxy
@@ -148,6 +131,10 @@ host-keyword, ytoo, proxy
 host-suffix, v2ray.com, proxy
 host-suffix, shadowsocks.org, proxy
 
+# > QNAP
+host-suffix, qnap.com, proxy
+host-suffix, myqnapcloud.com, proxy
+
 # > Short URL
 host-suffix, tinyurl.com, proxy
 host-suffix, bit.ly, proxy
@@ -158,6 +145,7 @@ host-suffix, nodejs.org, proxy
 host-suffix, python.com, proxy
 host-suffix, repl.it, proxy
 host-keyword, sourceforge, proxy
+host-suffix, bandisoft.com, proxy
 
 # > SSL Certificate
 host-suffix, digicert.com, proxy
