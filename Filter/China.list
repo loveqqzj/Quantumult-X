@@ -112,10 +112,6 @@ host-suffix, notion.so, direct
 host-suffix, intercom.io, direct
 host-suffix, intercomcdn.com, direct
 
-# > QNAP
-host-suffix, qnap.com, direct
-host-suffix, myqnapcloud.com, direct
-
 # > QR Code Generator
 host-suffix, goqr.me, direct
 host-suffix, qrserver.com, direct
@@ -152,7 +148,6 @@ host-suffix, nvidia.com, direct
 host-suffix, oracle.com, direct
 host-suffix, vmware.com, direct
 host-suffix, airdroid.com, direct
-host-suffix, bandisoft.com, direct
 host-suffix, cryptomator.org, direct
 host-suffix, fineprint.com, direct
 host-suffix, dropitproject.com, direct
