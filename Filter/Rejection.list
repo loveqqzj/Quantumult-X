@@ -2,6 +2,8 @@
 host-keyword, adservice, reject
 host-suffix, app-measurement.com, reject
 host-suffix, amazon-adsystem.com, reject
+host-suffix, cnzz.com, reject
+host-suffix, mob.com, reject
 
 # > 12306
 host-suffix, ad.12306.cn, reject
@@ -99,3 +101,10 @@ host-suffix, nicorette.co.kr, reject
 host-suffix, ssl-youtube.2cnt.net, reject
 host-suffix, youtube.112.2o7.net, reject
 host-suffix, youtube.2cnt.net, reject
+
+# > 智慧树
+host-suffix, e.hybbtree.com, reject
+host-suffix, ad5.hybbtree.com, reject
+host-suffix, pglstatp-toutiao.com, reject
+host-suffix, ready.hybbtree.com, reject
+host-suffix, shence-api.hybbtree.com, reject
