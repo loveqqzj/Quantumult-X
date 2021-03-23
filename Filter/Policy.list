@@ -53,6 +53,10 @@ host, onerm.olsvc.com, 微软服务
 host, in.appcenter.ms, 微软服务
 host, officecdn-microsoft-com.akamaized.net, 微软服务
 
+# > PayPal
+host-suffix, paypal.com, 美区PayPal
+host-suffix, paypalobjects.com, 美区PayPal
+
 # > Speedtest by Ookla
 user-agent, SpeedTest*, 网络测速
 host-keyword, speedtest, 网络测速
