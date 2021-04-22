@@ -6,8 +6,8 @@ host-suffix, twdown.net, direct
 host-suffix, instabug.com, direct
 host-suffix, xiaomi.net, direct
 host-suffix, fuliba2020.net, direct
-host-suffix, myqcloud.com, direct
 host-suffix, mpyit.com, direct
+host-suffix, bde4.cc, direct
 
 # > 1Password
 host-keyword, 1password, direct
@@ -75,6 +75,10 @@ host-suffix, staticdn.net, direct
 host-suffix, wangsu.com, direct
 host-suffix, bootstrapcdn.com, direct
 host-suffix, loli.net, direct
+
+# > DDNS
+host-suffix, asuscomm.com, direct
+host-suffix, myqcloud.com, direct
 
 # > eBay
 host-suffix, ebay.com, direct
