@@ -4,6 +4,7 @@ host-suffix, app-measurement.com, reject
 host-suffix, amazon-adsystem.com, reject
 host-suffix, cnzz.com, reject
 host-suffix, mob.com, reject
+host-suffix, appsflyer.com, reject
 
 # > 12306
 host-suffix, ad.12306.cn, reject
