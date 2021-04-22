@@ -63,7 +63,7 @@ host-suffix, siftscience.com, direct
 host-suffix, riskified.com, direct
 host-suffix, hanqiweb.cn, direct
 host-suffix, goodusahost.cn, direct
-ip-cidr, 54.150.172.143, direct
+host, 54.150.172.143, direct
 
 # > CDN
 host-suffix, ccgslb.com, direct
