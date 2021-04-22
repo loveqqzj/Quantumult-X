@@ -52,6 +52,19 @@ host-suffix, alikunlun.com, direct
 host-suffix, alipay.com, direct
 host-suffix, tmall.hk, direct
 
+# > Binance
+host-keyword, binance, direct
+host-suffix, shyqxxy.com, direct
+host-suffix, yshyqxx.com, direct
+host-suffix, online-metrix.net, direct
+host-suffix, cloudfront.net, direct
+host-suffix, appsflyer.com, direct
+host-suffix, siftscience.com, direct
+host-suffix, riskified.com, direct
+host-suffix, hanqiweb.cn, direct
+host-suffix, goodusahost.cn, direct
+ip-cidr, 54.150.172.143, direct
+
 # > CDN
 host-suffix, ccgslb.com, direct
 host-suffix, ccgslb.net, direct
