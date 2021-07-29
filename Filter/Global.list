@@ -1,6 +1,5 @@
 # > General
 host-suffix, 9to5mac.com, proxy
-host-suffix, bde4.cc, proxy
 
 # > ABBYY
 user-agent, textgrabber*, proxy
