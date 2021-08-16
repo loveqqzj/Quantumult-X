@@ -136,6 +136,7 @@ host-suffix, qrserver.com, direct
 # > Quantumult Geolite2 Update
 host-suffix, maxmind.com, direct
 host-suffix, crossutility.com, direct
+host-suffix, quantumult.app, direct
 
 # > Razer
 host-suffix, razer.com, direct
@@ -193,6 +194,11 @@ host-suffix, manateeworks.com, direct
   
 # > Unsplash
 host-suffix, unsplash.com, direct
+
+# > Splashtop
+host-suffix, splashtop.com, direct
+host-suffix, 2q10.com, direct
+host-suffix, appcloudcdn.com, direct
 
 # > Suzhou
 user-agent, SuzhouXing*, direct
