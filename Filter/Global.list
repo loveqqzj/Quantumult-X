@@ -107,7 +107,7 @@ host-suffix, javcdn.pw, proxy
 host-suffix, cdnbus.cloud, proxy
 host-suffix, busjav.bid, proxy
 ###JavDB
-host-suffix, javdb.com, proxy
+host-keyword, javdb, proxy
 host-suffix, jdbimgs.com, proxy
 ###Torrent
 host-keyword, btsow, proxy
