@@ -93,6 +93,7 @@ host-suffix, picturelol.com, proxy
 host-suffix, imagetwist.com, proxy
 host-suffix, blogjav.net, proxy
 host-suffix, pixhost.to, proxy
+host-suffix, dmm.co.jp, proxy
 ###AVMOO
 host-keyword, avmoo, proxy
 host-suffix, tellme.pw, proxy
@@ -105,7 +106,9 @@ host-keyword, javbus, proxy
 host-suffix, javcdn.pw, proxy
 host-suffix, cdnbus.cloud, proxy
 host-suffix, busjav.bid, proxy
-host-suffix, dmm.co.jp, proxy
+###JavDB
+host-suffix, javdb.com, proxy
+host-suffix, jdbimgs.com, proxy
 ###Torrent
 host-keyword, btsow, proxy
 host-keyword, btdig, proxy
