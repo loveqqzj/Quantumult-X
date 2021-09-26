@@ -11,6 +11,7 @@ host-suffix, onesignal.com, proxy
 
 # > AdGuard
 host-suffix, adguard.com, proxy
+host-suffix, adguard.org, proxy
 host-suffix, filters.adtidy.org, proxy
 
 # > Amazon
