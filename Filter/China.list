@@ -17,9 +17,6 @@ host-keyword, 1password, direct
 host-suffix, adblockplus.org, direct
 host-suffix, eyeo.com, direct
 
-# > AdGuard
-host-suffix, adguard.org, direct
-
 # > Apple
 user-agent, com.apple.trustd*, direct
 host-suffix, aaplimg.com, direct
