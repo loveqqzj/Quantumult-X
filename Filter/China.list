@@ -52,6 +52,8 @@ host-suffix, tmall.hk, direct
 
 # > Binance
 host-keyword, binance, direct
+host-suffix, bnappzh.com, direct
+host-suffix, bntrace.com, direct
 host-suffix, shyqxxy.com, direct
 host-suffix, yshyqxx.com, direct
 host-suffix, online-metrix.net, direct
