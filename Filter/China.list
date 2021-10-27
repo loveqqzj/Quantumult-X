@@ -52,6 +52,7 @@ host-suffix, tmall.hk, direct
 
 # > Binance
 host-keyword, binance, direct
+host-keyword, bnbstatic.com, direct
 host-suffix, bnappzh.com, direct
 host-suffix, bntrace.com, direct
 host-suffix, shyqxxy.com, direct
@@ -62,7 +63,6 @@ host-suffix, siftscience.com, direct
 host-suffix, riskified.com, direct
 host-suffix, hanqiweb.cn, direct
 host-suffix, goodusahost.cn, direct
-host, 54.150.172.143, direct
 
 # > CDN
 host-suffix, ccgslb.com, direct
