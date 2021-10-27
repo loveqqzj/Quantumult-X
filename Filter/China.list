@@ -52,7 +52,7 @@ host-suffix, tmall.hk, direct
 
 # > Binance
 host-keyword, binance, direct
-host-keyword, bnbstatic.com, direct
+host-suffix, bnbstatic.com, direct
 host-suffix, bnappzh.com, direct
 host-suffix, bntrace.com, direct
 host-suffix, shyqxxy.com, direct
