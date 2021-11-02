@@ -57,14 +57,6 @@ host, officecdn-microsoft-com.akamaized.net, 微软服务
 host-suffix, paypal.com, 美区PayPal
 host-suffix, paypalobjects.com, 美区PayPal
 
-# > Riot Games
-host-keyword, riotgames, 美区LOL
-host-keyword, lolstatic, 美区LOL
-host-suffix, cdn.rgpub.io, 美区LOL
-host-suffix, leagueoflegends.com, 美区LOL
-host-suffix, lolesports.com, 美区LOL
-host-suffix, playvalorant.com, 美区LOL
-
 # > Speedtest by Ookla
 user-agent, SpeedTest*, 网络测速
 host-keyword, speedtest, 网络测速
