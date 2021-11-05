@@ -94,13 +94,6 @@ host-suffix, imagetwist.com, proxy
 host-suffix, blogjav.net, proxy
 host-suffix, pixhost.to, proxy
 host-suffix, dmm.co.jp, proxy
-###AVMOO
-host-keyword, avmoo, proxy
-host-suffix, tellme.pw, proxy
-host-suffix, dmm.com, proxy
-host-suffix, netcdn.space, proxy
-host-suffix, clcassd.com, proxy
-host-suffix, avsox.asia, proxy
 ###Javbus
 host-keyword, javbus, proxy
 host-suffix, javcdn.pw, proxy
@@ -109,11 +102,6 @@ host-suffix, busjav.bid, proxy
 ###JavDB
 host-keyword, javdb, proxy
 host-suffix, jdbimgs.com, proxy
-###Torrent
-host-keyword, btsow, proxy
-host-keyword, btdig, proxy
-host-keyword, torrentkitty, proxy
-host-suffix, sukebei.nyaa.si, proxy
 
 # > Microsoft
 host-suffix, onedrive.live.com, proxy
