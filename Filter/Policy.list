@@ -1,4 +1,4 @@
-## > Microsoft
+# > Microsoft
 host-suffix, windows.com, Microsoft
 host-suffix, windows.net, Microsoft
 host-suffix, wp.com, Microsoft
@@ -46,12 +46,12 @@ host-keyword, microsoft, Microsoft
 host-suffix, playfabapi.com, Microsoft
 host-suffix, msgamestudios.com, Microsoft
 
-## > USA
+# > USA
 #### > PayPal
 host-suffix, paypal.com, USA
 host-suffix, paypalobjects.com, USA
 
-## > Speedtest
+# > Speedtest
 host-suffix, cdnst.net, Speedtest
 host-suffix, cellmaps.com, Speedtest
 host-suffix, ekahau.cloud, Speedtest
@@ -64,7 +64,7 @@ host-suffix, speedtest.net, Speedtest
 host-suffix, speedtestcustom.com, Speedtest
 host-suffix, webtest.net, Speedtest
 
-## > Japan
+# > Japan
 #### > Amazon
 host-suffix, amazon.co.jp, Japan
 
