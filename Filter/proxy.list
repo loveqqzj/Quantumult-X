@@ -1,0 +1,166 @@
+# > other
+host-suffix, rizonesoft.com, proxy
+host-suffix, notion.so, proxy
+host-suffix, qnap.com, proxy
+host-suffix, driverpack.io, proxy
+host-suffix, giveawayoftheday.com, proxy
+host-suffix, duckduckgo.com, proxy
+host-suffix, cloudflare.com, proxy
+host-suffix, twdown.net, proxy
+host-suffix, printfriendly.com, proxy
+
+# > AdGuard
+host-suffix, adguard.app, proxy
+host-suffix, adguard.com, proxy
+host-suffix, adguard.info, proxy
+host-suffix, adguard.io, proxy
+host-suffix, adguard.org, proxy
+host-suffix, adtidy.net, proxy
+host-suffix, adtidy.org, proxy
+host-suffix, agrd.io, proxy
+
+# > Adguard dns
+host-suffix, adguard-dns.com, proxy
+host-suffix, adguard-dns.io, proxy
+
+# > Adguard vpn
+host-suffix, adguardvpn.com, proxy
+host-suffix, adguard-vpn.com, proxy
+host-suffix, adguard-vpn.online, proxy
+
+# > Bandwagon
+host-suffix, bwh1.net, proxy
+host-suffix, bwh88.net, proxy
+host-suffix, bandwagonhost.com, proxy
+host-suffix, justmysocks.net, proxy
+host-suffix, justmysocks1.net, proxy
+host-suffix, justmysocks2.net, proxy
+host-suffix, justmysocks4.net, proxy
+
+# > Binance
+host-keyword, binance, proxy
+host-suffix, binancecnt.com, proxy
+host-keyword, binancezh, proxy
+# API
+host-suffix, binanceapi.com, proxy
+host-suffix, bnbstatic.com, proxy
+# saas 
+host-suffix, saasexch.com, proxy
+host-suffix, saasexch.io, proxy
+host-suffix, appsflayer.com, proxy
+
+# > Daum Potplayer
+host-suffix, daum.net, proxy
+host-suffix, daumcdn.net, proxy
+
+# > DeepL
+host-suffix, deepl.com, proxy
+host-suffix, linguee.com, proxy
+
+# > draw.io
+host-suffix, draw.io, proxy
+host-suffix, diagrams.net, proxy
+
+# > FastStone
+host-suffix, faststone.org, proxy
+host-suffix, faststonesoft.net, proxy
+host-suffix, imagingtips.com, proxy
+
+# > Forum & Blog
+host-suffix, v2ex.com, proxy
+host-suffix, duyaoss.com, proxy
+host-suffix, limbopro.xyz, proxy
+
+# > Github
+host-suffix, git.io, proxy
+host-suffix, github.com, proxy
+host-suffix, githubassets.com, proxy
+host-suffix, githubusercontent.com, proxy
+
+# > Google
+host-suffix, gvt0.com, proxy
+host-suffix, gvt1.com, proxy
+host-suffix, gvt3.com, proxy
+host-keyword, google, proxy
+host-suffix, gmodules.com, proxy
+host-suffix, gmail.com, proxy
+host-suffix, gstatic.com, proxy
+host-suffix, recaptcha.net, proxy
+host-suffix, ampproject.org, proxy
+host-suffix, ggpht.com, proxy
+
+# > Imazing
+host-suffix, imazing.com, proxy
+host-suffix, devmate.com, proxy
+host-suffix, devmate.io, proxy
+
+# > Proton
+host-suffix, pm.me, proxy
+host-suffix, proton.me, proxy
+host-suffix, protonmail.ch, proxy
+host-suffix, protonmail.com, proxy
+host-suffix, protonstatus.com, proxy
+
+# > Tampermonkey
+host-suffix, tampermonkey.net, proxy
+host-suffix, greasyfork.org, proxy
+host-suffix, sleazyfork.org, proxy
+
+# > Telegram
+host-suffix, t.me, proxy
+host-suffix, tdesktop.com, proxy
+host-suffix, telegra.ph, proxy
+host-suffix, telegram.me, proxy
+host-suffix, telegram.org, proxy
+host-suffix, telesco.pe, proxy
+host-suffix, cdn-telegram.org, proxy
+host-suffix, comments.app, proxy
+host-suffix, contest.com, proxy
+host-suffix, fragment.com, proxy
+host-suffix, graph.org, proxy
+host-suffix, quiz.directory, proxy
+host-suffix, telega.one, proxy
+host-suffix, telegram-cdn.org, proxy
+host-suffix, telegram.dog, proxy
+host-suffix, telegram.space, proxy
+host-suffix, tg.dev, proxy
+host-suffix, tx.me, proxy
+host-suffix, usercontent.dev, proxy
+ip-cidr, 91.108.56.0/22, proxy
+ip-cidr, 91.108.4.0/22, proxy
+ip-cidr, 91.108.8.0/22, proxy
+ip-cidr, 91.108.16.0/22, proxy
+ip-cidr, 91.108.12.0/22, proxy
+ip-cidr, 149.154.160.0/20, proxy
+ip-cidr, 91.105.192.0/23, proxy
+ip-cidr, 91.108.20.0/22, proxy
+ip-cidr, 185.76.151.0/24, proxy
+ip-cidr6, 2001:b28:f23d::/48, proxy
+ip-cidr6, 2001:b28:f23f::/48, proxy
+ip-cidr6, 2001:67c:4e8::/48, proxy
+ip-cidr6, 2001:b28:f23c::/48, proxy
+ip-cidr6, 2a0a:f280::/32, proxy
+
+# > Twitter
+host-suffix, cms-twdigitalassets.com, proxy
+host-suffix, periscope.tv, proxy
+host-suffix, pscp.tv, proxy
+host-suffix, t.co, proxy
+host-suffix, tellapart.com, proxy
+host-suffix, tweetdeck.com, proxy
+host-suffix, twimg.com, proxy
+host-suffix, twitpic.com, proxy
+host-suffix, twitter.biz, proxy
+host-suffix, twitter.com, proxy
+host-suffix, twitter.jp, proxy
+host-suffix, twittercommunity.com, proxy
+host-suffix, twitterflightschool.com, proxy
+host-suffix, twitterinc.com, proxy
+host-suffix, twitteroauth.com, proxy
+host-suffix, twitterstat.us, proxy
+host-suffix, twtrdns.net, proxy
+host-suffix, twttr.com, proxy
+host-suffix, twttr.net, proxy
+host-suffix, twvid.com, proxy
+host-suffix, vine.co, proxy
+host-suffix, x.com, proxy
