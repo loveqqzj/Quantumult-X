@@ -1,3 +1,37 @@
+# > Japan
+#### > Amazon
+host-suffix, amazon.co.jp, Japan
+
+#### > Pixiv
+host-suffix, booth.pm, Japan
+host-suffix, fanbox.cc, Japan
+host-suffix, pixiv.net, Japan
+host-suffix, pixiv.org, Japan
+host-suffix, pixiv.co.jp, Japan
+host-suffix, pixiv.me, Japan
+host-suffix, pximg.net, Japan
+
+#### > DMM
+host-suffix, dmm.co.jp, Japan
+host-suffix, dmm.com, Japan
+host-suffix, dmm-extension.com, Japan
+host-suffix, dmmapis.com, Japan
+host, api-p.videomarket.jp, Japan
+host-suffix, dmmrex.com, Japan
+
+# > Speedtest
+host-suffix, cdnst.net, Speedtest
+host-suffix, cellmaps.com, Speedtest
+host-suffix, ekahau.cloud, Speedtest
+host-suffix, ekahau.com, Speedtest
+host-suffix, ookla.com, Speedtest
+host-suffix, ooklaserver.net, Speedtest
+host-suffix, pingtest.net, Speedtest
+host-suffix, speedtest.co, Speedtest
+host-suffix, speedtest.net, Speedtest
+host-suffix, speedtestcustom.com, Speedtest
+host-suffix, webtest.net, Speedtest
+
 # > Microsoft
 host-suffix, windows.com, Microsoft
 host-suffix, windows.net, Microsoft
@@ -50,37 +84,3 @@ host-suffix, msgamestudios.com, Microsoft
 #### > PayPal
 host-suffix, paypal.com, USA
 host-suffix, paypalobjects.com, USA
-
-# > Speedtest
-host-suffix, cdnst.net, Speedtest
-host-suffix, cellmaps.com, Speedtest
-host-suffix, ekahau.cloud, Speedtest
-host-suffix, ekahau.com, Speedtest
-host-suffix, ookla.com, Speedtest
-host-suffix, ooklaserver.net, Speedtest
-host-suffix, pingtest.net, Speedtest
-host-suffix, speedtest.co, Speedtest
-host-suffix, speedtest.net, Speedtest
-host-suffix, speedtestcustom.com, Speedtest
-host-suffix, webtest.net, Speedtest
-
-# > Japan
-#### > Amazon
-host-suffix, amazon.co.jp, Japan
-
-#### > Pixiv
-host-suffix, booth.pm, Japan
-host-suffix, fanbox.cc, Japan
-host-suffix, pixiv.net, Japan
-host-suffix, pixiv.org, Japan
-host-suffix, pixiv.co.jp, Japan
-host-suffix, pixiv.me, Japan
-host-suffix, pximg.net, Japan
-
-#### > DMM
-host-suffix, dmm.co.jp, Japan
-host-suffix, dmm.com, Japan
-host-suffix, dmm-extension.com, Japan
-host-suffix, dmmapis.com, Japan
-host, api-p.videomarket.jp, Japan
-host-suffix, dmmrex.com, Japan
