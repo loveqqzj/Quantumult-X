@@ -1,0 +1,61 @@
+# > other
+host-keyword, fuliba, direct
+host-suffix, mpyit.com, direct
+host-suffix, dama.lu, direct
+host-suffix, 423down.com, direct
+host-suffix, mirror.ghproxy.com, direct
+host-suffix, adrules.top, direct
+host-suffix, plex.tv, direct
+
+# > Apple
+host-suffix, aaplimg.com, direct
+host-suffix, apple.co, direct
+host-suffix, apple.com, direct
+host-suffix, apple.news, direct
+host-suffix, apple-cloudkit.com, direct
+host-suffix, apple-mapkit.com, direct
+host-suffix, appstore.com, direct
+host-suffix, cdn-apple.com, direct
+host-suffix, crashlytics.com, direct
+host-suffix, icloud.com, direct
+host-suffix, icloud-content.com, direct
+host-suffix, me.com, direct
+host-suffix, mzstatic.com, direct
+host-suffix, akadns.net, direct
+host-suffix, weather.com, direct
+host-suffix, apple.com.edgekey.net, direct
+
+# > CDN
+host-suffix, ccgslb.com, direct
+host-suffix, ccgslb.net, direct
+host-suffix, chinanetcenter.com, direct
+host-suffix, meixincdn.com, direct
+host-suffix, ourdvs.com, direct
+host-suffix, staticdn.net, direct
+host-suffix, wangsu.com, direct, direct
+host-suffix, bootstrapcdn.com, direct
+host-suffix, loli.net, direct
+host-suffix, bootcss.com, direct
+
+# > DDNS
+host-suffix, asuscomm.com, direct
+host-suffix, myqnapcloud.com, direct
+
+# > 影视网站
+host-keyword, bdys, direct
+host-keyword, btbtt, direct
+
+# > Forum & Blog
+host-suffix, hostloc.com, direct
+host-suffix, justmysocks.in, direct
+host-suffix, appinn.com, direct
+
+# > IP查询网站
+host-suffix, ipip.net, direct
+host-suffix, ip.la, direct
+host-suffix, ip-cdn.com, direct
+host-suffix, ipv6-test.com, direct
+host-suffix, test-ipv6.com, direct
+host-suffix, whatismyip.com, direct
+host-suffix, ipip.net, direct
+host-suffix, ip.plus, direct
