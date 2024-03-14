@@ -1,24 +1,9 @@
-# > JavLibrary
-###AVMOO
-host-keyword, avmoo, JavLibrary
-host-suffix, tellme.pw, JavLibrary
-host-suffix, dmm.com, JavLibrary
-host-suffix, netcdn.space, JavLibrary
-host-suffix, clcassd.com, JavLibrary
-host-suffix, avsox.asia, JavLibrary
-###Torrent
-host-keyword, btsow, JavLibrary
-host-keyword, btdig, JavLibrary
-host-keyword, torrentkitty, JavLibrary
-host-suffix, sukebei.nyaa.si, JavLibrary
-
-# > Microsoft
+## > Microsoft
 host-suffix, windows.com, Microsoft
 host-suffix, windows.net, Microsoft
 host-suffix, wp.com, Microsoft
 host-suffix, visualstudio.com, Microsoft
 host-suffix, blob.core.windows.net, Microsoft
-host-suffix, bing.com, Microsoft
 host-suffix, sfx.ms, Microsoft
 host-suffix, svc.ms, Microsoft
 host-suffix, onedrive.com, Microsoft
@@ -41,9 +26,6 @@ host-suffix, trafficmanager.net, Microsoft
 host-suffix, mem.gfx.ms, Microsoft
 host-suffix, aspnetcdn.com, Microsoft
 host-suffix, onestore.ms, Microsoft
-host-suffix, microsoft.com, Microsoft
-host-suffix, microsoftonline.com, Microsoft
-host-suffix, s-microsoft.com, Microsoft
 host-suffix, onenote.com, Microsoft
 host-suffix, onenote.net, Microsoft
 host-suffix, sharepoint.com, Microsoft
@@ -54,24 +36,51 @@ host-suffix, s-msedge.net, Microsoft
 host-suffix, azurewebsites.net, Microsoft
 host-suffix, cloudapp.net, Microsoft
 host-suffix, collab.app.mil, Microsoft
-host-suffix, teams.microsoft.us, Microsoft
-host-suffix, playfabapi.com, Microsoft
-host-suffix, msgamestudios.com, Microsoft
 host-suffix, azureedge.net, Microsoft
-host, microsoftmscompoc.tt.omtrdc.net, Microsoft
-host, microsoftwindows.112.2o7.net, Microsoft
 host, skydrive.wns.windows.com, Microsoft
 host, ocsp.msocsp.com, Microsoft
 host, dynmsg.modpim.com, Microsoft
 host, onerm.olsvc.com, Microsoft
 host, in.appcenter.ms, Microsoft
-host, officecdn-microsoft-com.akamaized.net, Microsoft
+host-keyword, microsoft, Microsoft
+host-suffix, playfabapi.com, Microsoft
+host-suffix, msgamestudios.com, Microsoft
 
-# > PayPal
-host-suffix, paypal.com, PayPal
-host-suffix, paypalobjects.com, PayPal
+## > USA
+#### > PayPal
+host-suffix, paypal.com, USA
+host-suffix, paypalobjects.com, USA
 
-# > Speedtest by Ookla
-user-agent, SpeedTest*, Speedtest
-host-keyword, speedtest, Speedtest
+## > Speedtest
+host-suffix, cdnst.net, Speedtest
+host-suffix, cellmaps.com, Speedtest
+host-suffix, ekahau.cloud, Speedtest
+host-suffix, ekahau.com, Speedtest
+host-suffix, ookla.com, Speedtest
 host-suffix, ooklaserver.net, Speedtest
+host-suffix, pingtest.net, Speedtest
+host-suffix, speedtest.co, Speedtest
+host-suffix, speedtest.net, Speedtest
+host-suffix, speedtestcustom.com, Speedtest
+host-suffix, webtest.net, Speedtest
+
+## > Japan
+#### > Amazon
+host-suffix, amazon.co.jp, Japan
+
+#### > Pixiv
+host-suffix, booth.pm, Japan
+host-suffix, fanbox.cc, Japan
+host-suffix, pixiv.net, Japan
+host-suffix, pixiv.org, Japan
+host-suffix, pixiv.co.jp, Japan
+host-suffix, pixiv.me, Japan
+host-suffix, pximg.net, Japan
+
+#### > DMM
+host-suffix, dmm.co.jp, Japan
+host-suffix, dmm.com, Japan
+host-suffix, dmm-extension.com, Japan
+host-suffix, dmmapis.com, Japan
+host, api-p.videomarket.jp, Japan
+host-suffix, dmmrex.com, Japan
