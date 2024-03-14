@@ -1,0 +1,67 @@
+# > AVMOO
+host-keyword, avmoo, proxy
+host-keyword, avsox, proxy
+host-suffix, tellme.pw, proxy
+host-suffix, netcdn.space, proxy
+host-suffix, clcassd.com, proxy
+
+# > iWara.TV
+host-suffix, iwara.tv, proxy
+
+# > Javlibrary
+host-suffix, javlibrary.com, proxy
+
+# > Jav321
+host-suffix, jav321.com, proxy
+
+# > JavDB
+host-suffix, jdbimgs.com, proxy
+host-keyword, javdb, proxy
+host-suffix, jdbstatic.com, proxy
+
+# > Javbus
+host-keyword, javbus, proxy
+host-suffix, javcdn.pw, proxy
+host-suffix, cdnbus.cloud, proxy
+host-suffix, busjav.bid, proxy
+host-suffix, javstore.net, proxy
+host-suffix, javcdn.cc, proxy
+
+# > MissAV
+host-suffix, missav.com, proxy
+host, client-rapi-missav.recombee.com, proxy
+
+# > 萌幻之乡
+host-suffix, hmoeh.com, proxy
+host-suffix, hmoe.link, proxy
+host-suffix, xhacgn.com, proxy
+host-suffix, imgcap.xyz, proxy
+host-suffix, cdn.jsdelivr.net, proxy
+host-suffix, chkaja.com, proxy
+
+# > Pornhub
+host-suffix, phprcdn.com, proxy
+host-suffix, phncdn.com, proxy
+host-suffix, gaytube.com, proxy
+host-suffix, porngub.com, proxy
+host-suffix, pornhub-deutsch.net, proxy
+host-suffix, pornhubapparel.com, proxy
+host-suffix, pornhub.com, proxy
+host-suffix, pornhub.org, proxy
+host-suffix, pornhubpremium.com, proxy
+
+# > SiS001
+host-suffix, sis001.com, proxy
+
+# > Theporndude
+host-suffix, theporndude.com, proxy
+
+# > Torrent
+host-keyword, btsow, proxy
+host-keyword, btdig, proxy
+host-keyword, torrentkitty, proxy
+host-suffix, sukebei.nyaa.si, proxy
+
+# > Xvideos
+host-suffix, xvideos.com, proxy
+host-suffix, xvideos-cdn.com, proxy
