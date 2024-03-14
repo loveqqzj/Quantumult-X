@@ -5,6 +5,10 @@ host-suffix, tellme.pw, proxy
 host-suffix, netcdn.space, proxy
 host-suffix, clcassd.com, proxy
 
+# > BlogJAV
+host-suffix, blogjav.net, proxy
+host-suffix, pixhost.to, proxy
+
 # > iWara.TV
 host-suffix, iwara.tv, proxy
 
@@ -29,6 +33,7 @@ host-suffix, javcdn.cc, proxy
 
 # > MissAV
 host-suffix, missav.com, proxy
+host-suffix, eightcha.com, proxy
 host, client-rapi-missav.recombee.com, proxy
 
 # > 萌幻之乡
