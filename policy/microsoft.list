@@ -45,8 +45,3 @@ host, in.appcenter.ms, Microsoft
 host-keyword, microsoft, Microsoft
 host-suffix, playfabapi.com, Microsoft
 host-suffix, msgamestudios.com, Microsoft
-
-# > USA
-#### > PayPal
-host-suffix, paypal.com, USA
-host-suffix, paypalobjects.com, USA
