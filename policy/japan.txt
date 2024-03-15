@@ -1,0 +1,20 @@
+# > Japan
+#### > Amazon
+host-suffix, amazon.co.jp, Japan
+
+#### > Pixiv
+host-suffix, booth.pm, Japan
+host-suffix, fanbox.cc, Japan
+host-suffix, pixiv.net, Japan
+host-suffix, pixiv.org, Japan
+host-suffix, pixiv.co.jp, Japan
+host-suffix, pixiv.me, Japan
+host-suffix, pximg.net, Japan
+
+#### > DMM
+host-suffix, dmm.co.jp, Japan
+host-suffix, dmm.com, Japan
+host-suffix, dmm-extension.com, Japan
+host-suffix, dmmapis.com, Japan
+host, api-p.videomarket.jp, Japan
+host-suffix, dmmrex.com, Japan
