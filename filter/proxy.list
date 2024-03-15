@@ -5,7 +5,6 @@ host-suffix, qnap.com, proxy
 host-suffix, driverpack.io, proxy
 host-suffix, giveawayoftheday.com, proxy
 host-suffix, duckduckgo.com, proxy
-host-suffix, cloudflare.com, proxy
 host-suffix, twdown.net, proxy
 host-suffix, printfriendly.com, proxy
 
@@ -48,6 +47,10 @@ host-suffix, bnbstatic.com, proxy
 host-suffix, saasexch.com, proxy
 host-suffix, saasexch.io, proxy
 host-suffix, appsflayer.com, proxy
+
+# > Cloudflare
+host-suffix, cloudflare.com, proxy
+host-suffix, cloudflare-dns.com, proxy
 
 # > Daum Potplayer
 host-suffix, daum.net, proxy
