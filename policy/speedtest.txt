@@ -10,3 +10,7 @@ host-suffix, speedtest.co, Speedtest
 host-suffix, speedtest.net, Speedtest
 host-suffix, speedtestcustom.com, Speedtest
 host-suffix, webtest.net, Speedtest
+host, dns.quad9.net, Speedtest
+host, sb.scorecardresearch.com, Speedtest
+host, cdn.cookielaw.org, Speedtest
+host, mobile-data.onetrust.io, Speedtest
