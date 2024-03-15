@@ -33,6 +33,8 @@ host-suffix, javcdn.cc, proxy
 
 # > MissAV
 host-suffix, missav.com, proxy
+host-suffix, nineyu.com, proxy
+host-suffix, surrit.com, proxy
 host-suffix, eightcha.com, proxy
 host, client-rapi-missav.recombee.com, proxy
 
