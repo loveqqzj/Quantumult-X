@@ -8,6 +8,9 @@ host-suffix, duckduckgo.com, proxy
 host-suffix, twdown.net, proxy
 host-suffix, printfriendly.com, proxy
 host-suffix, digicert.com, proxy
+host-keyword, filen, proxy
+host-suffix, archive.org, proxy
+host-suffix, pixeldrain.com, proxy
 
 # > AdGuard
 host-suffix, adguard.app, proxy
@@ -65,6 +68,23 @@ host-suffix, linguee.com, proxy
 host-suffix, draw.io, proxy
 host-suffix, diagrams.net, proxy
 
+# > Dropbox
+host-suffix, db.tt, proxy
+host-suffix, dropbox-dns.com, proxy
+host-suffix, dropbox.com, proxy
+host-suffix, dropbox.tech, proxy
+host-suffix, dropboxapi.com, proxy
+host-suffix, dropboxbusiness.com, proxy
+host-suffix, dropboxcaptcha.com, proxy
+host-suffix, dropboxforum.com, proxy
+host-suffix, dropboxforums.com, proxy
+host-suffix, dropboxinsiders.com, proxy
+host-suffix, dropboxmail.com, proxy
+host-suffix, dropboxpartners.com, proxy
+host-suffix, dropboxstatic.com, proxy
+host-suffix, dropboxusercontent.com, proxy
+host-suffix, getdropbox.com, proxy
+
 # > FastStone
 host-suffix, faststone.org, proxy
 host-suffix, faststonesoft.net, proxy
@@ -97,6 +117,17 @@ host-suffix, ggpht.com, proxy
 host-suffix, imazing.com, proxy
 host-suffix, devmate.com, proxy
 host-suffix, devmate.io, proxy
+
+# > Mega
+host-suffix, mega.co.nz, proxy
+host-suffix, mega.io, proxy
+host-suffix, mega.nz, proxy
+
+# > PikPak
+host-suffix, mypikpak.com, proxy
+host-suffix, mypikpak.net, proxy
+host-suffix, pikpak.me, proxy
+host-suffix, pikpakdrive.com, proxy
 
 # > Proton
 host-suffix, pm.me, proxy
@@ -169,3 +200,21 @@ host-suffix, twttr.net, proxy
 host-suffix, twvid.com, proxy
 host-suffix, vine.co, proxy
 host-suffix, x.com, proxy
+
+# > Youtube
+host-suffix, youtube.com, proxy
+host-suffix, ytimg.com, proxy
+host-suffix, youtu.be, proxy
+host-suffix, yt.be, proxy
+host-suffix, googlevideo.com, proxy
+host-suffix, youtubeeducation.com, proxy
+host-suffix, youtubefanfest.com, proxy
+host-suffix, youtubegaming.com, proxy
+host-suffix, youtubego.co.id, proxy
+host-suffix, youtubego.co.in, proxy
+host-suffix, youtubego.com, proxy
+host-suffix, youtubego.com.br, proxy
+host-suffix, youtubego.id, proxy
+host-suffix, youtubego.in, proxy
+host-suffix, youtubekids.com, proxy
+host-suffix, youtubemobilesupport.com, proxy
