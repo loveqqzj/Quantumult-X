@@ -11,6 +11,7 @@ host-suffix, digicert.com, proxy
 host-keyword, filen, proxy
 host-suffix, archive.org, proxy
 host-suffix, pixeldrain.com, proxy
+host-suffix, plyr.io, proxy
 
 # > AdGuard
 host-suffix, adguard.app, proxy
