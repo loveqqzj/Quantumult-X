@@ -1,4 +1,5 @@
 # > Speedtest
+host-keyword, speedtest, Speedtest
 host-suffix, cdnst.net, Speedtest
 host-suffix, cellmaps.com, Speedtest
 host-suffix, ekahau.cloud, Speedtest
@@ -6,9 +7,6 @@ host-suffix, ekahau.com, Speedtest
 host-suffix, ookla.com, Speedtest
 host-suffix, ooklaserver.net, Speedtest
 host-suffix, pingtest.net, Speedtest
-host-suffix, speedtest.co, Speedtest
-host-suffix, speedtest.net, Speedtest
-host-suffix, speedtestcustom.com, Speedtest
 host-suffix, webtest.net, Speedtest
 host, dns.quad9.net, Speedtest
 host, sb.scorecardresearch.com, Speedtest
