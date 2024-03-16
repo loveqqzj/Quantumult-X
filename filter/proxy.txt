@@ -137,6 +137,16 @@ host-suffix, protonmail.ch, proxy
 host-suffix, protonmail.com, proxy
 host-suffix, protonstatus.com, proxy
 
+# > SMS-Activate
+host, cvobcl-launches.appsflyersdk.com, proxy
+host, cvobcl-skadsdk.appsflyersdk.com, proxy
+host, cvobcl-cdn-settings.appsflyersdk.com, proxy
+host-suffix, ip-api.com, proxy
+host-suffix, pngall.com, proxy
+host, cvobcl-gcdsdk.appsflyersdk.com, proxy
+host, smsactivate.s3.eu-central-1.amazonaws.com, proxy
+host-suffix, sms-activate.org, proxy
+
 # > Tampermonkey
 host-suffix, tampermonkey.net, proxy
 host-suffix, greasyfork.org, proxy
