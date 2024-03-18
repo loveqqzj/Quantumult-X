@@ -60,6 +60,9 @@ host-suffix, whatismyip.com, direct
 host-suffix, ipip.net, direct
 host-suffix, ip.plus, direct
 
+# > Oyunfor
+host-suffix, oyunfor.com, direct
+
 # > 局域网 IP
 ip-cidr, 0.0.0.0/8, direct
 ip-cidr, 10.0.0.0/8, direct
