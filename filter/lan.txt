@@ -1,0 +1,41 @@
+# > 局域网 IP
+ip-cidr, 0.0.0.0/8, direct
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 100.64.0.0/10, direct
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 169.254.0.0/16, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 192.0.0.0/24, direct
+ip-cidr, 192.0.2.0/24, direct
+ip-cidr, 192.168.0.0/16, direct
+ip-cidr, 192.88.99.0/24, direct
+ip-cidr, 198.18.0.0/15, direct
+ip-cidr, 198.51.100.0/24, direct
+ip-cidr, 203.0.113.0/24, direct
+ip-cidr, 224.0.0.0/3, direct
+ip6-cidr, ::/127, direct
+ip6-cidr, fc00::/7, direct
+ip6-cidr, fe80::/10, direct
+ip6-cidr, ff00::/8, direct
+
+# Apple
+host-suffix, captive.apple.com, direct
+
+# ASUS router
+host, asusrouter.com, direct
+host, router.asus.com, direct
+host, www.asusrouter.com, direct
+
+# Clash Meta Rev
+host, yacd.metacubex.one, direct
+host, d.metacubex.one, direct
+
+# Firefox
+host, detectportal.firefox.com, direct
+
+# Plex Media Server
+host-suffix, plex.direct, direct
+
+# QQ SSO for quick login
+host-suffix, localhost.sec.qq.com, direct
+host-suffix, localhost.ptlogin2.qq.com, direct
