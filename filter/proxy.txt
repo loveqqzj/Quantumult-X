@@ -35,11 +35,15 @@ host-suffix, adguard-vpn.online, proxy
 
 # > Bandwagon
 host-suffix, bwh1.net, proxy
+host-suffix, bwh8.net, proxy
+host-suffix, bwh81.net, proxy
 host-suffix, bwh88.net, proxy
+host-suffix, bwh89.net, proxy
 host-suffix, bandwagonhost.com, proxy
 host-suffix, justmysocks.net, proxy
 host-suffix, justmysocks1.net, proxy
 host-suffix, justmysocks2.net, proxy
+host-suffix, justmysocks3.net, proxy
 host-suffix, justmysocks4.net, proxy
 
 # > Binance
