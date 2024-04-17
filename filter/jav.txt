@@ -18,11 +18,6 @@ host-suffix, javlibrary.com, proxy
 # > Jav321
 host-suffix, jav321.com, proxy
 
-# > JavDB
-host-suffix, jdbimgs.com, proxy
-host-keyword, javdb, proxy
-host-suffix, jdbstatic.com, proxy
-
 # > Javbus
 host-keyword, javbus, proxy
 host-suffix, javcdn.pw, proxy
