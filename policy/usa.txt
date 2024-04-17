@@ -2,3 +2,8 @@
 #### > PayPal
 host-suffix, paypal.com, USA
 host-suffix, paypalobjects.com, USA
+
+# > JavDB
+host-suffix, jdbimgs.com, USA
+host-keyword, javdb, USA
+host-suffix, jdbstatic.com, USA
