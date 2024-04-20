@@ -13,5 +13,5 @@ host, sb.scorecardresearch.com, Speedtest
 host, cdn.cookielaw.org, Speedtest
 host, mobile-data.onetrust.io, Speedtest
 host-suffix, fdcservers.net, Speedtest
-host-suffix, ziffststic.com, Speedtest
+host-suffix, ziffstatic.com, Speedtest
 
