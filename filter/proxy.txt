@@ -46,18 +46,6 @@ host-suffix, justmysocks2.net, proxy
 host-suffix, justmysocks3.net, proxy
 host-suffix, justmysocks4.net, proxy
 
-# > Binance
-host-keyword, binance, proxy
-host-suffix, binancecnt.com, proxy
-host-keyword, binancezh, proxy
-# API
-host-suffix, binanceapi.com, proxy
-host-suffix, bnbstatic.com, proxy
-# saas 
-host-suffix, saasexch.com, proxy
-host-suffix, saasexch.io, proxy
-host-suffix, appsflayer.com, proxy
-
 # > Cloudflare
 host-suffix, cloudflare.com, proxy
 host-suffix, cloudflare-dns.com, proxy
