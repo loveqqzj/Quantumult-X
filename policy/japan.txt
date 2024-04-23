@@ -2,6 +2,18 @@
 #### > Amazon
 host-suffix, amazon.co.jp, Japan
 
+# > Binance
+host-keyword, binance, Japan
+host-suffix, binancecnt.com, Japan
+host-keyword, binancezh, Japan
+# API
+host-suffix, binanceapi.com, Japan
+host-suffix, bnbstatic.com, Japan
+# saas 
+host-suffix, saasexch.com, Japan
+host-suffix, saasexch.io, Japan
+host-suffix, appsflayer.com, Japan
+
 #### > Pixiv
 host-suffix, booth.pm, Japan
 host-suffix, fanbox.cc, Japan
