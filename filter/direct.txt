@@ -7,6 +7,13 @@ host-suffix, mirror.ghproxy.com, direct
 host-suffix, adrules.top, direct
 host-suffix, plex.tv, direct
 
+# > 1Password
+host-suffix, 1password.com, direct
+host-suffix, agilebits.com, direct
+host-suffix, 1passwordservices.com, direct
+host-suffix, 1passwordusercontent.com, direct
+host-suffix, pwnedpasswords.com, direct
+
 # > Apple
 host-suffix, aaplimg.com, direct
 host-suffix, apple.co, direct
