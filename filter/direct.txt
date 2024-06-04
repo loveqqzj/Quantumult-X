@@ -6,6 +6,7 @@ host-suffix, 423down.com, direct
 host-suffix, mirror.ghproxy.com, direct
 host-suffix, adrules.top, direct
 host-suffix, plex.tv, direct
+host-suffix, openwrt.ai
 
 # > 1Password
 host-suffix, 1password.com, direct
