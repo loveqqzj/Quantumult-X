@@ -117,6 +117,9 @@ host-suffix, mega.co.nz, proxy
 host-suffix, mega.io, proxy
 host-suffix, mega.nz, proxy
 
+# > Oyunfor
+host-suffix, oyunfor.com, proxy
+
 # > PikPak
 host-suffix, mypikpak.com, proxy
 host-suffix, mypikpak.net, proxy
