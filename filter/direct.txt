@@ -69,6 +69,5 @@ host-suffix, whatismyip.com, direct
 host-suffix, ipip.net, direct
 host-suffix, ip.plus, direct
 
-# > Oyunfor & Turgame
-host-suffix, oyunfor.com, direct
+# > Turgame
 host-suffix, turgame.com, direct
