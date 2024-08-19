@@ -1,8 +1,7 @@
-# > Japan
 #### > Amazon
 host-suffix, amazon.co.jp, JP
 
-# > Binance
+#### > Binance
 host-keyword, binance, JP
 host-suffix, binancecnt.com, JP
 host-keyword, binancezh, JP
