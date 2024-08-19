@@ -1,2 +1,2 @@
 #### > Oyunfor
-host-suffix, oyunfor.com, 欧洲节点
+host-suffix, oyunfor.com, EUR
