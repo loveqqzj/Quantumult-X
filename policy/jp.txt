@@ -1,0 +1,32 @@
+# > Japan
+#### > Amazon
+host-suffix, amazon.co.jp, JP
+
+# > Binance
+host-keyword, binance, JP
+host-suffix, binancecnt.com, JP
+host-keyword, binancezh, JP
+# API
+host-suffix, binanceapi.com, JP
+host-suffix, bnbstatic.com, JP
+# saas 
+host-suffix, saasexch.com, JP
+host-suffix, saasexch.io, JP
+host-suffix, appsflayer.com, JP
+
+#### > Pixiv
+host-suffix, booth.pm, JP
+host-suffix, fanbox.cc, JP
+host-suffix, pixiv.net, JP
+host-suffix, pixiv.org, JP
+host-suffix, pixiv.co.jp, JP
+host-suffix, pixiv.me, JP
+host-suffix, pximg.net, JP
+
+#### > DMM
+host-suffix, dmm.co.jp, JP
+host-suffix, dmm.com, JP
+host-suffix, dmm-extension.com, JP
+host-suffix, dmmapis.com, JP
+host, api-p.videomarket.jp, JP
+host-suffix, dmmrex.com, JP
