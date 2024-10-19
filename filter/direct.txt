@@ -70,7 +70,7 @@ host-suffix, ipip.net, direct
 host-suffix, ip.plus, direct
 
 # > 默沙东
-host-suffix, api.merck.com
+host-suffix, merck.com
 host-suffix, ghh.digital
 host-suffix, msdprivacy.com
 
