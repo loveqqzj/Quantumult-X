@@ -13,6 +13,7 @@ host-suffix, archive.org, proxy
 host-suffix, pixeldrain.com, proxy
 host-suffix, plyr.io, proxy
 host-suffix, polyfill.io, proxy
+host-suffix, linux.do
 host-suffix, sitecorecloud.io
 host-suffix, brightcove.net
 host-suffix, cookielaw.org
@@ -49,6 +50,10 @@ host-suffix, justmysocks1.net, proxy
 host-suffix, justmysocks2.net, proxy
 host-suffix, justmysocks3.net, proxy
 host-suffix, justmysocks4.net, proxy
+
+# > Clash
+host-suffix, clashverge.dev
+host-suffix, metacubex.one
 
 # > Cloudflare
 host-suffix, cloudflare.com, proxy
