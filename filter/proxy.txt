@@ -52,8 +52,8 @@ host-suffix, justmysocks3.net, proxy
 host-suffix, justmysocks4.net, proxy
 
 # > Clash
-host-suffix, clashverge.dev
-host-suffix, metacubex.one
+host-suffix, clashverge.dev, proxy
+host-suffix, metacubex.one, proxy
 
 # > Cloudflare
 host-suffix, cloudflare.com, proxy
