@@ -13,11 +13,11 @@ host-suffix, archive.org, proxy
 host-suffix, pixeldrain.com, proxy
 host-suffix, plyr.io, proxy
 host-suffix, polyfill.io, proxy
-host-suffix, linux.do
-host-suffix, sitecorecloud.io
-host-suffix, brightcove.net
-host-suffix, cookielaw.org
-host-suffix, onetrust.com
+host-suffix, linux.do, proxy
+host-suffix, sitecorecloud.io, proxy
+host-suffix, brightcove.net, proxy
+host-suffix, cookielaw.org, proxy
+host-suffix, onetrust.com, proxy
 
 # > AdGuard
 host-suffix, adguard.app, proxy
