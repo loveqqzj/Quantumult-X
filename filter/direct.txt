@@ -70,9 +70,9 @@ host-suffix, ipip.net, direct
 host-suffix, ip.plus, direct
 
 # > 默沙东
-host-suffix, merck.com
-host-suffix, ghh.digital
-host-suffix, msdprivacy.com
+host-suffix, merck.com, direct
+host-suffix, ghh.digital, direct
+host-suffix, msdprivacy.com, direct
 
 # > Turgame
 host-suffix, turgame.com, direct
