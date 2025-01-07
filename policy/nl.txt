@@ -1,2 +1,2 @@
 #### > Oyunfor
-host-suffix, oyunfor.com, nl
+host-suffix, oyunfor.com, NL
