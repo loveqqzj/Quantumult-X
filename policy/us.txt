@@ -7,3 +7,9 @@ host-suffix, paypalobjects.com, US
 host-suffix, jdbimgs.com, US
 host-keyword, javdb, US
 host-suffix, jdbstatic.com, US
+
+# > Tiktok
+host-suffix, tiktokv.com, US
+host-suffix, tiktokv.us, US
+host-suffix, tiktokcdn-us.com, US
+host-suffix, tiktokcdn-eu.com, US
