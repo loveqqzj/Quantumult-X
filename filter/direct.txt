@@ -74,6 +74,9 @@ host-suffix, merck.com, direct
 host-suffix, ghh.digital, direct
 host-suffix, msdprivacy.com, direct
 
+# > Oyunfor
+host-suffix, oyunfor.com, direct
+
 # > Speedtest
 host-keyword, speedtest, Speedtest
 host-suffix, cdnst.net, Speedtest
