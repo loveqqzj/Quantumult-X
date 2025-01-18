@@ -121,6 +121,10 @@ host-suffix, imazing.com, proxy
 host-suffix, devmate.com, proxy
 host-suffix, devmate.io, proxy
 
+# > iTunes Gift Card
+host-suffix, oyunfor.com, proxy
+host-suffix, turgame.com, proxy
+
 # > Mega
 host-suffix, mega.co.nz, proxy
 host-suffix, mega.io, proxy
