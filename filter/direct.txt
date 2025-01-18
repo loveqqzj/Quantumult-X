@@ -78,21 +78,21 @@ host-suffix, msdprivacy.com, direct
 host-suffix, oyunfor.com, direct
 
 # > Speedtest
-host-keyword, speedtest, Speedtest
-host-suffix, cdnst.net, Speedtest
-host-suffix, cellmaps.com, Speedtest
-host-suffix, ekahau.cloud, Speedtest
-host-suffix, ekahau.com, Speedtest
-host-suffix, ookla.com, Speedtest
-host-suffix, ooklaserver.net, Speedtest
-host-suffix, pingtest.net, Speedtest
-host-suffix, webtest.net, Speedtest
-host, dns.quad9.net, Speedtest
-host, sb.scorecardresearch.com, Speedtest
-host, cdn.cookielaw.org, Speedtest
-host, mobile-data.onetrust.io, Speedtest
-host-suffix, fdcservers.net, Speedtest
-host-suffix, ziffstatic.com, Speedtest
+host-keyword, speedtest, direct
+host-suffix, cdnst.net, direct
+host-suffix, cellmaps.com, direct
+host-suffix, ekahau.cloud, direct
+host-suffix, ekahau.com, direct
+host-suffix, ookla.com, direct
+host-suffix, ooklaserver.net, direct
+host-suffix, pingtest.net, direct
+host-suffix, webtest.net, direct
+host, dns.quad9.net, direct
+host, sb.scorecardresearch.com, direct
+host, cdn.cookielaw.org, direct
+host, mobile-data.onetrust.io, direct
+host-suffix, fdcservers.net, direct
+host-suffix, ziffstatic.com, direct
 
 # > Turgame
 host-suffix, turgame.com, direct
