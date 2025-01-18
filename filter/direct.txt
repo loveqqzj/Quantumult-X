@@ -74,9 +74,6 @@ host-suffix, merck.com, direct
 host-suffix, ghh.digital, direct
 host-suffix, msdprivacy.com, direct
 
-# > Oyunfor
-host-suffix, oyunfor.com, direct
-
 # > Speedtest
 host-keyword, speedtest, direct
 host-suffix, cdnst.net, direct
@@ -93,6 +90,3 @@ host, cdn.cookielaw.org, direct
 host, mobile-data.onetrust.io, direct
 host-suffix, fdcservers.net, direct
 host-suffix, ziffstatic.com, direct
-
-# > Turgame
-host-suffix, turgame.com, direct
