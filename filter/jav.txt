@@ -27,14 +27,15 @@ host-suffix, javstore.net, proxy
 host-suffix, javcdn.cc, proxy
 
 # > MissAV
-host-suffix, missav.com, proxy
+host-suffix, missav123.com, proxy
+host-suffix, missav.ws, proxy
 host-suffix, nineyu.com, proxy
 host-suffix, surrit.com, proxy
 host-suffix, eightcha.com, proxy
 host, client-rapi-missav.recombee.com, proxy
 
 # > 萌幻之乡
-host-suffix, hmoeh.com, proxy
+host-suffix, mhh1.com, proxy
 host-suffix, hmoe.link, proxy
 host-suffix, xhacgn.com, proxy
 host-suffix, imgcap.xyz, proxy
