@@ -39,6 +39,9 @@ host, client-rapi-missav.recombee.com, proxy
 host-suffix, mhh1.com, proxy
 host, 301.x8o.de, proxy
 host, cdn.inn-studio.com, proxy
+host, sdn.geekzu.org, proxy
+host, p0.picjs.xyz, proxy
+host, gw.ipfs-lens.dev, proxy
 host-suffix, hmoe.link, proxy
 host-suffix, xhacgn.com, proxy
 host-suffix, imgcap.xyz, proxy
