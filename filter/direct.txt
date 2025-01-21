@@ -7,6 +7,8 @@ host-suffix, mirror.ghproxy.com, direct
 host-suffix, adrules.top, direct
 host-suffix, plex.tv, direct
 host-suffix, openwrt.ai, direct
+host-suffix, darkreader.app, direct
+
 
 # > 1Password
 host-suffix, 1password.com, direct
