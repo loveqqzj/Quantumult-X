@@ -57,6 +57,7 @@ host-suffix, google-analytics.com, reject
 host-suffix, juicyads.com, reject
 host-suffix, rdrads.com, reject
 host-suffix, exoclick.com, reject
+host, ad.x8o.de, reject
 
 # > Pixiv
 host-suffix, pixiv.org, reject
