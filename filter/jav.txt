@@ -27,22 +27,22 @@ host-suffix, javstore.net, proxy
 host-suffix, javcdn.cc, proxy
 
 # > Jav老司机
-host-suffix, 123av.com
-host-suffix, 18sex.org
-host-suffix, av01.tv
-host-suffix, avjoy.me
-host-suffix, bestjavporn.com
-host-suffix, evojav.pro
-host-suffix, ggjav.com
-host-suffix, hayav.com
-host-suffix, highporn.net
-host-suffix, jav.guru
-host-suffix, javgo.to
-host-suffix, javhhh.com
-host-suffix, javmenu.com
-host-suffix, javmost.cx
-host-suffix, paipancon.com
-host-suffix, supjav.com
+host-suffix, 123av.com, proxy
+host-suffix, 18sex.org, proxy
+host-suffix, av01.tv, proxy
+host-suffix, avjoy.me, proxy
+host-suffix, bestjavporn.com, proxy
+host-suffix, evojav.pro, proxy
+host-suffix, ggjav.com, proxy
+host-suffix, hayav.com, proxy
+host-suffix, highporn.net, proxy
+host-suffix, jav.guru, proxy
+host-suffix, javgo.to, proxy
+host-suffix, javhhh.com, proxy
+host-suffix, javmenu.com, proxy
+host-suffix, javmost.cx, proxy
+host-suffix, paipancon.com, proxy
+host-suffix, supjav.com, proxy
 
 # > MissAV
 host-suffix, missav123.com, proxy
