@@ -51,7 +51,7 @@ host-suffix, bootcss.com, direct
 
 # > DDNS
 host-suffix, asuscomm.com, direct
-host-suffix, myqnapcloud.com, direct
+host-suffix, mycloudnas.com, direct
 
 # > 影视网站
 host-suffix, yjys.me, direct
