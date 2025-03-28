@@ -66,6 +66,7 @@ host-suffix, daumcdn.net, proxy
 # > DDNS
 host-suffix, noip.com, proxy
 host-suffix, cloudfront.net, proxy
+host-suffix, zi-scripts.com, proxy
 
 # > DeepL
 host-suffix, deepl.com, proxy
