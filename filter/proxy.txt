@@ -20,7 +20,7 @@ host-suffix, sitecorecloud.io, proxy
 host-suffix, brightcove.net, proxy
 host-suffix, cookielaw.org, proxy
 host-suffix, onetrust.com, proxy
-host-suffix, bootstrapcdn.com
+host-suffix, bootstrapcdn.com, proxy
 host-suffix, gravatar.com, proxy
 host-suffix, jquery.com, proxy
 host-suffix, cloudfront.net, proxy
