@@ -63,6 +63,10 @@ host-suffix, cloudflare-dns.com, proxy
 host-suffix, daum.net, proxy
 host-suffix, daumcdn.net, proxy
 
+# > DDNS
+host-suffix, noip.com, proxy
+host-suffix, cloudfront.net, proxy
+
 # > DeepL
 host-suffix, deepl.com, proxy
 host-suffix, linguee.com, proxy
