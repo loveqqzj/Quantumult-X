@@ -18,6 +18,7 @@ host-suffix, sitecorecloud.io, proxy
 host-suffix, brightcove.net, proxy
 host-suffix, cookielaw.org, proxy
 host-suffix, onetrust.com, proxy
+host-suffix, gravatar.com, proxy
 
 # > AdGuard
 host-suffix, adguard.app, proxy
