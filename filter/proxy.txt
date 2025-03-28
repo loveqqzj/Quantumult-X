@@ -7,6 +7,8 @@ host-suffix, giveawayoftheday.com, proxy
 host-suffix, duckduckgo.com, proxy
 host-suffix, twdown.net, proxy
 host-suffix, printfriendly.com, proxy
+
+# > Commom
 host-suffix, digicert.com, proxy
 host-keyword, filen, proxy
 host-suffix, archive.org, proxy
@@ -19,6 +21,9 @@ host-suffix, brightcove.net, proxy
 host-suffix, cookielaw.org, proxy
 host-suffix, onetrust.com, proxy
 host-suffix, gravatar.com, proxy
+host-suffix, jquery.com, proxy
+host-suffix, cloudfront.net, proxy
+host-suffix, zi-scripts.com, proxy
 
 # > AdGuard
 host-suffix, adguard.app, proxy
@@ -66,8 +71,7 @@ host-suffix, daumcdn.net, proxy
 
 # > DDNS
 host-suffix, noip.com, proxy
-host-suffix, cloudfront.net, proxy
-host-suffix, zi-scripts.com, proxy
+host-suffix, changeip.com, proxy
 
 # > DeepL
 host-suffix, deepl.com, proxy
