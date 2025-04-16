@@ -6,7 +6,7 @@ host-suffix, cnzz.com, reject
 host-suffix, mob.com, reject
 host-suffix, appsflyer.com, reject
 host-suffix, segment.com, reject
-host-suffix, applovin.com, reject
+host-suffix, applvn.com, reject
 
 # > 12306
 host-suffix, ad.12306.cn, reject
