@@ -7,6 +7,7 @@ host-suffix, giveawayoftheday.com, proxy
 host-suffix, duckduckgo.com, proxy
 host-suffix, twdown.net, proxy
 host-suffix, printfriendly.com, proxy
+host-suffix, xe.com, proxy
 
 # > Commom
 host-suffix, digicert.com, proxy
