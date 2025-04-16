@@ -5,7 +5,7 @@ host-suffix, amazon-adsystem.com, reject
 host-suffix, cnzz.com, reject
 host-suffix, mob.com, reject
 host-suffix, appsflyer.com, reject
-host-suffix, segment.com, reject
+host-suffix, segment.io, reject
 host-suffix, applvn.com, reject
 
 # > 12306
