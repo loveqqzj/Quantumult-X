@@ -9,7 +9,6 @@ host-suffix, plex.tv, direct
 host-suffix, openwrt.ai, direct
 host-suffix, darkreader.app, direct
 
-
 # > 1Password
 host-suffix, 1password.com, direct
 host-suffix, 1password.eu, direct
@@ -94,3 +93,7 @@ host, cdn.cookielaw.org, direct
 host, mobile-data.onetrust.io, direct
 host-suffix, fdcservers.net, direct
 host-suffix, ziffstatic.com, direct
+
+# > iTunes Gift Card
+host-suffix, oyunfor.com, direct
+host-suffix, turgame.com, direct
