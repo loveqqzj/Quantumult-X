@@ -1,5 +1,4 @@
 # > other
-host-keyword, fuliba, direct
 host-suffix, mpyit.com, direct
 host-suffix, dama.lu, direct
 host-suffix, 423down.com, direct
