@@ -24,7 +24,6 @@ host-suffix, captive.apple.com, direct
 # ASUS router
 host, asusrouter.com, direct
 host, router.asus.com, direct
-host, www.asusrouter.com, direct
 
 # Clash Meta Rev
 host, yacd.metacubex.one, direct
